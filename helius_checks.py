@@ -319,8 +319,18 @@ def trace(H, R, creator, early, first_fund, s0, hold_pct):
             except Budget as be: T["partial"] = str(be); busy[f] = None
             except Exception: busy[f] = None
         return busy[f]
+    # Actions-only early stop (HELIUS_EARLY_STOP=1): if the creator or its first funder is already a (non-busy) rug-list
+    # wallet, the rug-funder check (#15) FAILs from gather() data alone, so skip the expensive getTransactionsForAddress
+    # paging of the multi-hop trace and hub outflow scan.
+    if os.environ.get("HELIUS_EARLY_STOP") == "1":
+        RL = load_rug_list(); cf = first_fund.get(creator)
+        for cand in [creator] + ([cf[0]] if cf else []):
+            r = RL.get(cand)
+            if r and not r.get("busy"):
+                T["partial"] = f"early-stop: rug-list wallet {cand[:6]}.. already decides rug-funder FAIL"; T["early_stop"] = True
+                break
     # hop 1: top-ups for every target (first funders already known)
-    for w, srcs in expand(tg, TRACE_TXS).items(): add_edges(w, srcs, "top-up")
+    for w, srcs in (expand(tg, TRACE_TXS) if not T.get("early_stop") else {}).items(): add_edges(w, srcs, "top-up")
     T["expanded"][0] = len(tg)
     tset = set(tg)
     frontier = tg

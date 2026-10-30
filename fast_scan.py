@@ -31,6 +31,10 @@ SKIP = {"So11111111111111111111111111111111111111112", "EPjFWdd5AufqSSqeM2qN1xzy
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs", "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
         "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh", "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"} | __import__("majors").all_mints()
 SCORES = os.path.join(HERE, ".cache", "scores")
+REUSE_LIQ_MOVE = float(os.environ.get("FS_REUSE_LIQ_MOVE", "0.15"))     # Actions: 0.30
+SCORED_JSON = os.environ.get("FS_SCORED_JSON")                           # Actions: scored.json (mint -> last score ts, liq, holders)
+FREE_ONLY = os.environ.get("FS_FREE_ONLY") == "1"                        # Actions free-only pass: no Helius, nothing scored
+GT_DOWN = {"v": False}
 _log_lock = threading.Lock()
 T0 = time.time()
 TIMING = {}
@@ -287,7 +291,7 @@ def reusable(m, liq_now, reuse_min):
         if time.time() - os.path.getmtime(p) > reuse_min * 60: return None
         R = json.load(open(p))
         L = (R.get("market") or {}).get("liq_usd") or 0
-        if liq_now and L and abs(L / liq_now - 1) > 0.15: return None
+        if liq_now and L and abs(L / liq_now - 1) > REUSE_LIQ_MOVE: return None
         if (R.get("risk") or {}).get("incomplete"): return None
         R["_reused"] = time.strftime("%H:%M", time.localtime(os.path.getmtime(p)))
         return R
@@ -416,10 +420,27 @@ def main():
         mints = fresh + surv + mv
         print(f"[fast_scan] {len(found)} candidate mints from {len(set(s for v in found.values() for s in v))} source tags; {len(rows)} with pair data; "
               f"{len(ok)} >= ${a.min_liq:,.0f} liq; {len(survivors_c)} pass survivor pre-gates ({time.time()-T0:.0f}s)", file=sys.stderr)
-    t = time.time(); prime_gt(mints); TIMING["gt_prime_s"] = round(time.time() - t, 1)
+    GT_DOWN["v"] = bool(errs) and all(k in errs for k in ("gt_trend_1h", "gt_trend_6h", "gt_new", "gt_pumpswap_vol", "gt_top_tx"))
+    if GT_DOWN["v"]: print("[fast_scan] GeckoTerminal DOWN - degraded mode: DEX Screener fields only, unique-buyer counts unavailable", file=sys.stderr)
+    t = time.time()
+    if not GT_DOWN["v"]: prime_gt(mints)
+    TIMING["gt_prime_s"] = round(time.time() - t, 1)
+    if FREE_ONLY:
+        print(f"[fast_scan] FREE-ONLY pass: {len(mints)} candidate(s) NOT scored (no Helius) - results UNVERIFIED", file=sys.stderr)
+        mints = []
     liq_now = {r["mint"]: r["liq"] for r in rows}
     res, dt, learned = score_many(mints, a.workers, a.out, not a.no_log, a.learn, liq_now, a.reuse_min)
     TIMING["scoring_s"] = round(dt, 1)
+    if SCORED_JSON:
+        try: SJ = json.load(open(SCORED_JSON))
+        except Exception: SJ = {}
+        for m, (R, e, _) in res.items():
+            if not R or R.get("_reused"): continue
+            H_ = R.get("helius") or {}
+            SJ[m] = {"ts": time.time(), "liq": (R.get("market") or {}).get("liq_usd"), "holders": len(H_.get("holders") or []) or None,
+                     "risk": (R.get("risk") or {}).get("score"), "verdict": R.get("verdict")}
+        SJ = {k: v for k, v in SJ.items() if time.time() - v.get("ts", 0) < 2 * 86400}
+        json.dump(SJ, open(SCORED_JSON, "w"), indent=0)
     total = time.time() - T0
     cs = netcache.stats()
     credits = sum(((R or {}).get("helius_credits_est") or 0) for R, _, _ in res.values() if R and not R.get("_reused")) + sm_cr
@@ -466,6 +487,11 @@ def main():
     P += section("Cleanest survivors (3+ days old, >= $100k liquidity, steady volume)", surv,
                  "Must also pass: no rug-funder or same-operator-as-rug link, no coordinated launch, exit test PASS, creator <= 5% (or sold out), no wash FAIL, authorities revoked. "
                  "Coins that failed a gate are still listed with the gate named.", sv_extra)
+    if FREE_ONLY and rows:
+        P += ["## Candidates (UNVERIFIED, not scored)", "", "| Ticker | Mint (full CA) | Liq | Mcap | 1h | 24h | Red flags |", "|---|---|---|---|---|---|---|"]
+        for r in sorted([r for r in rows if r["liq"] >= a.min_liq], key=lambda r: -r["clean_pre"])[:a.top + a.survivors]:
+            P.append(f"| [{r['ticker'] or '?'}]({link(r['mint'])}) | `{r['mint']}` | {usd(r['liq'])} | {usd(r['mcap'])} | {r['h1']:+.0f}% | {r['h24']:+.0f}% | {'; '.join(r['flags']) or 'none flagged (UNVERIFIED)'} |")
+        P.append("")
     P += ["## Biggest movers (mostly traps)", "Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free data); not scored unless --score-movers.", "",
           "| Ticker | Mint (full CA) | Liq | Mcap | 1h | 6h | 24h | Vol/liq | Red flags | Risk |", "|---|---|---|---|---|---|---|---|---|---|"]
     for r in movers:
@@ -479,11 +505,16 @@ def main():
     P += [f"_Timing: total {total:.0f}s (discovery {TIMING.get('discovery_s')}s, screen {TIMING.get('screen_s')}s, GT prime {TIMING.get('gt_prime_s')}s, "
           f"scoring {TIMING.get('scoring_s')}s for {len(mints)} coins, {n_new} newly scored). ~{credits:.0f} Helius credits (smart-money discovery {sm_cr}). "
           f"HTTP cache hits {cs['hit']}/{cs['hit'] + cs['miss']}; Helius 429s {cs.get('h429', 0)}; DEX Screener {'DEGRADED - GeckoTerminal fallback used' if ds.degraded() else 'ok'}._"]
+    if FREE_ONLY: P.insert(2, "**UNVERIFIED: free-API-only pass (no Helius scoring this run). Rows below are pre-rank red flags from DEX Screener/GeckoTerminal/pump.fun only.**\n")
+    if GT_DOWN["v"]: P.append("_DEGRADED: GeckoTerminal down - DEX Screener fields used; unique-buyer/holder-growth data unavailable._")
     if errs: P.append("_Source gaps: " + "; ".join(f"{k}: {v}" for k, v in errs.items()) + "_")
     if a.out: P.append(f"\n_Full reports: {a.out}/<mint>.md (+ .json)_")
     print("\n".join(P))
     if a.out:
-        os.makedirs(a.out, exist_ok=True); open(os.path.join(a.out, "SUMMARY.md"), "w").write("\n".join(P) + "\n")
+        os.makedirs(a.out, exist_ok=True)
+        json.dump({"credits_est": round(credits), "free_only": FREE_ONLY, "gt_down": GT_DOWN["v"], "scored": n_new, "reused": len(res) - n_new},
+                  open(os.path.join(a.out, "run_stats.json"), "w"))
+        open(os.path.join(a.out, "SUMMARY.md"), "w").write("\n".join(P) + "\n")
 
 
 if __name__ == "__main__":

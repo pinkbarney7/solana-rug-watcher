@@ -13,7 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
-      HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
+      ACTIONS_DAILY_CAP: "3000"
+      BOX_FRESH_MIN: "20"
+      HELIUS_EARLY_STOP: "1"
+      FS_REUSE_LIQ_MOVE: "0.30"
+      FS_SCORED_JSON: scored.json
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,18 +25,39 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Check secret
+      - name: Restore HTTP/score cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: scan-cache-${{ github.run_id }}
+          restore-keys: |
+            scan-cache-
+      - name: Decide mode (box heartbeat + daily Actions Helius budget)
+        id: mode
+        run: python3 actions_mode.py decide | tee -a "$GITHUB_OUTPUT"
+      - name: Check secret (Helius path only)
+        if: steps.mode.outputs.mode == 'helius'
+        env:
+          HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
         run: |
-          if [ -z "$HELIUS_API_KEY" ]; then echo "::error::HELIUS_API_KEY secret is missing"; exit 1; fi
+          if [ -z "$HELIUS_API_KEY" ]; then echo "::error::HELIUS_API_KEY secret is missing but this run needs Helius (box heartbeat stale)"; exit 1; fi
       - name: Run scan
+        env:
+          HELIUS_API_KEY: ${{ steps.mode.outputs.mode == 'helius' && secrets.HELIUS_API_KEY || '' }}
+          FS_FREE_ONLY: ${{ steps.mode.outputs.mode == 'free' && '1' || '0' }}
         run: |
           mkdir -p alerts out
           set -o pipefail
-          python3 fast_scan.py --top 6 --survivors 3 --movers 6 --out out 2>&1 | tee out/scan.txt
+          EXTRA=""; [ "$FS_FREE_ONLY" = "1" ] && EXTRA="--no-smart"
+          python3 fast_scan.py --top 6 --survivors 3 --movers 6 --reuse-min 60 $EXTRA --out out 2>&1 \
+            | { if [ -n "$HELIUS_API_KEY" ]; then sed "s/$HELIUS_API_KEY/***/g"; else cat; fi; } | tee out/scan.txt
+      - name: Record budget + Actions heartbeat
+        if: always()
+        run: python3 actions_mode.py record out/run_stats.json "${{ steps.mode.outputs.mode || 'free' }}"
       - name: Write latest.md
         if: always()
         run: |
-          { echo "# Last scan $(date -u +%Y-%m-%dT%H:%M:%SZ)"; echo; echo '```'; tail -n 200 out/scan.txt 2>/dev/null; echo '```'; } > alerts/latest.md
+          { echo "# Last scan $(date -u +%Y-%m-%dT%H:%M:%SZ) - mode: ${{ steps.mode.outputs.mode }} (${{ steps.mode.outputs.reason }})"; echo; echo '```'; tail -n 200 out/scan.txt 2>/dev/null | sed -E 's/api-key=[A-Za-z0-9-]+/api-key=***/g'; echo '```'; } > alerts/latest.md
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -42,7 +67,10 @@ jobs:
       - name: Commit results
         if: always()
         run: |
+          if grep -rqE 'api-key=[A-Za-z0-9]{8,}' alerts/ scored.json actions_budget.json 2>/dev/null; then echo "::error::API key pattern found in outputs - not committing"; exit 1; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add alerts/latest.md survivors.json || true
-          git diff --cached --quiet || (git commit -m "scan results [skip ci]" && git push)
+          git add alerts/ survivors.json actions_budget.json scored.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "scan results [skip ci]"
+          for i in 1 2 3; do git pull --rebase -X theirs -q && git push && exit 0; sleep 5; done; exit 1
