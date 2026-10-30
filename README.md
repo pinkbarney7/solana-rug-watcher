@@ -26,3 +26,12 @@ Runs every ~10 minutes (GitHub cron may be delayed) and on manual dispatch.
 - Exit liquidity uses Jupiter lite-api quotes only (no Helius).
 - `telegram_alert.py`: backup alerts only when Actions is in helius mode or box heartbeat >20 min stale; standing bar; 24h dedup in `sent_alerts.json`; no-op if `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` secrets unset. Liquidity pulls are never sent from Actions (single source).
 - `status.md`: heartbeat ages + today's Actions Helius spend.
+
+## Profit gates (added 2026-10-30, info/risk only)
+- Copycat ticker family mute: 24 h after a confirmed pull/rug (`family_mute.json`, synced from the box).
+- Jupiter sellability hard gate: non-SKIP coins that fail a $25 buy+sell quote are downgraded to SKIP.
+- Smart pile-ins (box daemon): 2+ *proven* smart wallets on the same mint within 6 h, with sellability noted.
+- Cheap filter + hourly Helius pacing (box daemon): plain launches with liq < $20k, liq/mcap < 1%, a muted ticker, or over the paced hourly allowance (15% of the day reserved for 00-08 ET) are not scored.
+- PumpPortal free launch feed alongside the pump.fun API; Helius create-log stays the fallback.
+- RugCheck as a second liquidity source when GeckoTerminal is down.
+- `alerts/outcome_digest.md`: hit rates by verdict; suggested bar changes go to `bar_changes.jsonl` and are never auto-applied.
