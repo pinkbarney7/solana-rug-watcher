@@ -21953,12 +21953,13 @@
   {
    "address": "AxiomRXZAq1Jgjj9pHmNqVP7Lhu67wLXZJZbaK87TTSk",
    "label": "creator funder",
-   "evidence": "First SOL funder of the McRib creator (0.036 SOL); McRib SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | First SOL funder of the UNICORN creator (0.528 SOL); down 97.7% from 30d daily high, liquidity $7,791",
+   "evidence": "First SOL funder of the McRib creator (0.036 SOL); McRib SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | First SOL funder of the UNICORN creator (0.528 SOL); down 97.7% from 30d daily high, liquidity $7,791 | First SOL funder of the TYGR creator (0.361 SOL); TYGR SKIP (#15 rug-list link; outcome alive)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-23",
    "linked_mints": [
     "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump",
-    "4dLxcTxJQnkMmCKkkVoLcKgsRjj7CpGJYuwVU1repump"
+    "4dLxcTxJQnkMmCKkkVoLcKgsRjj7CpGJYuwVU1repump",
+    "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump"
    ],
    "confidence": "high",
    "roles": [
@@ -22866,13 +22867,14 @@
   {
    "address": "AMkUTwhEyWKK8znmH8q6c25qKZgX7zokdpgmPr1x37zn",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 20.3% of XTO in launch slot +0 and now holds 0.6%; XTO SKIP (#15 rug-list link; outcome alive)",
+   "evidence": "Took 20.3% of XTO in launch slot +0 and now holds 0.6%; XTO SKIP (#15 rug-list link; outcome alive) | Took 20.5% of NODF in launch slot +0 and now holds 0.2%; NODF SKIP (#15 rug-list link; outcome alive)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-23",
    "linked_mints": [
-    "ENxyhuUVEJZZB4ttstSkLq6mpfnMKW976PLiFPNpump"
+    "ENxyhuUVEJZZB4ttstSkLq6mpfnMKW976PLiFPNpump",
+    "QgKzyhRDqf4D8xLF6jiQygZ8n8rRp6RwaYUb1Zmpump"
    ],
-   "confidence": "low",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -26700,12 +26702,13 @@
   {
    "address": "6SUZCqkSU1T4JK3MYQ7jRFwuk7PgyVmzDHv1QEGtLCo4",
    "label": "creator",
-   "evidence": "Deployer of XTO (biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump); XTO SKIP (#7 insider FAIL; outcome alive) | Deployer of XTO (biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump); XTO SKIP (#7 insider FAIL; outcome rugged)",
+   "evidence": "Deployer of XTO (biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump); XTO SKIP (#7 insider FAIL; outcome alive) | Deployer of XTO (biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump); XTO SKIP (#7 insider FAIL; outcome rugged) | Deployer of NODF (QgKzyhRDqf4D8xLF6jiQygZ8n8rRp6RwaYUb1Zmpump); NODF SKIP (#15 rug-list link; outcome alive)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-26",
    "linked_mints": [
     "biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump",
-    "PyJ4D95ZX85pJQQZZxQyTMzcfUUfrq5WuSnqP3hpump"
+    "PyJ4D95ZX85pJQQZZxQyTMzcfUUfrq5WuSnqP3hpump",
+    "QgKzyhRDqf4D8xLF6jiQygZ8n8rRp6RwaYUb1Zmpump"
    ],
    "confidence": "high",
    "roles": [
@@ -26715,12 +26718,13 @@
   {
    "address": "4dDbo8NTKdbChEd73nKAa1HfyBpi18DuBsYsB7eEktiL",
    "label": "creator funder",
-   "evidence": "First SOL funder of the XTO creator (0.100 SOL); XTO SKIP (#7 insider FAIL; outcome alive) | First SOL funder of the XTO creator (0.100 SOL); XTO SKIP (#7 insider FAIL; outcome rugged)",
+   "evidence": "First SOL funder of the XTO creator (0.100 SOL); XTO SKIP (#7 insider FAIL; outcome alive) | First SOL funder of the XTO creator (0.100 SOL); XTO SKIP (#7 insider FAIL; outcome rugged) | First SOL funder of the NODF creator (0.100 SOL); NODF SKIP (#15 rug-list link; outcome alive)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-26",
    "linked_mints": [
     "biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump",
-    "PyJ4D95ZX85pJQQZZxQyTMzcfUUfrq5WuSnqP3hpump"
+    "PyJ4D95ZX85pJQQZZxQyTMzcfUUfrq5WuSnqP3hpump",
+    "QgKzyhRDqf4D8xLF6jiQygZ8n8rRp6RwaYUb1Zmpump"
    ],
    "confidence": "high",
    "roles": [
@@ -31945,6 +31949,48 @@
    "first_seen": "2026-10-30",
    "linked_mints": [
     "9qHvnz5oHK1V26ApvE6FU7A9wneYS9aUCAG7hK1pump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "2Bonf26MDnpJPwJkocnQLfHWjdeStLD5iCtV3yC7Q6z4",
+   "label": "creator",
+   "evidence": "Deployer of TYGR (5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump); TYGR SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-30",
+   "linked_mints": [
+    "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "8NaAuaoW4dpypixJm5KRJ6wrzMv8J3Hyo6Hi3siATQjP",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.3% of TYGR in launch slot +0 and now holds 0.0%; TYGR SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-30",
+   "linked_mints": [
+    "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "CHJd1rJGvv19WQts1c4tyK3xHs4e28NfNzFw3ZEj5f3W",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.2% of TYGR in launch slot +0 and now holds 0.0%; TYGR SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-30",
+   "linked_mints": [
+    "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump"
    ],
    "confidence": "low",
    "roles": [
