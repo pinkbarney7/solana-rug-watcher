@@ -498,9 +498,15 @@ def main():
                  "Must also pass: no rug-funder or same-operator-as-rug link, no coordinated launch, exit test PASS, creator <= 5% (or sold out), no wash FAIL, authorities revoked. "
                  "Coins that failed a gate are still listed with the gate named.", sv_extra)
     if FREE_ONLY and rows:
-        P += ["## Candidates (UNVERIFIED, not scored)", "", "| Ticker | Mint (full CA) | Liq | Mcap | 1h | 24h | Red flags |", "|---|---|---|---|---|---|---|"]
+        P += ["## Candidates (UNVERIFIED, not scored)", "", "| Ticker | Mint (full CA) | Liq | Mcap | 1h | 24h | Red flags | Free checks (RugCheck + Jupiter, UNVERIFIED) |", "|---|---|---|---|---|---|---|---|"]
+        try: import profit as _pf
+        except Exception: _pf = None
         for r in sorted([r for r in rows if r["liq"] >= a.min_liq], key=lambda r: -r["clean_pre"])[:a.top + a.survivors]:
-            P.append(f"| [{r['ticker'] or '?'}]({link(r['mint'])}) | `{r['mint']}` | {usd(r['liq'])} | {usd(r['mcap'])} | {r['h1']:+.0f}% | {r['h24']:+.0f}% | {'; '.join(r['flags']) or 'none flagged (UNVERIFIED)'} |")
+            fc = "n/a"
+            if _pf:
+                try: fc = _pf.free_notes(r["mint"])[1].split(": ", 1)[1].replace("|", "/")
+                except Exception as e: fc = f"unavailable ({type(e).__name__})"
+            P.append(f"| [{r['ticker'] or '?'}]({link(r['mint'])}) | `{r['mint']}` | {usd(r['liq'])} | {usd(r['mcap'])} | {r['h1']:+.0f}% | {r['h24']:+.0f}% | {'; '.join(r['flags']) or 'none flagged (UNVERIFIED)'} | {fc} |")
         P.append("")
     P += ["## Biggest movers (mostly traps)", "Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free data); not scored unless --score-movers.", "",
           "| Ticker | Mint (full CA) | Liq | Mcap | 1h | 6h | 24h | Vol/liq | Red flags | Risk |", "|---|---|---|---|---|---|---|---|---|---|"]

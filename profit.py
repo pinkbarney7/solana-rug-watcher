@@ -81,6 +81,38 @@ def rugcheck_liq(mint):
     except Exception: return None
 
 
+def rugcheck_summary(mint):
+    """Free RugCheck summary: (danger_risks list, score_norm, lp_locked_pct) or None."""
+    d = _get(f"https://api.rugcheck.xyz/v1/tokens/{mint}/report/summary", timeout=8)
+    if not isinstance(d, dict): return None
+    rs = d.get("risks") or []
+    return {"danger": [x.get("name") for x in rs if str(x.get("level")).lower() == "danger"],
+            "risks": [f"{x.get('name')} ({x.get('level')})" for x in rs][:5],
+            "score_norm": d.get("score_normalised"), "lp_locked_pct": d.get("lpLockedPct")}
+
+
+HARD_DANGER = ("mint authority", "freeze authority", "copycat", "single holder", "top 10 holders", "high ownership")
+
+
+def free_prefilter(mint):
+    """Free-data gate before any Helius scoring. Rejects only on RugCheck 'danger' flags that are hard red flags. (ok, why, rc)"""
+    rc = rugcheck_summary(mint)
+    if rc is None: return True, "RugCheck unavailable - not gated", None
+    hard = [r for r in rc["danger"] if any(h in str(r).lower() for h in HARD_DANGER)]
+    if hard: return False, "RugCheck danger: " + "; ".join(hard[:3]), rc
+    return True, "ok", rc
+
+
+def free_notes(mint, rc=None):
+    """UNVERIFIED free-source notes (RugCheck + Jupiter). No score invented."""
+    rc = rc or rugcheck_summary(mint)
+    ok, sw = sellable(mint)
+    parts = [sw]
+    if rc: parts.append(f"RugCheck {rc.get('score_norm')}, LP locked {rc.get('lp_locked_pct')}%: " + ("; ".join(rc["risks"]) or "no risks listed"))
+    else: parts.append("RugCheck unavailable")
+    return ok, "UNVERIFIED free-mode notes (no Helius score): " + " | ".join(parts)
+
+
 def digest(path=None):
     """Hit-rate by verdict/alert type from outcomes.jsonl (written by outcomes.py). Suggests (logs, never auto-applies) bar changes."""
     cands = [path] if path else [os.path.join(HERE, "alerts", "outcomes.jsonl"), os.path.join(HERE, "outcomes.jsonl")]
