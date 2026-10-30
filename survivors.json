@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:55:45",
+ "updated": "2026-10-30T19:12:30",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -179,14 +179,15 @@
   {
    "mint": "98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g",
    "ticker": "HYPE",
-   "risk": 80,
+   "risk": 87,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-10-30T12:55:33-04:00",
+   "scored_at": "2026-10-30T19:12:08+00:00",
    "path": "survivor"
   },
   {
@@ -240,16 +241,17 @@
   {
    "mint": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
    "ticker": "USDG",
-   "risk": 83,
+   "risk": 88,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link",
     "same operator as a rug",
+    "exit test",
     "top holders concentrated"
    ],
-   "scored_at": "2026-10-30T12:55:41-04:00",
+   "scored_at": "2026-10-30T19:12:23+00:00",
    "path": "survivor"
   },
   {
@@ -270,26 +272,26 @@
   {
    "mint": "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump",
    "ticker": "HYPERCHAN",
-   "risk": 79,
+   "risk": 77,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "coordinated launch/cluster"
    ],
-   "scored_at": "2026-10-30T12:55:34-04:00",
+   "scored_at": "2026-10-30T19:12:30+00:00",
    "path": "young"
   },
   {
    "mint": "3w2TvVmTrtq4kSkoFVrTFQgz6MX7ThzDVrx9r5c3pump",
    "ticker": "HI",
-   "risk": 75,
+   "risk": 70,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "same operator as a rug"
    ],
-   "scored_at": "2026-10-30T12:55:38-04:00",
+   "scored_at": "2026-10-30T19:12:30+00:00",
    "path": "young"
   },
   {
@@ -332,24 +334,40 @@
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
    "ticker": "ZEC",
-   "risk": 73,
+   "risk": 79,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-10-30T12:55:40-04:00",
+   "scored_at": "2026-10-30T19:12:17+00:00",
    "path": "survivor"
   },
   {
    "mint": "9D51oXUyHGrLdabvXiJHRPc5UhW9Py14z3g6TTw7pump",
    "ticker": "UDTF",
-   "risk": 74,
+   "risk": 82,
    "verdict": "SKIP",
    "structural_ok": false,
-   "gates_failed": [],
-   "scored_at": "2026-10-30T12:55:43-04:00",
+   "gates_failed": [
+    "exit test"
+   ],
+   "scored_at": "2026-10-30T19:12:28+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+   "ticker": "GTA6",
+   "risk": 86,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-10-30T19:12:23+00:00",
    "path": "young"
   }
  ]
