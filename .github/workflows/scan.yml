@@ -89,7 +89,7 @@ jobs:
           if grep -rqE 'api-key=[A-Za-z0-9]{8,}|bot[0-9]{6,}:[A-Za-z0-9_-]{20,}' alerts/ scored.json actions_budget.json status.md 2>/dev/null; then echo "::error::API key pattern found in outputs - not committing"; exit 1; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add alerts/ survivors.json actions_budget.json scored.json status.md sent_alerts.json 2>/dev/null || true
+          for f in alerts survivors.json actions_budget.json scored.json status.md sent_alerts.json; do [ -e "$f" ] && git add "$f"; done; true
           git diff --cached --quiet && exit 0
           git commit -m "scan results [skip ci]"
           for i in 1 2 3; do git pull --rebase -X theirs -q && git push && exit 0; sleep 5; done; exit 1
