@@ -19,3 +19,10 @@ Runs every ~10 minutes (GitHub cron may be delayed) and on manual dispatch.
 - Box: `heartbeat.json` `ts_epoch` (only advances while the realtime daemon is healthy). Actions: `alerts/actions_heartbeat.json` `ts_epoch`.
 - Either older than 30 min = that watcher is dark. Box dark + Actions fresh = backup is covering (mode should be `helius` until budget spent). Both dark = alert.
 - Box side: run `/workspace/scorecard/sync_lists.sh` every ~10 min (heartbeat each time; rug lists only when changed, same commit).
+
+## Free hardening (Oct 30)
+- `outcomes.py`: 1h/6h/24h price+liq after first score via DEX Screener (no Helius) -> `alerts/outcomes.md|jsonl`.
+- Public RPC fallback (`helius_checks.py`): `getTokenLargestAccounts`, `getAccountInfo`, `getMultipleAccounts`, `getTokenSupply`, `getBalance` try `solana-rpc.publicnode.com` first (<=4 req/s, 60s cool-off on error), then Helius. History/tx calls (`getTransactionsForAddress`, signatures, parsed txs) stay on Helius. `scorecard.py` getAccountInfo already used publicnode.
+- Exit liquidity uses Jupiter lite-api quotes only (no Helius).
+- `telegram_alert.py`: backup alerts only when Actions is in helius mode or box heartbeat >20 min stale; standing bar; 24h dedup in `sent_alerts.json`; no-op if `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` secrets unset. Liquidity pulls are never sent from Actions (single source).
+- `status.md`: heartbeat ages + today's Actions Helius spend.

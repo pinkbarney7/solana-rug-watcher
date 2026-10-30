@@ -9,6 +9,29 @@ from concurrent.futures import ThreadPoolExecutor
 
 KEY = os.environ.get("HELIUS_API_KEY", "").strip()
 RPC_URL = "https://mainnet.helius-rpc.com/?api-key="
+# Free public RPC for cheap, non-historical state reads. History/tx calls stay on Helius.
+PUBLIC_RPC = os.environ.get("PUBLIC_RPC_URL", "https://solana-rpc.publicnode.com")
+PUBLIC_METHODS = {"getTokenLargestAccounts", "getAccountInfo", "getMultipleAccounts", "getTokenSupply", "getBalance"}
+_pub_state = {"last": 0.0, "fail_until": 0.0}
+_pub_lock = threading.Lock()
+
+def _public_rpc(body):
+    """<=4 req/s, 60s cool-off after any error; returns (result, err)."""
+    import json as _j, urllib.request as _u
+    if os.environ.get("PUBLIC_RPC_OFF") == "1" or time.time() < _pub_state["fail_until"]:
+        return None, "public rpc off/cooling"
+    with _pub_lock:
+        w = _pub_state["last"] + 0.25 - time.time()
+        if w > 0: time.sleep(w)
+        _pub_state["last"] = time.time()
+    try:
+        req = _u.Request(PUBLIC_RPC, data=_j.dumps(body).encode(), headers={"Content-Type": "application/json", "User-Agent": "rug-watcher"})
+        d = _j.load(_u.urlopen(req, timeout=10))
+        if d.get("error"): raise ValueError(str(d["error"].get("code")))
+        return d.get("result"), None
+    except Exception as e:
+        _pub_state["fail_until"] = time.time() + 60
+        return None, f"public rpc {type(e).__name__}"
 MAX_CALLS = int(os.environ.get("HELIUS_MAX_CALLS", "240"))
 SYSTEM_PROGRAM = "11111111111111111111111111111111"
 BURN = {SYSTEM_PROGRAM, "1nc1nerator11111111111111111111111111111111"}
@@ -82,9 +105,14 @@ class Helius:
         self._lock = threading.Lock()
 
     def rpc(self, method, params):
+        body = {"jsonrpc": "2.0", "id": 1, "method": method, "params": params}
+        if method in PUBLIC_METHODS:            # cheap state reads -> free public RPC first (saves Helius credits)
+            r, e = _public_rpc(body)
+            if e is None:
+                self.cached += 1
+                return r, None
         if not KEY:
             return None, "HELIUS_API_KEY not set"
-        body = {"jsonrpc": "2.0", "id": 1, "method": method, "params": params}
         try:
             import netcache
             hit = netcache.get(RPC_URL + KEY, body, netcache.ttl_for(RPC_URL + KEY, body))
