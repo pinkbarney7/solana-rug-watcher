@@ -250,6 +250,10 @@ def screen(found, gtattrs, min_liq, max_mcap):
         x = metrics(ps)
         if not x: continue
         if max_mcap and x["mcap"] > max_mcap: continue
+        try:
+            import profit
+            if profit.family_muted(x.get("ticker")): continue        # copycat of a ticker that rugged < 24 h ago (free filter)
+        except Exception: pass
         rows.append(prerank(m, x, found.get(m, set()), min_liq))
     TIMING["screen_s"] = round(time.time() - t, 1)
     return rows
@@ -314,6 +318,12 @@ def score_many(mints, workers=8, out=None, log=True, learn=False, liq_now=None, 
             os.makedirs(SCORES, exist_ok=True); json.dump(R, open(os.path.join(SCORES, m + ".json"), "w"), default=str)
         except OSError:
             pass
+        try:
+            if R.get("verdict") != "SKIP":
+                import profit
+                ok, why = profit.sellable(m); R["sellable"] = {"ok": ok, "why": why}
+                if not ok: R["verdict"] = "SKIP"; R.setdefault("risk", {}).setdefault("drivers", []).insert(0, "sellability gate: " + why)
+        except Exception: pass
         return m, R, None, time.time() - t
     with ThreadPoolExecutor(max(1, min(workers, len(mints) or 1))) as ex:
         for fu in as_completed([ex.submit(one, m) for m in mints]):

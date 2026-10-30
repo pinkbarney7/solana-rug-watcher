@@ -61,6 +61,10 @@ jobs:
         continue-on-error: true
         timeout-minutes: 3
         run: python3 outcomes.py
+      - name: Outcome digest (hit rates; bar suggestions logged, never auto-applied)
+        if: always()
+        continue-on-error: true
+        run: python3 profit.py digest > /dev/null
       - name: Telegram backup alerts (skips if secrets unset)
         if: always()
         continue-on-error: true
