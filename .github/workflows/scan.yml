@@ -1,0 +1,48 @@
+name: scan
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: scan
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check secret
+        run: |
+          if [ -z "$HELIUS_API_KEY" ]; then echo "::error::HELIUS_API_KEY secret is missing"; exit 1; fi
+      - name: Run scan
+        run: |
+          mkdir -p alerts out
+          set -o pipefail
+          python3 fast_scan.py --top 6 --survivors 3 --movers 6 --out out 2>&1 | tee out/scan.txt
+      - name: Write latest.md
+        if: always()
+        run: |
+          { echo "# Last scan $(date -u +%Y-%m-%dT%H:%M:%SZ)"; echo; echo '```'; tail -n 200 out/scan.txt 2>/dev/null; echo '```'; } > alerts/latest.md
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: scan-output
+          path: out/
+          retention-days: 3
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add alerts/latest.md survivors.json || true
+          git diff --cached --quiet || (git commit -m "scan results [skip ci]" && git push)

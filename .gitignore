@@ -1,0 +1,8 @@
+__pycache__/
+*.lock
+.env*
+scores/
+score_log.jsonl
+check_log.jsonl
+credit_ledger.jsonl
+locks/

@@ -1,0 +1,503 @@
+{
+ "built_at": "2026-10-26T08:19:32-0400",
+ "sol_usd": 101.51,
+ "criteria": ">= 5 closed positions, win rate >= 40%, realized >= +2.0 SOL, profit factor >= 1.5, window >= 3 h, median hold >= 1 min",
+ "coins_used": [
+  {
+   "mint": "CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt",
+   "ticker": "ANTFUN",
+   "liq": 17879036.48
+  },
+  {
+   "mint": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+   "ticker": "arc",
+   "liq": 13336985.51
+  },
+  {
+   "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+   "ticker": "ZEC",
+   "liq": 9945272.290000001
+  },
+  {
+   "mint": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+   "ticker": "MEW",
+   "liq": 9086958.77
+  },
+  {
+   "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "ticker": "Fartcoin ",
+   "liq": 8296057.100000001
+  },
+  {
+   "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+   "ticker": "SPCX",
+   "liq": 4534806.36
+  },
+  {
+   "mint": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+   "ticker": "MPLX",
+   "liq": 3208942.74
+  },
+  {
+   "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+   "ticker": "CATE",
+   "liq": 3152847.68
+  },
+  {
+   "mint": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+   "ticker": "ZEREBRO",
+   "liq": 3002291.73
+  },
+  {
+   "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+   "ticker": "TROLL",
+   "liq": 2770956.39
+  },
+  {
+   "mint": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+   "ticker": "neet",
+   "liq": 2630008.25
+  },
+  {
+   "mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+   "ticker": "ANSEM",
+   "liq": 2219914.09
+  },
+  {
+   "mint": "HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+   "ticker": "ZCAT",
+   "liq": 1913475.3
+  },
+  {
+   "mint": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+   "ticker": "GRIFFAIN",
+   "liq": 1853018.26
+  },
+  {
+   "mint": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
+   "ticker": "BIRB",
+   "liq": 1413360.75
+  },
+  {
+   "mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+   "ticker": "ACT",
+   "liq": 1303852.58
+  },
+  {
+   "mint": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+   "ticker": "CHILLGUY",
+   "liq": 1251257.6400000001
+  },
+  {
+   "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump",
+   "ticker": "Dacity",
+   "liq": 1097674.92
+  },
+  {
+   "mint": "METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd",
+   "ticker": "META",
+   "liq": 1000844.28
+  },
+  {
+   "mint": "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S",
+   "ticker": "TSLA",
+   "liq": 998750.82
+  },
+  {
+   "mint": "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump",
+   "ticker": "baton",
+   "liq": 895893.57
+  },
+  {
+   "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+   "ticker": "TTWO",
+   "liq": 848872.7200000001
+  },
+  {
+   "mint": "SATqS9DYpLQsM2z51P4QCoqJRHa5wboV4qjJerJRUSH",
+   "ticker": "RUSH",
+   "liq": 847790.53
+  },
+  {
+   "mint": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump",
+   "ticker": "OTC",
+   "liq": 744584.42
+  },
+  {
+   "mint": "WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp",
+   "ticker": "XMR",
+   "liq": 703622.93
+  }
+ ],
+ "candidates_checked": 51,
+ "helius_calls": 182,
+ "credits_est": 1361,
+ "wallets": [
+  {
+   "address": "696969Y6orZEjp4gZtwcCZS7TNVuhMVE6G5mFvdJ4mYq",
+   "txs": 200,
+   "swaps": 167,
+   "skipped_multi": 0,
+   "window_h": 130.6,
+   "positions": 84,
+   "closed": 83,
+   "wins": 31,
+   "win_rate": 0.373,
+   "realized_sol": 11.598,
+   "profit_factor": 2.27,
+   "trades_per_day": 36.7,
+   "median_hold_min": 0.2,
+   "best": [
+    {
+     "mint": "9vrLKXVJsWpdEuykBPGvyh5APLuLGCynAnNTm59uvibe",
+     "pnl_sol": 5.531354519000001,
+     "cost_sol": 1.929928379,
+     "hold_s": 39
+    },
+    {
+     "mint": "DEwsT8FPp439fxDmMHZVeyc44c8PzK8btkxGmsw6pump",
+     "pnl_sol": 2.8269817880000003,
+     "cost_sol": 0.970703708,
+     "hold_s": 31
+    },
+    {
+     "mint": "Bju7nRToGYP7BeBsKf9MDBZkhDGJmH3PkuH6KeeSpump",
+     "pnl_sol": 2.366404143,
+     "cost_sol": 1.174922784,
+     "hold_s": 108
+    }
+   ],
+   "seen_in": [
+    "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+    "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+    "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP"
+   ],
+   "roles": {
+    "early": 3,
+    "holder": 0
+   },
+   "realized_usd_est": 1177,
+   "bot_like": true,
+   "tier": "profitable-fast (bot/sniper-like)"
+  },
+  {
+   "address": "J865X6P4QDE7xp5JmkuPhyeRHZqddnVKR9pZiAJtZEAm",
+   "txs": 200,
+   "swaps": 80,
+   "skipped_multi": 18,
+   "window_h": 190.6,
+   "positions": 30,
+   "closed": 18,
+   "wins": 4,
+   "win_rate": 0.222,
+   "realized_sol": 8.471,
+   "profit_factor": 2.01,
+   "trades_per_day": 25.2,
+   "median_hold_min": 64.2,
+   "best": [
+    {
+     "mint": "J73VLpgUiWxooiTwbQyae7h5e29kGrC5RqrbicW2pump",
+     "pnl_sol": 12.211177111000001,
+     "cost_sol": 4.067724374,
+     "hold_s": 139192
+    },
+    {
+     "mint": "1RjmyJbkSeQFd2fmc2LBhnPF45dSGGBzNGo6bw9pump",
+     "pnl_sol": 2.403005836,
+     "cost_sol": 11.414248276,
+     "hold_s": 868
+    },
+    {
+     "mint": "BizeLNXEQjrTjmtQbNA6Qi22h5HKQe9Gjwys3ZkT1Nc9",
+     "pnl_sol": 1.7917850130000001,
+     "cost_sol": 3.05714968,
+     "hold_s": 69505
+    }
+   ],
+   "seen_in": [
+    "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump"
+   ],
+   "roles": {
+    "early": 2,
+    "holder": 0
+   },
+   "realized_usd_est": 860,
+   "bot_like": false,
+   "tier": "profitable (low win rate)"
+  },
+  {
+   "address": "BgW6yFEmvfbY9fyht5VCQ7V8tTupTBQnvHsnv4v8MubD",
+   "txs": 200,
+   "swaps": 25,
+   "skipped_multi": 75,
+   "window_h": 304.9,
+   "positions": 8,
+   "closed": 5,
+   "wins": 5,
+   "win_rate": 1.0,
+   "realized_sol": 598.26,
+   "profit_factor": 99.0,
+   "trades_per_day": 15.7,
+   "median_hold_min": 7.6,
+   "best": [
+    {
+     "mint": "ABNB56TteaTZG1S3DY2W8VMncQmHMvNCGaZgAba49CLP",
+     "pnl_sol": 232.321260703,
+     "cost_sol": 50.102516561,
+     "hold_s": 265
+    },
+    {
+     "mint": "TSM2Hiuf7Z9REcwZFQvsBEekBYCYziWBABfFnj6V6gQ",
+     "pnl_sol": 169.51026050299998,
+     "cost_sol": 300.42647612,
+     "hold_s": 812
+    },
+    {
+     "mint": "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S",
+     "pnl_sol": 147.19777503200004,
+     "cost_sol": 50.102516561,
+     "hold_s": 458
+    }
+   ],
+   "early_survivor_hits": 1,
+   "early_survivor_mints": {
+    "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S": 50.103
+   },
+   "source": "early-survivor",
+   "confidence": "medium"
+  }
+ ],
+ "n_consistent": 0,
+ "near_misses": [
+  {
+   "address": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+   "txs": 200,
+   "swaps": 94,
+   "skipped_multi": 98,
+   "window_h": 0.1,
+   "positions": 12,
+   "closed": 3,
+   "wins": 2,
+   "win_rate": 0.667,
+   "realized_sol": 57.922,
+   "profit_factor": 1243.36,
+   "trades_per_day": 4800.0,
+   "median_hold_min": 1.4,
+   "best": [
+    {
+     "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+     "pnl_sol": 57.946187079000005,
+     "cost_sol": 0.598124207,
+     "hold_s": -54
+    },
+    {
+     "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+     "pnl_sol": 0.022239357000000015,
+     "cost_sol": 0.5812618669999999,
+     "hold_s": 87
+    },
+    {
+     "mint": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+     "pnl_sol": -0.04662227982234057,
+     "cost_sol": 6.7266413798223414,
+     "hold_s": -147
+    }
+   ],
+   "seen_in": [
+    "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo"
+   ],
+   "roles": {
+    "early": 0,
+    "holder": 2
+   },
+   "realized_usd_est": 5880,
+   "bot_like": true
+  },
+  {
+   "address": "HUNeYUGpRGPeW2WJPbKCn5eABrGquJXccDdxWwzMh4Vb",
+   "txs": 200,
+   "swaps": 28,
+   "skipped_multi": 2,
+   "window_h": 12257.6,
+   "positions": 21,
+   "closed": 3,
+   "wins": 3,
+   "win_rate": 1.0,
+   "realized_sol": 16.221,
+   "profit_factor": 99.0,
+   "trades_per_day": 0.4,
+   "median_hold_min": 10.5,
+   "best": [
+    {
+     "mint": "34uboGv7SgJFHeBHJxqPLAjTGiByGjUuvi4Xws3cpump",
+     "pnl_sol": 15.921923031,
+     "cost_sol": 9.601143581,
+     "hold_s": 2467
+    },
+    {
+     "mint": "DVJhJS3y2yfoo3Ek5jptQwPwhCLxjivCGccMycTxpump",
+     "pnl_sol": 0.22645385399999984,
+     "cost_sol": 2.02588858,
+     "hold_s": 632
+    },
+    {
+     "mint": "Bcc6Ym7fXWURK4Ug9af8r1QSGSJ9uZFSdaaTaHXdpump",
+     "pnl_sol": 0.07274911700000009,
+     "cost_sol": 1.01521428,
+     "hold_s": 13
+    }
+   ],
+   "seen_in": [
+    "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP"
+   ],
+   "roles": {
+    "early": 2,
+    "holder": 0
+   },
+   "realized_usd_est": 1647,
+   "bot_like": false
+  },
+  {
+   "address": "CTUvqJ9zT41NU1rKqw5QVHFoBxSAJox31CWCG2W7tynr",
+   "txs": 200,
+   "swaps": 49,
+   "skipped_multi": 4,
+   "window_h": 15154.4,
+   "positions": 23,
+   "closed": 14,
+   "wins": 5,
+   "win_rate": 0.357,
+   "realized_sol": 5.916,
+   "profit_factor": 1.34,
+   "trades_per_day": 0.3,
+   "median_hold_min": 1.5,
+   "best": [
+    {
+     "mint": "EsP4kJfKUDLfX274WoBSiiEy74Sh4tZKUCDjfULHpump",
+     "pnl_sol": 6.415100544999999,
+     "cost_sol": 5.10204428,
+     "hold_s": 145
+    },
+    {
+     "mint": "Cvm5ixwXP9NWxme92CMgGdDNVhsCzzJMv3beigDspump",
+     "pnl_sol": 6.392685070000001,
+     "cost_sol": 2.10204428,
+     "hold_s": 273
+    },
+    {
+     "mint": "FY7EieWUE7ifbQoABC73w6bxjuRtc53PdJAnojQ3pump",
+     "pnl_sol": 5.266218384526567,
+     "cost_sol": 23.113187117473434,
+     "hold_s": 553
+    }
+   ],
+   "seen_in": [
+    "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+    "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP"
+   ],
+   "roles": {
+    "early": 2,
+    "holder": 0
+   },
+   "realized_usd_est": 601,
+   "bot_like": false
+  },
+  {
+   "address": "GhqrMrC4tY8zTDvWHiHG7ag4MWPqQ7qLZmeochY6aosY",
+   "txs": 200,
+   "swaps": 67,
+   "skipped_multi": 15,
+   "window_h": 11111.5,
+   "positions": 32,
+   "closed": 18,
+   "wins": 1,
+   "win_rate": 0.056,
+   "realized_sol": 1.058,
+   "profit_factor": 5.42,
+   "trades_per_day": 0.4,
+   "median_hold_min": 11.2,
+   "best": [
+    {
+     "mint": "B1veiTTrMqVoKehXzPDghh1WcD1qv4U8KMeYfY2Jpump",
+     "pnl_sol": 1.2972943509155048,
+     "cost_sol": 1.9346433330844952,
+     "hold_s": 29090746
+    },
+    {
+     "mint": "7hjVh9v8LeDGgnwYfNFFrdzKyKCQJVDPsAwjdCzdpump",
+     "pnl_sol": -0.0009785590000000004,
+     "cost_sol": 0.012479551,
+     "hold_s": 32416
+    },
+    {
+     "mint": "8bEb9joK8NmGCKukh1GL344Bup1T4zb9wTE5WVirpump",
+     "pnl_sol": -0.001161713,
+     "cost_sol": 0.012562081,
+     "hold_s": 1747
+    }
+   ],
+   "seen_in": [
+    "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump"
+   ],
+   "roles": {
+    "early": 2,
+    "holder": 0
+   },
+   "realized_usd_est": 107,
+   "bot_like": false
+  },
+  {
+   "address": "dc5bDixc5FMfiX1gMbaPxQZY42pTVtcwa9mnXQDxnsp",
+   "txs": 200,
+   "swaps": 24,
+   "skipped_multi": 0,
+   "window_h": 11426.1,
+   "positions": 21,
+   "closed": 4,
+   "wins": 3,
+   "win_rate": 0.75,
+   "realized_sol": 0.486,
+   "profit_factor": 294.19,
+   "trades_per_day": 0.4,
+   "median_hold_min": 1.4,
+   "best": [
+    {
+     "mint": "CvQpanLjgEPsv9NyFvgkbzqpM7XVRA9LK7tW7eKUpump",
+     "pnl_sol": 0.4408244290000001,
+     "cost_sol": 0.400015904,
+     "hold_s": 7
+    },
+    {
+     "mint": "3Sv7iA27rRwqkDbffDQpRATv7UsehHY3nWfbf5ENpump",
+     "pnl_sol": 0.02421258399999998,
+     "cost_sol": 0.399908423,
+     "hold_s": 144
+    },
+    {
+     "mint": "3FcnniRLtrW2kKSBoRBNofUUeM75EtNVMFVr24RDpump",
+     "pnl_sol": 0.02227541700000002,
+     "cost_sol": 0.400022938,
+     "hold_s": 159
+    }
+   ],
+   "seen_in": [
+    "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+    "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+    "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+    "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP"
+   ],
+   "roles": {
+    "early": 4,
+    "holder": 0
+   },
+   "realized_usd_est": 49,
+   "bot_like": false
+  }
+ ],
+ "caveats": "small samples (a few weeks of history at most, 4-20 closed positions per wallet), USDC-quoted and multi-hop swaps\nare skipped, transfers between a trader's own wallets look like buys/sells, fees/tips are inside the SOL deltas, and past\nresults say nothing about the next trade. Copy-trading these wallets is a well-known way to become exit liquidity.",
+ "early_survivor_updated": "2026-10-26T08:22:43-0400"
+}
