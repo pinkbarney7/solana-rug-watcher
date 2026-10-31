@@ -1,5 +1,5 @@
 # Rule stats - outcome learning (info/risk only, not advice)
-Updated 2026-10-31 18:34 EDT. Labeled coins: 1071 (813 dead/pulled, 258 still alive). Base dead rate 75.9%. Forward 24h samples so far: 43.
+Updated 2026-10-31 18:45 EDT. Labeled coins: 1071 (814 dead/pulled, 257 still alive). Base dead rate 76.0%. Forward 24h samples so far: 43.
 
 **Caveats:** history labels are 'dead now vs alive now' plus the liquidity-pull watch, which mostly watched SKIP coins, so precision is biased upward for SKIP-heavy rules. Clean 1h/6h/24h forward samples need ~a week before thresholds should move. Nothing here changes alerting automatically.
 
@@ -12,7 +12,7 @@ Updated 2026-10-31 18:34 EDT. Labeled coins: 1071 (813 dead/pulled, 258 still al
 | 5 | 753 | 81% | 146 (19%) | 47% of 183 | +5% |
 | 6 | 73 | 51% | 36 (49%) | 75% of 808 | -25% |
 | 7 | 395 | 69% | 121 (31%) | 77% of 460 | -7% |
-| 8 | 414 | 66% | 139 (34%) | 75% of 391 | -9% |
+| 8 | 414 | 66% | 139 (34%) | 75% of 391 | -10% |
 | 9 | 707 | 79% | 149 (21%) | 57% of 218 | +3% |
 | 10 | 735 | 83% | 125 (17%) | 37% of 187 | +7% |
 | 11 | 528 | 88% | 63 (12%) | 58% of 430 | +12% |
@@ -31,6 +31,7 @@ Updated 2026-10-31 18:34 EDT. Labeled coins: 1071 (813 dead/pulled, 258 still al
 - check #6: lower weight: flagged coins die no more often than average (precision 51% vs base 76%, n=73)
 - check #7: lower weight: flagged coins die no more often than average (precision 69% vs base 76%, n=395)
 - check #8: lower weight: flagged coins die no more often than average (precision 66% vs base 76%, n=414)
+- check #9: lower weight: flagged coins die no more often than average (precision 79% vs base 76%, n=707)
 - check #12: lower weight: flagged coins die no more often than average (precision 78% vs base 76%, n=872)
 - check #13: lower weight: flagged coins die no more often than average (precision 74% vs base 76%, n=585)
 - check #14: lower weight: flagged coins die no more often than average (precision 78% vs base 76%, n=393)
