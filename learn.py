@@ -170,16 +170,20 @@ def network(st=None):
     cnt = {}
     for c in idx.values():
         for w in {c.get("creator"), c.get("creator_funder"), *(c.get("funders") or []), *(c.get("hubs") or [])} - {None, ""}: cnt[w] = cnt.get(w, 0) + 1
+    try:
+        import helius_checks as _hc; EXW = set(_hc.KNOWN_CEX)
+    except Exception:
+        EXW = set((jload(P("exchange_wallets.json"), {}) or {}).get("wallets", {}))
     w2r = {}
     for m in rugged:
         c = idx.get(m)
         if not c: continue
         for role, ws in (("creator", [c.get("creator")]), ("creator funder", [c.get("creator_funder")]), ("funder", c.get("funders") or []), ("hub", c.get("hubs") or [])):
             for w in ws:
-                if w and cnt.get(w, 0) <= 40: w2r.setdefault(w, {})[m] = (role, c.get("ticker"))
+                if w and w not in EXW and cnt.get(w, 0) <= 40: w2r.setdefault(w, {})[m] = (role, c.get("ticker"))
     for w in (jload(P("rug_funders.json"), {}) or {}).get("wallets", []):
         a = w.get("address") if isinstance(w, dict) else None
-        if a and str(w.get("confidence", w.get("level", ""))).lower() == "high": w2r.setdefault(a, {}).setdefault("_rug_list", ("rug-list (high)", w.get("label")))
+        if a and a not in EXW and str(w.get("confidence", w.get("level", ""))).lower() == "high": w2r.setdefault(a, {}).setdefault("_rug_list", ("rug-list (high)", w.get("label")))
     live = {m for m, c in idx.items() if NOW - (ts(c.get("t")) or 0) < 7 * 86400}
     wl = jload(P("liq_watchlist.json"), {})
     live |= set((wl.get("coins") if isinstance(wl, dict) and isinstance(wl.get("coins"), dict) else wl if isinstance(wl, dict) else {}) or {})

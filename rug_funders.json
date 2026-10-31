@@ -90,24 +90,6 @@
    "confidence": "medium"
   },
   {
-   "address": "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
-   "label": "Gemwatch-flagged funder",
-   "evidence": "Gemwatch: first funder of 19 dev wallets, 12 tokens, 12 rugs (Apr-May 2026). Busy wallet holding ~1,466 SOL; it may be a service/exchange-like wallet, so a link alone is weak evidence. | First SOL funder of the WIFWWW creator (3.162 SOL); down 99.7% from 30d daily high, liquidity $5,141 | First SOL funder of the VEILEXE creator (18.485 SOL); VEILEXE SKIP (#14 FAIL coordinated launch; #12 launch bundle 76%; #15 rug-list link; outcome rugged) | First SOL funder of the KACY creator (4.701 SOL); down 99.7% from 30d daily high, liquidity $5,224 | First SOL funder of the Moustache creator (5.281 SOL); Moustache SKIP (#15 rug-list link; outcome alive) | First SOL funder of the HELLCAT creator (17.439 SOL); down 99.5% from 30d daily high, liquidity $2,896; coordinated-launch FAIL (#14) | First SOL funder of the Moustache creator (5.281 SOL); Moustache SKIP (#15 rug-list link; outcome rugged) | Funded Leverhedge creator + 4 other checked wallet(s); cluster got 28.6% at launch; coordinated-launch FAIL (#14)",
-   "source": "https://gemwatch.app/funder/iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
-   "first_seen": "2026-10-07",
-   "linked_mints": [
-    "HUzsazhQoEBooLPQktSoYTVcKKVSZ9AyhZPs3x93pump",
-    "3qU7PvZhCzvNzLtZSJWSDJeeHMeQAUUtepVRWvp9pump",
-    "3zKe2553BfmRzb89zTzb7qD9Nz7VeyXqGXnTKxBFpump",
-    "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump",
-    "BwfhQdmN6ChQSvMagZTMtL15JCL9skyEpm1ukB57pump",
-    "5JbRYEz844bwnKbGx4dRHhrJ6zjrJ194CKdDXtzwgaXo",
-    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
-   ],
-   "confidence": "high",
-   "busy": true
-  },
-  {
    "address": "AwNKBTFnwueK5DjyACubMW7csSQHrWKeq4577aXATyLE",
    "label": "IRL creator",
    "evidence": "Deployer of IRL (BZ8pkWUs4TjboT2xHRCwg3o6PK8xkvmNewvqMyyfpump); down 98.9% from 30d daily high, liquidity $6,811",
@@ -2430,24 +2412,6 @@
    "confidence": "medium",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the cc creator (0.100 SOL); cc SKIP (#7 insider FAIL; outcome alive) | 2 funding bursts of 5+ fresh wallets seen by the daemon; burst wallets bought/created coins (2 burst(s)) | First SOL funder of the CARV creator (2.117 SOL); CARV SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the CARV creator (2.117 SOL); CARV SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the HI creator (3.000 SOL); HI SKIP (#15 rug-list link; outcome alive)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-08",
-   "linked_mints": [
-    "z2AXUxNXdr32KrQQSAxo3D4asJFQUs1wFQBugJqpump",
-    "DJud2DP3UcaRtriLx8AtAiqXB58VN74VUsw3UjYz8BTC",
-    "dhZtMVJ7tnECD25etX9k9G5wSCB4sUjtH6D2K3FWBTC",
-    "J3voHmZCYgumn7dYN1LXkMxJbXCdzhF9Aky3VbDYpump",
-    "3w2TvVmTrtq4kSkoFVrTFQgz6MX7ThzDVrx9r5c3pump"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
    ]
   },
   {
@@ -5093,30 +5057,6 @@
    ]
   },
   {
-   "address": "5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the DOTF creator (97.000 SOL); DOTF SKIP (#7 insider FAIL; outcome alive) | First SOL funder of the XBC creator (95.000 SOL); XBC SKIP (#15 rug-list link; outcome alive) | First SOL funder of the XBC creator (95.000 SOL); XBC SKIP (#15 rug-list link; outcome alive) | First SOL funder of the SARP creator (100.000 SOL); down 100.0% from 30d daily high, liquidity $3,826 | First SOL funder of the UDR creator (95.000 SOL); down 100.0% from 30d daily high, liquidity $2,069 | First SOL funder of the WOSE creator (97.000 SOL); down 100.0% from 30d daily high, liquidity $2,655 | First SOL funder of the XBC creator (95.000 SOL); XBC SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the XBC creator (95.000 SOL); XBC SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the IOF creator (97.000 SOL); IOF SKIP (#15 rug-list link; outcome alive) | First SOL funder of the XRPN creator (95.000 SOL); down 100.0% from 30d daily high, liquidity $2,169 | First SOL funder of the IOF creator (97.000 SOL); IOF SKIP (#15 rug-list link; outcome rugged)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-09",
-   "linked_mints": [
-    "HJSZRKuv1DrPTtkSR11MCLpEz8eb31niUiLojR5jpump",
-    "GUtyuc7LZQjSbb5xB7dQ7QhdaGhto5SFygKZ2x5fpump",
-    "aQ2y8TWM9eeBWSksobbhQdAWFKiLHjDef2KUUJGpump",
-    "EGxBQN1iPbmfuzc3Ctw24puUma9R4o1SsWFsC3Jzpump",
-    "5YLCp1XSRpGevfKBoSJvs7fSv6fSgbTDe3XB3dLfpump",
-    "Ct7mCHh92UKCUHk67krWDeDTYd7FVP1R3pCyZ7VHpump",
-    "5fePPYbUE2yQHD4AfKetsZzVLuz1Hu8K2mSuCBu5pump",
-    "9Cpp25zEnT5k5DUpML3VFX5ePA1fDinwXU4vpM4opump",
-    "HcVYWnxL1Tzrfq6HBpfBgfyWumw82MermX7DNNwapump",
-    "2muuKm6w9FEcvKm4cw5Ait6dqZiUxv3T6Qomn65Jpump",
-    "3w9tQEQsrLdEVpHZq8rJrnGwagFUmyySwZbKuefWpump"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
-   ]
-  },
-  {
    "address": "DBAaQ14W6BDVpeqFUkubULydujJbs1jb1GTSbZ9xvd5f",
    "label": "bundle buyer (sold into retail)",
    "evidence": "Took 20.0% of DOTF in launch slot +0 and now holds 0.0%; DOTF SKIP (#7 insider FAIL; outcome alive) | Took 20.5% of NODF in launch slot +0 and now holds 0.0%; NODF SKIP (#15 rug-list link; #7 insider FAIL; outcome rugged)",
@@ -5991,26 +5931,6 @@
    "confidence": "high",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the TWEETCRAFT creator (4.885 SOL); TWEETCRAFT SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the ALOIS creator (2.436 SOL); ALOIS SKIP (#12 launch bundle 55%; #15 rug-list link; outcome survived) | First SOL funder of the QW creator (7.766 SOL); down 96.8% from 30d daily high, liquidity $2,241 | First SOL funder of the REX creator (4.885 SOL); down 90.6% from 30d daily high, liquidity $0 | First SOL funder of the VIBE creator (1.987 SOL); VIBE SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the VIBE creator (1.987 SOL); VIBE SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the CADABRA creator (1.998 SOL); down 98.4% from 30d daily high, liquidity $2,349",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-09",
-   "linked_mints": [
-    "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy",
-    "2Dx7XJQp2LGdq14nP98swmtUhfhHz8FVs98bt11Mpump",
-    "7YNfuA7WDZsgsYZubU8aE6zEpW1rgHxvvRVJD1cepump",
-    "ESZfFQV6KBN6s676qMumga55kpcA9MVmnuU1Hqzvpump",
-    "Bds3b62yWDsjTsxMeHL31amXQETKZciF6TbxyWBupump",
-    "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump",
-    "9iw6UXmxBUgMBp8XjSBViVYh2QN6H3XVzPJufgXopump"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
    ]
   },
   {
@@ -7142,20 +7062,6 @@
    "confidence": "medium",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "Biw4eeaiYYYq6xSqEd7GzdwsrrndxA8mqdxfAtG3PTUU",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the BULLEN creator (1.032 SOL); BULLEN SKIP (#15 rug-list link; #7 insider FAIL; outcome survived)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-10",
-   "linked_mints": [
-    "BULLENxRbvuwjo4DLBKBbh23cNQ4ZbpDeQKuoVXL7exN"
-   ],
-   "confidence": "medium",
-   "roles": [
-    "creator funder"
    ]
   },
   {
@@ -10945,23 +10851,6 @@
    ]
   },
   {
-   "address": "43DbAvKxhXh1oSxkJSqGosNw3HpBnmsWiak6tB5wpecN",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the CMG creator (14.994 SOL); CMG SKIP (#15 rug-list link; outcome survived) | First SOL funder of the TSLA creator (0.096 SOL); TSLA SKIP (#15 rug-list link; outcome survived) | First SOL funder of the TSLA creator (0.096 SOL); TSLA SKIP (#15 rug-list link; outcome survived) | First SOL funder of the TSLA creator (0.096 SOL); TSLA SKIP (#15 rug-list link; outcome survived)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-13",
-   "linked_mints": [
-    "CMGi497VQA9RiHVWpQi5B847vN8RLaEwcMhB5kEUhkAQ",
-    "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S",
-    "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
-    "DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
-   ]
-  },
-  {
    "address": "Cmkvv8kkyeMd3F7Wow4nG6phXt8A5zQd2HfwsX4z7ZpQ",
    "label": "creator",
    "evidence": "Deployer of FOMO (KWP5y5TAxAa9DDEwujDfitfhwsAdPWyFVtTaemApump); FOMO SKIP (#15 rug-list link; outcome rugged)",
@@ -13144,21 +13033,6 @@
    ]
   },
   {
-   "address": "5ndLnEYqSFiA5yUFHo6LVZ1eWc6Rhh11K5CfJNkoHEPs",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the SPEED creator (10.396 SOL); SPEED SKIP (#14 FAIL funder cluster; #7 insider FAIL; outcome alive) | First SOL funder of the 100xbroker creator (0.410 SOL); down 93.6% from 30d daily high, liquidity $5,012",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-15",
-   "linked_mints": [
-    "4crYPsDdW4cDLHsa5nNEuNJHrhDZKssuK25nmAZ4uHz3",
-    "Fr28jEWz2msSCKLaHzus2nCKrwqbpTx2EyDYtsVVpump"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
-   ]
-  },
-  {
    "address": "9UZ9Tjac7nrBiSfYYTVqFSUCnhkBWMPDj9X4EWKrHYEV",
    "label": "TON618 creator",
    "evidence": "Deployer of TON618 (CioPfvQWpVF2eTzpBj72x2zPyqgJRgvi36PqdLCCpump); down 98.7% from 30d daily high, liquidity $7,529",
@@ -13199,18 +13073,6 @@
    "first_seen": "2026-10-15",
    "linked_mints": [
     "BJUiNooYiZ4ojatPVeJAUXGEd3dcGzQ1ApWDoVTzpump"
-   ],
-   "confidence": "medium"
-  },
-  {
-   "address": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
-   "label": "FEEBITS creator funder",
-   "evidence": "First SOL funder of the FEEBITS creator (0.518 SOL); down 98.9% from 30d daily high, liquidity $9,385 | First SOL funder of the INVERSE creator (1.058 SOL); INVERSE SKIP (#12 launch bundle 34%; #15 rug-list link; outcome alive)",
-   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
-   "first_seen": "2026-10-15",
-   "linked_mints": [
-    "BJUiNooYiZ4ojatPVeJAUXGEd3dcGzQ1ApWDoVTzpump",
-    "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw"
    ],
    "confidence": "medium"
   },
@@ -17753,20 +17615,6 @@
    ]
   },
   {
-   "address": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the PIERRE creator (2.469 SOL); PIERRE SKIP (#15 rug-list link; outcome alive)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-19",
-   "linked_mints": [
-    "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump"
-   ],
-   "confidence": "medium",
-   "roles": [
-    "creator funder"
-   ]
-  },
-  {
    "address": "DGmspiBs2ePJ7WgN1pyX5RJDpzhyxYrBN1P4bXNC1NR3",
    "label": "bundle buyer (sold into retail)",
    "evidence": "Took 11.0% of PIERRE in launch slot +0 and now holds 0.0%; PIERRE SKIP (#15 rug-list link; outcome alive)",
@@ -18290,17 +18138,6 @@
    "address": "ANppuXB58vHobrRo3A1zohwG4Gx6TcsNfp4JxqkuQ18E",
    "label": "AUTON creator",
    "evidence": "Deployer of AUTON (39ahtL8ynzE4amH26J29C93PA5172V3ft9UuUcqQS8fz); down 99.9% from 30d daily high, liquidity $8,845",
-   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
-   "first_seen": "2026-10-19",
-   "linked_mints": [
-    "39ahtL8ynzE4amH26J29C93PA5172V3ft9UuUcqQS8fz"
-   ],
-   "confidence": "medium"
-  },
-  {
-   "address": "6LY1JzAFVZsP2a2xKrtU6znQMQ5h4i7tocWdgrkZzkzF",
-   "label": "AUTON creator funder",
-   "evidence": "First SOL funder of the AUTON creator (1.300 SOL); down 99.9% from 30d daily high, liquidity $8,845",
    "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
    "first_seen": "2026-10-19",
    "linked_mints": [
@@ -20043,20 +19880,6 @@
    "confidence": "medium",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the COMPUTE creator (2.945 SOL); COMPUTE SKIP (#12 launch bundle 51%; #15 rug-list link; outcome survived)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-20",
-   "linked_mints": [
-    "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump"
-   ],
-   "confidence": "medium",
-   "roles": [
-    "creator funder"
    ]
   },
   {
@@ -21952,23 +21775,6 @@
    "confidence": "medium",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "AxiomRXZAq1Jgjj9pHmNqVP7Lhu67wLXZJZbaK87TTSk",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the McRib creator (0.036 SOL); McRib SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | First SOL funder of the UNICORN creator (0.528 SOL); down 97.7% from 30d daily high, liquidity $7,791 | First SOL funder of the TYGR creator (0.361 SOL); TYGR SKIP (#15 rug-list link; outcome alive) | First SOL funder of the DAVID creator (0.361 SOL); DAVID SKIP (#15 rug-list link; outcome alive)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-23",
-   "linked_mints": [
-    "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump",
-    "4dLxcTxJQnkMmCKkkVoLcKgsRjj7CpGJYuwVU1repump",
-    "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump",
-    "6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
    ]
   },
   {
@@ -26840,17 +26646,6 @@
    "confidence": "medium"
   },
   {
-   "address": "A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR",
-   "label": "\u2588\u2588\u2588WIF operator funder",
-   "evidence": "Funded \u2588\u2588\u2588WIF creator + 5 other checked wallet(s); cluster got 14.0% at launch; coordinated-launch FAIL (#14)",
-   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
-   "first_seen": "2026-10-27",
-   "linked_mints": [
-    "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump"
-   ],
-   "confidence": "medium"
-  },
-  {
    "address": "BBRjNbozskLXSQ5EU7mLY4Swd48hHUFCqc9NDJFwc6z5",
    "label": "creator",
    "evidence": "Deployer of XD (3B7SHozUFoiGnFC7i6WHZ8zNMbDrhtz9WpXqWt51pump); XD SKIP (#15 rug-list link; outcome alive)",
@@ -27255,17 +27050,6 @@
    "roles": [
     "bundle buyer (sold into retail)"
    ]
-  },
-  {
-   "address": "FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q",
-   "label": "phubber creator funder",
-   "evidence": "First SOL funder of the phubber creator (21.452 SOL); down 99.4% from 30d daily high, liquidity $9,733",
-   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
-   "first_seen": "2026-10-27",
-   "linked_mints": [
-    "CBcjQNdtgb4SHwKDqKFxD3yPSk7pEMpKHQiMmZrgpump"
-   ],
-   "confidence": "medium"
   },
   {
    "address": "331nEBz4i3XjyaUHVyHnpw9xBoW7D6P1qMPnUPd76Mth",
@@ -29438,20 +29222,6 @@
    ]
   },
   {
-   "address": "DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the HOUSECOIN creator (0.100 SOL); HOUSECOIN SKIP (#15 rug-list link; outcome alive)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-28",
-   "linked_mints": [
-    "DUKEjskPBoszW4xEowcSWptekuUZpwLFv6nTt5Cmpump"
-   ],
-   "confidence": "medium",
-   "roles": [
-    "creator funder"
-   ]
-  },
-  {
    "address": "39CpPDCDpjNASAkvb8Bpq1Pc7z8CRvZUEUjQbgzxxT3N",
    "label": "bundle buyer (sold into retail)",
    "evidence": "Took 3.2% of HOUSECOIN in launch slot +0 and now holds 0.0%; HOUSECOIN SKIP (#15 rug-list link; outcome alive)",
@@ -29702,20 +29472,6 @@
    "confidence": "medium",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the FLOAT creator (1.730 SOL); FLOAT SKIP (#15 rug-list link; outcome alive)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-29",
-   "linked_mints": [
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr"
-   ],
-   "confidence": "medium",
-   "roles": [
-    "creator funder"
    ]
   },
   {
@@ -32761,21 +32517,6 @@
    "confidence": "medium",
    "roles": [
     "creator"
-   ]
-  },
-  {
-   "address": "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf",
-   "label": "creator funder",
-   "evidence": "First SOL funder of the AAPLx creator (2.000 SOL); AAPLx SKIP (#15 rug-list link; outcome survived) | First SOL funder of the NIO creator (0.626 SOL); NIO SKIP (#15 rug-list link; outcome survived)",
-   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
-   "first_seen": "2026-10-31",
-   "linked_mints": [
-    "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
-    "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump"
-   ],
-   "confidence": "high",
-   "roles": [
-    "creator funder"
    ]
   },
   {

@@ -9,29 +9,6 @@ from concurrent.futures import ThreadPoolExecutor
 
 KEY = os.environ.get("HELIUS_API_KEY", "").strip()
 RPC_URL = "https://mainnet.helius-rpc.com/?api-key="
-# Free public RPC for cheap, non-historical state reads. History/tx calls stay on Helius.
-PUBLIC_RPC = os.environ.get("PUBLIC_RPC_URL", "https://solana-rpc.publicnode.com")
-PUBLIC_METHODS = {"getTokenLargestAccounts", "getAccountInfo", "getMultipleAccounts", "getTokenSupply", "getBalance"}
-_pub_state = {"last": 0.0, "fail_until": 0.0}
-_pub_lock = threading.Lock()
-
-def _public_rpc(body):
-    """<=4 req/s, 60s cool-off after any error; returns (result, err)."""
-    import json as _j, urllib.request as _u
-    if os.environ.get("PUBLIC_RPC_OFF") == "1" or time.time() < _pub_state["fail_until"]:
-        return None, "public rpc off/cooling"
-    with _pub_lock:
-        w = _pub_state["last"] + 0.25 - time.time()
-        if w > 0: time.sleep(w)
-        _pub_state["last"] = time.time()
-    try:
-        req = _u.Request(PUBLIC_RPC, data=_j.dumps(body).encode(), headers={"Content-Type": "application/json", "User-Agent": "rug-watcher"})
-        d = _j.load(_u.urlopen(req, timeout=10))
-        if d.get("error"): raise ValueError(str(d["error"].get("code")))
-        return d.get("result"), None
-    except Exception as e:
-        _pub_state["fail_until"] = time.time() + 60
-        return None, f"public rpc {type(e).__name__}"
 MAX_CALLS = int(os.environ.get("HELIUS_MAX_CALLS", "240"))
 SYSTEM_PROGRAM = "11111111111111111111111111111111"
 BURN = {SYSTEM_PROGRAM, "1nc1nerator11111111111111111111111111111111"}
@@ -56,6 +33,22 @@ KNOWN_CEX = {
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": "MEXC",           # [G], [W]
     "AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS": "Crypto.com",     # [G], analyzer69000.com/investigations/gotm
 }
+# exchange / hub hot wallets maintained in exchange_wallets.json (public labels + audit heuristics) join KNOWN_CEX
+def _load_exchanges():
+    try:
+        import json as _j
+        p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "exchange_wallets.json")
+        return {a: (v.get("label") if isinstance(v, dict) else str(v)) for a, v in _j.load(open(p)).get("wallets", {}).items()}
+    except Exception:
+        return {}
+EXCHANGE_WALLETS = _load_exchanges()
+for _a, _l in EXCHANGE_WALLETS.items(): KNOWN_CEX.setdefault(_a, _l)
+
+
+def is_exchange(a):
+    return a in KNOWN_CEX
+
+
 # Jito tip accounts (a transfer to one of these = the tx was sent as / inside a Jito bundle)
 JITO_TIP = {"96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5", "HFqU5x63VTqvQss8hp11i4wVV8bD44PvwucfZ2bU7gRe",
             "Cw8CFyM9FkoMi7K7Crf6HNQqf4uEMzpKw6QNghXLvLkY", "ADaUMid9yfUytqMBgopwjb2DTLSokTSzL1zt6iGPaS49",
@@ -76,7 +69,7 @@ RUG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "rug_funders
 def load_rug_list():
     try:
         import json as _j
-        return {w["address"]: w for w in _j.load(open(RUG_FILE)).get("wallets", [])}
+        return {w["address"]: w for w in _j.load(open(RUG_FILE)).get("wallets", []) if w.get("address") not in KNOWN_CEX}
     except Exception:
         return {}
 # Privacy pools / mixers: funding from these is never ignored and is flagged.
@@ -105,14 +98,9 @@ class Helius:
         self._lock = threading.Lock()
 
     def rpc(self, method, params):
-        body = {"jsonrpc": "2.0", "id": 1, "method": method, "params": params}
-        if method in PUBLIC_METHODS:            # cheap state reads -> free public RPC first (saves Helius credits)
-            r, e = _public_rpc(body)
-            if e is None:
-                self.cached += 1
-                return r, None
         if not KEY:
             return None, "HELIUS_API_KEY not set"
+        body = {"jsonrpc": "2.0", "id": 1, "method": method, "params": params}
         try:
             import netcache
             hit = netcache.get(RPC_URL + KEY, body, netcache.ttl_for(RPC_URL + KEY, body))
@@ -347,18 +335,8 @@ def trace(H, R, creator, early, first_fund, s0, hold_pct):
             except Budget as be: T["partial"] = str(be); busy[f] = None
             except Exception: busy[f] = None
         return busy[f]
-    # Actions-only early stop (HELIUS_EARLY_STOP=1): if the creator or its first funder is already a (non-busy) rug-list
-    # wallet, the rug-funder check (#15) FAILs from gather() data alone, so skip the expensive getTransactionsForAddress
-    # paging of the multi-hop trace and hub outflow scan.
-    if os.environ.get("HELIUS_EARLY_STOP") == "1":
-        RL = load_rug_list(); cf = first_fund.get(creator)
-        for cand in [creator] + ([cf[0]] if cf else []):
-            r = RL.get(cand)
-            if r and not r.get("busy"):
-                T["partial"] = f"early-stop: rug-list wallet {cand[:6]}.. already decides rug-funder FAIL"; T["early_stop"] = True
-                break
     # hop 1: top-ups for every target (first funders already known)
-    for w, srcs in (expand(tg, TRACE_TXS) if not T.get("early_stop") else {}).items(): add_edges(w, srcs, "top-up")
+    for w, srcs in expand(tg, TRACE_TXS).items(): add_edges(w, srcs, "top-up")
     T["expanded"][0] = len(tg)
     tset = set(tg)
     frontier = tg

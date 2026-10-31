@@ -1,0 +1,107 @@
+{
+ "note": "Exchange / hub hot wallets: skipped by rug list, scorer funder links, network penalty, funding-burst and tracked-wallet logic. Heuristic: >=2000 SOL and >=100 tx/h, or >=20000 SOL and >=40 tx/h, or public CEX label.",
+ "wallets": {
+  "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 216825 SOL, ~786 tx/h (last 1000 sigs over 1.3 h), 685 linked coins; was rug-list 'Gemwatch-flagged funder'",
+   "added": "2026-10-31"
+  },
+  "8JUEoHNMbWM4eegcMvx6ZQJt3V3fbo8JNjpWiCtJgxfF": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 4396 SOL, ~438 tx/h (last 1000 sigs over 2.3 h), 7 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 6850 SOL, ~1041 tx/h (last 1000 sigs over 1.0 h), 13 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w": {
+   "label": "Gate (Solscan: Gate Hot Wallet u6PJ8; MeanDAO docs: Gate.IO Exchange)",
+   "source": "public label",
+   "evidence": "balance 343617 SOL, ~198 tx/h (last 1000 sigs over 5.1 h), 72 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "Biw4eeaiYYYq6xSqEd7GzdwsrrndxA8mqdxfAtG3PTUU": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 81000 SOL, ~1164 tx/h (last 1000 sigs over 0.9 h), 40 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "43DbAvKxhXh1oSxkJSqGosNw3HpBnmsWiak6tB5wpecN": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 59012 SOL, ~44 tx/h (last 1000 sigs over 22.7 h), 7 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "5ndLnEYqSFiA5yUFHo6LVZ1eWc6Rhh11K5CfJNkoHEPs": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 14777 SOL, ~113 tx/h (last 1000 sigs over 8.8 h), 19 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 90905 SOL, ~250 tx/h (last 1000 sigs over 4.0 h), 46 linked coins; was rug-list 'FEEBITS creator funder'",
+   "added": "2026-10-31"
+  },
+  "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm": {
+   "label": "Coinbase (public label lists: Coinbase hot wallet 2)",
+   "source": "public label",
+   "evidence": "balance 60537 SOL, ~250 tx/h (last 1000 sigs over 4.0 h), 29 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "6LY1JzAFVZsP2a2xKrtU6znQMQ5h4i7tocWdgrkZzkzF": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 85217 SOL, ~1104 tx/h (last 1000 sigs over 0.9 h), 52 linked coins; was rug-list 'AUTON creator funder'",
+   "added": "2026-10-31"
+  },
+  "4NyK1AdJBNbgaJ9EsKz3J4rfeHsuYdjkTPg3JaNdLeFw": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 30771 SOL, ~254 tx/h (last 1000 sigs over 3.9 h), 11 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "AxiomRXZAq1Jgjj9pHmNqVP7Lhu67wLXZJZbaK87TTSk": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 5240 SOL, ~2214 tx/h (last 1000 sigs over 0.5 h), 23 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR": {
+   "label": "Bitget (public label lists: Bitget hot wallet)",
+   "source": "public label",
+   "evidence": "balance 102647 SOL, ~178 tx/h (last 1000 sigs over 5.6 h), 49 linked coins; was rug-list '\u2588\u2588\u2588WIF operator funder'",
+   "added": "2026-10-31"
+  },
+  "FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 4604 SOL, ~339 tx/h (last 1000 sigs over 2.9 h), 19 linked coins; was rug-list 'phubber creator funder'",
+   "added": "2026-10-31"
+  },
+  "DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 4502 SOL, ~230 tx/h (last 1000 sigs over 4.3 h), 22 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 4834 SOL, ~259 tx/h (last 1000 sigs over 3.9 h), 10 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  },
+  "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf": {
+   "label": "exchange/hub (heuristic)",
+   "source": "heuristic",
+   "evidence": "balance 84965 SOL, ~258 tx/h (last 1000 sigs over 3.9 h), 9 linked coins; was rug-list 'creator funder'",
+   "added": "2026-10-31"
+  }
+ }
+}
