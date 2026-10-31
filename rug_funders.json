@@ -92,7 +92,7 @@
   {
    "address": "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
    "label": "Gemwatch-flagged funder",
-   "evidence": "Gemwatch: first funder of 19 dev wallets, 12 tokens, 12 rugs (Apr-May 2026). Busy wallet holding ~1,466 SOL; it may be a service/exchange-like wallet, so a link alone is weak evidence. | First SOL funder of the WIFWWW creator (3.162 SOL); down 99.7% from 30d daily high, liquidity $5,141 | First SOL funder of the VEILEXE creator (18.485 SOL); VEILEXE SKIP (#14 FAIL coordinated launch; #12 launch bundle 76%; #15 rug-list link; outcome rugged) | First SOL funder of the KACY creator (4.701 SOL); down 99.7% from 30d daily high, liquidity $5,224 | First SOL funder of the Moustache creator (5.281 SOL); Moustache SKIP (#15 rug-list link; outcome alive) | First SOL funder of the HELLCAT creator (17.439 SOL); down 99.5% from 30d daily high, liquidity $2,896; coordinated-launch FAIL (#14) | First SOL funder of the Moustache creator (5.281 SOL); Moustache SKIP (#15 rug-list link; outcome rugged)",
+   "evidence": "Gemwatch: first funder of 19 dev wallets, 12 tokens, 12 rugs (Apr-May 2026). Busy wallet holding ~1,466 SOL; it may be a service/exchange-like wallet, so a link alone is weak evidence. | First SOL funder of the WIFWWW creator (3.162 SOL); down 99.7% from 30d daily high, liquidity $5,141 | First SOL funder of the VEILEXE creator (18.485 SOL); VEILEXE SKIP (#14 FAIL coordinated launch; #12 launch bundle 76%; #15 rug-list link; outcome rugged) | First SOL funder of the KACY creator (4.701 SOL); down 99.7% from 30d daily high, liquidity $5,224 | First SOL funder of the Moustache creator (5.281 SOL); Moustache SKIP (#15 rug-list link; outcome alive) | First SOL funder of the HELLCAT creator (17.439 SOL); down 99.5% from 30d daily high, liquidity $2,896; coordinated-launch FAIL (#14) | First SOL funder of the Moustache creator (5.281 SOL); Moustache SKIP (#15 rug-list link; outcome rugged) | Funded Leverhedge creator + 4 other checked wallet(s); cluster got 28.6% at launch; coordinated-launch FAIL (#14)",
    "source": "https://gemwatch.app/funder/iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
    "first_seen": "2026-10-07",
    "linked_mints": [
@@ -101,7 +101,8 @@
     "3zKe2553BfmRzb89zTzb7qD9Nz7VeyXqGXnTKxBFpump",
     "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump",
     "BwfhQdmN6ChQSvMagZTMtL15JCL9skyEpm1ukB57pump",
-    "5JbRYEz844bwnKbGx4dRHhrJ6zjrJ194CKdDXtzwgaXo"
+    "5JbRYEz844bwnKbGx4dRHhrJ6zjrJ194CKdDXtzwgaXo",
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
    ],
    "confidence": "high",
    "busy": true
@@ -8011,7 +8012,7 @@
   {
    "address": "29yFzeBZgxf5zqrAkKXwgZtQehRf4pL8WbV2nRJikbw8",
    "label": "creator",
-   "evidence": "Deployer of Jarvis (9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT); Jarvis SKIP (#15 rug-list link; #7 insider FAIL; outcome survived) | Deployer of Jarvis (9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT); Jarvis SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | Deployer of Jarvis (9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT); Jarvis SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | Deployer of CAESAR (8cp1WhUDxTbfX8nDe1kAB1ogPUyQvUSKgzFz365LbQyZ); down 98.8% from 30d daily high, liquidity $7,935 | Deployer of KEKIUS (FpSbQUGKxUzA6HTiTryQjgbBDdzvi5qrrHmMFRuY3VVJ); KEKIUS SKIP (#15 rug-list link; outcome rugged)",
+   "evidence": "Deployer of Jarvis (9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT); Jarvis SKIP (#15 rug-list link; #7 insider FAIL; outcome survived) | Deployer of Jarvis (9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT); Jarvis SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | Deployer of Jarvis (9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT); Jarvis SKIP (#15 rug-list link; #7 insider FAIL; outcome alive) | Deployer of CAESAR (8cp1WhUDxTbfX8nDe1kAB1ogPUyQvUSKgzFz365LbQyZ); down 98.8% from 30d daily high, liquidity $7,935 | Deployer of KEKIUS (FpSbQUGKxUzA6HTiTryQjgbBDdzvi5qrrHmMFRuY3VVJ); KEKIUS SKIP (#15 rug-list link; outcome rugged) | Deployer of iCoin (HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump); iCoin SKIP (#15 rug-list link; outcome alive)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-11",
    "linked_mints": [
@@ -8019,7 +8020,8 @@
     "Esom3rK4XtootdknuQKgB1Tepgmqc6MJGVZc7zS1pump",
     "H5TAu1F5brKhXcCFShHFokLF1hkJGm6NSBuXjF7Dpump",
     "8cp1WhUDxTbfX8nDe1kAB1ogPUyQvUSKgzFz365LbQyZ",
-    "FpSbQUGKxUzA6HTiTryQjgbBDdzvi5qrrHmMFRuY3VVJ"
+    "FpSbQUGKxUzA6HTiTryQjgbBDdzvi5qrrHmMFRuY3VVJ",
+    "HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump"
    ],
    "confidence": "high",
    "roles": [
@@ -11685,11 +11687,12 @@
   {
    "address": "6vew14xU6M2rrXZRHr9kYbwwMa1rsN1D92aeysR7hzyy",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.7% of GLITCH in launch slot +0 and now holds 0.0%; GLITCH SKIP (#15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.7% of GLITCH in launch slot +0 and now holds 0.0%; GLITCH SKIP (#15 rug-list link; #7 insider FAIL; outcome rugged) | Took 13.5% of NVIDIA in launch slot +0 and now holds 0.7%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-13",
    "linked_mints": [
-    "qiZmiAC6AABLeZgXkFky8xhyoCPDBS9nQFgS6Rzpump"
+    "qiZmiAC6AABLeZgXkFky8xhyoCPDBS9nQFgS6Rzpump",
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
    ],
    "confidence": "medium",
    "roles": [
@@ -31213,13 +31216,15 @@
   {
    "address": "2pvciXGyQP66LgMr4GWyV1Vh8g8krgEUqrn1GYDGYURs",
    "label": "creator",
-   "evidence": "Deployer of X\u200aT\u200aO (fL3strhHzs1V3JSBom6TV3wFDionzXwbJeVqWKfpump); X\u200aT\u200aO SKIP (#15 rug-list link; outcome alive)",
+   "evidence": "Deployer of X\u200aT\u200aO (fL3strhHzs1V3JSBom6TV3wFDionzXwbJeVqWKfpump); X\u200aT\u200aO SKIP (#15 rug-list link; outcome alive) | Deployer of XTO (kYnEDNBDtGhFLtop5xMWE1f1aDFAmDs1M18ahXfpump); XTO SKIP (#15 rug-list link; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-30",
    "linked_mints": [
-    "fL3strhHzs1V3JSBom6TV3wFDionzXwbJeVqWKfpump"
+    "fL3strhHzs1V3JSBom6TV3wFDionzXwbJeVqWKfpump",
+    "YE5ihYooroUHg8wwnDrKZaNpmvUzXoekJdLjCT4pump",
+    "kYnEDNBDtGhFLtop5xMWE1f1aDFAmDs1M18ahXfpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "creator"
    ]
@@ -31227,13 +31232,15 @@
   {
    "address": "3JTzeKH4Y73zUuZiJoEGuC1HmPB7ZeoHiFcSrBp9yudS",
    "label": "creator funder",
-   "evidence": "First SOL funder of the X\u200aT\u200aO creator (0.437 SOL); X\u200aT\u200aO SKIP (#15 rug-list link; outcome alive)",
+   "evidence": "First SOL funder of the X\u200aT\u200aO creator (0.437 SOL); X\u200aT\u200aO SKIP (#15 rug-list link; outcome alive) | First SOL funder of the XTO creator (0.437 SOL); XTO SKIP (#15 rug-list link; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-30",
    "linked_mints": [
-    "fL3strhHzs1V3JSBom6TV3wFDionzXwbJeVqWKfpump"
+    "fL3strhHzs1V3JSBom6TV3wFDionzXwbJeVqWKfpump",
+    "YE5ihYooroUHg8wwnDrKZaNpmvUzXoekJdLjCT4pump",
+    "kYnEDNBDtGhFLtop5xMWE1f1aDFAmDs1M18ahXfpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "creator funder"
    ]
@@ -31991,6 +31998,944 @@
    "first_seen": "2026-10-30",
    "linked_mints": [
     "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "37wUxrAUQ9zV6JAKYYuJHteihBGyJF3R39EXm4oLBCpC",
+   "label": "AgenC creator",
+   "evidence": "Deployer of AgenC (DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump); coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "Fv2vK2ga55K2FjheWLPCVzdLi33yL89Xai76NhYshH8X",
+   "label": "AgenC operator funder",
+   "evidence": "Funded AgenC creator + 30 other checked wallet(s); cluster got 88.7% at launch; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "9QTjLWyhfpJ8Hm1ZALMNv9L4K6w13BSuUxMWu976Pg1Y",
+   "label": "BNB creator",
+   "evidence": "Deployer of BNB (EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump); coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "36MESjmxNWJuYYUucTKcGaLqAszZBYPoo1KqFCNRpJkz",
+   "label": "BNB operator funder",
+   "evidence": "Funded BNB creator + 29 other checked wallet(s); cluster got 93.1% at launch; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "H6KAJ89odHVqdUTMTxioH9BNLqrMtTfpTVWFw5vAwhYE",
+   "label": "Leverhedge creator",
+   "evidence": "Deployer of Leverhedge (FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump); coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "4CACkyfE7TDHFLRevxc4uTyE6xbmZYxCWAvBcSFQCwfG",
+   "label": "creator",
+   "evidence": "Deployer of MONEKO (49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump); MONEKO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "Hs2zCHqMPDjcGbibunn17F5HyDHF543sLu74qJ1qxubY",
+   "label": "creator funder/launch hub",
+   "evidence": "First SOL funder of the MONEKO creator (2.000 SOL); MONEKO SKIP (#15 rug-list link; outcome alive) | Multi-hop hub linked to the creator + 3 launch buyer(s) of MONEKO; MONEKO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder",
+    "launch hub"
+   ]
+  },
+  {
+   "address": "G2KDHt3gGnazeZf9bndeuyVgnv5Z5WGqSnwWCCqLJmk8",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.6% of MONEKO in launch slot +0 and now holds 0.0%; MONEKO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "AfjaMiKRodXnKtUkfbiT2oc5bYHHhENpNYyixY3E5Hh2",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.3% of MONEKO in launch slot +0 and now holds 0.0%; MONEKO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "w81atoBnUiGsWNh63Ppwqn9a8guFFoWuyZAcLSFy14L",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.3% of MONEKO in launch slot +0 and now holds 0.0%; MONEKO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "956YRJWTaNTJyjb3W7ttjgxi81HFRYHTdJNwATzcdnuP",
+   "label": "creator",
+   "evidence": "Deployer of USDF (GqCBGk6Ty2frWbnJ8Md45gMC7mdd2XhnxAf6cEP3pump); USDF SKIP (#15 rug-list link; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "GqCBGk6Ty2frWbnJ8Md45gMC7mdd2XhnxAf6cEP3pump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "AyztNZ1zhKHxudT74zEhSoqMx6MM5ipXPRLXyhsLJbSj",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the USDF creator (97.000 SOL); USDF SKIP (#15 rug-list link; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "GqCBGk6Ty2frWbnJ8Md45gMC7mdd2XhnxAf6cEP3pump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "37mr2BshxoZqiD34LQes66SywsheMFsz4veysTsT6tNu",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 19.7% of USDF in launch slot +0 and now holds 0.0%; USDF SKIP (#15 rug-list link; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "GqCBGk6Ty2frWbnJ8Md45gMC7mdd2XhnxAf6cEP3pump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9dJanYQJZinQvAyJgCMSxewBFsezyPKqquYF4KMTujSG",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 20.6% of XTO in launch slot +0 and now holds 0.0%; XTO SKIP (#15 rug-list link; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "kYnEDNBDtGhFLtop5xMWE1f1aDFAmDs1M18ahXfpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "AcJtxcvqqf9Nt8XmEebUQuoWnKuKb77WVYvLrZNZbLgo",
+   "label": "creator",
+   "evidence": "Deployer of XTO (YEyrfdLbq38T7QF13KxtR2Y4CdKBBdNnfyZDVWspump); XTO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "YEyrfdLbq38T7QF13KxtR2Y4CdKBBdNnfyZDVWspump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "AgqsZiaQniCVkgLBVviPkZ2WXWFoCkHEYniQuVAYghER",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the XTO creator (0.100 SOL); XTO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "YEyrfdLbq38T7QF13KxtR2Y4CdKBBdNnfyZDVWspump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "DqQuvmhbLv5w7MZ8XVYaWu36SBzD7pdffDMpi9J3TnmC",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 20.6% of XTO in launch slot +0 and now holds 0.0%; XTO SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "YEyrfdLbq38T7QF13KxtR2Y4CdKBBdNnfyZDVWspump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "8Qjnx5zbbubzLSPk3sBR9m7PTt6o2RD9XRkknHFUrBns",
+   "label": "creator",
+   "evidence": "Deployer of AOTF (3pxy2uKueJVyPtyV4YmfyrEG3zLDznKxiQXbAC7Hpump); AOTF SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "3pxy2uKueJVyPtyV4YmfyrEG3zLDznKxiQXbAC7Hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "FtpsPFi1heBgtzQRaqZdVVye1GJr8mC24GmfDdiHhGrN",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the AOTF creator (100.000 SOL); AOTF SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "3pxy2uKueJVyPtyV4YmfyrEG3zLDznKxiQXbAC7Hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "BkBse1L2JGquaWhSvF1eobjFYgbFQbXGKo5gbmZsbJAb",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 14.3% of AOTF in launch slot +0 and now holds 0.0%; AOTF SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "3pxy2uKueJVyPtyV4YmfyrEG3zLDznKxiQXbAC7Hpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "E2Wdcc7D2Ws6Y2jEY8bcYrz5psELiuQdziBZbP3pENhu",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 20.3% of AOP in launch slot +0 and now holds 0.0%; AOP SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "YE5ihYooroUHg8wwnDrKZaNpmvUzXoekJdLjCT4pump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "6d3RmsssU3QKYDiNTKviopvQeseXAPY6e2ciNtEE6JE5",
+   "label": "creator",
+   "evidence": "Deployer of NVIDIA (1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump); NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "7e8FtoGb7ms6NPgskZ3zeVV1eDDV6WVxVsSJqpFhY2nj",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the NVIDIA creator (50.000 SOL); NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "GAZoSrB78hPG5aq8gmhXuc3A8uQbw6KJ1tAvdh3wrTSv",
+   "label": "launch hub",
+   "evidence": "Multi-hop hub linked to the creator + 2 launch buyer(s) of NVIDIA; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "launch hub"
+   ]
+  },
+  {
+   "address": "8cy7JyL37nxCKTdjL2czqsHSLW4SQ3d5rsLUbUvAWPHY",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.5% of NVIDIA in launch slot +0 and now holds 0.5%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9oRtDuiR8eYWcFz7MsZLKxPW1uo3UWsqzoFGXG26wN7G",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.5% of NVIDIA in launch slot +0 and now holds 0.2%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "EDaeWfAFY1btffK84iFeAXjWXCJHmaixi1Rmk8H2nctP",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.5% of NVIDIA in launch slot +0 and now holds 0.6%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "637awwTT7kmZ2po5YwJUQuN24sq2EydxREsPWcKNBmyv",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.5% of NVIDIA in launch slot +0 and now holds 0.5%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "ERiEjFqDn2avMRdHnZ3NFFHCnBctZcf5zjtn46ZxTadP",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.5% of NVIDIA in launch slot +0 and now holds 0.6%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "E1qzvE5wUD6RTRN7X64ircn1mK8H3YDcdvTsbuzCJRcH",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 8.7% of NVIDIA in launch slot +0 and now holds 0.0%; NVIDIA SKIP (#14 FAIL coordinated launch; #12 launch bundle 90%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "1uPvzfMqaEzGdEFBNz4hYnyDYQ6wfVnqCcUwriQpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "AoYHiBuVV8uXDabgCUspRsCjYjdwUpz1wH3eTt7NXvXn",
+   "label": "creator",
+   "evidence": "Deployer of AOP (GVDuUCX2F5ArFGYwqkM3dF6tmpnFrgfFaf5nQ9vgpump); AOP SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "GVDuUCX2F5ArFGYwqkM3dF6tmpnFrgfFaf5nQ9vgpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "4JWsyd6qUNcrrrCDB6f9aC4bpq3LDMf5M6v62SPrG8d6",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the AOP creator (100.000 SOL); AOP SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "GVDuUCX2F5ArFGYwqkM3dF6tmpnFrgfFaf5nQ9vgpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "D3BpXJJnDvZPEKW97FDT9sMv8zPMvvbAwCQnVsrv6xMV",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 20.1% of AOP in launch slot +0 and now holds 0.0%; AOP SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "GVDuUCX2F5ArFGYwqkM3dF6tmpnFrgfFaf5nQ9vgpump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9wULKWNs7bP2uTDQMPfUD2SiqxASjDQjzJVNXQVCxhPG",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 10.4% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "FjyHuwZcwpoc3632wYvC8ZffjDxGtwg7L8SV36v1BNjg",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 9.7% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "DNrS2PNP9dVhcXBdZ7g3ijcJWUTWMvmCjkZJNns1xngJ",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 9.7% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "Ezup93qu7gidt1r2xoQSvaf9HsqVFGKMSc2hZKhV6mXK",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 9.5% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "6CeinrZ4g9NuWZmswz1MVs7E6BXiSF9Buwm1Y47jPcCX",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 7.8% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "FgVsvn9BEzBoZL7m4KsaAvVhxC2gbzrhMLJoxDLVz4ar",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 7.2% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "28zH4fmYdcubfavmQZJaB5hrWupJ4B4yM5mjvzsdQy2T",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 6.8% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "H8Zey1B5pU9pVrySM8VbbwSCo1EWrCVgDNejjp7w9xCy",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.2% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9t9QN9q5EUhskWUReCybdapoEw1XQBzy8BSZsSe4x33R",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.1% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "AsCtXYnZtZZhYD6SCXbKPyW7jHgb82cWLfaYJbqPMQq8",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.8% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "FfAa7uTc6E2DTNXxqz9rhzZYnmFRDAruW3UAWH2zvnPw",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.2% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "Cc5Xz4dLUwDFLhzAuNNUA5wzouy8Swm8R7TGKQMU2Sf2",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.0% of AgenC in launch slot +0 and now holds 0.0%; AgenC SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9mxTVCmEE7UyHeMVz8RhLGSPCnkCEv5vfqEUa1AuxYQQ",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 26.5% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "HbKrZu9J3nP5pTk8YuevmTmC1h33B8TUMAgPo7TnSjkL",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 18.5% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "4GWZHToWTMyjtvRK3ej25WGoWcqWT4g6PRKnKvF9VxS6",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 11.0% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "FehhoM5atfPgZQ4QhxFFxovxjbCvsVXFMYj9x1pWgvRb",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 9.1% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "2Ujz8ot3Bw8vvAtMnnYqKM7VLMPhcXTaXWhbgthg4ZcK",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.7% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "5TF96uVhPPAn9a3dBBzJXZyRGTYE5CRzYUYv2Zdyj7u6",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.8% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "3iAkfjUQmD9f7KrYnoDEpaMY4nRuzwe8pG8iAD1gXthX",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.5% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9DhfoUQ1AvQLnfc4JGfsbZSnJcvwW49Vo4XBQMX4oFE2",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.5% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "6n1mbvv1RtvhphHmbvcioW1oGmTWYB9sYQ3TdNR83vGD",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.2% of BNB in launch slot +0 and now holds 0.0%; BNB SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "S7vYFFWH6BjJyEsdrPQpqpYTqLTrPRK6KW3VwsJuRaS",
+   "label": "creator",
+   "evidence": "Deployer of AAPLx (XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp); AAPLx SKIP (#15 rug-list link; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the AAPLx creator (2.000 SOL); AAPLx SKIP (#15 rug-list link; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "Cz7fvLmJYDcGUvFG65TrTSdiGP8jR85y52CuVvtNuaLW",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 12.2% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "AopzbYVAupxPG4UjzGbEbitARkwFkgMZfCYaXMqQz4fb",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 9.4% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "8aUPj8gDHzboip9ebb5zdq9q8AR2k8HVszoyui1cE3gr",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 8.9% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "A7wM4HBKjLJAsFKTHfcbTUPJdAU2SAd1fiB1fYuaM9N6",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 6.7% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "E381vu7H2TVzWUq4CkZr2LkpBKncGbHdw5frtXi5qCsv",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 6.0% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "FE9YRBuEHRgN9hsBYNCYbvUQXHURxekypSkLNdXJYL5D",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.9% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "7sft3mC4oEku8nM5u4MJeA2kBxvS3jVnwrJyuvP88TxA",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.7% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "EuM7AXiM9kLMyBhWq62gQbXSNtLSQSwJMBqJ9dL3XL9E",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.2% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "7JaPZooyKZgDpjdhrZc5ZfZJdobD6dKMadQkbeaoz7Vc",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.6% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "6SAxgCkxLyydCYbk9DBoTno2PSEuvXFTr2qCnZS5Lyx5",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.6% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "7eXe22BcQnQQkNdi6eNWNfa8sVxPpRqJ9jttYYkYzzf3",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.2% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "HVeMPJrSbBrsCvRjZaFwa19B8KNeWmDtH7YjKXsVZbNo",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.1% of Leverhedge in launch slot +0 and now holds 0.0%; Leverhedge SKIP (#14 FAIL coordinated launch; #12 launch bundle 91%; #15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump"
    ],
    "confidence": "low",
    "roles": [
