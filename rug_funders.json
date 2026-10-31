@@ -32941,6 +32941,160 @@
    "roles": [
     "bundle buyer (sold into retail)"
    ]
+  },
+  {
+   "address": "FksSTqvRDgVxjinuSW1UJ6iFXpVdk4bu4GZbr5mSydVt",
+   "label": "VEIL creator",
+   "evidence": "Deployer of VEIL (BQ9j4y8V9WkGAS5KobJ4eY8MZmfr8THmcCjRZfCpump); down 99.9% from 30d daily high, liquidity $1,795",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "BQ9j4y8V9WkGAS5KobJ4eY8MZmfr8THmcCjRZfCpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "2xZfc2hGxBBjFV1ZKpc7JmoSMro97xqJvCQCxMknHGjB",
+   "label": "VEIL creator funder",
+   "evidence": "First SOL funder of the VEIL creator (100.000 SOL); down 99.9% from 30d daily high, liquidity $1,795",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "BQ9j4y8V9WkGAS5KobJ4eY8MZmfr8THmcCjRZfCpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "GXcpBSifsm7Y8huBCuzRrJywGbsjzSfyw8mxihHuFffe",
+   "label": "MrBeast creator",
+   "evidence": "Deployer of MrBeast (CyaprcHwnueDZYkKJYxVQBbV4HNegGfTyHwrcmu3pump); down 99.8% from 30d daily high, liquidity $1,736",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "CyaprcHwnueDZYkKJYxVQBbV4HNegGfTyHwrcmu3pump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "8ZAJUesBTG2N2wifKMZMR914Jc5Gxb32TemYJjNDqm6r",
+   "label": "MrBeast launch hub",
+   "evidence": "Multi-hop hub: linked to the creator + 2 launch buyer(s) (2 direct, max 2 hops) that got 13.5% at launch; down 99.8% from 30d daily high, liquidity $1,736",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "CyaprcHwnueDZYkKJYxVQBbV4HNegGfTyHwrcmu3pump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "9LDSHxkVc7oJCHiqEmhbLEK2xR7SJ65fgRkaYeqaPkHS",
+   "label": "MrBeast launch hub",
+   "evidence": "Multi-hop hub: linked to the creator + 2 launch buyer(s) (0 direct, max 2 hops) that got 13.5% at launch; down 99.8% from 30d daily high, liquidity $1,736",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "CyaprcHwnueDZYkKJYxVQBbV4HNegGfTyHwrcmu3pump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "5o6UqiAaDn8eASMfRDf4ku1iJF2esrmZP8soCVJRSdCy",
+   "label": "Fomo creator",
+   "evidence": "Deployer of Fomo (DkTh1Cy3EM6KJozVEBcXsN4G4MVVCCCKaPATHbJcpump); down 99.8% from 30d daily high, liquidity $1,701",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DkTh1Cy3EM6KJozVEBcXsN4G4MVVCCCKaPATHbJcpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "8pUCicrLTLjKqtfwNLepqNvgBNEAMtUb723H8dx3eBLs",
+   "label": "Fomo launch hub",
+   "evidence": "Multi-hop hub: linked to the creator + 2 launch buyer(s) (2 direct, max 1 hops) that got 13.8% at launch; down 99.8% from 30d daily high, liquidity $1,701",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "DkTh1Cy3EM6KJozVEBcXsN4G4MVVCCCKaPATHbJcpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "6cFfvTAvDsFXQ43uN9d5iVLkUFt71FoXAzbidPB1SMNR",
+   "label": "DTC creator",
+   "evidence": "Deployer of DTC (FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump); down 99.9% from 30d daily high, liquidity $2,949; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "Fe77ywPQjkxmKso5HdUvTGQsp9KrugEtS459MjCSt47e",
+   "label": "DTC operator funder",
+   "evidence": "Funded DTC creator + 16 other checked wallet(s); cluster got 88.2% at launch; down 99.9% from 30d daily high, liquidity $2,949; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "HSuJWwiAFToPryyM7ZVAAXZM8PgHEjJbF9BSQ5F11Rr9",
+   "label": "LASTAGENCY creator",
+   "evidence": "Deployer of LASTAGENCY (Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump); down 99.7% from 30d daily high, liquidity $3,041",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "ww4yqA7pwxQdmeDcyUq5aYjAddbV1HxbnKtbuRTKykC",
+   "label": "LASTAGENCY launch hub",
+   "evidence": "Multi-hop hub: linked to 4 launch buyer(s) (4 direct, max 1 hops) that got 76.3% at launch; down 99.7% from 30d daily high, liquidity $3,041",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "4JHskYKT7yQ7nQAVau3RtkhejSMnaKN4ZwXhqHmZiaAH",
+   "label": "XRP creator",
+   "evidence": "Deployer of XRP (rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump); down 99.9% from 30d daily high, liquidity $2,837",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "3HSp4s9bzRYw6THT51NfSGEmPob3pBbVpGaWNexYk7gC",
+   "label": "XRP creator funder",
+   "evidence": "First SOL funder of the XRP creator (0.010 SOL); down 99.9% from 30d daily high, liquidity $2,837",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "DybAk3NMWWYwcDewiYQvzkPFeUiT9Gxc2MancYw2Jsw1",
+   "label": "KOLO launch hub",
+   "evidence": "Multi-hop hub: linked to 3 launch buyer(s) (3 direct, max 1 hops) that got 45.1% at launch; down 99.8% from 30d daily high, liquidity $2,789; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "KoLoaG4ktXXA2g5FjrwNAHeNy5wPfQ2RzVUxscgZrpc"
+   ],
+   "confidence": "medium"
   }
  ]
 }
