@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:56:07",
+ "updated": "2026-10-31T00:04:49",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -16,20 +16,6 @@
    "path": "survivor"
   },
   {
-   "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-   "ticker": "JOB",
-   "risk": 80,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "same operator as a rug",
-    "wash trading"
-   ],
-   "scored_at": "2026-10-29T08:02:15-04:00",
-   "path": "young"
-  },
-  {
    "mint": "WoWVTqfQh1AWnmBxUnSUJ5DSFQUc8NdB3SkB4tCpump",
    "ticker": "USDF",
    "risk": 81,
@@ -40,29 +26,6 @@
     "same operator as a rug"
    ],
    "scored_at": "2026-10-29T17:58:11-04:00",
-   "path": "young"
-  },
-  {
-   "mint": "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump",
-   "ticker": "fone",
-   "risk": 65,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "same operator as a rug"
-   ],
-   "scored_at": "2026-10-29T08:02:26-04:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "BLeMEetdzeq9xsNti2tCiau4JnD7mzyQzQFHdy5pump",
-   "ticker": "RETIRED",
-   "risk": 47,
-   "verdict": "CAUTION",
-   "structural_ok": true,
-   "gates_failed": [],
-   "scored_at": "2026-10-29T08:02:10-04:00",
    "path": "young"
   },
   {
@@ -86,20 +49,6 @@
     "same operator as a rug"
    ],
    "scored_at": "2026-10-29T12:57:35-04:00",
-   "path": "young"
-  },
-  {
-   "mint": "GF74fBfcaeLjUiUwKpRiUbvMQtTvNyzMoo6KNyyqNyk6",
-   "ticker": "STONKLANA",
-   "risk": 88,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "same operator as a rug",
-    "coordinated launch/cluster"
-   ],
-   "scored_at": "2026-10-29T08:02:00-04:00",
    "path": "young"
   },
   {
@@ -137,19 +86,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-10-29T17:58:05-04:00",
-   "path": "young"
-  },
-  {
-   "mint": "5JbRYEz844bwnKbGx4dRHhrJ6zjrJ194CKdDXtzwgaXo",
-   "ticker": "CPU",
-   "risk": 63,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "same operator as a rug"
-   ],
-   "scored_at": "2026-10-29T08:02:08-04:00",
    "path": "young"
   },
   {
