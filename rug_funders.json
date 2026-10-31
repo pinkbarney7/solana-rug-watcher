@@ -33204,6 +33204,34 @@
    "roles": [
     "bundle buyer (sold into retail)"
    ]
+  },
+  {
+   "address": "FzqqW5wQS8DBVqJb7p2WwBDsqbK51hbRcTPb7B4RwF3Q",
+   "label": "creator",
+   "evidence": "Deployer of Anakin (ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump); Anakin SKIP (#15 rug-list link; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "GZFMTP5nFgGPK2CziGNZSXNqfztuodx2nhkQwFa9fP9e",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the Anakin creator (0.100 SOL); Anakin SKIP (#15 rug-list link; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-10-31",
+   "linked_mints": [
+    "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
   }
  ]
 }
