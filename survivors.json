@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:53:56",
+ "updated": "2026-11-01T00:01:50",
  "coins": [
   {
    "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
@@ -44,21 +44,6 @@
    "path": "survivor"
   },
   {
-   "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
-   "ticker": "SPCX",
-   "risk": 88,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link",
-    "same operator as a rug",
-    "exit test"
-   ],
-   "scored_at": "2026-10-30T07:56:35-04:00",
-   "path": "survivor"
-  },
-  {
    "mint": "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump",
    "ticker": "HYPERCHAN",
    "risk": 77,
@@ -81,43 +66,6 @@
     "same operator as a rug"
    ],
    "scored_at": "2026-10-30T19:12:30+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-   "ticker": "SENSE",
-   "risk": 69,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-10-30T07:56:43-04:00",
-   "path": "young"
-  },
-  {
-   "mint": "7S9v86SXnm2Hmew7peDo8XEx44T2FRmZVSqm8jaPpump",
-   "ticker": "HALVE",
-   "risk": 88,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "coordinated launch/cluster",
-    "top holders concentrated"
-   ],
-   "scored_at": "2026-10-30T07:56:36-04:00",
-   "path": "young"
-  },
-  {
-   "mint": "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump",
-   "ticker": "HEXN",
-   "risk": 72,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "coordinated launch/cluster"
-   ],
-   "scored_at": "2026-10-30T07:56:15-04:00",
    "path": "young"
   },
   {
