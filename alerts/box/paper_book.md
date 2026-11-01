@@ -1,13 +1,13 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-10-31 19:47 EDT. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-10-31 19:57 EDT. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 0 | Open: 8 | Not opened (failed sell gate): 0
 No closed simulated trades yet - stats appear once positions exit.
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| swordcat | [`5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump`](https://pump.fun/coin/5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump) | scored_fast_scan | CAUTION | 2026-10-31 13:04 EDT | open | +17.7% |
-| HELL | [`A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump`](https://pump.fun/coin/A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump) | scored_fast_scan | CAUTION | 2026-10-31 09:45 EDT | open | +15.4% |
+| swordcat | [`5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump`](https://pump.fun/coin/5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump) | scored_fast_scan | CAUTION | 2026-10-31 13:04 EDT | open | +5.9% |
+| HELL | [`A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump`](https://pump.fun/coin/A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump) | scored_fast_scan | CAUTION | 2026-10-31 09:45 EDT | open | +14.6% |
 | LASTAGENCY | [`Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump`](https://pump.fun/coin/Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump) | scored_scorecard | CAUTION | 2026-10-31 08:30 EDT | open | +0.0% |
 | XRP | [`rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump`](https://pump.fun/coin/rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump) | scored_scorecard | CAUTION | 2026-10-31 08:30 EDT | open | +0.0% |
 | chud | [`Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump`](https://pump.fun/coin/Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump) | scored_scorecard | CAUTION | 2026-10-31 08:30 EDT | open | -2.6% |
