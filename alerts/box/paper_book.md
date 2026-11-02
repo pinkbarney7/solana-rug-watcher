@@ -1,12 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-01 19:29 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-01 19:39 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 8 | Open: 1 | Not opened (failed sell gate): 0
 Win rate 25% | avg return -33.9% | expectancy $-8.48 per $25 trade | total $-67.82
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| $michi | [`5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp`](https://dexscreener.com/solana/5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp) | new_launch_scored | CAUTION | 2026-11-01 18:38 EST | open | +0.3% |
+| $michi | [`5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp`](https://dexscreener.com/solana/5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp) | new_launch_scored | CAUTION | 2026-11-01 18:38 EST | open | +0.0% |
 | swordcat | [`5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump`](https://pump.fun/coin/5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump) | scored_fast_scan | CAUTION | 2026-10-31 13:04 EDT | closed (24h time exit) | -0.9% |
 | HELL | [`A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump`](https://pump.fun/coin/A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump) | scored_fast_scan | CAUTION | 2026-10-31 09:45 EDT | closed (24h time exit) | +32.1% |
 | LASTAGENCY | [`Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump`](https://pump.fun/coin/Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump) | scored_scorecard | CAUTION | 2026-10-31 08:30 EDT | closed (24h time exit) | -1.7% |
