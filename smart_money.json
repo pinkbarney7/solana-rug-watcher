@@ -266,6 +266,47 @@
    },
    "source": "early-survivor",
    "confidence": "medium"
+  },
+  {
+   "address": "C9m5jh88FtqVpLU6sJCX4FNuPXMh63LcwxxBE2mwqd8N",
+   "txs": 200,
+   "swaps": 37,
+   "skipped_multi": 7,
+   "window_h": 276.2,
+   "positions": 11,
+   "closed": 5,
+   "wins": 3,
+   "win_rate": 0.6,
+   "realized_sol": 84.053,
+   "profit_factor": 583.94,
+   "trades_per_day": 17.4,
+   "median_hold_min": 5.5,
+   "best": [
+    {
+     "mint": "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump",
+     "pnl_sol": 83.264817136,
+     "cost_sol": 18.233359706,
+     "hold_s": 72855
+    },
+    {
+     "mint": "6wifasxctST3jd9s6UaoVexc2pvYqTcLWZEAjCTJ51wW",
+     "pnl_sol": 0.8484531399999999,
+     "cost_sol": 0.273727227,
+     "hold_s": 4672
+    },
+    {
+     "mint": "7wXErUAi1CGFnYGoEECvNZK9JfLK5xenreXPfQdYcfix",
+     "pnl_sol": 0.08423783900000004,
+     "cost_sol": 0.772588046,
+     "hold_s": 27
+    }
+   ],
+   "early_survivor_hits": 1,
+   "early_survivor_mints": {
+    "DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF": 55.002
+   },
+   "source": "early-survivor",
+   "confidence": "medium"
   }
  ],
  "n_consistent": 0,
@@ -499,5 +540,5 @@
   }
  ],
  "caveats": "small samples (a few weeks of history at most, 4-20 closed positions per wallet), USDC-quoted and multi-hop swaps\nare skipped, transfers between a trader's own wallets look like buys/sells, fees/tips are inside the SOL deltas, and past\nresults say nothing about the next trade. Copy-trading these wallets is a well-known way to become exit liquidity.",
- "early_survivor_updated": "2026-10-26T08:22:43-0400"
+ "early_survivor_updated": "2026-11-02T08:24:59-0500"
 }

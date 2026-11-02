@@ -33943,6 +33943,39 @@
    "roles": [
     "bundle buyer (sold into retail)"
    ]
+  },
+  {
+   "address": "Fpucq2CjD2wmHm4kVbBNxgmo6yJUTo63coPm3jTDqmNR",
+   "label": "\u2588\u2588\u2588WIF launch hub",
+   "evidence": "Multi-hop hub: linked to 23 launch buyer(s) (23 direct, max 1 hops) that got 91.2% at launch; down 100.0% from 30d daily high, liquidity $2,471; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "BzejLp5hMuEKzNRKWMxycH5fBpdvSuw1j59S7Md4aAjT",
+   "label": "HI creator",
+   "evidence": "Deployer of HI (6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump); down 99.6% from 30d daily high, liquidity $5,767",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "AANSzxLkVW5HpxEeRxah8jMMbCYKMCfCDRNzreUcXV9C",
+   "label": "HI creator funder",
+   "evidence": "First SOL funder of the HI creator (0.020 SOL); down 99.6% from 30d daily high, liquidity $5,767",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump"
+   ],
+   "confidence": "medium"
   }
  ]
 }
