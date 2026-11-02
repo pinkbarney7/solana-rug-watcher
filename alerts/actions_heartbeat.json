@@ -1,6 +1,6 @@
 {
- "ts": "2026-11-02T03:19:25+00:00",
- "ts_epoch": 1793589565,
+ "ts": "2026-11-02T03:29:40+00:00",
+ "ts_epoch": 1793590180,
  "mode": "free",
  "helius_used": false,
  "credits_this_run": 0,
@@ -9,6 +9,6 @@
  "gt_down": false,
  "scored": 0,
  "reused": 0,
- "box_heartbeat_age_min": 6.8,
+ "box_heartbeat_age_min": 8.5,
  "run_ok": true
 }
