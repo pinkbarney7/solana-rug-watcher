@@ -342,12 +342,13 @@
   {
    "address": "Ek1ZCPSKNMVTEMJCNNSTTKSKYXGWQKPCPZCDHPQMMXWu",
    "label": "LMEOW operator funder",
-   "evidence": "Funded LMEOW creator + 4 other checked wallet(s); cluster got 86.0% at launch; coordinated-launch FAIL (#14) | Funded YILONGMA creator + 2 other checked wallet(s); cluster got 0.0% at launch; coordinated-launch FAIL (#14)",
+   "evidence": "Funded LMEOW creator + 4 other checked wallet(s); cluster got 86.0% at launch; coordinated-launch FAIL (#14) | Funded YILONGMA creator + 2 other checked wallet(s); cluster got 0.0% at launch; coordinated-launch FAIL (#14) | First SOL funder of the MAMESUKE creator (20.003 SOL); coordinated-launch FAIL (#14)",
    "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
    "first_seen": "2026-10-07",
    "linked_mints": [
     "55WCUhCV8jAKwc5SbsH3agTVAYn7x7RnQZmHk8Cameme",
-    "GU5NkUVLzmJQxJKuho5dG4d1owChpcSQnhARrjYQpump"
+    "GU5NkUVLzmJQxJKuho5dG4d1owChpcSQnhARrjYQpump",
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
    ],
    "confidence": "high"
   },
@@ -9986,7 +9987,7 @@
   {
    "address": "D8pP1hegfQrND1tpMv1pQJZYyzwnHsiFa9AVLc2Lzoxy",
    "label": "creator",
-   "evidence": "Deployer of POKEMON (XYNqPZwtDdkCi7ywwkQzmvfpqcXu8GvFgH4pcqPpump); POKEMON SKIP (#15 rug-list link; #7 insider FAIL; outcome rugged) | Deployer of Speed (z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump); Speed SKIP (#15 rug-list link; outcome rugged) | Deployer of Speed (z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump); Speed SKIP (#15 rug-list link; outcome rugged) | Deployer of Speed (z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump); Speed SKIP (#15 rug-list link; outcome rugged) | Multi-hop hub linked to 3 launch buyer(s) of DeepSeek; DeepSeek SKIP (#12 launch bundle 88%; #15 rug-list link; outcome rugged)",
+   "evidence": "Deployer of POKEMON (XYNqPZwtDdkCi7ywwkQzmvfpqcXu8GvFgH4pcqPpump); POKEMON SKIP (#15 rug-list link; #7 insider FAIL; outcome rugged) | Deployer of Speed (z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump); Speed SKIP (#15 rug-list link; outcome rugged) | Deployer of Speed (z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump); Speed SKIP (#15 rug-list link; outcome rugged) | Deployer of Speed (z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump); Speed SKIP (#15 rug-list link; outcome rugged) | Multi-hop hub linked to 3 launch buyer(s) of DeepSeek; DeepSeek SKIP (#12 launch bundle 88%; #15 rug-list link; outcome rugged) | Multi-hop hub linked to 3 launch buyer(s) of Grok; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-12",
    "linked_mints": [
@@ -9996,7 +9997,8 @@
     "z5HGNgP5NnGqBjmJRbBXSshKo4FEggdC5Y3mAXLpump",
     "u11t8AgayqWfuPJT6S4Ko6fP1ikYTTiCNb1ReVZpump",
     "8TnUmWoqTWoE49XwsRcvNw5PRk4uWufBrriknJzpump",
-    "cPA8PUguyqreWrC95kFVRvggvS3UMphvuTFgJd1pump"
+    "cPA8PUguyqreWrC95kFVRvggvS3UMphvuTFgJd1pump",
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
    ],
    "confidence": "high",
    "roles": [
@@ -34065,6 +34067,216 @@
    "confidence": "high",
    "roles": [
     "creator funder"
+   ]
+  },
+  {
+   "address": "Erx86R1rQJdUA9oGiv8L2oot5bDbMK4cnjHanMs51ohC",
+   "label": "creator",
+   "evidence": "Deployer of CAPY (HVJBoVyTe9TPo2URkx6PpUCPWPvk7NWKDwKnPxhe3Wr); CAPY SKIP (#7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "HVJBoVyTe9TPo2URkx6PpUCPWPvk7NWKDwKnPxhe3Wr"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "34wToCMjNQ8GqBxV5yWz1qMwE6eh2F1DjsEzPXXopk7T",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the CAPY creator (456.763 SOL); CAPY SKIP (#7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "HVJBoVyTe9TPo2URkx6PpUCPWPvk7NWKDwKnPxhe3Wr"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "7fMwZddcRnuwWsZQT5Eg9cqa9of516sgBZQruH1pj5b8",
+   "label": "creator",
+   "evidence": "Deployer of CAPY (DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr); CAPY SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "D1DhSivDh6nuS3ecXN3ddx38vBxxBbj35Ak98gwHoGnR",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the CAPY creator (1.200 SOL); CAPY SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "EjgJWsFGbC3GP7iBbhErXAkHa1rfbyQYGPXrDkZDptvW",
+   "label": "creator",
+   "evidence": "Deployer of HEDGE (wDSAqt4tEZpDAwB9XY6ejkZvMFuT1zUMjUh67txeYhf); HEDGE SKIP (#15 rug-list link; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "wDSAqt4tEZpDAwB9XY6ejkZvMFuT1zUMjUh67txeYhf"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "5cnTmRhQQeMCn8MVXcPV6uLd9eo9uLbfPTwhem2e4asE",
+   "label": "creator",
+   "evidence": "Deployer of Grok (qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump); Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "CxhkkxwRVaYXTKgMfNMwamnxnxtLKNxjakQVHi6vXxTc",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the Grok creator (50.000 SOL); Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "creator funder"
+   ]
+  },
+  {
+   "address": "9rYUVmJcGRqwCZ54QdNGdssJxviU2ZPAXTQrWwQTutFC",
+   "label": "launch hub",
+   "evidence": "Multi-hop hub linked to the creator + 3 launch buyer(s) of Grok; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "launch hub"
+   ]
+  },
+  {
+   "address": "GtyXNQSAE5DB71efkLvbn8w1a1wZswtcrZZRjtrW9Hbw",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.4% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "2wXz2Fhu5LmYJB9vGGmmPrXQRovJv8eNeGLUQnhBrtqc",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.4% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "BtdyvyVuAEWMtUXhGPn7v2iUy2qva1VwaifQzyW2WWRG",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.4% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "Ade3Xnqhtt5JGVRatS5oiFzMHNWtdr2dQ1nmSWrGH2bE",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.4% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "2VZCABrEguFMMr22oDurWa3Y5VBi11HyvSnDPHERveqt",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.4% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "7PwMkeBy7QjYDME6SFMDs7UCiCVooGiDn8gzntFK6AUA",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 13.4% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "Cp62CSWWfeSDdSdro9ZGguRzzWi1EAABn2sbeexqVZc9",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 8.6% of Grok in launch slot +0 and now holds 0.0%; Grok SKIP (#14 FAIL coordinated launch; #12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "qV8uLWxgo91phqnJuACBqUCUr26e6p2hdebwV5hpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
    ]
   }
  ]
