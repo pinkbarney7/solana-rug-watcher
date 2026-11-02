@@ -10808,12 +10808,13 @@
   {
    "address": "AGKnjH68QSncHdUWJxygyP9hhgvmvWsC3ZoMxGXaDwZA",
    "label": "YILONGMA launch hub",
-   "evidence": "Multi-hop hub: linked to 3 launch buyer(s) (3 direct, max 1 hops) that got 78.7% at launch; coordinated-launch FAIL (#14) | Multi-hop hub: linked to 3 launch buyer(s) (3 direct, max 1 hops) that got 78.0% at launch; coordinated-launch FAIL (#14)",
+   "evidence": "Multi-hop hub: linked to 3 launch buyer(s) (3 direct, max 1 hops) that got 78.7% at launch; coordinated-launch FAIL (#14) | Multi-hop hub: linked to 3 launch buyer(s) (3 direct, max 1 hops) that got 78.0% at launch; coordinated-launch FAIL (#14) | Multi-hop hub: linked to 3 launch buyer(s) (3 direct, max 1 hops) that got 78.0% at launch; coordinated-launch FAIL (#14)",
    "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
    "first_seen": "2026-10-13",
    "linked_mints": [
     "GU5NkUVLzmJQxJKuho5dG4d1owChpcSQnhARrjYQpump",
-    "GF74fBfcaeLjUiUwKpRiUbvMQtTvNyzMoo6KNyyqNyk6"
+    "GF74fBfcaeLjUiUwKpRiUbvMQtTvNyzMoo6KNyyqNyk6",
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
    ],
    "confidence": "high"
   },
@@ -33750,11 +33751,12 @@
   {
    "address": "BQjgfhEARSnXxMt2cBtgkEHgtiX4yKJQvJNip8GevSC7",
    "label": "launch hub",
-   "evidence": "Multi-hop hub linked to 5 launch buyer(s) of BARRON; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Multi-hop hub linked to 5 launch buyer(s) of BARRON; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Multi-hop hub linked to 5 launch buyer(s) of BARRON; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
    "confidence": "high",
    "roles": [
@@ -33764,13 +33766,14 @@
   {
    "address": "F5t3J3riJFT5pyrS8Y5SbKYF38CacnzBr2gDHHdWDcg4",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33778,13 +33781,14 @@
   {
    "address": "3zyD8nkbMJLo8w5ty1c6hxdfTzGmB3d2BWoN6cFcEV2y",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33792,13 +33796,14 @@
   {
    "address": "Cp9AyWYEMjAWokyh3iPQ6DgCjvKVz5D3CHcMeo8xCQqS",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33806,13 +33811,14 @@
   {
    "address": "2KSLV7r3Cn1Fmau9ztKc6mwpsMGaunNpCtTcJa5n9Ymv",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33820,13 +33826,14 @@
   {
    "address": "4a5oXcovd1LzGmG2f1F5LBBFgrBSJ1MzoQpqsQRVKnJo",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33834,13 +33841,14 @@
   {
    "address": "EZHNrhP1ivug5nRn28osKHqx9vM15XvRpAJ6MEBe5bMB",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 13.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33848,13 +33856,14 @@
   {
    "address": "8bVRAybusEYh6gKDgX3NbVqC9MrsbHyU2WZv6EKQQ6x6",
    "label": "bundle buyer (sold into retail)",
-   "evidence": "Took 8.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
+   "evidence": "Took 8.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged) | Took 8.4% of BARRON in launch slot +0 and now holds 0.0%; BARRON SKIP (#12 launch bundle 89%; #7 insider FAIL; outcome rugged)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-11-02",
    "linked_mints": [
-    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump"
+    "E6uPVaTBkycs9EuUsijDXdJqwMB9CbLpkiAoV6hpump",
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
    ],
-   "confidence": "medium",
+   "confidence": "high",
    "roles": [
     "bundle buyer (sold into retail)"
    ]
@@ -33976,6 +33985,87 @@
     "6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump"
    ],
    "confidence": "medium"
+  },
+  {
+   "address": "4S5TEe372KCZZuLkuJHQzu3EPqT8vepUJ5YF7p6VTBMG",
+   "label": "MAMESUKE creator",
+   "evidence": "Deployer of MAMESUKE (SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK); coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "5YXBcskbGT2WmvTQomHnG3vGEWEPAg2Z7hsEP8zfEM16",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 26.0% of MAMESUKE in launch slot +0 and now holds 0.0%; MAMESUKE SKIP (#14 FAIL coordinated launch; #12 launch bundle 84%; #15 rug-list link; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "3DnPHKtfPwD8Z284hMFh9DYhcepghJ2BsEf6BzaL7bbg",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 26.0% of MAMESUKE in launch slot +0 and now holds 0.0%; MAMESUKE SKIP (#14 FAIL coordinated launch; #12 launch bundle 84%; #15 rug-list link; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9P3k7XbkpY612BDicYi5i519a7JQBG5vTiiS862EbSyZ",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 26.0% of MAMESUKE in launch slot +0 and now holds 0.0%; MAMESUKE SKIP (#14 FAIL coordinated launch; #12 launch bundle 84%; #15 rug-list link; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
+   ],
+   "confidence": "low",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "9z63Z3EM7pQdN8v9C1R4Tu8oPiBS8e8jbr3iPCUHkGsX",
+   "label": "creator",
+   "evidence": "Deployer of BARRON (SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump); BARRON SKIP (#12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "4WnePxK2xCUoMuteHLscRe7YEEcrmoUhBqCmQRVrguSx",
+   "label": "creator funder",
+   "evidence": "First SOL funder of the BARRON creator (141.102 SOL); BARRON SKIP (#12 launch bundle 89%; #15 rug-list link; #7 insider FAIL; outcome rugged)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-02",
+   "linked_mints": [
+    "SMmwb5fBLyLfCbqMCbNnZ7ZjngHDvpcFiBRi3qnpump"
+   ],
+   "confidence": "high",
+   "roles": [
+    "creator funder"
+   ]
   }
  ]
 }
