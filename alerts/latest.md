@@ -1,16 +1,16 @@
-# Last scan 2026-11-02T03:50:35Z - mode: free (box heartbeat 6 min old (fresh) - box covers Helius)
+# Last scan 2026-11-02T03:58:35Z - mode: free (box heartbeat 5 min old (fresh) - box covers Helius)
 
 ```
-[fast_scan] 129 candidate mints from 9 source tags; 119 with pair data; 27 >= $50,000 liq; 12 pass survivor pre-gates (10s)
+[fast_scan] 127 candidate mints from 9 source tags; 117 with pair data; 25 >= $50,000 liq; 12 pass survivor pre-gates (10s)
 [fast_scan] FREE-ONLY pass: 5 candidate(s) NOT scored (no Helius) - results UNVERIFIED
-# Market scan 2026-11-02 03:49 UTC
+# Market scan 2026-11-02 03:57 UTC
 
 **UNVERIFIED: free-API-only pass (no Helius scoring this run). Rows below are pre-rank red flags from DEX Screener/GeckoTerminal/pump.fun only.**
 
 Info/risk only, not advice. Risk 0-100, higher = riskier; a low score = fewer red flags found, NOT safe. * = incomplete score.
 
 ## Market context
-- Majors: BTC $78,598 (+1.1% 24h), ETH $2,307 (+1.8% 24h), SOL $95.58 (-0.0% 24h)
+- Majors: BTC $78,732 (+1.3% 24h), ETH $2,307 (+1.7% 24h), SOL $95.50 (-0.1% 24h)
 - Fear & Greed: 37 (Fear)
 - Sector 24h (CoinGecko): solana-meme-coins +1.6% (mcap $2.85B, vol $450.92M), pump-fun -0.2% (mcap $1.05B, vol $103.76M)
 
@@ -32,29 +32,29 @@ Must also pass: no rug-funder or same-operator-as-rug link, no coordinated launc
 
 | Ticker | Mint (full CA) | Liq | Mcap | 1h | 24h | Red flags | Free checks (RugCheck + Jupiter, UNVERIFIED) |
 |---|---|---|---|---|---|---|---|
-| [ANTFUN](https://dexscreener.com/solana/CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt) | `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt` | $17.66M | $33.42M | +1% | +3% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.1%, round-trip loss 0.1%; $100 sell impact 0.1%, round-trip 0.1% / RugCheck 36, LP locked 0.035181877192356305%: Single holder ownership (warn); High holder concentration (warn) |
-| [DJT](https://dexscreener.com/solana/DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF) | `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF` | $402.2k | $108.8k | +0% | +1% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.0%, round-trip loss -0.0%; $100 sell impact 0.0%, round-trip 0.0% / RugCheck 81, LP locked 0%: Mint Authority still enabled (danger); Permanent Control Enabled (danger); Freeze Authority still enabled (danger); Low Liquidity (danger); Single holder ownership (warn) |
-| [CATE](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | $2.20M | $38.58M | +0% | -2% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.4%, round-trip loss 0.4%; $100 sell impact 0.4%, round-trip 0.6% / RugCheck 1, LP locked 78.33285599743498%: no risks listed |
-| [FLOAT](https://dexscreener.com/solana/Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr) | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | $250.8k | $1.58M | -10% | +168% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 1.3%, round-trip loss 2.2%; $100 sell impact 1.3%, round-trip 2.3% / RugCheck 1, LP locked 91.05879872022376%: no risks listed |
-| [GTA 6 Coin](https://pump.fun/coin/EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump) | `EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump` | $175.2k | $1.59M | -2% | +34% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.5%, round-trip loss 0.6%; $100 sell impact 0.6%, round-trip 0.7% / RugCheck 1, LP locked 99.94221660665674%: no risks listed |
-| [JEANPHIL](https://pump.fun/coin/GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump) | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | $291.8k | $3.48M | +1% | +11% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 1.1%, round-trip loss 1.3%; $100 sell impact 1.1%, round-trip 1.5% / RugCheck 1, LP locked 79.52363033240772%: no risks listed |
-| [STONK](https://dexscreener.com/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx) | `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx` | $2.52M | $97.69M | +0% | -2% | liq/mcap 2.6% | Jupiter exit test PASS: $25 sell impact 0.0%, round-trip loss 0.0%; $100 sell impact 0.0%, round-trip 0.0% / RugCheck 1, LP locked 0.0006129550131829516%: no risks listed |
-| [HELL](https://pump.fun/coin/A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump) | `A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump` | $147.8k | $2.81M | -10% | -1% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 4.8%, round-trip loss 5.3%; $100 sell impact 4.9%, round-trip 5.5% / RugCheck 1, LP locked 98.03437265012835%: no risks listed |
-| [CBUCKS](https://pump.fun/coin/DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump) | `DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump` | $141.5k | $1.69M | +1% | +22% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 2.0%, round-trip loss 2.0%; $100 sell impact 2.1%, round-trip 2.3% / RugCheck 1, LP locked 99.98732529691874%: no risks listed |
+| [ANTFUN](https://dexscreener.com/solana/CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt) | `CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt` | $17.73M | $33.60M | +2% | +3% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.1%, round-trip loss 0.1%; $100 sell impact 0.1%, round-trip 0.1% / RugCheck 36, LP locked 0.03518188041621969%: Single holder ownership (warn); High holder concentration (warn) |
+| [DJT](https://dexscreener.com/solana/DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF) | `DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF` | $421.5k | $108.8k | -0% | +1% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.0%, round-trip loss 0.0%; $100 sell impact 0.0%, round-trip 0.0% / RugCheck 81, LP locked 0%: Mint Authority still enabled (danger); Permanent Control Enabled (danger); Freeze Authority still enabled (danger); Low Liquidity (danger); Single holder ownership (warn) |
+| [CATE](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | $2.20M | $38.50M | +0% | -3% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.4%, round-trip loss 0.5%; $100 sell impact 0.4%, round-trip 0.6% / RugCheck 1, LP locked 78.33219151953415%: no risks listed |
+| [FLOAT](https://dexscreener.com/solana/Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr) | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | $250.8k | $1.58M | -9% | +168% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 2.1%, round-trip loss 2.5%; $100 sell impact 2.2%, round-trip 2.7% / RugCheck 1, LP locked 91.59869387016279%: no risks listed |
+| [GTA 6 Coin](https://pump.fun/coin/EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump) | `EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump` | $176.2k | $1.61M | -2% | +36% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.5%, round-trip loss 0.6%; $100 sell impact 0.6%, round-trip 0.7% / RugCheck 1, LP locked 99.94220404770287%: no risks listed |
+| [STONK](https://dexscreener.com/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx) | `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx` | $2.52M | $97.59M | +1% | -2% | liq/mcap 2.6% | Jupiter exit test PASS: $25 sell impact 0.0%, round-trip loss -0.0%; $100 sell impact 0.0%, round-trip 0.1% / RugCheck 1, LP locked 0.0006129550131829516%: no risks listed |
+| [JEANPHIL](https://pump.fun/coin/GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump) | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | $291.2k | $3.47M | +2% | +13% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 1.1%, round-trip loss 1.1%; $100 sell impact 1.1%, round-trip 1.5% / RugCheck 1, LP locked 79.51287522383424%: no risks listed |
+| [HELL](https://pump.fun/coin/A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump) | `A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump` | $147.8k | $2.82M | -9% | -2% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 3.9%, round-trip loss 5.0%; $100 sell impact 4.0%, round-trip 5.5% / RugCheck 1, LP locked 99.2759389280249%: no risks listed |
+| [CBUCKS](https://pump.fun/coin/DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump) | `DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump` | $140.5k | $1.67M | +1% | +20% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 2.0%, round-trip loss 2.0%; $100 sell impact 2.1%, round-trip 2.2% / RugCheck 1, LP locked 99.9873242409212%: no risks listed |
 
 ## Biggest movers (mostly traps)
 Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free data); not scored unless --score-movers.
 
 | Ticker | Mint (full CA) | Liq | Mcap | 1h | 6h | 24h | Vol/liq | Red flags | Risk |
 |---|---|---|---|---|---|---|---|---|---|
-| [ANAKIN](https://pump.fun/coin/8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump) | `8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump` | $151.7k | $2.98M | +4% | +5733% | +5733% | 28.8x | churn 29x vol/liq; spike (+4% 1h, +5733% 6h) | not scored |
-| [STEALTH](https://dexscreener.com/solana/GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA) | `GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA` | $56.2k | $395.5k | +101% | +933% | +933% | 31.3x | churn 31x vol/liq; spike (+101% 1h, +933% 6h) | not scored |
-| [NNH](https://pump.fun/coin/4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump) | `4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump` | $31.6k | $151.6k | +279% | +279% | +279% | 8.3x | thin liq $31.6k; spike (+279% 1h, +279% 6h); < 1h old | not scored |
-| [BABYPUMP](https://pump.fun/coin/6w12CQQFkw2fRWhRxHuKULVE6QEuMzjyrcASq6NQpump) | `6w12CQQFkw2fRWhRxHuKULVE6QEuMzjyrcASq6NQpump` | $57.6k | $409.3k | +16% | +517% | +517% | 9.3x | spike (+16% 1h, +517% 6h) | not scored |
-| [PI](https://pump.fun/coin/93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump) | `93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump` | $37.6k | $182.1k | +8% | +403% | +392% | 43.7x | thin liq $37.6k; churn 44x vol/liq; spike (+8% 1h, +403% 6h) | not scored |
-| [WASTED](https://pump.fun/coin/GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump) | `GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump` | $80.1k | $729.0k | +14% | +280% | +414% | 9.4x | none flagged (still high risk) | not scored |
+| [ANAKIN](https://pump.fun/coin/8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump) | `8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump` | $153.3k | $3.05M | +14% | +5861% | +5861% | 28.6x | churn 29x vol/liq; spike (+14% 1h, +5861% 6h) | not scored |
+| [STEALTH](https://dexscreener.com/solana/GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA) | `GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA` | $60.7k | $463.1k | +128% | +1109% | +1109% | 29.6x | churn 30x vol/liq; spike (+128% 1h, +1109% 6h) | not scored |
+| [NNH](https://pump.fun/coin/4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump) | `4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump` | $26.1k | $105.4k | +170% | +170% | +170% | 11.7x | thin liq $26.1k; spike (+170% 1h, +170% 6h); < 1h old | not scored |
+| [WASTED](https://pump.fun/coin/GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump) | `GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump` | $84.0k | $802.4k | +34% | +276% | +491% | 9.1x | none flagged (still high risk) | not scored |
+| [PI](https://pump.fun/coin/93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump) | `93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump` | $38.6k | $191.6k | +17% | +136% | +417% | 43.0x | thin liq $38.6k; churn 43x vol/liq | not scored |
+| [HYPEFAUCET](https://dexscreener.com/solana/HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip) | `HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip` | $10.6k | $18.9k | +21% | -8% | +468% | 15.8x | thin liq $10.6k | not scored |
 
-_Timing: total 25s (discovery 9.0s, screen 1.3s, GT prime 15.1s, scoring 0.0s for 0 coins, 0 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 0/18; Helius 429s 0; DEX Screener ok._
+_Timing: total 12s (discovery 8.9s, screen 1.4s, GT prime 1.2s, scoring 0.0s for 0 coins, 0 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 2/18; Helius 429s 0; DEX Screener ok._
 
 _Full reports: out/<mint>.md (+ .json)_
 ```
