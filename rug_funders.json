@@ -35633,6 +35633,204 @@
     "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
    ],
    "confidence": "medium"
+  },
+  {
+   "address": "HdwBpavoZB91pR8FwWxAK3tH2w7bd1w27qaoqkX4LCj8",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 17.9% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "GV89i7BwSLsJPyBjH9J9tQ84ix3LyAU5cfgrsu1RiM93",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 11.1% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "4VoNVBMokp7D8KwUvHrq3NVXnSTj3hfez8i4qvJMx22a",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 10.1% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "5KWJS4egSD7scfK1ChVtDWhR21WqvGXaUFMkpVRSDtRm",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.4% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "ZTGWmfQg4UB1Eu1DhwmsiNpFDWCBnxsTbbWf7uMiL25",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.0% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "5Ldok4FuYi4Rj1pYz7y7Nt5k36EW7e55KHBxQ2nRtpc7",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.5% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "HDW8bFSj1GqMLNrZv1ohCv8WsitLVMKgg1XXFV3AApNo",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 4.2% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "Dqe9CVg3g3Bu1SySVNMrtwaKxyMVqDfHGj5ydAydwTKK",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.7% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "Acng5Y3SBodVxDqgHNUh29y4KoUP3mn9QpAVMx4FSt9a",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.5% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "5pXT1MRq4o4AoKsoEHLSJ7xYm4sTvb8braGP6yJhiqu1",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.1% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "4TbfFZe1J6hXgyN9ddPX2ys5uRL4NzmnGe4wLfy2NtaS",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.1% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "BfX8Szo7JRT4ac864563je7LddCPgd8xKT3ZF7YL84UP",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.0% of Ahsoka in launch slot +0 and now holds 0.0%; Ahsoka SKIP (#14 FAIL coordinated launch; #12 launch bundle 88%; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "5ixmtzSCp5LvwihvEaeMW34WMCp95Ev1FN5BHzqx5m4s",
+   "label": "creator",
+   "evidence": "Deployer of ANONVOYAGE (8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump); ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 92%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
+  },
+  {
+   "address": "4uKmm8rd8fJYqd4bksn6C7bupadJTzWeytZ94rkNUh26",
+   "label": "cluster funder/creator funder/launch hub",
+   "evidence": "First SOL funder of the ANONVOYAGE creator (0.203 SOL); ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 92%; outcome alive) | Funded the ANONVOYAGE creator + 8 checked wallet(s) (cluster got 92.5% at launch); ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 92%; outcome alive) | Multi-hop hub linked to the creator + 8 launch buyer(s) of ANONVOYAGE; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 92%; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "cluster funder",
+    "creator funder",
+    "launch hub"
+   ]
   }
  ]
 }
