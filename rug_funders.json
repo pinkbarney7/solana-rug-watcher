@@ -22008,12 +22008,13 @@
   {
    "address": "8zxkmeqHrpmqyzCSGxLNWZ4W7ZgjwHuo4HV11ALceNAg",
    "label": "creator funder",
-   "evidence": "First SOL funder of the McDonald's creator (100.000 SOL); McDonald's SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the McDonald's creator (100.000 SOL); McDonald's SKIP (#15 rug-list link; outcome rugged)",
+   "evidence": "First SOL funder of the McDonald's creator (100.000 SOL); McDonald's SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the McDonald's creator (100.000 SOL); McDonald's SKIP (#15 rug-list link; outcome rugged) | First SOL funder of the Microsoft creator (5.000 SOL); down 99.5% from 30d daily high, liquidity $1,703; coordinated-launch FAIL (#14)",
    "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
    "first_seen": "2026-10-23",
    "linked_mints": [
     "ChNVqpDgDBqR3PMRyidBAig1zvieDqxiNdgqVL3gpump",
-    "D4vfg5KMtASAKYXWsV6onBTfwE1Z9YvNaECDcpWEpump"
+    "D4vfg5KMtASAKYXWsV6onBTfwE1Z9YvNaECDcpWEpump",
+    "5ZgbNghH8XoFBLF3Lg2dUXM9p93wKD48a993opfGpump"
    ],
    "confidence": "high",
    "roles": [
@@ -35498,6 +35499,116 @@
    "first_seen": "2026-11-03",
    "linked_mints": [
     "tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "GwuwaRuta4xkqCy6qFpawkNV7oG5Tph9dig5WzUZVAM6",
+   "label": "XTO creator",
+   "evidence": "Deployer of XTO (A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump); down 100.0% from 30d daily high, liquidity $2,166",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "4qxcpmmoYGEzZqhdjsWMQ6kKWrsHT5Ar1pLk1tBaqJ4F",
+   "label": "XTO creator funder",
+   "evidence": "First SOL funder of the XTO creator (100.000 SOL); down 100.0% from 30d daily high, liquidity $2,166",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "ACbKBf4GBgfGWXxrQMLw1yPgzQt7X1fDgnFiqMYRJVxa",
+   "label": "XTX creator",
+   "evidence": "Deployer of XTX (MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump); down 100.0% from 30d daily high, liquidity $2,359",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "21C4A8MEQzjJgKuKbBBZR3RM5cRG33igX4NXB2mr4bEc",
+   "label": "XTX creator funder",
+   "evidence": "First SOL funder of the XTX creator (7250.166 SOL); down 100.0% from 30d daily high, liquidity $2,359",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "MhS9V89S8sjXsR2Rr4FepejadW9m1airQiJ44DKpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "AFVeiTKHLqs7Pi1ztHQ9WFEMBiNL8oYoxp82vWpeLznY",
+   "label": "Microsoft creator",
+   "evidence": "Deployer of Microsoft (5ZgbNghH8XoFBLF3Lg2dUXM9p93wKD48a993opfGpump); down 99.5% from 30d daily high, liquidity $1,703; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "5ZgbNghH8XoFBLF3Lg2dUXM9p93wKD48a993opfGpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "6DVuG9b6xfxahyYwhcQVPU7Rr95ZX3n4n6KNamWSyYLh",
+   "label": "Microsoft launch hub",
+   "evidence": "Multi-hop hub: linked to 6 launch buyer(s) (6 direct, max 1 hops) that got 80.0% at launch; down 99.5% from 30d daily high, liquidity $1,703; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "5ZgbNghH8XoFBLF3Lg2dUXM9p93wKD48a993opfGpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "7d2XzuQwgjAHhmVDppyfruH6msc3qAim5NRrWnprrTFz",
+   "label": "USDF creator",
+   "evidence": "Deployer of USDF (XvyazUCqTWkoB2N8haCJHJBCaiabCnXiqJyBjncpump); down 100.0% from 30d daily high, liquidity $2,517",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "XvyazUCqTWkoB2N8haCJHJBCaiabCnXiqJyBjncpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "F356NwQugrcUBD5cK5oX1RnHbe8Y2HL5NABFFG1qmxRf",
+   "label": "USDF creator funder",
+   "evidence": "First SOL funder of the USDF creator (0.010 SOL); down 100.0% from 30d daily high, liquidity $2,517",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "XvyazUCqTWkoB2N8haCJHJBCaiabCnXiqJyBjncpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "3rnuhgkpwpjkYyCK7vHKqqtXbwcGZgiAY5jPbZME3gFZ",
+   "label": "ADP creator",
+   "evidence": "Deployer of ADP (a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump); down 100.0% from 30d daily high, liquidity $2,681",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "H8JrvjGzEXDdaczCzv6AQKnZhTYN7Qc63Yr6Avsiq1Xc",
+   "label": "ADP creator funder",
+   "evidence": "First SOL funder of the ADP creator (0.010 SOL); down 100.0% from 30d daily high, liquidity $2,681",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump"
    ],
    "confidence": "medium"
   }
