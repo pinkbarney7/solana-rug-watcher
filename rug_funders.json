@@ -35611,6 +35611,28 @@
     "a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump"
    ],
    "confidence": "medium"
+  },
+  {
+   "address": "k516FHBvR4JQc2pizCzvyFBxX8QkLSv6wUcBbCUDV1a",
+   "label": "Ahsoka creator",
+   "evidence": "Deployer of Ahsoka (4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump); coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "GP1ThPaqET7FHxKmiQ1Vzz1ZrNGxnMcKFkVuKMQcR6Nx",
+   "label": "Ahsoka operator funder",
+   "evidence": "Funded Ahsoka creator + 31 other checked wallet(s); cluster got 82.3% at launch; coordinated-launch FAIL (#14)",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump"
+   ],
+   "confidence": "medium"
   }
  ]
 }
