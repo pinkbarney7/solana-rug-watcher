@@ -35831,6 +35831,118 @@
     "creator funder",
     "launch hub"
    ]
+  },
+  {
+   "address": "DCcAt7FV2SokHQ7sYKJbzfTr8ZPExTyp4AYY6EkYpRL3",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 17.8% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "LyCwG1UBjfG6dDeuqogVbu2tKHGx8J9oyX2qosTEHFr",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 17.7% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "8AUvjA2jvLBbSvcqD449jFgzPgpTe9GkWTsgAKbpPJGn",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 15.3% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "CzmdNXdmK1aNJmaracc9KWKYg5dpFVPkJFEHHmdFzh9c",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 14.3% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "8u49tb22avwiXjrnfNK3AY8JfSigmwcp9Ca5UrRijWDw",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 10.8% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "H1GHtFvhCX9LybBk4HG3B3NnWxBqo3g7fe6oZsFkSyK5",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 7.6% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "AVxFLVYpcVq4umEaoytjD3iFemCZZS7dQ2EV5QT9Rdt8",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 5.6% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
+  },
+  {
+   "address": "TvwLEGeJR87Nh6k17h9GvT2dZsTnaRTPgKKGUG4Y15k",
+   "label": "bundle buyer (sold into retail)",
+   "evidence": "Took 3.4% of ANONVOYAGE in launch slot +0 and now holds 0.0%; ANONVOYAGE SKIP (#14 FAIL coordinated launch; #12 launch bundle 93%; #7 insider FAIL; outcome alive)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "bundle buyer (sold into retail)"
+   ]
   }
  ]
 }
