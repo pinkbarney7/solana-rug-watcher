@@ -35456,6 +35456,50 @@
    "roles": [
     "bundle buyer (sold into retail)"
    ]
+  },
+  {
+   "address": "9wEagUbKw5LSx8EoAE2AxswSyXxHPwqVBRZ4jQQBdet8",
+   "label": "FOTF creator",
+   "evidence": "Deployer of FOTF (ZZ6PrTC9c4dgLYmvJ2PntETL54RDnV5zTzGgJEEpump); down 100.0% from 30d daily high, liquidity $2,146",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "ZZ6PrTC9c4dgLYmvJ2PntETL54RDnV5zTzGgJEEpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "HaHUoiduz3481oAHe2RUkPj75fajoxX15rZfipB7Htv5",
+   "label": "FOTF creator funder",
+   "evidence": "First SOL funder of the FOTF creator (119.360 SOL); down 100.0% from 30d daily high, liquidity $2,146",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "ZZ6PrTC9c4dgLYmvJ2PntETL54RDnV5zTzGgJEEpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "D9afGMEpJkwVaQdP3LouNNMunnNa8uJqR1KcKFUMCtK6",
+   "label": "NAFF creator",
+   "evidence": "Deployer of NAFF (tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump); down 100.0% from 30d daily high, liquidity $2,176",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "address": "AtZfoNnVUQyyzuK9b2EG9h2j5jKKTcPtTPFwUAgUQr2m",
+   "label": "NAFF creator funder",
+   "evidence": "First SOL funder of the NAFF creator (345.807 SOL); down 100.0% from 30d daily high, liquidity $2,176",
+   "source": "learn_rugs.py (scorecard Helius + DexS/GeckoTerminal)",
+   "first_seen": "2026-11-03",
+   "linked_mints": [
+    "tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump"
+   ],
+   "confidence": "medium"
   }
  ]
 }
