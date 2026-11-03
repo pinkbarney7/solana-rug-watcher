@@ -1,17 +1,17 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-03 11:05 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-03 11:15 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 13 | Open: 6 | Not opened (failed sell gate): 0
 Win rate 31% | avg return -25.0% | expectancy $-6.24 per $25 trade | total $-81.16
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| MISTAKE | [`HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump`](https://pump.fun/coin/HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | +2.2% |
+| MISTAKE | [`HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump`](https://pump.fun/coin/HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | +1.7% |
 | NAFF | [`tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump`](https://pump.fun/coin/tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | -4.6% |
 | XTO | [`A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump`](https://pump.fun/coin/A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | -6.0% |
 | ADP | [`a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump`](https://pump.fun/coin/a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | +0.0% |
 | FOTF | [`ZZ6PrTC9c4dgLYmvJ2PntETL54RDnV5zTzGgJEEpump`](https://pump.fun/coin/ZZ6PrTC9c4dgLYmvJ2PntETL54RDnV5zTzGgJEEpump) | scored_scorecard | CAUTION | 2026-11-03 08:27 EST | open | +0.0% |
-| HAMSTER | [`7gCND4jhgJ8Mq1XxNhRdercinXh7fcCDPjA9uEQLk3f2`](https://dexscreener.com/solana/7gCND4jhgJ8Mq1XxNhRdercinXh7fcCDPjA9uEQLk3f2) | scored_fast_scan | PASSES-BASIC-CHECKS | 2026-11-03 08:07 EST | open | -14.5% |
+| HAMSTER | [`7gCND4jhgJ8Mq1XxNhRdercinXh7fcCDPjA9uEQLk3f2`](https://dexscreener.com/solana/7gCND4jhgJ8Mq1XxNhRdercinXh7fcCDPjA9uEQLk3f2) | scored_fast_scan | PASSES-BASIC-CHECKS | 2026-11-03 08:07 EST | open | -24.5% |
 | HI | [`6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump`](https://pump.fun/coin/6iAj2oywQMiD9NeyTcW1S7UtG7e3jSK7Ud5ZJDqJpump) | scored_scorecard | CAUTION | 2026-11-02 08:35 EST | closed (24h time exit) | +6.4% |
 | ANSEM | [`CvRJ8MrnB1AwjrgX25uyeLJiXNSugTo2ZHh8UXDTpump`](https://pump.fun/coin/CvRJ8MrnB1AwjrgX25uyeLJiXNSugTo2ZHh8UXDTpump) | scored_fast_scan | CAUTION | 2026-11-02 08:05 EST | closed (stop -50%) | -52.1% |
 | TripleT | [`J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump`](https://pump.fun/coin/J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump) | scored_fast_scan | PASSES-BASIC-CHECKS | 2026-11-02 08:05 EST | closed (24h time exit) | -5.3% |
