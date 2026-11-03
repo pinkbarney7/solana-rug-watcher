@@ -1,13 +1,13 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-03 13:43 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-03 13:53 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 14 | Open: 6 | Not opened (failed sell gate): 0
 Win rate 29% | avg return -27.2% | expectancy $-6.79 per $25 trade | total $-95.06
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| BINGUS | [`2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat`](https://dexscreener.com/solana/2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat) | scored_fast_scan | CAUTION | 2026-11-03 13:02 EST | open | -27.7% |
-| MISTAKE | [`HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump`](https://pump.fun/coin/HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | +1.9% |
+| BINGUS | [`2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat`](https://dexscreener.com/solana/2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat) | scored_fast_scan | CAUTION | 2026-11-03 13:02 EST | open | -28.7% |
+| MISTAKE | [`HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump`](https://pump.fun/coin/HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | +4.1% |
 | NAFF | [`tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump`](https://pump.fun/coin/tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | -4.6% |
 | XTO | [`A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump`](https://pump.fun/coin/A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | -6.0% |
 | ADP | [`a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump`](https://pump.fun/coin/a9mnzCYaFmjQ7v3oREkNScu78A6ofrYo3ApLKfLpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | open | +0.0% |
