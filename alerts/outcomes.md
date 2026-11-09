@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 17:22 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 17:34 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 2 | 14.2% | 0 |
 | CAUTION | 6h | 1 | -38.9% | 0 |
 | SKIP | 1h | 22 | 0.0% | 0 |
-| SKIP | 6h | 18 | 0.0% | 0 |
+| SKIP | 6h | 19 | 0.0% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -15,7 +15,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MYWAY | `tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump` | CAUTION | 37 | 14.2% / liq $67,381 | - | - |
 | HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | - | - |
 | JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | -2.3% / liq $291,205 | - | - |
-| USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | - | - |
+| USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | -0.1% / liq $3,875,592 | - |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | -4.9% / liq $1,667,149 | - |
 | Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | -12.8% / liq $134,901 | 101.1% / liq $223,724 | - |
 | POPCAT | `7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr` | SKIP | 47 | 0.6% / liq $2,806,188 | 2.7% / liq $2,846,589 | - |
