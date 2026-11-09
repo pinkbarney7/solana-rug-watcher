@@ -35943,6 +35943,20 @@
    "roles": [
     "bundle buyer (sold into retail)"
    ]
+  },
+  {
+   "address": "HrHJputHcA8mkwrcQB3GkrJ2u1f7Fm4LzAZptSYSsUcf",
+   "label": "creator",
+   "evidence": "Deployer of Pnut  (2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump); Pnut  SKIP (#7 insider FAIL; outcome survived)",
+   "source": "wallet_discovery.py (saved scorecards + daemon bursts, 0 credits)",
+   "first_seen": "2026-11-09",
+   "linked_mints": [
+    "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump"
+   ],
+   "confidence": "medium",
+   "roles": [
+    "creator"
+   ]
   }
  ]
 }
