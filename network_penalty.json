@@ -1,61 +1,61 @@
 {
  "_note": "Penalties for live/watched coins sharing creator/funder/hub wallets with confirmed rugs. Leads, not proof. Built by learn.py.",
- "updated_et": "2026-11-09 15:46 EST",
+ "updated_et": "2026-11-09 16:03 EST",
  "coins": {
-  "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-   "ticker": "CATE",
-   "penalty": 25,
+  "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump": {
+   "ticker": "CLAW",
+   "penalty": 20,
    "rugged_coins": [
-    "EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump",
-    "FRrgj2BXQjzGTiCmG5KuNqmnXFnhuXmJdfbr6PELpump"
+    "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
+    "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR"
    ],
    "n_rugged": 2,
    "via": [
     {
-     "wallet": "D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA",
-     "role": "creator",
-     "rug_mint": "FRrgj2BXQjzGTiCmG5KuNqmnXFnhuXmJdfbr6PELpump",
-     "rug_ticker": "pumpkinu",
-     "rug_role": "creator"
+     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
+     "role": "funder",
+     "rug_mint": "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR",
+     "rug_ticker": "RARI",
+     "rug_role": "creator funder"
     },
     {
-     "wallet": "D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA",
-     "role": "creator",
-     "rug_mint": "EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump",
-     "rug_ticker": "CAP",
-     "rug_role": "creator"
+     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
+     "role": "funder",
+     "rug_mint": "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
+     "rug_ticker": "BREZ",
+     "rug_role": "funder"
     },
     {
-     "wallet": "D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA",
-     "role": "creator",
+     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
+     "role": "funder",
      "rug_mint": null,
-     "rug_ticker": "creator",
+     "rug_ticker": "creator funder",
      "rug_role": "rug-list (high)"
     },
     {
-     "wallet": "9UMT5rc1XhzqeMwNyxMAeR8Nq3FJ3RZzGzY9M4z7PmCu",
-     "role": "creator funder",
-     "rug_mint": "FRrgj2BXQjzGTiCmG5KuNqmnXFnhuXmJdfbr6PELpump",
-     "rug_ticker": "pumpkinu",
+     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
+     "role": "hub",
+     "rug_mint": "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR",
+     "rug_ticker": "RARI",
      "rug_role": "creator funder"
     },
     {
-     "wallet": "9UMT5rc1XhzqeMwNyxMAeR8Nq3FJ3RZzGzY9M4z7PmCu",
-     "role": "creator funder",
-     "rug_mint": "EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump",
-     "rug_ticker": "CAP",
-     "rug_role": "creator funder"
+     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
+     "role": "hub",
+     "rug_mint": "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
+     "rug_ticker": "BREZ",
+     "rug_role": "funder"
     },
     {
-     "wallet": "9UMT5rc1XhzqeMwNyxMAeR8Nq3FJ3RZzGzY9M4z7PmCu",
-     "role": "creator funder",
+     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
+     "role": "hub",
      "rug_mint": null,
-     "rug_ticker": "creator funder/launch hub",
+     "rug_ticker": "creator funder",
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-09 15:46 EST",
-   "note": "linked to rugged network (lead, not proof): shares creator wallet D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA with 2 rugged coin(s) e.g. pumpkinu EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump; network penalty +25"
+   "updated_et": "2026-11-09 16:03 EST",
+   "note": "linked to rugged network (lead, not proof): shares funder wallet G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t with 2 rugged coin(s) e.g. RARI 9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump; network penalty +20"
   },
   "CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump": {
    "ticker": "biketyson",
@@ -117,63 +117,63 @@
      "rug_role": "funder"
     }
    ],
-   "updated_et": "2026-11-09 15:46 EST",
+   "updated_et": "2026-11-09 16:03 EST",
    "note": "linked to rugged network (lead, not proof): shares creator wallet 2mqrindMAjJEQPLhroYWyiYPo5h9iAsahfdd4QtsjwdY with 27 rugged coin(s) e.g. ARTEMI 147x7nhbFo5uwYBp8KpQJn5e9gY3Y4Z2vzDCEpupump; network penalty +30"
   },
-  "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump": {
-   "ticker": "CLAW",
-   "penalty": 20,
+  "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
+   "ticker": "CATE",
+   "penalty": 25,
    "rugged_coins": [
-    "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
-    "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR"
+    "EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump",
+    "FRrgj2BXQjzGTiCmG5KuNqmnXFnhuXmJdfbr6PELpump"
    ],
    "n_rugged": 2,
    "via": [
     {
-     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
-     "role": "funder",
-     "rug_mint": "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR",
-     "rug_ticker": "RARI",
-     "rug_role": "creator funder"
+     "wallet": "D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA",
+     "role": "creator",
+     "rug_mint": "FRrgj2BXQjzGTiCmG5KuNqmnXFnhuXmJdfbr6PELpump",
+     "rug_ticker": "pumpkinu",
+     "rug_role": "creator"
     },
     {
-     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
-     "role": "funder",
-     "rug_mint": "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
-     "rug_ticker": "BREZ",
-     "rug_role": "funder"
+     "wallet": "D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA",
+     "role": "creator",
+     "rug_mint": "EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump",
+     "rug_ticker": "CAP",
+     "rug_role": "creator"
     },
     {
-     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
-     "role": "funder",
+     "wallet": "D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA",
+     "role": "creator",
      "rug_mint": null,
-     "rug_ticker": "creator funder",
+     "rug_ticker": "creator",
      "rug_role": "rug-list (high)"
     },
     {
-     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
-     "role": "hub",
-     "rug_mint": "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR",
-     "rug_ticker": "RARI",
+     "wallet": "9UMT5rc1XhzqeMwNyxMAeR8Nq3FJ3RZzGzY9M4z7PmCu",
+     "role": "creator funder",
+     "rug_mint": "FRrgj2BXQjzGTiCmG5KuNqmnXFnhuXmJdfbr6PELpump",
+     "rug_ticker": "pumpkinu",
      "rug_role": "creator funder"
     },
     {
-     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
-     "role": "hub",
-     "rug_mint": "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
-     "rug_ticker": "BREZ",
-     "rug_role": "funder"
+     "wallet": "9UMT5rc1XhzqeMwNyxMAeR8Nq3FJ3RZzGzY9M4z7PmCu",
+     "role": "creator funder",
+     "rug_mint": "EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump",
+     "rug_ticker": "CAP",
+     "rug_role": "creator funder"
     },
     {
-     "wallet": "G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t",
-     "role": "hub",
+     "wallet": "9UMT5rc1XhzqeMwNyxMAeR8Nq3FJ3RZzGzY9M4z7PmCu",
+     "role": "creator funder",
      "rug_mint": null,
-     "rug_ticker": "creator funder",
+     "rug_ticker": "creator funder/launch hub",
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-09 15:46 EST",
-   "note": "linked to rugged network (lead, not proof): shares funder wallet G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t with 2 rugged coin(s) e.g. RARI 9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump; network penalty +20"
+   "updated_et": "2026-11-09 16:03 EST",
+   "note": "linked to rugged network (lead, not proof): shares creator wallet D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA with 2 rugged coin(s) e.g. pumpkinu EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump; network penalty +25"
   }
  }
 }
