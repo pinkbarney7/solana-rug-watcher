@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 20:02 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 20:21 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| TJR | `Hc6295k1Cu9emcLYzMZNZHoqg87CqKXkpPvBMjramk9q` | SKIP | 60 | - | - | - |
+| DOPE | `H5CPUyFcLWRsNKmxnqGBboXErgPv43MUkfTft7nA5BzE` | CAUTION | 52 | - | - | - |
+| HODLER | `8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump` | SKIP | 79 | - | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 80 | -0.3% / liq $2,338,936 | - | - |
 | MYWAY | `tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump` | CAUTION | 37 | 14.2% / liq $67,381 | - | - |
 | HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | -1.9% / liq $300,901 | - |
