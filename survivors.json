@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:47:25",
+ "updated": "2026-11-09T08:59:43",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -12,7 +12,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:37:46+00:00",
+   "scored_at": "2026-11-09T08:58:40+00:00",
    "path": "survivor"
   },
   {
@@ -26,7 +26,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:46:22+00:00",
+   "scored_at": "2026-11-09T08:58:39+00:00",
    "path": "survivor"
   },
   {
@@ -39,7 +39,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:46:22+00:00",
+   "scored_at": "2026-11-09T08:59:43+00:00",
    "path": "survivor"
   },
   {
@@ -51,57 +51,57 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T08:46:11+00:00",
+   "scored_at": "2026-11-09T08:58:30+00:00",
    "path": "young"
   },
   {
    "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump",
    "ticker": "CHILL",
-   "risk": 54,
+   "risk": 67,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-09T08:46:20+00:00",
+   "scored_at": "2026-11-09T08:58:40+00:00",
    "path": "young"
   },
   {
    "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump",
    "ticker": "BAWSAQ",
-   "risk": 70,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-09T08:46:20+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat",
-   "ticker": "PUSSY",
-   "risk": 55,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T08:46:20+00:00",
+   "scored_at": "2026-11-09T08:58:38+00:00",
    "path": "young"
   },
   {
-   "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
-   "ticker": "BTC",
-   "risk": 60,
+   "mint": "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat",
+   "ticker": "PUSSY",
+   "risk": 68,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:46:22+00:00",
+   "scored_at": "2026-11-09T08:58:40+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
+   "ticker": "BTC",
+   "risk": 44,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T08:58:39+00:00",
    "path": "young"
   },
   {
@@ -126,7 +126,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:46:22+00:00",
+   "scored_at": "2026-11-09T08:58:38+00:00",
    "path": "young"
   },
   {
