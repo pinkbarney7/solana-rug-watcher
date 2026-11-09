@@ -1,6 +1,6 @@
 {
  "_note": "Penalties for live/watched coins sharing creator/funder/hub wallets with confirmed rugs. Leads, not proof. Built by learn.py.",
- "updated_et": "2026-11-09 08:21 EST",
+ "updated_et": "2026-11-09 08:31 EST",
  "coins": {
   "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump": {
    "ticker": "CLAW",
@@ -54,7 +54,7 @@
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-09 08:21 EST",
+   "updated_et": "2026-11-09 08:31 EST",
    "note": "linked to rugged network (lead, not proof): shares funder wallet G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t with 2 rugged coin(s) e.g. RARI 9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump; network penalty +20"
   },
   "CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump": {
@@ -117,7 +117,7 @@
      "rug_role": "funder"
     }
    ],
-   "updated_et": "2026-11-09 08:21 EST",
+   "updated_et": "2026-11-09 08:31 EST",
    "note": "linked to rugged network (lead, not proof): shares creator wallet 2mqrindMAjJEQPLhroYWyiYPo5h9iAsahfdd4QtsjwdY with 27 rugged coin(s) e.g. ARTEMI 147x7nhbFo5uwYBp8KpQJn5e9gY3Y4Z2vzDCEpupump; network penalty +30"
   },
   "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
@@ -172,7 +172,7 @@
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-09 08:21 EST",
+   "updated_et": "2026-11-09 08:31 EST",
    "note": "linked to rugged network (lead, not proof): shares creator wallet D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA with 2 rugged coin(s) e.g. pumpkinu EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump; network penalty +25"
   }
  }
