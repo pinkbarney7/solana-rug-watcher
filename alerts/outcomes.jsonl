@@ -16,3 +16,4 @@
 {"mint": "euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA", "ticker": "EUROP", "t0": 1794218907.0, "verdict": "SKIP", "risk": 73, "p0": 1.11, "liq0": 1164508.92, "mcap0": 16411506.0, "1h": {"price": 1.11, "liq": 1164660.1, "chg_pct": 0.0, "liq_chg_pct": 0.0, "late_min": 1}}
 {"mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr", "ticker": "POPCAT", "t0": 1794219938.0, "verdict": "SKIP", "risk": 47, "p0": 0.03406, "liq0": 3359032.6100000003, "mcap0": 33378796.0}
 {"mint": "22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp", "ticker": "Pepetide", "t0": 1794222503.0, "verdict": "SKIP", "risk": 54, "p0": 0.0004173, "liq0": 167795.94999999998, "mcap0": 417367.0}
+{"mint": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG", "ticker": "BIRB", "t0": 1794222815.0, "verdict": "SKIP", "risk": 57, "p0": 0.09419, "liq0": 1693737.0799999998, "mcap0": 26845975.0}

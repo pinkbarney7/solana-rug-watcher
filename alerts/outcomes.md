@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 11:09 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 11:13 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,6 +9,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | - | - | - |
 | Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | - | - | - |
 | POPCAT | `7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr` | SKIP | 47 | - | - | - |
 | EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | 0.0% / liq $1,164,660 | - | - |
