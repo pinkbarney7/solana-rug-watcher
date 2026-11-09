@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 08:59 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 09:05 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,6 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | - | - | - |
 | OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | SKIP | 45 | - | - | - |
 | ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 52 | 2.2% / liq $1,838,128 | - | - |

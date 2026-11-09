@@ -9,3 +9,4 @@
 {"mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump", "ticker": "CATE", "t0": 1794210045.0, "verdict": "SKIP", "risk": 52, "p0": 0.0297, "liq0": 2222941.12, "mcap0": 28644637.0, "1h": {"price": 0.03036, "liq": 1838128.34, "chg_pct": 2.2, "liq_chg_pct": -17.3, "late_min": 7}}
 {"mint": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump", "ticker": "ELYSION", "t0": 1794212087.0, "verdict": "SKIP", "risk": 71, "p0": 0.002514, "liq0": 131114.42, "mcap0": 2503721.0}
 {"mint": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump", "ticker": "OTC", "t0": 1794214045.0, "verdict": "SKIP", "risk": 45, "p0": 0.006145, "liq0": 596993.74, "mcap0": 3810206.0}
+{"mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump", "ticker": "Fartcoin ", "t0": 1794215124.0, "verdict": "SKIP", "risk": 56, "p0": 0.1126, "liq0": 7318393.2, "mcap0": 112669642.0}

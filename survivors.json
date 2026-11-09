@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:59:43",
+ "updated": "2026-11-09T09:05:24",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -12,7 +12,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:58:40+00:00",
+   "scored_at": "2026-11-09T09:04:21+00:00",
    "path": "survivor"
   },
   {
@@ -26,7 +26,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:58:39+00:00",
+   "scored_at": "2026-11-09T09:04:19+00:00",
    "path": "survivor"
   },
   {
@@ -51,32 +51,32 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T08:58:30+00:00",
+   "scored_at": "2026-11-09T09:04:10+00:00",
    "path": "young"
   },
   {
    "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump",
    "ticker": "CHILL",
-   "risk": 67,
+   "risk": 68,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:58:40+00:00",
+   "scored_at": "2026-11-09T09:04:19+00:00",
    "path": "young"
   },
   {
    "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump",
    "ticker": "BAWSAQ",
-   "risk": 56,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T08:58:38+00:00",
+   "scored_at": "2026-11-09T09:04:18+00:00",
    "path": "young"
   },
   {
@@ -95,38 +95,39 @@
   {
    "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
    "ticker": "BTC",
-   "risk": 44,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-09T08:58:39+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump",
-   "ticker": "NVIDIH",
-   "risk": 52,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-09T08:03:41+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump",
-   "ticker": "ELYSION",
-   "risk": 71,
+   "risk": 60,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T08:58:38+00:00",
+   "scored_at": "2026-11-09T09:04:20+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump",
+   "ticker": "NVIDIH",
+   "risk": 66,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-09T09:04:20+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump",
+   "ticker": "ELYSION",
+   "risk": 58,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T09:04:19+00:00",
    "path": "young"
   },
   {
@@ -139,6 +140,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-09T08:47:25+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "ticker": "Fartcoin ",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T09:05:24+00:00",
    "path": "survivor"
   }
  ]
