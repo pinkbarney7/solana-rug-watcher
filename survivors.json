@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:48:55",
+ "updated": "2026-11-09T12:58:35",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -26,7 +26,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T12:48:55+00:00",
+   "scored_at": "2026-11-09T12:58:33+00:00",
    "path": "survivor"
   },
   {
@@ -39,7 +39,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T12:48:55+00:00",
+   "scored_at": "2026-11-09T12:58:34+00:00",
    "path": "survivor"
   },
   {
@@ -70,13 +70,14 @@
   {
    "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump",
    "ticker": "BAWSAQ",
-   "risk": 58,
+   "risk": 70,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-09T12:48:53+00:00",
+   "scored_at": "2026-11-09T12:58:32+00:00",
    "path": "young"
   },
   {
@@ -88,20 +89,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T12:48:54+00:00",
+   "scored_at": "2026-11-09T12:58:32+00:00",
    "path": "young"
   },
   {
    "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
    "ticker": "BTC",
-   "risk": 55,
-   "verdict": "SKIP",
+   "risk": 37,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-09T12:48:45+00:00",
+   "scored_at": "2026-11-09T12:58:24+00:00",
    "path": "young"
   },
   {
@@ -197,14 +197,13 @@
   {
    "mint": "HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump",
    "ticker": "Elysion Pad",
-   "risk": 61,
-   "verdict": "SKIP",
+   "risk": 45,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-09T12:48:55+00:00",
+   "scored_at": "2026-11-09T12:58:33+00:00",
    "path": "young"
   },
   {
@@ -269,6 +268,19 @@
     "exit test"
    ],
    "scored_at": "2026-11-09T12:48:53+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump",
+   "ticker": "HODL",
+   "risk": 64,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-09T12:58:34+00:00",
    "path": "survivor"
   }
  ]
