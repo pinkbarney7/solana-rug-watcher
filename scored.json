@@ -1,7 +1,7 @@
 {
 "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump": {
-"ts": 1794217092.3157094,
-"liq": 81074.54,
+"ts": 1794217639.2776601,
+"liq": 80123.2,
 "holders": null,
 "risk": 58,
 "verdict": "SKIP"
@@ -14,10 +14,10 @@
 "verdict": "SKIP"
 },
 "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump": {
-"ts": 1794217092.3157206,
-"liq": 74089.65,
+"ts": 1794217639.2776556,
+"liq": 76636.64,
 "holders": null,
-"risk": 43,
+"risk": 44,
 "verdict": "CAUTION"
 },
 "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat": {
@@ -28,43 +28,43 @@
 "verdict": "SKIP"
 },
 "85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump": {
-"ts": 1794217092.3157158,
-"liq": 69268.14,
+"ts": 1794217639.2776666,
+"liq": 66209.57,
 "holders": null,
-"risk": 56,
+"risk": 51,
 "verdict": "SKIP"
 },
 "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh": {
-"ts": 1794217092.3157175,
-"liq": 3471435.4,
+"ts": 1794217639.2776713,
+"liq": 3473150.24,
 "holders": null,
 "risk": 82,
 "verdict": "SKIP"
 },
 "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": {
-"ts": 1794217092.3157187,
-"liq": 50357.53,
+"ts": 1794217639.2776647,
+"liq": 50561.68,
 "holders": null,
 "risk": 66,
 "verdict": "SKIP"
 },
 "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": {
-"ts": 1794217092.3157048,
-"liq": 69401.62,
+"ts": 1794217639.2776632,
+"liq": 68839.99,
 "holders": null,
 "risk": 54,
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794216672.5816476,
-"liq": 2257296.21,
+"ts": 1794217639.2776728,
+"liq": 2252692.9299999997,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
 },
 "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump": {
-"ts": 1794217092.3157141,
-"liq": 88995.18,
+"ts": 1794217639.2776687,
+"liq": 92786.26,
 "holders": null,
 "risk": 70,
 "verdict": "SKIP"
@@ -77,10 +77,10 @@
 "verdict": "SKIP"
 },
 "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump": {
-"ts": 1794217092.3157215,
-"liq": 7344385.67,
+"ts": 1794217639.2776704,
+"liq": 7358241.2700000005,
 "holders": null,
-"risk": 56,
+"risk": 69,
 "verdict": "SKIP"
 },
 "2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr": {

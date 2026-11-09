@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:38:12",
+ "updated": "2026-11-09T09:47:19",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -26,7 +26,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T09:37:09+00:00",
+   "scored_at": "2026-11-09T09:46:16+00:00",
    "path": "survivor"
   },
   {
@@ -38,20 +38,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T09:31:12+00:00",
+   "scored_at": "2026-11-09T09:47:19+00:00",
    "path": "survivor"
   },
   {
    "mint": "85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump",
    "ticker": "0DAY",
-   "risk": 56,
+   "risk": 51,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T09:37:09+00:00",
+   "scored_at": "2026-11-09T09:46:15+00:00",
    "path": "young"
   },
   {
@@ -63,7 +63,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T09:36:59+00:00",
+   "scored_at": "2026-11-09T09:46:14+00:00",
    "path": "young"
   },
   {
@@ -75,7 +75,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T09:37:08+00:00",
+   "scored_at": "2026-11-09T09:46:14+00:00",
    "path": "young"
   },
   {
@@ -94,13 +94,13 @@
   {
    "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
    "ticker": "BTC",
-   "risk": 43,
+   "risk": 44,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T09:37:10+00:00",
+   "scored_at": "2026-11-09T09:46:06+00:00",
    "path": "young"
   },
   {
@@ -113,7 +113,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T09:37:10+00:00",
+   "scored_at": "2026-11-09T09:46:15+00:00",
    "path": "young"
   },
   {
@@ -126,7 +126,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T09:37:09+00:00",
+   "scored_at": "2026-11-09T09:46:16+00:00",
    "path": "young"
   },
   {
@@ -144,13 +144,14 @@
   {
    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
    "ticker": "Fartcoin ",
-   "risk": 56,
+   "risk": 69,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-09T09:38:12+00:00",
+   "scored_at": "2026-11-09T09:46:16+00:00",
    "path": "survivor"
   },
   {
