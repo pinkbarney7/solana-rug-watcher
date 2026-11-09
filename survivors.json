@@ -1,18 +1,17 @@
 {
- "updated": "2026-11-09T11:13:35",
+ "updated": "2026-11-09T11:27:44",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
    "ticker": "ZEC",
-   "risk": 81,
+   "risk": 73,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-09T10:56:29+00:00",
+   "scored_at": "2026-11-09T11:26:41+00:00",
    "path": "survivor"
   },
   {
@@ -25,7 +24,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T11:12:23+00:00",
+   "scored_at": "2026-11-09T11:27:44+00:00",
    "path": "survivor"
   },
   {
@@ -76,32 +75,32 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T11:12:32+00:00",
+   "scored_at": "2026-11-09T11:26:42+00:00",
    "path": "young"
   },
   {
    "mint": "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat",
    "ticker": "PUSSY",
-   "risk": 55,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-09T11:12:32+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
-   "ticker": "BTC",
-   "risk": 59,
+   "risk": 68,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T11:12:34+00:00",
+   "scored_at": "2026-11-09T11:26:41+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
+   "ticker": "BTC",
+   "risk": 37,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T11:26:40+00:00",
    "path": "young"
   },
   {
@@ -114,19 +113,19 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T11:12:33+00:00",
+   "scored_at": "2026-11-09T11:26:42+00:00",
    "path": "young"
   },
   {
    "mint": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump",
    "ticker": "ELYSION",
-   "risk": 58,
+   "risk": 57,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T11:08:21+00:00",
+   "scored_at": "2026-11-09T11:26:32+00:00",
    "path": "young"
   },
   {
@@ -196,13 +195,14 @@
   {
    "mint": "HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump",
    "ticker": "Elysion Pad",
-   "risk": 45,
-   "verdict": "CAUTION",
+   "risk": 61,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-09T11:12:33+00:00",
+   "scored_at": "2026-11-09T11:26:43+00:00",
    "path": "young"
   },
   {
@@ -240,6 +240,19 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-09T11:13:35+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+   "ticker": "USDG",
+   "risk": 71,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "authorities",
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T11:26:42+00:00",
    "path": "survivor"
   }
  ]
