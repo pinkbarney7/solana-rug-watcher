@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:08:27",
+ "updated": "2026-11-09T10:21:38",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -18,14 +18,15 @@
   {
    "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
    "ticker": "NVDAx",
-   "risk": 75,
+   "risk": 82,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-09T10:07:24+00:00",
+   "scored_at": "2026-11-09T10:20:36+00:00",
    "path": "survivor"
   },
   {
@@ -38,7 +39,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T10:07:25+00:00",
+   "scored_at": "2026-11-09T10:20:36+00:00",
    "path": "survivor"
   },
   {
@@ -51,20 +52,20 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T10:07:25+00:00",
+   "scored_at": "2026-11-09T10:20:36+00:00",
    "path": "young"
   },
   {
    "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump",
    "ticker": "CHILL",
-   "risk": 68,
+   "risk": 67,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T10:07:25+00:00",
+   "scored_at": "2026-11-09T10:20:35+00:00",
    "path": "young"
   },
   {
@@ -89,7 +90,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T10:07:15+00:00",
+   "scored_at": "2026-11-09T10:20:34+00:00",
    "path": "young"
   },
   {
@@ -102,7 +103,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T10:07:24+00:00",
+   "scored_at": "2026-11-09T10:20:36+00:00",
    "path": "young"
   },
   {
@@ -205,7 +206,32 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T10:07:23+00:00",
+   "scored_at": "2026-11-09T10:20:34+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+   "ticker": "POPCAT",
+   "risk": 47,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T10:21:38+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp",
+   "ticker": "Pepetide",
+   "risk": 54,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-09T10:20:26+00:00",
    "path": "young"
   }
  ]
