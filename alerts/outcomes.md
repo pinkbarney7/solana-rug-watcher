@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 12:40 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 12:48 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,6 +9,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | - | - | - |
 | USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | - | - |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | - | - |
 | Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | -12.8% / liq $134,901 | - | - |
