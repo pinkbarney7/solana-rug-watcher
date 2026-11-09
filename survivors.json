@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:54:28",
+ "updated": "2026-11-09T20:59:50",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -18,15 +18,14 @@
   {
    "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
    "ticker": "NVDAx",
-   "risk": 82,
+   "risk": 75,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-09T20:21:38+00:00",
+   "scored_at": "2026-11-09T20:59:48+00:00",
    "path": "survivor"
   },
   {
@@ -39,7 +38,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T20:21:40+00:00",
+   "scored_at": "2026-11-09T20:59:49+00:00",
    "path": "survivor"
   },
   {
@@ -83,13 +82,13 @@
   {
    "mint": "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat",
    "ticker": "PUSSY",
-   "risk": 50,
-   "verdict": "SKIP",
+   "risk": 41,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T20:21:29+00:00",
+   "scored_at": "2026-11-09T20:59:49+00:00",
    "path": "young"
   },
   {
@@ -221,14 +220,14 @@
   {
    "mint": "22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp",
    "ticker": "Pepetide",
-   "risk": 54,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T11:08:23+00:00",
+   "scored_at": "2026-11-09T20:59:50+00:00",
    "path": "young"
   },
   {
@@ -294,7 +293,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T20:21:39+00:00",
+   "scored_at": "2026-11-09T20:59:50+00:00",
    "path": "survivor"
   },
   {
@@ -312,14 +311,14 @@
   {
    "mint": "Hc6295k1Cu9emcLYzMZNZHoqg87CqKXkpPvBMjramk9q",
    "ticker": "TJR",
-   "risk": 60,
+   "risk": 62,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T20:21:39+00:00",
+   "scored_at": "2026-11-09T20:59:50+00:00",
    "path": "young"
   },
   {
@@ -338,14 +337,13 @@
   {
    "mint": "8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump",
    "ticker": "HODLER",
-   "risk": 79,
+   "risk": 70,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-09T20:21:38+00:00",
+   "scored_at": "2026-11-09T20:59:40+00:00",
    "path": "young"
   }
  ]
