@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 08:04 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 08:15 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,6 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 52 | - | - | - |
 | CHILL | `9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump` | SKIP | 68 | - | - | - |
 | 0DAY | `85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump` | SKIP | 57 | - | - | - |
