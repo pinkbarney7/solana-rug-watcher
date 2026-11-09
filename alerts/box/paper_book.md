@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-09 13:18 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-09 13:30 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 22 | Open: 4 | Not opened (failed sell gate): 0
 Win rate 23% | avg return -36.3% | expectancy $-9.07 per $25 trade | total $-199.59
@@ -9,9 +9,9 @@ Win rate 23% | avg return -36.3% | expectancy $-9.07 per $25 trade | total $-199
 | Cupsey | [`6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump`](https://pump.fun/coin/6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump) | new_launch_scored | CAUTION | 2026-11-09 11:24 EST | open | -3.5% |
 | BTC | [`CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump`](https://pump.fun/coin/CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump) | scored_fast_scan | CAUTION | 2026-11-09 08:10 EST | closed (stop -50%) | -59.6% |
 | Elysion Pad | [`HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump`](https://pump.fun/coin/HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump) | scored_fast_scan | CAUTION | 2026-11-09 08:10 EST | closed (stop -50%) | -50.8% |
-| Buttcoin | [`Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump`](https://pump.fun/coin/Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump) | new_launch_scored | CAUTION | 2026-11-08 22:29 EST | open | -3.5% |
-| DARK | [`7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3`](https://dexscreener.com/solana/7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3) | new_launch_scored | CAUTION | 2026-11-08 20:18 EST | open | +7.7% |
-| BTC | [`C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`](https://pump.fun/coin/C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump) | new_launch_scored | CAUTION | 2026-11-08 19:56 EST | open | +20.4% |
+| Buttcoin | [`Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump`](https://pump.fun/coin/Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump) | new_launch_scored | CAUTION | 2026-11-08 22:29 EST | open | -4.2% |
+| DARK | [`7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3`](https://dexscreener.com/solana/7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3) | new_launch_scored | CAUTION | 2026-11-08 20:18 EST | open | +7.9% |
+| BTC | [`C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump`](https://pump.fun/coin/C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump) | new_launch_scored | CAUTION | 2026-11-08 19:56 EST | open | +5.6% |
 | BINGUS | [`2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat`](https://dexscreener.com/solana/2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat) | scored_fast_scan | CAUTION | 2026-11-03 13:02 EST | closed (stop -50%) | -54.0% |
 | MISTAKE | [`HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump`](https://pump.fun/coin/HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | closed (24h time exit) | -2.0% |
 | NAFF | [`tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump`](https://pump.fun/coin/tB6DCTQfaUmMAZZLu47VTaWjnYbrGLasLE2rfYbpump) | scored_scorecard | CAUTION | 2026-11-03 08:37 EST | closed (pool dead/delisted (-100%)) | -100.0% |
