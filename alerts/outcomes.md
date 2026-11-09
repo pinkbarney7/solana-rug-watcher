@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 14:46 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 14:52 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,7 +6,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 1 | -18.1% | 0 |
 | SKIP | 1h | 21 | 0.0% | 0 |
-| SKIP | 6h | 10 | -23.4% | 0 |
+| SKIP | 6h | 11 | -23.4% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 66 | 1.2% / liq $1,264,274 | - | - |
 | ERA | `2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr` | SKIP | 56 | 0.0% / liq $102,490,551 | - | - |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.7% / liq $6,060,334 | - | - |
-| OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | SKIP | 45 | 1.8% / liq $455,573 | - | - |
+| OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | SKIP | 45 | 1.8% / liq $455,573 | -7.8% / liq $436,103 | - |
 | ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | -48.2% / liq $94,600 | -91.3% / liq $38,410 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 52 | 2.2% / liq $1,838,128 | 5.7% / liq $1,869,159 | - |
 | CHILL | `9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump` | SKIP | 68 | 1.6% / liq $69,326 | 8.3% / liq $71,655 | - |
