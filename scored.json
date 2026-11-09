@@ -1,49 +1,49 @@
 {
 "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump": {
-"ts": 1794220931.9693286,
-"liq": 89620.66,
+"ts": 1794221515.8382573,
+"liq": 88439.11,
 "holders": null,
-"risk": 58,
+"risk": 70,
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1794220931.9693136,
-"liq": 10142273.53,
+"ts": 1794221515.8382525,
+"liq": 10117962.0,
 "holders": null,
 "risk": 73,
 "verdict": "SKIP"
 },
 "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump": {
-"ts": 1794220931.9693305,
-"liq": 71240.4,
+"ts": 1794221515.838259,
+"liq": 71256.38,
 "holders": null,
-"risk": 43,
-"verdict": "CAUTION"
+"risk": 60,
+"verdict": "SKIP"
 },
 "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat": {
-"ts": 1794220931.969326,
-"liq": 453064.63,
+"ts": 1794221515.8382552,
+"liq": 451543.22000000003,
 "holders": null,
-"risk": 55,
+"risk": 68,
 "verdict": "SKIP"
 },
 "85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump": {
-"ts": 1794220931.9693325,
+"ts": 1794221515.838262,
 "liq": 67227.12,
 "holders": null,
 "risk": 38,
-"verdict": "SKIP"
+"verdict": "CAUTION"
 },
 "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh": {
-"ts": 1794220931.9693236,
-"liq": 3456133.89,
+"ts": 1794221515.8382604,
+"liq": 3452018.46,
 "holders": null,
-"risk": 75,
+"risk": 82,
 "verdict": "SKIP"
 },
 "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": {
-"ts": 1794217639.2776647,
-"liq": 50561.68,
+"ts": 1794221515.8382494,
+"liq": 53243.38,
 "holders": null,
 "risk": 66,
 "verdict": "SKIP"
@@ -56,8 +56,8 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794220931.9693356,
-"liq": 2236723.59,
+"ts": 1794221515.8382633,
+"liq": 2236387.23,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -98,11 +98,11 @@
 "verdict": "SKIP"
 },
 "HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump": {
-"ts": 1794220931.9693344,
-"liq": 57404.6,
+"ts": 1794221515.8382444,
+"liq": 56508.479999999996,
 "holders": null,
-"risk": 45,
-"verdict": "SKIP"
+"risk": 50,
+"verdict": "CAUTION"
 },
 "euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA": {
 "ts": 1794220173.4528608,
