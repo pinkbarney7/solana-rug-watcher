@@ -1,16 +1,18 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 10:57 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 11:09 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| SKIP | 1h | 14 | 1.2% | 0 |
+| CAUTION | 1h | 1 | -18.1% | 0 |
+| SKIP | 1h | 15 | 0.7% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | - | - | - |
 | POPCAT | `7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr` | SKIP | 47 | - | - | - |
-| EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | - | - | - |
-| Elysion Pad | `HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump` | CAUTION | 50 | - | - | - |
+| EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | 0.0% / liq $1,164,660 | - | - |
+| Elysion Pad | `HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump` | CAUTION | 50 | -18.1% / liq $49,677 | - | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 66 | 1.2% / liq $1,264,274 | - | - |
 | ERA | `2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr` | SKIP | 56 | 0.0% / liq $102,490,551 | - | - |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.7% / liq $6,060,334 | - | - |
