@@ -1,19 +1,19 @@
-# Outcomes (DEX Screener, free) - 2026-11-09 21:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-09 21:30 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 2 | 14.2% | 0 |
+| CAUTION | 1h | 3 | 0.8% | 0 |
 | CAUTION | 6h | 1 | -38.9% | 0 |
-| SKIP | 1h | 22 | 0.0% | 0 |
+| SKIP | 1h | 24 | 0.0% | 0 |
 | SKIP | 6h | 21 | -0.1% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| TJR | `Hc6295k1Cu9emcLYzMZNZHoqg87CqKXkpPvBMjramk9q` | SKIP | 60 | - | - | - |
-| DOPE | `H5CPUyFcLWRsNKmxnqGBboXErgPv43MUkfTft7nA5BzE` | CAUTION | 52 | - | - | - |
-| HODLER | `8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump` | SKIP | 79 | - | - | - |
+| TJR | `Hc6295k1Cu9emcLYzMZNZHoqg87CqKXkpPvBMjramk9q` | SKIP | 60 | -30.7% / liq $63,552 | - | - |
+| DOPE | `H5CPUyFcLWRsNKmxnqGBboXErgPv43MUkfTft7nA5BzE` | CAUTION | 52 | 0.8% / liq $58,814 | - | - |
+| HODLER | `8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump` | SKIP | 79 | 19.9% / liq $623,925 | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 80 | -0.3% / liq $2,338,936 | - | - |
 | MYWAY | `tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump` | CAUTION | 37 | 14.2% / liq $67,381 | - | - |
 | HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | -1.9% / liq $300,901 | - |
