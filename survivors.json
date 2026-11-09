@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:51:32",
+ "updated": "2026-11-09T16:08:36",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -12,7 +12,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T12:40:19+00:00",
+   "scored_at": "2026-11-09T16:08:36+00:00",
    "path": "survivor"
   },
   {
@@ -26,7 +26,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T12:58:33+00:00",
+   "scored_at": "2026-11-09T16:08:27+00:00",
    "path": "survivor"
   },
   {
@@ -282,6 +282,32 @@
    ],
    "scored_at": "2026-11-09T12:58:34+00:00",
    "path": "survivor"
+  },
+  {
+   "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+   "ticker": "SPCX",
+   "risk": 80,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "authorities",
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-09T16:08:35+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump",
+   "ticker": "MYWAY",
+   "risk": 37,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-09T16:08:35+00:00",
+   "path": "young"
   }
  ]
 }
