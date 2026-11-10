@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 11:25 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 11:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,13 +9,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 24h | 1 | -78.8% | 0 |
 | SKIP | 1h | 27 | -0.1% | 3 |
 | SKIP | 6h | 16 | 0.0% | 1 |
-| SKIP | 24h | 5 | 1.3% | 0 |
+| SKIP | 24h | 5 | 0.9% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 69 | - | - | - |
 | UODF | `Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump` | SKIP | 78 | - | - | - |
-| AODF | `svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump` | SKIP | 78 | - | - | - |
+| AODF | `svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump` | SKIP | 78 | 1.3% / liq $1,102,475 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 66 | -0.9% / liq $1,793,228 | - | - |
 | PUSSY | `FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat` | SKIP | 57 | -20.5% / liq $183,592 | - | - |
 | X | `5tnf3DZ9uxnhg1uxVQchWN9LTsJppi7npwYVPYjU6dD` | SKIP | 52 | -0.7% / liq $0 | - | - |
@@ -28,7 +28,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | 0.3% / liq $2,306,230 | - | - |
 | AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | 1.1% / liq $0 | - | - |
-| BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | -12.3% / liq $89,629 | - | - |
+| BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | -12.3% / liq $89,629 | 44.4% / liq $115,105 | - |
 | PREDICT | `8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN` | SKIP | 76 | 7.3% / liq $178,017 | 32.6% / liq $144,680 | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | SKIP | 56 | -1.9% / liq $650,613 | -1.7% / liq $647,571 | - |
 | BIG | `34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump` | SKIP | 55 | 34.9% / liq $87,082 | 19.7% / liq $81,657 | - |
@@ -41,10 +41,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MYWAY | `tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump` | CAUTION | 37 | 14.2% / liq $67,381 | 5.8% / liq $64,776 | - |
 | HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | -1.9% / liq $300,901 | - |
 | JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | -2.3% / liq $291,205 | -0.4% / liq $294,428 | - |
-| USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | -0.1% / liq $3,875,592 | - |
+| USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | -0.1% / liq $3,875,592 | -0.2% / liq $3,822,974 |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | -4.9% / liq $1,667,149 | -12.8% / liq $1,630,406 |
 | Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | -12.8% / liq $134,901 | 101.1% / liq $223,724 | 53.4% / liq $196,084 |
 | POPCAT | `7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr` | SKIP | 47 | 0.6% / liq $2,806,188 | 2.7% / liq $2,846,589 | 1.3% / liq $2,803,503 |
 | EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | 0.0% / liq $1,164,660 | 0.0% / liq $1,164,995 | 0.9% / liq $1,166,945 |
 | Elysion Pad | `HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump` | CAUTION | 50 | -18.1% / liq $49,677 | -38.9% / liq $43,902 | -78.8% / liq $25,026 |
-| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 66 | 1.2% / liq $1,264,274 | 1.2% / liq $1,275,115 | 11.7% / liq $1,325,466 |
