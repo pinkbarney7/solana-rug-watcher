@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 06:09 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 06:14 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | - | - | - |
+| OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | - | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | - | - | - |
 | AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | - | - | - |
 | BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | - | - | - |
