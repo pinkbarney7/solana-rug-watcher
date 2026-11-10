@@ -7,10 +7,10 @@
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1794308045.2267754,
-"liq": 9845189.1,
+"ts": 1794308650.231165,
+"liq": 9833594.64,
 "holders": null,
-"risk": 81,
+"risk": 73,
 "verdict": "SKIP"
 },
 "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump": {
@@ -154,10 +154,10 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794308045.2267628,
-"liq": 4578900.88,
+"ts": 1794308650.2311697,
+"liq": 4643818.05,
 "holders": null,
-"risk": 80,
+"risk": 72,
 "verdict": "SKIP"
 },
 "tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump": {
@@ -196,38 +196,38 @@
 "verdict": "SKIP"
 },
 "7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump": {
-"ts": 1794308045.2267582,
-"liq": 53481.340000000004,
+"ts": 1794308650.231175,
+"liq": 53484.810000000005,
 "holders": null,
-"risk": 49,
+"risk": 60,
 "verdict": "SKIP"
 },
 "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump": {
-"ts": 1794308045.2267704,
-"liq": 85688.48999999999,
+"ts": 1794308650.2311733,
+"liq": 85109.89,
 "holders": null,
 "risk": 68,
 "verdict": "SKIP"
 },
 "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
-"ts": 1794308045.226777,
-"liq": 1246541.82,
+"ts": 1794308650.2311778,
+"liq": 1240238.83,
 "holders": null,
 "risk": 38,
 "verdict": "CAUTION"
 },
 "8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN": {
-"ts": 1794308045.226768,
-"liq": 145417.75,
+"ts": 1794308650.2311606,
+"liq": 147691.42,
 "holders": null,
-"risk": 78,
+"risk": 69,
 "verdict": "SKIP"
 },
 "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump": {
-"ts": 1794308045.2267656,
-"liq": 86284.77,
+"ts": 1794308650.2311764,
+"liq": 82002.49,
 "holders": null,
-"risk": 58,
+"risk": 70,
 "verdict": "SKIP"
 },
 "6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq": {
@@ -294,15 +294,15 @@
 "verdict": "SKIP"
 },
 "svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump": {
-"ts": 1794308045.2267513,
-"liq": 1097277.37,
+"ts": 1794308650.2311678,
+"liq": 1098579.46,
 "holders": null,
-"risk": 69,
+"risk": 78,
 "verdict": "SKIP"
 },
 "Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump": {
-"ts": 1794308045.2267733,
-"liq": 858537.36,
+"ts": 1794308650.2311714,
+"liq": 859557.02,
 "holders": null,
 "risk": 78,
 "verdict": "SKIP"

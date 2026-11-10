@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 10:54 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 11:04 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | 6.0% | 0 |
 | CAUTION | 6h | 3 | -38.9% | 0 |
 | CAUTION | 24h | 1 | -78.8% | 0 |
-| SKIP | 1h | 25 | 0.0% | 2 |
+| SKIP | 1h | 26 | -0.0% | 2 |
 | SKIP | 6h | 18 | 0.0% | 1 |
 | SKIP | 24h | 5 | 1.3% | 0 |
 
@@ -19,7 +19,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUSSY | `FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat` | SKIP | 57 | - | - | - |
 | X | `5tnf3DZ9uxnhg1uxVQchWN9LTsJppi7npwYVPYjU6dD` | SKIP | 52 | - | - | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 40 | - | - | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | - | - | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.4% / liq $3,746,922 | - | - |
 | wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | -0.2% / liq $457,309 | - | - |
 | 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | -8.9% / liq $0 | - | - |
 | Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | - | - |
