@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 09:14 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 09:31 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,14 +6,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 6.0% | 0 |
 | CAUTION | 6h | 3 | -38.9% | 0 |
-| SKIP | 1h | 34 | 0.3% | 1 |
+| SKIP | 1h | 36 | -0.0% | 2 |
 | SKIP | 6h | 24 | -0.1% | 0 |
-| SKIP | 24h | 12 | -12.8% | 0 |
+| SKIP | 24h | 13 | -12.8% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | - | - | - |
-| 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | - | - | - |
+| wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | -0.2% / liq $457,309 | - | - |
+| 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | -8.9% / liq $0 | - | - |
 | Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | - | - |
 | MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | -0.0% / liq $363,055 | - | - |
 | OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | - | - |
@@ -39,7 +39,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | 0.0% / liq $1,164,660 | 0.0% / liq $1,164,995 | - |
 | Elysion Pad | `HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump` | CAUTION | 50 | -18.1% / liq $49,677 | -38.9% / liq $43,902 | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 66 | 1.2% / liq $1,264,274 | 1.2% / liq $1,275,115 | - |
-| ERA | `2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr` | SKIP | 56 | 0.0% / liq $102,490,551 | 0.0% / liq $102,490,553 | - |
+| ERA | `2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr` | SKIP | 56 | 0.0% / liq $102,490,551 | 0.0% / liq $102,490,553 | 0.0% / liq $102,490,520 |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.7% / liq $6,060,334 | 4.4% / liq $6,202,510 | 4.6% / liq $6,145,566 |
 | OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | SKIP | 45 | 1.8% / liq $455,573 | -7.8% / liq $436,103 | -12.8% / liq $420,337 |
 | ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | -48.2% / liq $94,600 | -91.3% / liq $38,410 | -99.9% / liq $3,083 |
