@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:14:06",
+ "updated": "2026-11-10T06:24:43",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -38,7 +38,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T05:56:37+00:00",
+   "scored_at": "2026-11-10T06:24:43+00:00",
    "path": "survivor"
   },
   {
@@ -170,14 +170,13 @@
   {
    "mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
    "ticker": "ACT",
-   "risk": 66,
+   "risk": 52,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-10T06:13:03+00:00",
+   "scored_at": "2026-11-10T06:23:42+00:00",
    "path": "survivor"
   },
   {
@@ -344,19 +343,20 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T06:13:03+00:00",
+   "scored_at": "2026-11-10T06:23:40+00:00",
    "path": "young"
   },
   {
    "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
    "ticker": "FLOAT",
-   "risk": 38,
-   "verdict": "CAUTION",
+   "risk": 56,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T06:14:04+00:00",
+   "scored_at": "2026-11-10T06:23:42+00:00",
    "path": "survivor"
   },
   {
@@ -381,20 +381,19 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T06:12:53+00:00",
+   "scored_at": "2026-11-10T06:23:32+00:00",
    "path": "young"
   },
   {
    "mint": "DMvcPrWsThg3eyM96jEFTqFYrVSEV7jVzU5HEggRdTzP",
    "ticker": "XTEN",
-   "risk": 73,
+   "risk": 62,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-10T06:08:18+00:00",
+   "scored_at": "2026-11-10T06:23:40+00:00",
    "path": "young"
   },
   {
@@ -419,7 +418,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T06:13:01+00:00",
+   "scored_at": "2026-11-10T06:23:41+00:00",
    "path": "young"
   },
   {
@@ -438,14 +437,13 @@
   {
    "mint": "6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq",
    "ticker": "AICoin",
-   "risk": 67,
+   "risk": 53,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-10T06:13:03+00:00",
+   "scored_at": "2026-11-10T06:23:41+00:00",
    "path": "young"
   },
   {
@@ -465,13 +463,14 @@
   {
    "mint": "BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump",
    "ticker": "OnlyCats",
-   "risk": 58,
+   "risk": 71,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T06:13:01+00:00",
+   "scored_at": "2026-11-10T06:23:42+00:00",
    "path": "young"
   }
  ]
