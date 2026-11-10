@@ -1,13 +1,13 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-09 22:38 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-09 22:49 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 25 | Open: 3 | Not opened (failed sell gate): 0
 Win rate 28% | avg return -32.1% | expectancy $-8.03 per $25 trade | total $-200.73
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Pepetide | [`22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp`](https://dexscreener.com/solana/22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp) | scored_fast_scan | CAUTION | 2026-11-09 18:10 EST | open | -8.0% |
-| FLOAT | [`Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr`](https://dexscreener.com/solana/Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr) | scored_fast_scan | CAUTION | 2026-11-09 18:10 EST | open | +4.2% |
+| Pepetide | [`22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp`](https://dexscreener.com/solana/22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp) | scored_fast_scan | CAUTION | 2026-11-09 18:10 EST | open | -8.4% |
+| FLOAT | [`Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr`](https://dexscreener.com/solana/Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr) | scored_fast_scan | CAUTION | 2026-11-09 18:10 EST | open | +4.0% |
 | Cupsey | [`6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump`](https://pump.fun/coin/6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump) | new_launch_scored | CAUTION | 2026-11-09 11:24 EST | open | +0.0% |
 | BTC | [`CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump`](https://pump.fun/coin/CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump) | scored_fast_scan | CAUTION | 2026-11-09 08:10 EST | closed (stop -50%) | -59.6% |
 | Elysion Pad | [`HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump`](https://pump.fun/coin/HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump) | scored_fast_scan | CAUTION | 2026-11-09 08:10 EST | closed (stop -50%) | -50.8% |
