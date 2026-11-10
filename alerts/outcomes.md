@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 04:36 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 04:45 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| PREDICT | `8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN` | SKIP | 76 | - | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | SKIP | 56 | - | - | - |
 | BIG | `34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump` | SKIP | 55 | - | - | - |
 | MILES | `7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump` | SKIP | 49 | - | - | - |
