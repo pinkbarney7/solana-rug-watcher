@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 12:09 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 12:22 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,13 +6,15 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 6.0% | 0 |
 | CAUTION | 6h | 2 | 5.8% | 0 |
-| SKIP | 1h | 27 | -0.1% | 3 |
-| SKIP | 6h | 17 | -0.1% | 2 |
+| SKIP | 1h | 28 | -0.0% | 3 |
+| SKIP | 6h | 19 | -0.1% | 2 |
 | SKIP | 24h | 4 | 1.3% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 69 | - | - | - |
+| FOTF | `q8So8CFBNUdR9LGih3CR6PS552XuJGs2qLvfnCtpump` | SKIP | 78 | - | - | - |
+| USOE | `nDUSTtA3bAR4CT3MQqnatnjcbERV62LE7X1A3abpump` | SKIP | 69 | - | - | - |
+| USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 69 | 1.5% / liq $1,098,049 | - | - |
 | UODF | `Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump` | SKIP | 78 | 1.9% / liq $866,877 | - | - |
 | AODF | `svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump` | SKIP | 78 | 1.3% / liq $1,102,475 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 66 | -0.9% / liq $1,793,228 | - | - |
@@ -23,8 +25,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | -0.2% / liq $457,309 | - | - |
 | 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | -8.9% / liq $0 | - | - |
 | Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | - | - |
-| MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | -0.0% / liq $363,055 | - | - |
-| OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | - | - |
+| MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | -0.0% / liq $363,055 | 0.1% / liq $400,294 | - |
+| OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | -90.2% / liq $27,216 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | 0.3% / liq $2,306,230 | -2.4% / liq $2,253,081 | - |
 | AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | 1.1% / liq $0 | 1.1% / liq $0 | - |
 | BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | -12.3% / liq $89,629 | 44.4% / liq $115,105 | - |
