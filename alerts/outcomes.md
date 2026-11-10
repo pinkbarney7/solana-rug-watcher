@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 04:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 04:26 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | SKIP | 56 | - | - | - |
+| BIG | `34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump` | SKIP | 55 | - | - | - |
+| MILES | `7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump` | SKIP | 49 | - | - | - |
+| XTEN | `DMvcPrWsThg3eyM96jEFTqFYrVSEV7jVzU5HEggRdTzP` | SKIP | 62 | - | - | - |
 | TJR | `Hc6295k1Cu9emcLYzMZNZHoqg87CqKXkpPvBMjramk9q` | SKIP | 60 | -30.7% / liq $63,552 | -21.2% / liq $67,529 | - |
 | DOPE | `H5CPUyFcLWRsNKmxnqGBboXErgPv43MUkfTft7nA5BzE` | CAUTION | 52 | 0.8% / liq $58,814 | -44.9% / liq $43,436 | - |
 | HODLER | `8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump` | SKIP | 79 | 19.9% / liq $623,925 | 45.1% / liq $691,348 | - |

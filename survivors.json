@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:18:59",
+ "updated": "2026-11-10T04:26:41",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -18,14 +18,15 @@
   {
    "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
    "ticker": "NVDAx",
-   "risk": 75,
+   "risk": 82,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-09T20:59:48+00:00",
+   "scored_at": "2026-11-10T04:26:41+00:00",
    "path": "survivor"
   },
   {
@@ -293,7 +294,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-09T20:59:50+00:00",
+   "scored_at": "2026-11-10T04:26:41+00:00",
    "path": "survivor"
   },
   {
@@ -337,13 +338,64 @@
   {
    "mint": "8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump",
    "ticker": "HODLER",
-   "risk": 70,
+   "risk": 71,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-10T04:26:40+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+   "ticker": "FLOAT",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-10T04:26:41+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump",
+   "ticker": "BIG",
+   "risk": 55,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T20:59:40+00:00",
+   "scored_at": "2026-11-10T04:26:40+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump",
+   "ticker": "MILES",
+   "risk": 49,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-10T04:26:39+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "DMvcPrWsThg3eyM96jEFTqFYrVSEV7jVzU5HEggRdTzP",
+   "ticker": "XTEN",
+   "risk": 62,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-10T04:26:31+00:00",
    "path": "young"
   }
  ]
