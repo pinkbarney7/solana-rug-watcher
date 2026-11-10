@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1794309442.0558329,
-"liq": 9879936.3,
+"ts": 1794309901.9086313,
+"liq": 9863140.89,
 "holders": null,
 "risk": 81,
 "verdict": "SKIP"
@@ -154,8 +154,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794309442.0558383,
-"liq": 4664974.68,
+"ts": 1794309901.9086256,
+"liq": 4531240.97,
 "holders": null,
 "risk": 80,
 "verdict": "SKIP"
@@ -196,22 +196,22 @@
 "verdict": "SKIP"
 },
 "7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump": {
-"ts": 1794309442.0558367,
+"ts": 1794309901.908619,
 "liq": 51782.420000000006,
 "holders": null,
-"risk": 60,
+"risk": 49,
 "verdict": "SKIP"
 },
 "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump": {
-"ts": 1794309442.05584,
-"liq": 84556.26,
+"ts": 1794309901.9086242,
+"liq": 81583.79999999999,
 "holders": null,
-"risk": 68,
+"risk": 55,
 "verdict": "SKIP"
 },
 "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
-"ts": 1794309442.0558412,
-"liq": 1236492.57,
+"ts": 1794309901.9086323,
+"liq": 1236490.92,
 "holders": null,
 "risk": 38,
 "verdict": "CAUTION"
@@ -224,10 +224,10 @@
 "verdict": "SKIP"
 },
 "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump": {
-"ts": 1794309442.0558271,
-"liq": 84916.44,
+"ts": 1794309901.9086215,
+"liq": 91943.77,
 "holders": null,
-"risk": 58,
+"risk": 71,
 "verdict": "SKIP"
 },
 "6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq": {
@@ -294,22 +294,22 @@
 "verdict": "SKIP"
 },
 "svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump": {
-"ts": 1794309442.0558221,
-"liq": 1099882.86,
+"ts": 1794309901.908614,
+"liq": 1100622.55,
 "holders": null,
 "risk": 69,
 "verdict": "SKIP"
 },
 "Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump": {
-"ts": 1794309442.0558348,
-"liq": 861175.72,
+"ts": 1794309901.908628,
+"liq": 862083.19,
 "holders": null,
 "risk": 78,
 "verdict": "SKIP"
 },
 "d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump": {
-"ts": 1794309442.0558305,
-"liq": 1090468.45,
+"ts": 1794309901.9086301,
+"liq": 1091299.51,
 "holders": null,
 "risk": 69,
 "verdict": "SKIP"

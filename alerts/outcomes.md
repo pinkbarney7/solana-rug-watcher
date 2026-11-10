@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 11:17 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 11:25 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,9 +7,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | 0.8% | 0 |
 | CAUTION | 6h | 3 | -38.9% | 0 |
 | CAUTION | 24h | 1 | -78.8% | 0 |
-| SKIP | 1h | 28 | 0.0% | 3 |
-| SKIP | 6h | 17 | 0.0% | 1 |
-| SKIP | 24h | 6 | 1.3% | 0 |
+| SKIP | 1h | 27 | -0.1% | 3 |
+| SKIP | 6h | 16 | 0.0% | 1 |
+| SKIP | 24h | 5 | 1.3% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -48,4 +48,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | 0.0% / liq $1,164,660 | 0.0% / liq $1,164,995 | 0.9% / liq $1,166,945 |
 | Elysion Pad | `HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump` | CAUTION | 50 | -18.1% / liq $49,677 | -38.9% / liq $43,902 | -78.8% / liq $25,026 |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 66 | 1.2% / liq $1,264,274 | 1.2% / liq $1,275,115 | 11.7% / liq $1,325,466 |
-| ERA | `2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr` | SKIP | 56 | 0.0% / liq $102,490,551 | 0.0% / liq $102,490,553 | 0.0% / liq $102,490,520 |
