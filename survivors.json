@@ -1,17 +1,18 @@
 {
- "updated": "2026-11-10T13:19:16",
+ "updated": "2026-11-10T23:45:33",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
    "ticker": "ZEC",
-   "risk": 73,
+   "risk": 80,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T12:35:35+00:00",
+   "scored_at": "2026-11-10T23:44:29+00:00",
    "path": "survivor"
   },
   {
@@ -39,31 +40,6 @@
    ],
    "scored_at": "2026-11-10T12:09:20+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump",
-   "ticker": "0DAY",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-09T11:12:34+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump",
-   "ticker": "CHILL",
-   "risk": 54,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-09T10:28:29+00:00",
-   "path": "young"
   },
   {
    "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump",
@@ -142,55 +118,15 @@
    "path": "survivor"
   },
   {
-   "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
-   "ticker": "Fartcoin ",
-   "risk": 69,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-09T09:52:50+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr",
-   "ticker": "ERA",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-09T09:30:10+00:00",
-   "path": "survivor"
-  },
-  {
    "mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
    "ticker": "ACT",
-   "risk": 66,
+   "risk": 52,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-10T08:35:59+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA",
-   "ticker": "EUROP",
-   "risk": 73,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-09T10:29:33+00:00",
+   "scored_at": "2026-11-10T23:44:30+00:00",
    "path": "survivor"
   },
   {
@@ -204,18 +140,6 @@
    ],
    "scored_at": "2026-11-09T12:58:33+00:00",
    "path": "young"
-  },
-  {
-   "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
-   "ticker": "POPCAT",
-   "risk": 47,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-09T10:25:38+00:00",
-   "path": "survivor"
   },
   {
    "mint": "22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp",
@@ -367,7 +291,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T13:09:57+00:00",
+   "scored_at": "2026-11-10T23:44:21+00:00",
    "path": "young"
   },
   {
@@ -538,40 +462,40 @@
   {
    "mint": "svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump",
    "ticker": "AODF",
-   "risk": 78,
+   "risk": 71,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:10:07+00:00",
+   "scored_at": "2026-11-10T23:44:30+00:00",
    "path": "young"
   },
   {
    "mint": "Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump",
    "ticker": "UODF",
-   "risk": 78,
+   "risk": 71,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:10:06+00:00",
+   "scored_at": "2026-11-10T23:44:31+00:00",
    "path": "young"
   },
   {
    "mint": "d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump",
    "ticker": "USPR",
-   "risk": 78,
+   "risk": 71,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:10:08+00:00",
+   "scored_at": "2026-11-10T23:44:31+00:00",
    "path": "young"
   },
   {
@@ -597,6 +521,43 @@
     "exit test"
    ],
    "scored_at": "2026-11-10T13:10:08+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
+   "ticker": "CYBERLEEK",
+   "risk": 39,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-10T23:45:32+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ",
+   "ticker": "MONTRA",
+   "risk": 67,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-10T23:44:31+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump",
+   "ticker": "UODF",
+   "risk": 75,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-10T23:44:29+00:00",
    "path": "young"
   }
  ]
