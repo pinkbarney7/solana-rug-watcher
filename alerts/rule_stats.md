@@ -1,10 +1,21 @@
 # Rule stats - outcome learning (info/risk only, not advice)
-Updated 2026-11-10 06:56 UTC. Labeled coins: 0 (0 dead/pulled, 0 still alive). Base dead rate 0.0%. Forward 24h samples so far: 0.
+Updated 2026-11-10 07:10 UTC. Labeled coins: 1 (1 dead/pulled, 0 still alive). Base dead rate 100.0%. Forward 24h samples so far: 0.
 
 **Caveats:** history labels are 'dead now vs alive now' plus the liquidity-pull watch, which mostly watched SKIP coins, so precision is biased upward for SKIP-heavy rules. Clean 1h/6h/24h forward samples need ~a week before thresholds should move. Nothing here changes alerting automatically.
 
 | check # | flagged (FAIL/WARN) n | dead when flagged (precision) | false positives (flagged, alive) | dead when PASS | lift vs base |
 |---|---|---|---|---|---|
+| 1 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 5 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 7 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 8 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 10 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 11 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 12 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 13 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 14 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 15 | 1 | 100% | 0 (0%) | n/a | +0% |
+| 18 | 1 | 100% | 0 (0%) | n/a | +0% |
 
 ## Suggested bar changes (logged to bar_changes.jsonl, need Barney's yes; not applied)
 _Data span 0.0 days of forward-tracked + historical coins; treat as provisional until ~7 days of forward samples._

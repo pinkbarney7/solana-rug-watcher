@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 06:56 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 07:10 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,15 +6,16 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 0.8% | 0 |
 | CAUTION | 6h | 3 | -38.9% | 0 |
-| SKIP | 1h | 30 | 0.0% | 0 |
+| SKIP | 1h | 32 | 0.3% | 1 |
 | SKIP | 6h | 24 | -0.1% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | - | - | - |
 | MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | - | - | - |
 | OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | - | - | - |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | - | - | - |
-| AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | - | - | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | 0.3% / liq $2,306,230 | - | - |
+| AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | 1.1% / liq $0 | - | - |
 | BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | -12.3% / liq $89,629 | - | - |
 | PREDICT | `8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN` | SKIP | 76 | 7.3% / liq $178,017 | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | SKIP | 56 | -1.9% / liq $650,613 | - | - |
