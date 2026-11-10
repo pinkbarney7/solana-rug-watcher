@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:01:56",
+ "updated": "2026-11-10T13:11:10",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -240,7 +240,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:00:52+00:00",
+   "scored_at": "2026-11-10T13:10:07+00:00",
    "path": "survivor"
   },
   {
@@ -286,15 +286,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 80,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-10T13:00:53+00:00",
+   "scored_at": "2026-11-10T13:10:05+00:00",
    "path": "survivor"
   },
   {
@@ -356,7 +355,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T13:01:54+00:00",
+   "scored_at": "2026-11-10T13:11:09+00:00",
    "path": "survivor"
   },
   {
@@ -368,7 +367,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T13:00:52+00:00",
+   "scored_at": "2026-11-10T13:09:57+00:00",
    "path": "young"
   },
   {
@@ -539,13 +538,14 @@
   {
    "mint": "svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump",
    "ticker": "AODF",
-   "risk": 69,
+   "risk": 78,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T13:00:43+00:00",
+   "scored_at": "2026-11-10T13:10:07+00:00",
    "path": "young"
   },
   {
@@ -558,7 +558,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:00:53+00:00",
+   "scored_at": "2026-11-10T13:10:06+00:00",
    "path": "young"
   },
   {
@@ -571,12 +571,24 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:00:53+00:00",
+   "scored_at": "2026-11-10T13:10:08+00:00",
    "path": "young"
   },
   {
    "mint": "nDUSTtA3bAR4CT3MQqnatnjcbERV62LE7X1A3abpump",
    "ticker": "USOE",
+   "risk": 69,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-10T13:10:06+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "q8So8CFBNUdR9LGih3CR6PS552XuJGs2qLvfnCtpump",
+   "ticker": "FOTF",
    "risk": 78,
    "verdict": "SKIP",
    "structural_ok": false,
@@ -584,19 +596,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T13:00:53+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "q8So8CFBNUdR9LGih3CR6PS552XuJGs2qLvfnCtpump",
-   "ticker": "FOTF",
-   "risk": 69,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-10T13:00:51+00:00",
+   "scored_at": "2026-11-10T13:10:08+00:00",
    "path": "young"
   }
  ]

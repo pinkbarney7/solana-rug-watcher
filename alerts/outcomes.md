@@ -1,14 +1,14 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 13:01 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 13:11 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 6.0% | 0 |
-| CAUTION | 6h | 2 | 5.8% | 0 |
-| SKIP | 1h | 27 | -0.1% | 3 |
-| SKIP | 6h | 18 | -0.1% | 2 |
-| SKIP | 24h | 5 | -10.8% | 0 |
+| CAUTION | 6h | 3 | 2.3% | 0 |
+| SKIP | 1h | 26 | -0.0% | 3 |
+| SKIP | 6h | 17 | -0.3% | 2 |
+| SKIP | 24h | 4 | -10.8% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.4% / liq $3,746,922 | - | - |
 | wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | -0.2% / liq $457,309 | - | - |
 | 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | -8.9% / liq $0 | - | - |
-| Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | - | - |
+| Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | 2.3% / liq $468,504 | - |
 | MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | -0.0% / liq $363,055 | 0.1% / liq $400,294 | - |
 | OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | -90.2% / liq $27,216 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | 0.3% / liq $2,306,230 | -2.4% / liq $2,253,081 | - |
@@ -44,4 +44,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | -2.3% / liq $291,205 | -0.4% / liq $294,428 | -10.8% / liq $276,317 |
 | USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | -0.1% / liq $3,875,592 | -0.2% / liq $3,822,974 |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | -4.9% / liq $1,667,149 | -12.8% / liq $1,630,406 |
-| Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | -12.8% / liq $134,901 | 101.1% / liq $223,724 | 53.4% / liq $196,084 |
