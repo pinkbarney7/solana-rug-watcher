@@ -1,15 +1,14 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 12:01 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 12:09 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | 0.8% | 0 |
-| CAUTION | 6h | 3 | -38.9% | 0 |
-| CAUTION | 24h | 1 | -78.8% | 0 |
-| SKIP | 1h | 28 | 0.0% | 3 |
-| SKIP | 6h | 16 | 0.0% | 1 |
-| SKIP | 24h | 5 | 0.9% | 0 |
+| CAUTION | 1h | 4 | 6.0% | 0 |
+| CAUTION | 6h | 2 | 5.8% | 0 |
+| SKIP | 1h | 27 | -0.1% | 3 |
+| SKIP | 6h | 17 | -0.1% | 2 |
+| SKIP | 24h | 4 | 1.3% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -26,8 +25,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | - | - |
 | MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | -0.0% / liq $363,055 | - | - |
 | OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | - | - |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | 0.3% / liq $2,306,230 | - | - |
-| AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | 1.1% / liq $0 | - | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | 0.3% / liq $2,306,230 | -2.4% / liq $2,253,081 | - |
+| AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | 1.1% / liq $0 | 1.1% / liq $0 | - |
 | BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | -12.3% / liq $89,629 | 44.4% / liq $115,105 | - |
 | PREDICT | `8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN` | SKIP | 76 | 7.3% / liq $178,017 | 32.6% / liq $144,680 | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | SKIP | 56 | -1.9% / liq $650,613 | -1.7% / liq $647,571 | - |
@@ -45,5 +44,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | -4.9% / liq $1,667,149 | -12.8% / liq $1,630,406 |
 | Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | -12.8% / liq $134,901 | 101.1% / liq $223,724 | 53.4% / liq $196,084 |
 | POPCAT | `7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr` | SKIP | 47 | 0.6% / liq $2,806,188 | 2.7% / liq $2,846,589 | 1.3% / liq $2,803,503 |
-| EUROP | `euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA` | SKIP | 73 | 0.0% / liq $1,164,660 | 0.0% / liq $1,164,995 | 0.9% / liq $1,166,945 |
-| Elysion Pad | `HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump` | CAUTION | 50 | -18.1% / liq $49,677 | -38.9% / liq $43,902 | -78.8% / liq $25,026 |
