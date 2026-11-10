@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 09:55 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 10:05 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 40 | - | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | - | - | - |
 | wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | -0.2% / liq $457,309 | - | - |
 | 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | -8.9% / liq $0 | - | - |

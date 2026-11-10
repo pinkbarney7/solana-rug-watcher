@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:55:08",
+ "updated": "2026-11-10T10:05:28",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -292,7 +292,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T09:55:06+00:00",
+   "scored_at": "2026-11-10T10:05:26+00:00",
    "path": "survivor"
   },
   {
@@ -342,20 +342,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T09:55:08+00:00",
+   "scored_at": "2026-11-10T10:05:18+00:00",
    "path": "young"
   },
   {
    "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
    "ticker": "FLOAT",
-   "risk": 56,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:55:07+00:00",
+   "scored_at": "2026-11-10T10:05:26+00:00",
    "path": "survivor"
   },
   {
@@ -368,7 +368,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:55:06+00:00",
+   "scored_at": "2026-11-10T10:05:27+00:00",
    "path": "young"
   },
   {
@@ -381,7 +381,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:54:57+00:00",
+   "scored_at": "2026-11-10T10:05:27+00:00",
    "path": "young"
   },
   {
@@ -407,20 +407,20 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:55:07+00:00",
+   "scored_at": "2026-11-10T10:05:28+00:00",
    "path": "young"
   },
   {
    "mint": "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump",
    "ticker": "BORLY",
-   "risk": 70,
+   "risk": 73,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:55:08+00:00",
+   "scored_at": "2026-11-10T10:05:26+00:00",
    "path": "young"
   },
   {
@@ -512,6 +512,18 @@
    ],
    "scored_at": "2026-11-10T09:06:57+00:00",
    "path": "young"
+  },
+  {
+   "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+   "ticker": "CLAUDIA",
+   "risk": 40,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-10T10:05:26+00:00",
+   "path": "survivor"
   }
  ]
 }
