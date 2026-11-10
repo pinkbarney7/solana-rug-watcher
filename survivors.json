@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:38:57",
+ "updated": "2026-11-10T11:51:58",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -12,7 +12,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T11:37:54+00:00",
+   "scored_at": "2026-11-10T11:50:54+00:00",
    "path": "survivor"
   },
   {
@@ -287,14 +287,15 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 72,
+   "risk": 80,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T11:37:52+00:00",
+   "scored_at": "2026-11-10T11:50:55+00:00",
    "path": "survivor"
   },
   {
@@ -356,7 +357,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T11:38:55+00:00",
+   "scored_at": "2026-11-10T11:51:57+00:00",
    "path": "survivor"
   },
   {
@@ -368,7 +369,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T11:37:44+00:00",
+   "scored_at": "2026-11-10T11:50:53+00:00",
    "path": "young"
   },
   {
@@ -381,7 +382,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T11:37:54+00:00",
+   "scored_at": "2026-11-10T11:50:54+00:00",
    "path": "young"
   },
   {
@@ -400,26 +401,26 @@
   {
    "mint": "8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN",
    "ticker": "PREDICT",
-   "risk": 74,
+   "risk": 64,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-10T11:50:45+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump",
+   "ticker": "BORLY",
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T11:37:53+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump",
-   "ticker": "BORLY",
-   "risk": 59,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-10T11:37:52+00:00",
+   "scored_at": "2026-11-10T11:50:56+00:00",
    "path": "young"
   },
   {
@@ -546,7 +547,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T11:37:53+00:00",
+   "scored_at": "2026-11-10T11:50:55+00:00",
    "path": "young"
   },
   {
@@ -572,7 +573,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T11:37:54+00:00",
+   "scored_at": "2026-11-10T11:50:55+00:00",
    "path": "young"
   }
  ]
