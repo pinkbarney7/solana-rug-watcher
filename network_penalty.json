@@ -1,70 +1,7 @@
 {
  "_note": "Penalties for live/watched coins sharing creator/funder/hub wallets with confirmed rugs. Leads, not proof. Built by learn.py.",
- "updated_et": "2026-11-09 22:49 EST",
+ "updated_et": "2026-11-10 08:08 EST",
  "coins": {
-  "CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump": {
-   "ticker": "biketyson",
-   "penalty": 30,
-   "rugged_coins": [
-    "147x7nhbFo5uwYBp8KpQJn5e9gY3Y4Z2vzDCEpupump",
-    "3AroB2BsUjfnu9sBkDXo3DKGDz21ZMHYXgXLdGzvpump",
-    "3TevSbySA3Nybi3uhMxsuft2EHj1BCjB22VBUjj4pump",
-    "4nGQFx9kpzYatXHdpEaZGjNujnZ5e6LxKiTuHuy9pump",
-    "5eave6ZV7fkkDzRp3e156DFmrrqwSTP9VaNXEHj4pump",
-    "6JsFmKxaextCuhCy9CchjAJUW9CTHFiAb7xFCAXkpump",
-    "6abysvQmEq4qsjNX7BhHahCakrNfWMVnNAZrb5zBpump",
-    "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump",
-    "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya",
-    "7kf8pLGRfAnpwTJJqbVBcfDw7GPe8eDniTgputoFpump"
-   ],
-   "n_rugged": 27,
-   "via": [
-    {
-     "wallet": "2mqrindMAjJEQPLhroYWyiYPo5h9iAsahfdd4QtsjwdY",
-     "role": "creator",
-     "rug_mint": "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya",
-     "rug_ticker": "ARTEMI",
-     "rug_role": "creator"
-    },
-    {
-     "wallet": "2ccgxuZv5NEngCwWqj6zjwxHWVc8RDwXgMUfUnmpTYHQ",
-     "role": "creator funder",
-     "rug_mint": "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya",
-     "rug_ticker": "ARTEMI",
-     "rug_role": "creator funder"
-    },
-    {
-     "wallet": "H7sWT7eP83vkim7Gp81qsPwQzuzJK3E6Ps9KLbUezoCc",
-     "role": "funder",
-     "rug_mint": "7kf8pLGRfAnpwTJJqbVBcfDw7GPe8eDniTgputoFpump",
-     "rug_ticker": "Mr Beast",
-     "rug_role": "funder"
-    },
-    {
-     "wallet": "H7sWT7eP83vkim7Gp81qsPwQzuzJK3E6Ps9KLbUezoCc",
-     "role": "funder",
-     "rug_mint": "BUVhsmEcWioyw39hPGjTsZvmRgbEizfLejiWdHFJpump",
-     "rug_ticker": "ChatGPT",
-     "rug_role": "funder"
-    },
-    {
-     "wallet": "H7sWT7eP83vkim7Gp81qsPwQzuzJK3E6Ps9KLbUezoCc",
-     "role": "funder",
-     "rug_mint": "8Hxmrvb8xghWsbv4vj13UyGiou3Egd6qJgdooWKjpump",
-     "rug_ticker": "Google",
-     "rug_role": "funder"
-    },
-    {
-     "wallet": "H7sWT7eP83vkim7Gp81qsPwQzuzJK3E6Ps9KLbUezoCc",
-     "role": "funder",
-     "rug_mint": "6abysvQmEq4qsjNX7BhHahCakrNfWMVnNAZrb5zBpump",
-     "rug_ticker": "FOMO",
-     "rug_role": "funder"
-    }
-   ],
-   "updated_et": "2026-11-09 22:49 EST",
-   "note": "linked to rugged network (lead, not proof): shares creator wallet 2mqrindMAjJEQPLhroYWyiYPo5h9iAsahfdd4QtsjwdY with 27 rugged coin(s) e.g. ARTEMI 147x7nhbFo5uwYBp8KpQJn5e9gY3Y4Z2vzDCEpupump; network penalty +30"
-  },
   "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
    "ticker": "CATE",
    "penalty": 25,
@@ -117,7 +54,7 @@
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-09 22:49 EST",
+   "updated_et": "2026-11-10 08:08 EST",
    "note": "linked to rugged network (lead, not proof): shares creator wallet D9gQ6RhKEpnobPBUdWY5bPQt2p3zGk3iVz6ChpUi2ArA with 2 rugged coin(s) e.g. pumpkinu EdVkBdtbwNPqy2iuDKrzMJawyQDw3a2CaDMJxoTwpump; network penalty +25"
   },
   "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump": {
@@ -172,7 +109,7 @@
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-09 22:49 EST",
+   "updated_et": "2026-11-10 08:08 EST",
    "note": "linked to rugged network (lead, not proof): shares funder wallet G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t with 2 rugged coin(s) e.g. RARI 9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump; network penalty +20"
   }
  }
