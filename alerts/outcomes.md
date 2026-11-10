@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 09:37 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 09:48 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 6.0% | 0 |
 | CAUTION | 6h | 3 | -38.9% | 0 |
-| SKIP | 1h | 36 | -0.0% | 2 |
-| SKIP | 6h | 24 | -0.1% | 0 |
-| SKIP | 24h | 14 | -3.8% | 0 |
+| SKIP | 1h | 27 | 0.0% | 2 |
+| SKIP | 6h | 15 | -0.1% | 0 |
+| SKIP | 24h | 5 | 0.0% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -43,12 +43,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.7% / liq $6,060,334 | 4.4% / liq $6,202,510 | 4.6% / liq $6,145,566 |
 | OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | SKIP | 45 | 1.8% / liq $455,573 | -7.8% / liq $436,103 | -12.8% / liq $420,337 |
 | ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | -48.2% / liq $94,600 | -91.3% / liq $38,410 | -99.9% / liq $3,083 |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 52 | 2.2% / liq $1,838,128 | 5.7% / liq $1,869,159 | 1.9% / liq $1,831,528 |
-| CHILL | `9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump` | SKIP | 68 | 1.6% / liq $69,326 | 8.3% / liq $71,655 | 16.6% / liq $74,398 |
-| 0DAY | `85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump` | SKIP | 57 | -0.2% / liq $70,703 | -83.3% / liq $28,045 | -99.8% / liq $2,058 |
-| NVDAx | `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh` | SKIP | 82 | 1.2% / liq $2,727,852 | 0.3% / liq $2,485,061 | 2.6% / liq $2,697,972 |
-| NVIDIH | `3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump` | SKIP | 66 | -8.3% / liq $55,139 | -60.0% / liq $36,408 | -99.6% / liq $2,108 |
-| BTC | `CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump` | SKIP | 60 | -10.4% / liq $74,580 | -42.6% / liq $59,546 | -99.8% / liq $2,259 |
-| PUSSY | `FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat` | SKIP | 68 | -16.8% / liq $274,995 | -23.4% / liq $263,954 | -53.9% / liq $206,041 |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 1.2% / liq $3,897,681 | 0.9% / liq $3,890,911 | -3.8% / liq $3,803,305 |
-| BAWSAQ | `H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump` | SKIP | 58 | 23.2% / liq $83,857 | -31.0% / liq $62,919 | -99.8% / liq $1,986 |

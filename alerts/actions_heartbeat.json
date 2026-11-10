@@ -1,14 +1,14 @@
 {
- "ts": "2026-11-10T09:37:31+00:00",
- "ts_epoch": 1794303451,
+ "ts": "2026-11-10T09:48:30+00:00",
+ "ts_epoch": 1794304110,
  "mode": "helius",
  "helius_used": true,
- "credits_this_run": 0,
- "credits_today": 80,
+ "credits_this_run": 10,
+ "credits_today": 90,
  "cap": 3000,
  "gt_down": false,
  "scored": 8,
  "reused": 0,
- "box_heartbeat_age_min": 338.5,
+ "box_heartbeat_age_min": 349.5,
  "run_ok": true
 }
