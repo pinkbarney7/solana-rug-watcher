@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 12:48 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 13:01 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,7 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 2 | 5.8% | 0 |
 | SKIP | 1h | 27 | -0.1% | 3 |
 | SKIP | 6h | 18 | -0.1% | 2 |
-| SKIP | 24h | 3 | -0.2% | 0 |
+| SKIP | 24h | 5 | -10.8% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -40,8 +40,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | HODLER | `8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump` | SKIP | 79 | 19.9% / liq $623,925 | 45.1% / liq $691,348 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 80 | -0.3% / liq $2,338,936 | -0.3% / liq $2,436,594 | - |
 | MYWAY | `tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump` | CAUTION | 37 | 14.2% / liq $67,381 | 5.8% / liq $64,776 | - |
-| HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | -1.9% / liq $300,901 | - |
-| JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | -2.3% / liq $291,205 | -0.4% / liq $294,428 | - |
+| HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | -1.9% / liq $300,901 | -22.2% / liq $266,365 |
+| JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | -2.3% / liq $291,205 | -0.4% / liq $294,428 | -10.8% / liq $276,317 |
 | USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | -0.1% / liq $3,875,592 | -0.2% / liq $3,822,974 |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | -4.9% / liq $1,667,149 | -12.8% / liq $1,630,406 |
 | Pepetide | `22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp` | SKIP | 54 | -12.8% / liq $134,901 | 101.1% / liq $223,724 | 53.4% / liq $196,084 |
