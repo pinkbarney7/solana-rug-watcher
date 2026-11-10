@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 11:51 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 12:01 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,14 +7,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | 0.8% | 0 |
 | CAUTION | 6h | 3 | -38.9% | 0 |
 | CAUTION | 24h | 1 | -78.8% | 0 |
-| SKIP | 1h | 27 | -0.1% | 3 |
+| SKIP | 1h | 28 | 0.0% | 3 |
 | SKIP | 6h | 16 | 0.0% | 1 |
 | SKIP | 24h | 5 | 0.9% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 69 | - | - | - |
-| UODF | `Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump` | SKIP | 78 | - | - | - |
+| UODF | `Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump` | SKIP | 78 | 1.9% / liq $866,877 | - | - |
 | AODF | `svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump` | SKIP | 78 | 1.3% / liq $1,102,475 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 66 | -0.9% / liq $1,793,228 | - | - |
 | PUSSY | `FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat` | SKIP | 57 | -20.5% / liq $183,592 | - | - |

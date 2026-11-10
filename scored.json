@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1794311518.702008,
-"liq": 9879895.69,
+"ts": 1794312066.391253,
+"liq": 9889541.14,
 "holders": null,
 "risk": 81,
 "verdict": "SKIP"
@@ -56,10 +56,10 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794305589.1918786,
-"liq": 2268046.0100000002,
+"ts": 1794312066.39126,
+"liq": 2234977.95,
 "holders": null,
-"risk": 66,
+"risk": 52,
 "verdict": "SKIP"
 },
 "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump": {
@@ -154,8 +154,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794311518.7020137,
-"liq": 4442865.67,
+"ts": 1794312066.391249,
+"liq": 4424122.21,
 "holders": null,
 "risk": 80,
 "verdict": "SKIP"
@@ -196,15 +196,15 @@
 "verdict": "SKIP"
 },
 "7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump": {
-"ts": 1794311518.7020102,
-"liq": 51231.22,
+"ts": 1794312066.3912585,
+"liq": 51058.07,
 "holders": null,
-"risk": 60,
+"risk": 49,
 "verdict": "SKIP"
 },
 "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump": {
-"ts": 1794311518.702005,
-"liq": 83992.51,
+"ts": 1794312066.3912396,
+"liq": 86227.18,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -217,8 +217,8 @@
 "verdict": "CAUTION"
 },
 "8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN": {
-"ts": 1794311518.7020004,
-"liq": 158095.06,
+"ts": 1794312066.3912506,
+"liq": 159495.12,
 "holders": null,
 "risk": 64,
 "verdict": "SKIP"
@@ -294,22 +294,22 @@
 "verdict": "SKIP"
 },
 "svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump": {
-"ts": 1794311518.7020154,
-"liq": 1103703.24,
+"ts": 1794312066.3912451,
+"liq": 1104941.91,
 "holders": null,
-"risk": 78,
+"risk": 69,
 "verdict": "SKIP"
 },
 "Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump": {
-"ts": 1794309901.908628,
-"liq": 862083.19,
+"ts": 1794312066.3912568,
+"liq": 866507.83,
 "holders": null,
 "risk": 78,
 "verdict": "SKIP"
 },
 "d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump": {
-"ts": 1794311518.7020118,
-"liq": 1094392.94,
+"ts": 1794312066.391255,
+"liq": 1095547.13,
 "holders": null,
 "risk": 78,
 "verdict": "SKIP"
