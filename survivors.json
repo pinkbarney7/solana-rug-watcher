@@ -1,18 +1,17 @@
 {
- "updated": "2026-11-10T09:31:05",
+ "updated": "2026-11-10T09:37:31",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
    "ticker": "ZEC",
-   "risk": 81,
+   "risk": 73,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-10T09:31:05+00:00",
+   "scored_at": "2026-11-10T09:37:28+00:00",
    "path": "survivor"
   },
   {
@@ -286,15 +285,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 80,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-10T09:31:03+00:00",
+   "scored_at": "2026-11-10T09:37:29+00:00",
    "path": "survivor"
   },
   {
@@ -338,13 +336,14 @@
   {
    "mint": "8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump",
    "ticker": "HODLER",
-   "risk": 59,
+   "risk": 71,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T09:30:55+00:00",
+   "scored_at": "2026-11-10T09:37:31+00:00",
    "path": "young"
   },
   {
@@ -357,19 +356,20 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T08:57:52+00:00",
+   "scored_at": "2026-11-10T09:37:30+00:00",
    "path": "survivor"
   },
   {
    "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump",
    "ticker": "BIG",
-   "risk": 55,
+   "risk": 68,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-10T09:31:03+00:00",
+   "scored_at": "2026-11-10T09:37:30+00:00",
    "path": "young"
   },
   {
@@ -382,7 +382,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:31:05+00:00",
+   "scored_at": "2026-11-10T09:37:30+00:00",
    "path": "young"
   },
   {
@@ -408,7 +408,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-10T09:31:05+00:00",
+   "scored_at": "2026-11-10T09:37:29+00:00",
    "path": "young"
   },
   {
@@ -420,7 +420,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-10T09:31:04+00:00",
+   "scored_at": "2026-11-10T09:37:20+00:00",
    "path": "young"
   },
   {
