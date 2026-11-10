@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 08:12 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 08:23 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,10 +8,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 3 | -38.9% | 0 |
 | SKIP | 1h | 34 | 0.3% | 1 |
 | SKIP | 6h | 24 | -0.1% | 0 |
-| SKIP | 24h | 9 | -53.9% | 0 |
+| SKIP | 24h | 10 | -53.9% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| wXRP | `6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2` | SKIP | 65 | - | - | - |
+| 现金牛 | `MsAn4UwaZFc8Nb8EEqG5MtBRTmV4acZ5QogzQ8AWa4f` | SKIP | 67 | - | - | - |
 | Dacity | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | CAUTION | 44 | 6.0% / liq $479,161 | - | - |
 | MCDx | `XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2` | SKIP | 76 | -0.0% / liq $363,055 | - | - |
 | OnlyCats | `BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump` | SKIP | 58 | 18.4% / liq $97,197 | - | - |
@@ -40,7 +42,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ERA | `2fthhjkV9nmezZCPgpx1w4SRW2fZSASe7fpDhfpLpatr` | SKIP | 56 | 0.0% / liq $102,490,551 | 0.0% / liq $102,490,553 | - |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.7% / liq $6,060,334 | 4.4% / liq $6,202,510 | - |
 | OTC | `MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump` | SKIP | 45 | 1.8% / liq $455,573 | -7.8% / liq $436,103 | - |
-| ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | -48.2% / liq $94,600 | -91.3% / liq $38,410 | - |
+| ELYSION | `AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump` | SKIP | 71 | -48.2% / liq $94,600 | -91.3% / liq $38,410 | -99.9% / liq $3,083 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 52 | 2.2% / liq $1,838,128 | 5.7% / liq $1,869,159 | 1.9% / liq $1,831,528 |
 | CHILL | `9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump` | SKIP | 68 | 1.6% / liq $69,326 | 8.3% / liq $71,655 | 16.6% / liq $74,398 |
 | 0DAY | `85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump` | SKIP | 57 | -0.2% / liq $70,703 | -83.3% / liq $28,045 | -99.8% / liq $2,058 |
