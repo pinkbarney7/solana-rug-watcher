@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 13:11 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 13:20 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 6.0% | 0 |
 | CAUTION | 6h | 3 | 2.3% | 0 |
-| SKIP | 1h | 26 | -0.0% | 3 |
-| SKIP | 6h | 17 | -0.3% | 2 |
-| SKIP | 24h | 4 | -10.8% | 0 |
+| SKIP | 1h | 25 | -0.1% | 3 |
+| SKIP | 6h | 16 | -0.1% | 2 |
+| SKIP | 24h | 3 | -10.8% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -43,4 +43,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | HODL | `Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump` | SKIP | 64 | -22.2% / liq $267,312 | -1.9% / liq $300,901 | -22.2% / liq $266,365 |
 | JEANPHIL | `GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump` | SKIP | 54 | -2.3% / liq $291,205 | -0.4% / liq $294,428 | -10.8% / liq $276,317 |
 | USDG | `2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH` | SKIP | 71 | -0.1% / liq $3,877,853 | -0.1% / liq $3,875,592 | -0.2% / liq $3,822,974 |
-| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 57 | 1.2% / liq $1,694,248 | -4.9% / liq $1,667,149 | -12.8% / liq $1,630,406 |
