@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 05:56 UTC
+# Outcomes (DEX Screener, free) - 2026-11-10 06:09 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 68 | - | - | - |
+| AICoin | `6w792EhabdMTGqZtp77wWV5vZvvs4U89CqB8CYZesPq` | SKIP | 53 | - | - | - |
 | BORLY | `F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump` | SKIP | 59 | - | - | - |
 | PREDICT | `8CykGobYKN3og6VqeU17Dfhk5RZe6v7VJLQC8oUoC7yN` | SKIP | 76 | 7.3% / liq $178,017 | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | SKIP | 56 | -1.9% / liq $650,613 | - | - |
