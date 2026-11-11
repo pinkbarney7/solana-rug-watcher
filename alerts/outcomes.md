@@ -1,20 +1,21 @@
-# Outcomes (DEX Screener, free) - 2026-11-10 23:45 UTC
+# Outcomes (DEX Screener, free) - 2026-11-11 03:08 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 2 | 6.0% | 0 |
+| CAUTION | 1h | 3 | -4.6% | 0 |
 | CAUTION | 6h | 2 | 2.3% | 0 |
-| SKIP | 1h | 21 | 0.4% | 3 |
+| SKIP | 1h | 24 | 1.1% | 3 |
 | SKIP | 6h | 21 | 0.1% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | - | - | - |
-| MONTRA | `Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ` | SKIP | 67 | - | - | - |
-| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | - | - | - |
-| UODF | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | SKIP | 75 | - | - | - |
+| DACITY | `5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump` | SKIP | 60 | - | - | - |
+| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | -4.6% / liq $412,810 | - | - |
+| MONTRA | `Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ` | SKIP | 67 | 8.9% / liq $339,895 | - | - |
+| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | -4.1% / liq $1,265,605 | - | - |
+| UODF | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | SKIP | 75 | 8.8% / liq $896,433 | - | - |
 | FOTF | `q8So8CFBNUdR9LGih3CR6PS552XuJGs2qLvfnCtpump` | SKIP | 78 | 23.3% / liq $820,465 | 23.3% / liq $820,465 | - |
 | USOE | `nDUSTtA3bAR4CT3MQqnatnjcbERV62LE7X1A3abpump` | SKIP | 69 | 21.9% / liq $876,511 | 21.9% / liq $876,511 | - |
 | USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 69 | 1.5% / liq $1,098,049 | 16.6% / liq $1,177,268 | - |

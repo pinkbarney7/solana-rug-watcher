@@ -1,59 +1,59 @@
-# Last scan 2026-11-10T23:45:38Z - mode: helius (box heartbeat stale (626 min); budget 204/3000)
+# Last scan 2026-11-11T03:08:46Z - mode: helius (box heartbeat stale (829 min); budget 224/3000)
 
 ```
-[fast_scan] 134 candidate mints from 11 source tags; 132 with pair data; 37 >= $50,000 liq; 14 pass survivor pre-gates (72s)
-[fast_scan] scored BIG in 72s
-[fast_scan] scored UODF in 80s
-[fast_scan] scored ZEC in 81s
-[fast_scan] scored ACT in 81s
-[fast_scan] scored AODF in 82s
+[fast_scan] 148 candidate mints from 10 source tags; 147 with pair data; 40 >= $50,000 liq; 13 pass survivor pre-gates (73s)
+[fast_scan] scored MONTRA in 72s
+[fast_scan] scored ACT in 80s
+[fast_scan] scored DACITY in 81s
+[fast_scan] scored FLOAT in 81s
 [fast_scan] scored UODF in 82s
-[fast_scan] scored MONTRA in 83s
-[fast_scan] scored USPR in 83s
-[fast_scan] scored CYBERLEEK in 73s
-# Market scan 2026-11-10 23:45 UTC
+[fast_scan] scored USPR in 82s
+[fast_scan] scored BIG in 83s
+[fast_scan] scored AODF in 83s
+[fast_scan] scored CATE in 72s
+# Market scan 2026-11-11 03:08 UTC
 
 Info/risk only, not advice. Risk 0-100, higher = riskier; a low score = fewer red flags found, NOT safe. * = incomplete score.
 
 ## Market context
-- Majors: BTC $73,685 (-1.9% 24h), ETH $2,050 (-3.8% 24h), SOL $83.17 (-3.9% 24h)
-- Fear & Greed: 32 (Fear)
-- Sector 24h (CoinGecko): solana-meme-coins -1.7% (mcap $2.43B, vol $368.57M), pump-fun -4.4% (mcap $941.52M, vol $120.76M)
+- Majors: BTC $73,593 (-1.5% 24h), ETH $2,057 (-2.9% 24h), SOL $83.18 (-3.4% 24h)
+- Fear & Greed: 29 (Fear)
+- Sector 24h (CoinGecko): solana-meme-coins -0.8% (mcap $2.44B, vol $360.51M), pump-fun -2.8% (mcap $944.40M, vol $125.27M)
 
 ## Cleanest on real liquidity (younger than 3 days)
 Top 6 by free pre-rank (deep liquidity, sane turnover, balanced buys/sells, no spike), then full scorecard. Sorted by risk.
 
 | Risk | Verdict | Ticker | Mint (full CA) | Liq | Mcap | Age | 24h | Main drivers / notes |
 |---|---|---|---|---|---|---|---|---|
-| 55* | SKIP | [BIG](https://pump.fun/coin/34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump) | `34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump` | $96.5k | $1.11M | 2.5 d | h24 +430% | #7 Insiders / bundles / LP lock FAIL (+14); #3 Liquidity vs market cap WARN (+7); #9 Price momentum WARN (+5) |
-| 67* | SKIP | [MONTRA](https://dexscreener.com/solana/Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ) | `Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ` | $308.5k | $183.2k | 11.4 h | h24 +76% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #7 Insiders / bundles / LP lock FAIL (+14); #5 Token / pool age WARN (+5) |
-| 71* | SKIP | [USPR](https://pump.fun/coin/d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump) | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | $1.18M | $137.80M | 1.4 d | h24 +35% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #3 Liquidity vs market cap FAIL (+18); liq/mcap 0.9% (+11) |
-| 71* | SKIP | [AODF](https://pump.fun/coin/svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump) | `svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump` | $1.18M | $139.42M | 1.4 d | h24 +35% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #3 Liquidity vs market cap FAIL (+18); liq/mcap 0.8% (+11) |
-| 71* | SKIP | [UODF](https://pump.fun/coin/Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump) | `Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump` | $950.7k | $89.95M | 1.4 d | h24 +52% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #3 Liquidity vs market cap FAIL (+18); liq/mcap 1.1% (+10.7) |
-| 75* | SKIP | [UODF](https://pump.fun/coin/51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump) | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | $858.8k | $125.68M | 16.9 h | h24 +351683% | #3 Liquidity vs market cap FAIL (+18); #7 Insiders / bundles / LP lock FAIL (+14); #9 Price momentum FAIL (+14) |
+| 53* | SKIP | [MONTRA](https://dexscreener.com/solana/Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ) | `Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ` | $340.8k | $201.1k | 14.8 h | h24 +93% | #7 Insiders / bundles / LP lock FAIL (+14); #5 Token / pool age WARN (+5); #8 Turnover / bot pattern WARN (+4) |
+| 60* | SKIP | [DACITY](https://pump.fun/coin/5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump) | `5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump` | $124.0k | $2.44M | 8.1 h | h24 +5785% | #9 Price momentum FAIL (+14); #3 Liquidity vs market cap WARN (+7); liq/mcap 5.1% (+5.9) |
+| 67* | SKIP | [BIG](https://pump.fun/coin/34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump) | `34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump` | $84.2k | $845.5k | 2.6 d | h24 +77% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #7 Insiders / bundles / LP lock FAIL (+14); #3 Liquidity vs market cap WARN (+7) |
+| 71* | SKIP | [USPR](https://pump.fun/coin/d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump) | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | $1.21M | $146.44M | 1.5 d | h24 +38% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #3 Liquidity vs market cap FAIL (+18); liq/mcap 0.8% (+11) |
+| 71* | SKIP | [AODF](https://pump.fun/coin/svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump) | `svyXJ9K6uPR3RjTLTow541w5fq1WQeBuXMNTAM2pump` | $1.21M | $145.22M | 1.5 d | h24 +34% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #3 Liquidity vs market cap FAIL (+18); liq/mcap 0.8% (+11) |
+| 82* | SKIP | [UODF](https://pump.fun/coin/51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump) | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | $896.3k | $136.63M | 20.3 h | h24 +382320% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #3 Liquidity vs market cap FAIL (+18); #7 Insiders / bundles / LP lock FAIL (+14) |
 
 ## Cleanest survivors (3+ days old, >= $100k liquidity, steady volume)
 Must also pass: no rug-funder or same-operator-as-rug link, no coordinated launch, exit test PASS, creator <= 5% (or sold out), no wash FAIL, authorities revoked. Coins that failed a gate are still listed with the gate named.
 
 | Risk | Verdict | Ticker | Mint (full CA) | Liq | Mcap | Age | 24h | Main drivers / notes |
 |---|---|---|---|---|---|---|---|---|
-| 39* | CAUTION | [CYBERLEEK](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | $426.4k | $2.09M | 87.4 d | h24 +31% | #7 Insiders / bundles / LP lock WARN (+5); #11 not checked (+3); #12 not checked (+3); GATES FAILED: rug-funder link; holders 132,205 (growth n/a: first sighting) |
-| 52* | SKIP | [ACT](https://pump.fun/coin/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump) | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | $1.29M | $9.45M | 752.5 d | h24 +9% | #7 Insiders / bundles / LP lock FAIL (+14); #6 Top-10 holders (excl. pools/programs) FAIL (+5); #8 Turnover / bot pattern WARN (+4); GATES FAILED: rug-funder link; holders +0.0% in 15h (now 136,137) |
-| 80* | SKIP | [ZEC](https://dexscreener.com/solana/A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS) | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | $9.52M | $25.9k | 391.3 d | h24 -9% | #2 Authorities / extensions FAIL (+40); #16 Exit liquidity (Jupiter quotes) FAIL (+24); #7 Insiders / bundles / LP lock FAIL (+14); GATES FAILED: authorities, rug-funder link, exit test; holders +0.3% in 11h (now 389,391) |
+| 52* | SKIP | [ACT](https://pump.fun/coin/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump) | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | $1.27M | $9.05M | 752.7 d | h24 +3% | #7 Insiders / bundles / LP lock FAIL (+14); #6 Top-10 holders (excl. pools/programs) FAIL (+5); #8 Turnover / bot pattern WARN (+4); GATES FAILED: rug-funder link; holders +0.0% in 3h (now 136,137) |
+| 56* | SKIP | [FLOAT](https://dexscreener.com/solana/Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr) | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | $1.08M | $10.69M | 13.2 d | h24 +5% | #16 Exit liquidity (Jupiter quotes) FAIL (+24); #7 Insiders / bundles / LP lock WARN (+5); #11 not checked (+3); GATES FAILED: rug-funder link, exit test; holders +2.2% in 14h (now 43,495) |
+| 71* | SKIP | [CATE](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | $9.74M | $107.40B | 107.4 d | h24 +374064% | #3 Liquidity vs market cap FAIL (+18); #7 Insiders / bundles / LP lock FAIL (+14); #9 Price momentum FAIL (+14); GATES FAILED: rug-funder link; holders +0.1% in 15h (now 426,915) |
 
 ## Biggest movers (mostly traps)
 Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free data); not scored unless --score-movers.
 
 | Ticker | Mint (full CA) | Liq | Mcap | 1h | 6h | 24h | Vol/liq | Red flags | Risk |
 |---|---|---|---|---|---|---|---|---|---|
-| [UODF](https://pump.fun/coin/51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump) | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | $858.9k | $125.69M | +1% | +11% | +351706% | 0.8x | liq/mcap 0.7%; lopsided buys/sells 1411.61 | 75 |
-| [DACITY](https://pump.fun/coin/5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump) | `5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump` | $104.1k | $1.76M | +1% | +4144% | +4144% | 10.9x | spike (+1% 1h, +4144% 6h) | not scored |
-| [mihao](https://pump.fun/coin/4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump) | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | $307.4k | $10.43M | +324% | +710% | +2162% | 28.8x | liq/mcap 2.9%; churn 29x vol/liq; spike (+324% 1h, +710% 6h) | not scored |
-| [BULLHARIS](https://pump.fun/coin/6mwuYnY3fHdxed9GnrdY5BkXhJwMi1uz39MPsYUcpump) | `6mwuYnY3fHdxed9GnrdY5BkXhJwMi1uz39MPsYUcpump` | $53.2k | $495.2k | +0% | +1336% | +1336% | 5.8x | spike (+0% 1h, +1336% 6h) | not scored |
-| [HOLD](https://pump.fun/coin/4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump) | `4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump` | $40.2k | $237.9k | -38% | +603% | +603% | 34.2x | thin liq $40.2k; churn 34x vol/liq; spike (-38% 1h, +603% 6h) | not scored |
-| [MOMO](https://pump.fun/coin/488SaFq6wHF2z2k6NLSD3PtoSkXDNZaPkJwxze11pump) | `488SaFq6wHF2z2k6NLSD3PtoSkXDNZaPkJwxze11pump` | $45.9k | $137.9k | +23% | +30% | +1100% | 5.1x | thin liq $45.9k | not scored |
+| [UODF](https://pump.fun/coin/51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump) | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | $896.3k | $136.63M | +1% | +12% | +382320% | 0.8x | liq/mcap 0.7%; lopsided buys/sells 1653.55 | 82 |
+| [NIHAO](https://pump.fun/coin/8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump) | `8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump` | $180.1k | $4.98M | +20% | +10828% | +10828% | 15.5x | liq/mcap 3.6%; spike (+20% 1h, +10828% 6h) | not scored |
+| [HOLD](https://pump.fun/coin/4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump) | `4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump` | $97.7k | $1.22M | +67% | +3497% | +3497% | 32.7x | churn 33x vol/liq; spike (+67% 1h, +3497% 6h) | not scored |
+| [DACITY](https://pump.fun/coin/5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump) | `5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump` | $124.0k | $2.44M | +20% | +91% | +5785% | 12.6x | none flagged (still high risk) | 60 |
+| [mihao](https://pump.fun/coin/4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump) | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | $387.8k | $14.65M | -6% | +1149% | +2845% | 51.4x | liq/mcap 2.6%; churn 51x vol/liq; spike (-6% 1h, +1149% 6h) | not scored |
+| [Koop](https://dexscreener.com/solana/97ModG334B5y6QWAjQqrswSu4hauJnWyrqTUAqLcHojQ) | `97ModG334B5y6QWAjQqrswSu4hauJnWyrqTUAqLcHojQ` | $71.3k | $70.5k | +184% | +789% | +789% | 113.0x | churn 113x vol/liq; spike (+184% 1h, +789% 6h) | not scored |
 
-_Timing: total 218s (discovery 71.1s, screen 1.4s, GT prime 0.4s, scoring 144.8s for 9 coins, 9 newly scored). ~20 Helius credits (smart-money discovery 20). HTTP cache hits 9/164; Helius 429s 101; DEX Screener ok._
+_Timing: total 217s (discovery 71.5s, screen 1.4s, GT prime 0.4s, scoring 144.2s for 9 coins, 9 newly scored). ~10 Helius credits (smart-money discovery 10). HTTP cache hits 9/159; Helius 429s 105; DEX Screener ok._
 
 _Full reports: out/<mint>.md (+ .json)_
 ```
