@@ -1,19 +1,18 @@
-# Outcomes (DEX Screener, free) - 2026-11-12 16:16 UTC
+# Outcomes (DEX Screener, free) - 2026-11-12 22:18 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 1 | -66.0% | 0 |
-| CAUTION | 6h | 1 | -66.0% | 0 |
-| SKIP | 1h | 14 | 0.4% | 0 |
-| SKIP | 6h | 14 | 0.4% | 0 |
+| SKIP | 1h | 16 | 0.4% | 0 |
+| SKIP | 6h | 16 | 0.4% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| NOBUSHIBA | `8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump` | SKIP | 64 | - | - | - |
-| UODF | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | SKIP | 77 | - | - | - |
-| updog | `77HqxiDCgYfXUsDXDD6YVefPhTTz1Z2n8jX4gTxipump` | SKIP | 55 | - | - | - |
+| STONK | `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx` | SKIP | 45 | - | - | - |
+| NOBUSHIBA | `8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump` | SKIP | 64 | -31.9% / liq $72,087 | -31.9% / liq $72,087 | - |
+| UODF | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | SKIP | 77 | 6.7% / liq $1,183,721 | 6.7% / liq $1,183,721 | - |
+| updog | `77HqxiDCgYfXUsDXDD6YVefPhTTz1Z2n8jX4gTxipump` | SKIP | 55 | -26.1% / liq $44,945 | -26.1% / liq $44,945 | - |
 | NVDAx | `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh` | SKIP | 80 | 3.0% / liq $2,859,843 | 3.0% / liq $2,859,843 | - |
 | AIB | `AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump` | SKIP | 68 | -99.3% / liq $3,438 | -99.3% / liq $3,438 | - |
 | PREDICT | `7GM6DTUa3q9V2Dv6efRuGhrvW4aDz6Gk2GAgoC4AUTd9` | SKIP | 74 | 52.1% / liq $146,380 | 52.1% / liq $146,380 | - |
@@ -27,5 +26,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 0.5% / liq $3,071,753 | 0.5% / liq $3,071,753 | - |
 | USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 59 | 5.8% / liq $1,403,801 | 5.8% / liq $1,403,801 | - |
 | KMNO | `KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS` | SKIP | 68 | -0.9% / liq $1,868,559 | -0.9% / liq $1,868,559 | - |
-| FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -66.0% / liq $365,594 | -66.0% / liq $365,594 | - |
-| Pnut  | `2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump` | SKIP | 56 | -1.1% / liq $2,429,982 | -1.1% / liq $2,429,982 | - |
