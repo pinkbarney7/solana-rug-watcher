@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:42:14",
+ "updated": "2026-11-12T16:16:25",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -24,33 +24,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-12T07:42:13+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
-   "ticker": "ACT",
-   "risk": 52,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-11T03:07:39+00:00",
+   "scored_at": "2026-11-12T16:16:22+00:00",
    "path": "survivor"
   },
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 80,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
-    "rug-funder link",
-    "exit test"
+    "rug-funder link"
    ],
-   "scored_at": "2026-11-12T07:42:14+00:00",
+   "scored_at": "2026-11-12T16:16:23+00:00",
    "path": "survivor"
   },
   {
@@ -64,19 +51,6 @@
    ],
    "scored_at": "2026-11-11T18:08:44+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump",
-   "ticker": "BIG",
-   "risk": 67,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-11T03:07:41+00:00",
-   "path": "young"
   },
   {
    "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump",
@@ -167,39 +141,16 @@
    "path": "survivor"
   },
   {
-   "mint": "Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ",
-   "ticker": "MONTRA",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-11T03:07:30+00:00",
-   "path": "young"
-  },
-  {
    "mint": "51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump",
    "ticker": "UODF",
-   "risk": 67,
+   "risk": 77,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-12T07:42:12+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump",
-   "ticker": "DACITY",
-   "risk": 60,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-11T03:07:39+00:00",
+   "scored_at": "2026-11-12T16:16:25+00:00",
    "path": "young"
   },
   {
@@ -301,32 +252,33 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-12T07:42:14+00:00",
+   "scored_at": "2026-11-12T16:16:24+00:00",
    "path": "survivor"
   },
   {
    "mint": "7GM6DTUa3q9V2Dv6efRuGhrvW4aDz6Gk2GAgoC4AUTd9",
    "ticker": "PREDICT",
-   "risk": 74,
+   "risk": 79,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-12T07:42:12+00:00",
+   "scored_at": "2026-11-12T16:16:24+00:00",
    "path": "young"
   },
   {
    "mint": "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump",
    "ticker": "Max",
-   "risk": 55,
+   "risk": 68,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-12T07:42:04+00:00",
+   "scored_at": "2026-11-12T16:16:23+00:00",
    "path": "young"
   },
   {
@@ -340,6 +292,31 @@
     "exit test"
    ],
    "scored_at": "2026-11-12T07:42:13+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump",
+   "ticker": "NOBUSHIBA",
+   "risk": 64,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-12T16:16:25+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "77HqxiDCgYfXUsDXDD6YVefPhTTz1Z2n8jX4gTxipump",
+   "ticker": "updog",
+   "risk": 55,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-12T16:16:23+00:00",
    "path": "young"
   }
  ]
