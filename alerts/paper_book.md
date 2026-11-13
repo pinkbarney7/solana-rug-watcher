@@ -1,13 +1,13 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-13 02:41 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-13 10:00 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 11 | Open: 2 | Not opened (failed sell gate): 0
-Win rate 9% | avg return -29.4% | expectancy $-7.36 per $25 trade | total $-80.98
+Closed: 12 | Open: 1 | Not opened (failed sell gate): 0
+Win rate 8% | avg return -34.1% | expectancy $-8.53 per $25 trade | total $-102.31
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Max | [`5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump`](https://pump.fun/coin/5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump) | scored_fast_scan | CAUTION | 2026-11-13 02:41 UTC | open | +0.0% |
-| NOBUSHIBA | [`8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump`](https://pump.fun/coin/8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump) | scored_fast_scan | CAUTION | 2026-11-12 22:18 UTC | open | -47.6% |
+| Max | [`5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump`](https://pump.fun/coin/5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump) | scored_fast_scan | CAUTION | 2026-11-13 02:41 UTC | open | -14.1% |
+| NOBUSHIBA | [`8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump`](https://pump.fun/coin/8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump) | scored_fast_scan | CAUTION | 2026-11-12 22:18 UTC | closed (stop -50%) | -85.3% |
 | X | [`9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump`](https://pump.fun/coin/9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump) | scored_fast_scan | CAUTION | 2026-11-11 10:48 UTC | closed (stop -50%) | -75.9% |
 | CYBERLEEK | [`ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) | scored_fast_scan | CAUTION | 2026-11-10 23:45 UTC | closed (24h time exit) | -10.8% |
 | CLAUDIA | [`2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM`](https://dexscreener.com/solana/2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM) | scored_fast_scan | CAUTION | 2026-11-10 10:05 UTC | closed (24h time exit) | -21.1% |
