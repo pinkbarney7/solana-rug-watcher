@@ -7,17 +7,17 @@
 "verdict": "SKIP"
 },
 "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh": {
-"ts": 1794500185.2815506,
-"liq": 4352767.3,
+"ts": 1794537700.9311173,
+"liq": 4714450.05,
 "holders": null,
 "risk": 80,
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794521881.2929323,
-"liq": 2021519.82,
+"ts": 1794537700.931112,
+"liq": 1972834.85,
 "holders": null,
-"risk": 66,
+"risk": 51,
 "verdict": "SKIP"
 },
 "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump": {
@@ -91,10 +91,10 @@
 "verdict": "SKIP"
 },
 "51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump": {
-"ts": 1794521881.29293,
-"liq": 1184046.85,
+"ts": 1794537700.9311137,
+"liq": 1195751.03,
 "holders": null,
-"risk": 67,
+"risk": 77,
 "verdict": "SKIP"
 },
 "Nm2mzdj1D41m2ndqzJBHVw4VuKTZfoM5CQ39ZQpdVZJ": {
@@ -168,11 +168,11 @@
 "verdict": "SKIP"
 },
 "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump": {
-"ts": 1794500185.2815447,
-"liq": 278562.32,
+"ts": 1794537700.9311023,
+"liq": 262489.96,
 "holders": null,
-"risk": 68,
-"verdict": "SKIP"
+"risk": 43,
+"verdict": "CAUTION"
 },
 "7GM6DTUa3q9V2Dv6efRuGhrvW4aDz6Gk2GAgoC4AUTd9": {
 "ts": 1794521881.2929366,
@@ -189,24 +189,31 @@
 "verdict": "SKIP"
 },
 "77HqxiDCgYfXUsDXDD6YVefPhTTz1Z2n8jX4gTxipump": {
-"ts": 1794500185.2815418,
-"liq": 91987.79,
+"ts": 1794537700.9311101,
+"liq": 74827.5,
+"holders": null,
+"risk": 61,
+"verdict": "SKIP"
+},
+"8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": {
+"ts": 1794537700.9311163,
+"liq": 51861.94,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
 },
-"8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": {
-"ts": 1794521881.2929254,
-"liq": 72260.4,
-"holders": null,
-"risk": 47,
-"verdict": "CAUTION"
-},
 "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx": {
-"ts": 1794521881.2929373,
-"liq": 3963955.96,
+"ts": 1794537700.931107,
+"liq": 3234640.7600000002,
 "holders": null,
-"risk": 45,
+"risk": 51,
+"verdict": "SKIP"
+},
+"SnaNyd3KgXZJafzvM3EdhpKkcQrTaBAb3qBybL9pYLy": {
+"ts": 1794537700.9311152,
+"liq": 286973.64,
+"holders": null,
+"risk": 67,
 "verdict": "SKIP"
 }
 }

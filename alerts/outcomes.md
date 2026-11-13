@@ -1,15 +1,16 @@
-# Outcomes (DEX Screener, free) - 2026-11-12 22:18 UTC
+# Outcomes (DEX Screener, free) - 2026-11-13 02:41 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| SKIP | 1h | 16 | 0.4% | 0 |
-| SKIP | 6h | 16 | 0.4% | 0 |
+| SKIP | 1h | 8 | 3.0% | 0 |
+| SKIP | 6h | 7 | -26.1% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| STONK | `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx` | SKIP | 45 | - | - | - |
+| USPR | `SnaNyd3KgXZJafzvM3EdhpKkcQrTaBAb3qBybL9pYLy` | SKIP | 67 | - | - | - |
+| STONK | `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx` | SKIP | 45 | 3.7% / liq $2,068,542 | - | - |
 | NOBUSHIBA | `8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump` | SKIP | 64 | -31.9% / liq $72,087 | -31.9% / liq $72,087 | - |
 | UODF | `51rmodatSFEcZgzVohX97YXPnX5dh7RH5JXyxSoepump` | SKIP | 77 | 6.7% / liq $1,183,721 | 6.7% / liq $1,183,721 | - |
 | updog | `77HqxiDCgYfXUsDXDD6YVefPhTTz1Z2n8jX4gTxipump` | SKIP | 55 | -26.1% / liq $44,945 | -26.1% / liq $44,945 | - |
@@ -17,12 +18,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | AIB | `AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump` | SKIP | 68 | -99.3% / liq $3,438 | -99.3% / liq $3,438 | - |
 | PREDICT | `7GM6DTUa3q9V2Dv6efRuGhrvW4aDz6Gk2GAgoC4AUTd9` | SKIP | 74 | 52.1% / liq $146,380 | 52.1% / liq $146,380 | - |
 | Max | `5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump` | SKIP | 55 | -31.5% / liq $164,678 | -31.5% / liq $164,678 | - |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.4% / liq $1,599,183 | 0.4% / liq $1,599,183 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 80 | -0.2% / liq $3,590,705 | -0.2% / liq $3,590,705 | - |
-| LuckyCoin | `89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump` | SKIP | 72 | -34.2% / liq $49,480 | -34.2% / liq $49,480 | - |
-| USOE | `nDUSTtA3bAR4CT3MQqnatnjcbERV62LE7X1A3abpump` | SKIP | 71 | 7.2% / liq $1,083,547 | 7.2% / liq $1,083,547 | - |
-| UODF | `Wb9zosTQgemQ1zK9eEcmifmRvoyJBxBF4jJh3etpump` | SKIP | 59 | -95.0% / liq $260,765 | -95.0% / liq $260,765 | - |
-| FOTF | `q8So8CFBNUdR9LGih3CR6PS552XuJGs2qLvfnCtpump` | SKIP | 71 | 6.6% / liq $1,026,303 | 6.6% / liq $1,026,303 | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 0.5% / liq $3,071,753 | 0.5% / liq $3,071,753 | - |
-| USPR | `d7UsZ3yyyncVnQm9yP248ekJ6o3dV4CtWi4d2cCpump` | SKIP | 59 | 5.8% / liq $1,403,801 | 5.8% / liq $1,403,801 | - |
-| KMNO | `KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS` | SKIP | 68 | -0.9% / liq $1,868,559 | -0.9% / liq $1,868,559 | - |
