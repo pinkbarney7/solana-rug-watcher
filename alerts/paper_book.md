@@ -1,11 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-14 16:00 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-14 20:20 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 15 | Open: 0 | Not opened (failed sell gate): 0
+Closed: 15 | Open: 1 | Not opened (failed sell gate): 0
 Win rate 7% | avg return -35.4% | expectancy $-8.86 per $25 trade | total $-132.94
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
+| JENSEN | [`B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump`](https://pump.fun/coin/B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump) | scored_fast_scan | CAUTION | 2026-11-14 20:20 UTC | open | +0.0% |
 | SHARKBUX | [`ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v`](https://dexscreener.com/solana/ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v) | scored_fast_scan | CAUTION | 2026-11-14 09:31 UTC | closed (stop -50%) | -58.3% |
 | FOOD | [`FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump`](https://pump.fun/coin/FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump) | scored_fast_scan | CAUTION | 2026-11-14 02:46 UTC | closed (stop -50%) | -50.5% |
 | Max | [`5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump`](https://pump.fun/coin/5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump) | scored_fast_scan | CAUTION | 2026-11-13 02:41 UTC | closed (24h time exit) | -13.7% |
