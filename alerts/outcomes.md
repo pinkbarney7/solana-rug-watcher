@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-14 09:31 UTC
+# Outcomes (DEX Screener, free) - 2026-11-14 15:59 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,13 +6,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 1 | 1.7% | 0 |
 | CAUTION | 6h | 1 | 0.6% | 0 |
-| SKIP | 1h | 14 | -2.3% | 1 |
-| SKIP | 6h | 14 | -2.2% | 1 |
+| SKIP | 1h | 12 | -3.8% | 2 |
+| SKIP | 6h | 12 | -4.0% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| SWJ | `Hx2SXLBtX8X1n3asiGtppaPWoyraveDDriVgCFJQrne` | SKIP | 53 | - | - | - |
-| JENSEN | `B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump` | SKIP | 58 | - | - | - |
+| VTC | `3tjPCXfx3KrgMY53yo7pa67D2QQZMbLTRaqQckJmpump` | SKIP | 54 | - | - | - |
+| SWJ | `Hx2SXLBtX8X1n3asiGtppaPWoyraveDDriVgCFJQrne` | SKIP | 53 | 0.5% / liq $0 | 0.5% / liq $0 | - |
+| JENSEN | `B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump` | SKIP | 58 | -21.1% / liq $65,032 | -21.1% / liq $65,032 | - |
 | UODF | `39rS82a9nNnBuDdoJHGFti2CHQaZvLtauQzzUkERpump` | SKIP | 75 | 66.3% / liq $848,664 | 66.3% / liq $848,664 | - |
 | SWJ | `69HP7ackfKESQGJFaPzYYXUA8vpRKd2Xu5FGhVmC33a` | SKIP | 53 | -91.3% / liq $0 | -91.3% / liq $0 | - |
 | AMC | `HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump` | SKIP | 65 | -17.5% / liq $153,524 | -17.5% / liq $153,524 | - |
@@ -24,7 +25,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NVDAx | `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh` | SKIP | 80 | -0.1% / liq $3,050,669 | 0.1% / liq $3,188,412 | - |
 | inuhao | `FyHakvZH3L4UABSQYK7e9ECEzWV37u7GTkmAbHXspump` | SKIP | 59 | -87.2% / liq $58,655 | -83.1% / liq $67,365 | - |
 | Max | `5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump` | CAUTION | 43 | 1.7% / liq $173,721 | 0.6% / liq $170,192 | - |
-| SHARKBUX | `ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v` | SKIP | 69 | -12.9% / liq $61,128 | -12.9% / liq $61,128 | - |
-| XTO | `9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump` | SKIP | 78 | 11.7% / liq $1,026,689 | 11.7% / liq $1,026,689 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 80 | -0.0% / liq $3,494,542 | -0.0% / liq $3,494,542 | - |
-| FOOD | `FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump` | SKIP | 67 | 74.4% / liq $115,288 | 74.4% / liq $115,288 | - |
