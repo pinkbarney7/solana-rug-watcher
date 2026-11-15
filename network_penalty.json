@@ -1,6 +1,6 @@
 {
  "_note": "Penalties for live/watched coins sharing creator/funder/hub wallets with confirmed rugs. Leads, not proof. Built by learn.py.",
- "updated_et": "2026-11-15 18:17 EST",
+ "updated_et": "2026-11-15 18:28 EST",
  "coins": {
   "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump": {
    "ticker": "CLAW",
@@ -54,7 +54,7 @@
      "rug_role": "rug-list (high)"
     }
    ],
-   "updated_et": "2026-11-15 18:17 EST",
+   "updated_et": "2026-11-15 18:28 EST",
    "note": "linked to rugged network (lead, not proof): shares funder wallet G2YxRa6wt1qePMwfJzdXZG62ej4qaTC7YURzuh2Lwd3t with 2 rugged coin(s) e.g. RARI 9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump; network penalty +20"
   }
  }
