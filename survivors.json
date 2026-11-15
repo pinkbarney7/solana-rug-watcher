@@ -1,20 +1,6 @@
 {
- "updated": "2026-11-15T04:58:09",
+ "updated": "2026-11-15T07:19:49",
  "coins": [
-  {
-   "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
-   "ticker": "ZEC",
-   "risk": 80,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-13T17:32:13+00:00",
-   "path": "survivor"
-  },
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
    "ticker": "CATE",
@@ -24,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T04:58:08+00:00",
+   "scored_at": "2026-11-15T07:19:39+00:00",
    "path": "survivor"
   },
   {
@@ -98,32 +84,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T04:58:07+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
-   "ticker": "Sakura",
-   "risk": 68,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-13T17:32:15+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "FyHakvZH3L4UABSQYK7e9ECEzWV37u7GTkmAbHXspump",
-   "ticker": "inuhao",
-   "risk": 59,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-13T17:32:13+00:00",
+   "scored_at": "2026-11-15T07:19:47+00:00",
    "path": "young"
   },
   {
@@ -136,7 +97,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-14T20:20:39+00:00",
+   "scored_at": "2026-11-15T07:19:47+00:00",
    "path": "survivor"
   },
   {
@@ -184,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T04:58:08+00:00",
+   "scored_at": "2026-11-15T07:19:49+00:00",
    "path": "young"
   },
   {
@@ -286,14 +247,27 @@
   {
    "mint": "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
    "ticker": "bill",
-   "risk": 55,
+   "risk": 59,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-15T07:19:48+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "ticker": "Fartcoin ",
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T04:57:58+00:00",
-   "path": "young"
+   "scored_at": "2026-11-15T07:19:48+00:00",
+   "path": "survivor"
   }
  ]
 }
