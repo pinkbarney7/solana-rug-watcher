@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-15T19:02:51",
+ "updated": "2026-11-15T23:19:11",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
    "ticker": "CATE",
-   "risk": 45,
+   "risk": 50,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T12:26:47+00:00",
+   "scored_at": "2026-11-15T23:19:10+00:00",
    "path": "survivor"
   },
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 66,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T19:02:51+00:00",
+   "scored_at": "2026-11-15T23:19:11+00:00",
    "path": "survivor"
   },
   {
@@ -49,18 +49,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-14T20:20:38+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v",
-   "ticker": "SHARKBUX",
-   "risk": 37,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-14T09:30:02+00:00",
    "path": "young"
   },
   {
@@ -134,18 +122,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-14T20:20:39+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "Hx2SXLBtX8X1n3asiGtppaPWoyraveDDriVgCFJQrne",
-   "ticker": "SWJ",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-14T09:30:04+00:00",
    "path": "young"
   },
   {
@@ -313,7 +289,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T19:02:36+00:00",
+   "scored_at": "2026-11-15T23:19:11+00:00",
    "path": "survivor"
   },
   {
@@ -337,19 +313,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T19:02:27+00:00",
+   "scored_at": "2026-11-15T23:19:01+00:00",
    "path": "young"
   },
   {
    "mint": "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump",
    "ticker": "USPR",
-   "risk": 75,
+   "risk": 67,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-15T19:02:43+00:00",
+   "scored_at": "2026-11-15T23:19:10+00:00",
    "path": "young"
   }
  ]
