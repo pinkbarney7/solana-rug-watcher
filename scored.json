@@ -14,8 +14,8 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794727189.1733778,
-"liq": 1684602.42,
+"ts": 1794745608.3158529,
+"liq": 1711551.1500000001,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
@@ -33,20 +33,6 @@
 "holders": null,
 "risk": 39,
 "verdict": "CAUTION"
-},
-"6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx": {
-"ts": 1794564013.3213055,
-"liq": 3317873.8000000003,
-"holders": null,
-"risk": 51,
-"verdict": "SKIP"
-},
-"SnaNyd3KgXZJafzvM3EdhpKkcQrTaBAb3qBybL9pYLy": {
-"ts": 1794564013.3212967,
-"liq": 331492.54,
-"holders": null,
-"risk": 53,
-"verdict": "SKIP"
 },
 "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump": {
 "ts": 1794671996.5826201,
@@ -91,8 +77,8 @@
 "verdict": "SKIP"
 },
 "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo": {
-"ts": 1794727189.1733863,
-"liq": 1023835.49,
+"ts": 1794745608.315851,
+"liq": 1032311.0299999999,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
@@ -161,10 +147,10 @@
 "verdict": "SKIP"
 },
 "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": {
-"ts": 1794727189.1733906,
-"liq": 164600.86000000002,
+"ts": 1794745608.3158445,
+"liq": 136248.47,
 "holders": null,
-"risk": 59,
+"risk": 55,
 "verdict": "SKIP"
 },
 "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump": {
@@ -187,5 +173,40 @@
 "holders": null,
 "risk": 56,
 "verdict": "SKIP"
+},
+"ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump": {
+"ts": 1794745608.315837,
+"liq": 62939.37,
+"holders": null,
+"risk": 52,
+"verdict": "CAUTION"
+},
+"B363HkenheRKssXjM8eEW2T6wS2FwrkH4Pgn9ZNyUWW": {
+"ts": 1794745608.3158414,
+"liq": 158431.71,
+"holders": null,
+"risk": 53,
+"verdict": "SKIP"
+},
+"9TjNE2HmETBq4fAh9GZAy6LjPPadQBXuEFasCpMmsim": {
+"ts": 1794745608.315847,
+"liq": 229436.72,
+"holders": null,
+"risk": 53,
+"verdict": "SKIP"
+},
+"CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump": {
+"ts": 1794745608.315849,
+"liq": 63518.35,
+"holders": null,
+"risk": 58,
+"verdict": "SKIP"
+},
+"CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump": {
+"ts": 1794745608.3158538,
+"liq": 218726.22,
+"holders": null,
+"risk": 38,
+"verdict": "CAUTION"
 }
 }
