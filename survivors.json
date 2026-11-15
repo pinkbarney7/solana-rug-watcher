@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:20:41",
+ "updated": "2026-11-15T00:00:37",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -24,7 +24,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-14T20:20:40+00:00",
+   "scored_at": "2026-11-15T00:00:37+00:00",
    "path": "survivor"
   },
   {
@@ -37,7 +37,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-14T20:20:40+00:00",
+   "scored_at": "2026-11-15T00:00:36+00:00",
    "path": "survivor"
   },
   {
@@ -63,30 +63,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-14T20:20:38+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-   "ticker": "STONK",
-   "risk": 51,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-13T10:00:13+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "SnaNyd3KgXZJafzvM3EdhpKkcQrTaBAb3qBybL9pYLy",
-   "ticker": "USPR",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-13T10:00:11+00:00",
    "path": "young"
   },
   {
@@ -122,7 +98,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-14T20:20:40+00:00",
+   "scored_at": "2026-11-15T00:00:36+00:00",
    "path": "young"
   },
   {
@@ -208,7 +184,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-14T20:20:39+00:00",
+   "scored_at": "2026-11-15T00:00:37+00:00",
    "path": "young"
   },
   {
@@ -257,6 +233,30 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-14T20:20:30+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+   "ticker": "TROLL",
+   "risk": 54,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-15T00:00:37+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "KUtvFkr8Ao6A3YT8V2oZAxs3WtvrmtqU9JAwuEtLb4r",
+   "ticker": "bill",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-15T00:00:27+00:00",
    "path": "young"
   }
  ]
