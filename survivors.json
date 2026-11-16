@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T03:51:32",
+ "updated": "2026-11-16T04:05:35",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -27,19 +27,6 @@
    "path": "survivor"
   },
   {
-   "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
-   "ticker": "NVDAx",
-   "risk": 72,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-14T15:58:54+00:00",
-   "path": "survivor"
-  },
-  {
    "mint": "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump",
    "ticker": "Max",
    "risk": 39,
@@ -49,18 +36,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-14T20:20:38+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump",
-   "ticker": "FOOD",
-   "risk": 41,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-14T15:58:51+00:00",
    "path": "young"
   },
   {
@@ -89,18 +64,6 @@
    "path": "survivor"
   },
   {
-   "mint": "HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump",
-   "ticker": "AMC",
-   "risk": 66,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-14T15:58:54+00:00",
-   "path": "young"
-  },
-  {
    "mint": "39rS82a9nNnBuDdoJHGFti2CHQaZvLtauQzzUkERpump",
    "ticker": "UODF",
    "risk": 67,
@@ -122,18 +85,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-14T20:20:39+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "3tjPCXfx3KrgMY53yo7pa67D2QQZMbLTRaqQckJmpump",
-   "ticker": "VTC",
-   "risk": 54,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-14T15:58:53+00:00",
    "path": "young"
   },
   {
