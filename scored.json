@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794813074.614496,
-"liq": 1634713.6400000001,
+"ts": 1794813610.1898694,
+"liq": 1637437.3399999999,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794813074.6144836,
-"liq": 4340159.78,
+"ts": 1794813610.1898682,
+"liq": 4338656.87,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,8 +175,8 @@
 "verdict": "CAUTION"
 },
 "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump": {
-"ts": 1794813074.6144724,
-"liq": 181414.8,
+"ts": 1794813610.1898668,
+"liq": 176057.96,
 "holders": null,
 "risk": 44,
 "verdict": "CAUTION"
@@ -189,22 +189,22 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794813074.6144886,
-"liq": 1633565.79,
+"ts": 1794813610.1898549,
+"liq": 1649513.55,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump": {
-"ts": 1794813074.61448,
-"liq": 1043168.27,
+"ts": 1794813610.1898608,
+"liq": 1043126.02,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794813074.6144931,
-"liq": 78315.1,
+"ts": 1794813610.1898644,
+"liq": 80311.49,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -217,8 +217,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794813074.6144905,
-"liq": 102316.48,
+"ts": 1794813610.1898582,
+"liq": 100293.59,
 "holders": null,
 "risk": 60,
 "verdict": "SKIP"
@@ -231,8 +231,8 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794813074.614486,
-"liq": 89212.81000000001,
+"ts": 1794813610.1898627,
+"liq": 89960.91,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -259,10 +259,10 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794813074.6144946,
-"liq": 118763.62999999999,
+"ts": 1794813610.1898506,
+"liq": 118442.74,
 "holders": null,
-"risk": 44,
+"risk": 45,
 "verdict": "CAUTION"
 }
 }
