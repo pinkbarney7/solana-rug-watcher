@@ -22,3 +22,4 @@
 {"mint": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump", "ticker": "PAID", "t0": 1794809202.0, "verdict": "CAUTION", "risk": 38, "p0": 0.001344, "liq0": 252166.99000000002, "mcap0": 1111171.0, "1h": {"price": 0.001359, "liq": 214942.33, "chg_pct": 1.1, "liq_chg_pct": -14.8, "late_min": 5}}
 {"mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "ticker": "HOGE", "t0": 1794811493.0, "verdict": "SKIP", "risk": 50, "p0": 0.0004414, "liq0": 121785.52, "mcap0": 421772.0, "1h": {"price": 0.0003888, "liq": 68675.22, "chg_pct": -11.9, "liq_chg_pct": -43.6, "late_min": 4}}
 {"mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS", "ticker": "ZEC", "t0": 1794816336.0, "verdict": "SKIP", "risk": 72, "p0": 893.047, "liq0": 8631400.99, "mcap0": 22055.0}
+{"mint": "6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY", "ticker": "DADOG", "t0": 1794817060.0, "verdict": "SKIP", "risk": 73, "p0": 0.0008424, "liq0": 834216.72, "mcap0": 842304.0}
