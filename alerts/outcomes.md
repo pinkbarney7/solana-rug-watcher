@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 11:14 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 11:30 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,12 +6,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | 0.0% | 0 |
 | CAUTION | 6h | 4 | 0.0% | 0 |
-| SKIP | 1h | 20 | -1.3% | 4 |
+| SKIP | 1h | 21 | -1.3% | 4 |
 | SKIP | 6h | 12 | 0.9% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | - | - | - |
+| ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | 0.0% / liq $2,319,356 | - | - |
 | Marvin | `HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump` | SKIP | 55 | -11.2% / liq $51,627 | - | - |
 | FiveM | `2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump` | SKIP | 57 | -99.8% / liq $1,551 | - | - |
 | Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | -0.5% / liq $0 | - | - |

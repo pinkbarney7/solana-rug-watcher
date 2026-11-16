@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794827675.5912077,
-"liq": 1644758.06,
+"ts": 1794828631.6550486,
+"liq": 1622501.02,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794827675.5912066,
-"liq": 4353059.98,
+"ts": 1794828631.6550412,
+"liq": 4354309.19,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,15 +175,15 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794827675.5911984,
-"liq": 1571383.99,
+"ts": 1794828631.6550446,
+"liq": 1539510.25,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump": {
-"ts": 1794822270.0664964,
-"liq": 1061904.06,
+"ts": 1794828631.6550465,
+"liq": 1085149.56,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
@@ -203,10 +203,10 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794827675.5912004,
-"liq": 96742.95,
+"ts": 1794828631.6550431,
+"liq": 96749.26000000001,
 "holders": null,
-"risk": 59,
+"risk": 60,
 "verdict": "SKIP"
 },
 "AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc": {
@@ -217,15 +217,15 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794827675.5911956,
-"liq": 156604.49,
+"ts": 1794828631.655032,
+"liq": 156232.26,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
 },
 "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-"ts": 1794827675.5912023,
-"liq": 242357.28999999998,
+"ts": 1794828631.6550393,
+"liq": 243707.02,
 "holders": null,
 "risk": 47,
 "verdict": "SKIP"
@@ -245,8 +245,8 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794827675.5911908,
-"liq": 107816.45,
+"ts": 1794828631.655036,
+"liq": 104183.01000000001,
 "holders": null,
 "risk": 50,
 "verdict": "SKIP"
@@ -280,8 +280,8 @@
 "verdict": "SKIP"
 },
 "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": {
-"ts": 1794827675.5912037,
-"liq": 73332.36,
+"ts": 1794828631.6550477,
+"liq": 74394.51000000001,
 "holders": null,
 "risk": 56,
 "verdict": "SKIP"
