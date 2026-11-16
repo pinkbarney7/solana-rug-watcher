@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 11:34 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 11:47 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | 0.0% | 0 |
 | CAUTION | 6h | 4 | 0.0% | 0 |
 | SKIP | 1h | 21 | -1.3% | 4 |
-| SKIP | 6h | 12 | 0.9% | 2 |
+| SKIP | 6h | 14 | 0.9% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -19,8 +19,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | - | - |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | SKIP | 50 | -11.9% / liq $68,675 | - | - |
 | PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | 1.1% / liq $214,942 | - | - |
-| Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | -0.8% / liq $0 | - | - |
-| gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | - | - |
+| Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | -0.8% / liq $0 | -0.8% / liq $0 | - |
+| gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | 37.9% / liq $54,960 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | -1.6% / liq $1,240,876 | 0.9% / liq $1,262,775 | - |
 | rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | -9.0% / liq $66,674 | 73.1% / liq $94,281 | - |
 | UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | 0.0% / liq $32,128,275 | 0.0% / liq $32,128,280 | - |
