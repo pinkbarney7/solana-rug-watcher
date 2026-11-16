@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794828631.6550486,
-"liq": 1622501.02,
+"ts": 1794828876.9242148,
+"liq": 1617256.49,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794828631.6550412,
-"liq": 4354309.19,
+"ts": 1794828876.924206,
+"liq": 4356451.35,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,22 +175,22 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794828631.6550446,
-"liq": 1539510.25,
+"ts": 1794828876.9242125,
+"liq": 1539197.74,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump": {
-"ts": 1794828631.6550465,
-"liq": 1085149.56,
+"ts": 1794828876.9242136,
+"liq": 1085977.57,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794827675.5912051,
-"liq": 63674.65,
+"ts": 1794828876.9242082,
+"liq": 56099.69,
 "holders": null,
 "risk": 57,
 "verdict": "SKIP"
@@ -217,15 +217,15 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794828631.655032,
-"liq": 156232.26,
+"ts": 1794828876.9242032,
+"liq": 154329.73,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
 },
 "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-"ts": 1794828631.6550393,
-"liq": 243707.02,
+"ts": 1794828876.9241984,
+"liq": 244034.28,
 "holders": null,
 "risk": 47,
 "verdict": "SKIP"
@@ -245,8 +245,8 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794828631.655036,
-"liq": 104183.01000000001,
+"ts": 1794828876.924211,
+"liq": 98405.93000000001,
 "holders": null,
 "risk": 50,
 "verdict": "SKIP"
@@ -280,10 +280,10 @@
 "verdict": "SKIP"
 },
 "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": {
-"ts": 1794828631.6550477,
-"liq": 74394.51000000001,
+"ts": 1794828876.9242094,
+"liq": 74183.70999999999,
 "holders": null,
-"risk": 56,
+"risk": 55,
 "verdict": "SKIP"
 },
 "8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW": {
