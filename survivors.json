@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:34:19",
+ "updated": "2026-11-16T06:45:55",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:34:19+00:00",
+   "scored_at": "2026-11-16T06:45:55+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:16+00:00",
+   "scored_at": "2026-11-16T06:44:52+00:00",
    "path": "survivor"
   },
   {
@@ -240,7 +240,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:15+00:00",
+   "scored_at": "2026-11-16T06:44:52+00:00",
    "path": "survivor"
   },
   {
@@ -264,7 +264,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:05+00:00",
+   "scored_at": "2026-11-16T06:44:52+00:00",
    "path": "young"
   },
   {
@@ -276,7 +276,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:14+00:00",
+   "scored_at": "2026-11-16T06:44:53+00:00",
    "path": "young"
   },
   {
@@ -312,7 +312,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:16+00:00",
+   "scored_at": "2026-11-16T06:44:53+00:00",
    "path": "young"
   },
   {
@@ -324,7 +324,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:15+00:00",
+   "scored_at": "2026-11-16T06:44:43+00:00",
    "path": "young"
   },
   {
@@ -336,7 +336,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T06:33:14+00:00",
+   "scored_at": "2026-11-16T06:44:51+00:00",
    "path": "young"
   },
   {
@@ -375,6 +375,18 @@
    ],
    "scored_at": "2026-11-16T06:06:42+00:00",
    "path": "survivor"
+  },
+  {
+   "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
+   "ticker": "HOGE",
+   "risk": 50,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-16T06:44:53+00:00",
+   "path": "young"
   }
  ]
 }
