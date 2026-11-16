@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794820066.0765758,
-"liq": 1604903.42,
+"ts": 1794820572.8214245,
+"liq": 1598006.9400000002,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794820066.0765715,
-"liq": 4346079.65,
+"ts": 1794820572.8214164,
+"liq": 4387586.92,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -189,24 +189,24 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794820066.0765693,
-"liq": 1575507.04,
+"ts": 1794820572.8214118,
+"liq": 1557949.3699999999,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump": {
-"ts": 1794820066.0765731,
-"liq": 1052778.89,
+"ts": 1794820572.8214188,
+"liq": 1053488.65,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794820066.0765748,
-"liq": 74373.44,
+"ts": 1794820572.821421,
+"liq": 77240.2,
 "holders": null,
-"risk": 58,
+"risk": 59,
 "verdict": "SKIP"
 },
 "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG": {
@@ -217,8 +217,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794820066.0765665,
-"liq": 95913.59,
+"ts": 1794820572.8214226,
+"liq": 95519.65000000001,
 "holders": null,
 "risk": 60,
 "verdict": "SKIP"
@@ -238,8 +238,8 @@
 "verdict": "SKIP"
 },
 "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-"ts": 1794815780.6583579,
-"liq": 245932.03,
+"ts": 1794820572.8214085,
+"liq": 246473.93,
 "holders": null,
 "risk": 47,
 "verdict": "SKIP"
@@ -259,10 +259,10 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794820066.0765767,
-"liq": 113245.23,
+"ts": 1794820572.8214145,
+"liq": 114892.94,
 "holders": null,
-"risk": 44,
+"risk": 45,
 "verdict": "CAUTION"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
@@ -273,7 +273,7 @@
 "verdict": "SKIP"
 },
 "6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY": {
-"ts": 1794820066.0765612,
+"ts": 1794820572.821401,
 "liq": 834216.72,
 "holders": null,
 "risk": 73,
