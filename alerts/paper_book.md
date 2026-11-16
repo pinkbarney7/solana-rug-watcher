@@ -1,15 +1,15 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-16 18:59 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-16 19:04 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 19 | Open: 3 | Not opened (failed sell gate): 0
-Win rate 11% | avg return -30.7% | expectancy $-7.67 per $25 trade | total $-145.72
+Closed: 20 | Open: 2 | Not opened (failed sell gate): 0
+Win rate 15% | avg return -26.3% | expectancy $-6.58 per $25 trade | total $-131.51
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
 | HOGE | [`FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump`](https://pump.fun/coin/FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump) | scored_fast_scan | CAUTION | 2026-11-16 07:11 UTC | closed (take profit +100%) | +108.0% |
-| PAID | [`98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump`](https://pump.fun/coin/98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump) | scored_fast_scan | CAUTION | 2026-11-16 06:06 UTC | open | -7.8% |
+| PAID | [`98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump`](https://pump.fun/coin/98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump) | scored_fast_scan | CAUTION | 2026-11-16 06:06 UTC | open | -8.2% |
 | UODF | [`AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc`](https://dexscreener.com/solana/AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc) | scored_fast_scan | CAUTION | 2026-11-16 04:29 UTC | open | +0.0% |
-| BUTTHOLE | [`4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump`](https://pump.fun/coin/4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump) | scored_fast_scan | CAUTION | 2026-11-15 19:02 UTC | open | +51.0% |
+| BUTTHOLE | [`4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump`](https://pump.fun/coin/4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump) | scored_fast_scan | CAUTION | 2026-11-15 19:02 UTC | closed (24h time exit) | +56.8% |
 | GETAJOB | [`ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump`](https://pump.fun/coin/ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | closed (stop -50%) | -52.7% |
 | fone | [`CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump`](https://pump.fun/coin/CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | closed (24h time exit) | -22.4% |
 | JENSEN | [`B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump`](https://pump.fun/coin/B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump) | scored_fast_scan | CAUTION | 2026-11-14 20:20 UTC | closed (stop -50%) | -84.0% |
