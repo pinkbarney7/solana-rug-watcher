@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:33:23",
+ "updated": "2026-11-16T08:51:15",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:22+00:00",
+   "scored_at": "2026-11-16T08:51:13+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:21+00:00",
+   "scored_at": "2026-11-16T08:51:14+00:00",
    "path": "survivor"
   },
   {
@@ -204,7 +204,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:20+00:00",
+   "scored_at": "2026-11-16T08:51:14+00:00",
    "path": "survivor"
   },
   {
@@ -240,7 +240,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:22+00:00",
+   "scored_at": "2026-11-16T08:51:15+00:00",
    "path": "young"
   },
   {
@@ -276,19 +276,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:21+00:00",
+   "scored_at": "2026-11-16T08:51:15+00:00",
    "path": "young"
   },
   {
    "mint": "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump",
    "ticker": "BJB",
-   "risk": 59,
+   "risk": 60,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:22+00:00",
+   "scored_at": "2026-11-16T08:51:15+00:00",
    "path": "young"
   },
   {
@@ -349,7 +349,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:33:22+00:00",
+   "scored_at": "2026-11-16T08:51:13+00:00",
    "path": "young"
   },
   {
@@ -375,7 +375,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-16T08:33:12+00:00",
+   "scored_at": "2026-11-16T08:51:05+00:00",
    "path": "young"
   }
  ]
