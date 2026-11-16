@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 05:53 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 06:06 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | - | - | - |
 | Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | - | - | - |
 | gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | - | - | - |
