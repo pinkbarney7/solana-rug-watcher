@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:51:15",
+ "updated": "2026-11-16T08:58:02",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:13+00:00",
+   "scored_at": "2026-11-16T08:58:01+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:14+00:00",
+   "scored_at": "2026-11-16T08:58:02+00:00",
    "path": "survivor"
   },
   {
@@ -204,7 +204,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:14+00:00",
+   "scored_at": "2026-11-16T08:58:00+00:00",
    "path": "survivor"
   },
   {
@@ -240,7 +240,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:15+00:00",
+   "scored_at": "2026-11-16T08:58:00+00:00",
    "path": "young"
   },
   {
@@ -270,13 +270,13 @@
   {
    "mint": "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump",
    "ticker": "Anthropig",
-   "risk": 59,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:15+00:00",
+   "scored_at": "2026-11-16T08:58:01+00:00",
    "path": "young"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:15+00:00",
+   "scored_at": "2026-11-16T08:58:02+00:00",
    "path": "young"
   },
   {
@@ -349,7 +349,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T08:51:13+00:00",
+   "scored_at": "2026-11-16T08:57:52+00:00",
    "path": "young"
   },
   {
@@ -375,7 +375,7 @@
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-16T08:51:05+00:00",
+   "scored_at": "2026-11-16T08:58:00+00:00",
    "path": "young"
   }
  ]
