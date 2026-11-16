@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 09:16 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 09:30 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,13 +6,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | 0.0% | 0 |
 | CAUTION | 6h | 3 | -5.0% | 0 |
-| SKIP | 1h | 19 | -0.8% | 3 |
-| SKIP | 6h | 10 | 1.0% | 2 |
-| SKIP | 24h | 3 | 1.2% | 0 |
+| SKIP | 1h | 17 | -1.3% | 3 |
+| SKIP | 6h | 7 | 0.2% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| DADOG | `6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY` | SKIP | 73 | - | - | - |
+| FiveM | `2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump` | SKIP | 57 | - | - | - |
+| Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | - | - | - |
+| DADOG | `6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY` | SKIP | 73 | 0.0% / liq $834,217 | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | - | - |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | SKIP | 50 | -11.9% / liq $68,675 | - | - |
 | PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | 1.1% / liq $214,942 | - | - |
@@ -34,6 +35,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | DacityCoin | `9TjNE2HmETBq4fAh9GZAy6LjPPadQBXuEFasCpMmsim` | SKIP | 53 | -99.8% / liq $0 | -99.8% / liq $0 | - |
 | bill | `B363HkenheRKssXjM8eEW2T6wS2FwrkH4Pgn9ZNyUWW` | SKIP | 53 | 0.2% / liq $0 | 0.2% / liq $0 | - |
 | GETAJOB | `ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump` | CAUTION | 52 | -20.0% / liq $55,798 | -20.0% / liq $55,798 | - |
-| UODF | `39rS82a9nNnBuDdoJHGFti2CHQaZvLtauQzzUkERpump` | SKIP | 67 | 13.1% / liq $1,191,766 | -99.6% / liq $73,235 | -100.0% / liq $2,014 |
-| Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 3.3% / liq $5,067,189 | 1.9% / liq $4,982,206 | 2.0% / liq $4,980,516 |
-| TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 67 | 0.9% / liq $718,082 | 1.0% / liq $1,060,349 | 1.2% / liq $636,204 |
