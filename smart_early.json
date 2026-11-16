@@ -1,146 +1,16 @@
 {
- "built_at": "2026-11-10T08:25:22-0500",
+ "built_at": "2026-11-16T08:33:34-0500",
  "coins_examined": 201,
  "coin_results": {
-  "win": 6,
-  "loss": 171,
-  "pending": 12
+  "win": 3,
+  "loss": 176,
+  "pending": 9
  },
  "excluded_coordinated": 0,
  "n_smart": 0,
- "n_candidate": 125,
+ "n_candidate": 10,
  "criteria": "1. Coins: every scorecard result JSON in /workspace/scan-*/ and /workspace/scan/ that has Helius launch data\n    plus each coin's earliest mint txs (getTransactionsForAddress asc; page 1 is usually already in .cache = free; coins that\n    survived get up to 5 pages = the first ~500 txs; others 1 page). Buyers are stored once in smart_early_buyers.json.\n 2. Early buy = token balance up at slot offset 4+ and blockTime <= creation + 30 min (slots 0-3 = bundles/snipers).\n    Excluded: slots 0-3 (bundles/snipers), the creator, any wallet signed by someone else (bundled), any wallet in a\n    common-funder cluster of the coin (helius.clusters, incl. the creator's) or the operator trace group, rug_funders.json.\n 3. Outcome now (DEX Screener, batch endpoint): WIN = coin >= 24 h old, liquidity >= $20k and >= 40% of liquidity at scan\n    time, market cap >= $100k (far above where a ~30-min buyer entered) and >= 50% of the scan-time cap.\n    LOSS = >= 24 h old and liquidity < $5k / no pair / liquidity down >= 80% / market cap < $30k. Else pending.\n 4. Excluded: 3+ wallets entering the same 2+ winning coins in the same minute (coordinated group); WIN also needs\n    liquidity >= 2% of market cap (fake-cap copycats). Coins created > 60 days ago are skipped. Tier \"smart\" = >= 2 WINs, wins >= losses, not sniper-like (every entry < 30 s). Tier \"candidate\" = 1 WIN and 0 losses (shown, not used for confluence).",
  "wallets": [
-  {
-   "address": "BYxxKQ7crodCMHBydmsg2pBonuuaHFRKxafBprNdVTTh",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr",
-     "ticker": "CAPY",
-     "entry_et": "2026-11-02 14:00 EST",
-     "min_after_launch": 0.5,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "EkXxonwVB27DoBqSEnYYjNPmF83trANHNZkq6ffkRA62",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr",
-     "ticker": "CAPY",
-     "entry_et": "2026-11-02 14:00 EST",
-     "min_after_launch": 0.5,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "3PpgE1PkUoftrPkZ5TcYzqaVHJs27baJsd4WathmNkuP",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr",
-     "ticker": "CAPY",
-     "entry_et": "2026-11-02 14:00 EST",
-     "min_after_launch": 0.5,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "6Qt8a3Y6B4nekSRQ1p2e5yqP5bSCbE6HzUTdWwdfYXmR",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr",
-     "ticker": "CAPY",
-     "entry_et": "2026-11-02 14:01 EST",
-     "min_after_launch": 0.7,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "78Qkt6pnSvDAfDLPG97At5ksFLdPqgNUKRKtGh9g1e5D",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump",
-     "ticker": "swordcat",
-     "entry_et": "2026-09-28 04:40 EDT",
-     "min_after_launch": 0.0,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HucwRdN2rh8aSJvCc3VUTvJNBbE3bpU6V1C9Aqb6tCas",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump",
-     "ticker": "swordcat",
-     "entry_et": "2026-09-28 04:40 EDT",
-     "min_after_launch": 0.0,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
   {
    "address": "FxHSdD6czLhYXZDHH4guY6GT8pBmDmxwD2qQ83UbpQ9d",
    "tier": "candidate",
@@ -152,163 +22,6 @@
      "ticker": "GLITCH",
      "entry_et": "2026-10-16 11:10 EDT",
      "min_after_launch": 0.0,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4nSW14h3dmsLJRWke6MfX7kT3oJvCNu5YPbsJd6XqvdZ",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-     "ticker": "JOB",
-     "entry_et": "2026-10-27 15:13 EDT",
-     "min_after_launch": 0.0,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HMgQhfdKXmhHtLqtJyZKLHLRHoPFG5egc242z1johpv6",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-     "ticker": "JOB",
-     "entry_et": "2026-10-27 15:13 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "GmDA73BppKky6tctGfYD8umXihfC3SzC3NeTaTLyLgcM",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-     "ticker": "JOB",
-     "entry_et": "2026-10-27 15:13 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4XxddzixgjffvqCev7fpBj38XHrcZFKCtVMMpV4mDSs3",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-     "ticker": "JOB",
-     "entry_et": "2026-10-27 15:13 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4zfgPykWA7gziwAz2rUWQ4MMAjP25mYPACqbJ7AJ9ds5",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
-     "ticker": "JOB",
-     "entry_et": "2026-10-27 15:13 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "AgADPf5nKm8tb9E5yZHr4EgQtjirbqsLV4nVqhgizASi",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
-     "ticker": "PANGEA",
-     "entry_et": "2026-10-21 12:41 EDT",
-     "min_after_launch": 6.7,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Ad9EmkNwfopPQpmPZQiByWQ7BvegUN3JvZjDMYJmwWLW",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
-     "ticker": "PANGEA",
-     "entry_et": "2026-10-21 12:41 EDT",
-     "min_after_launch": 6.7,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4QqGF4QXt8Bv1a2xYenshAhBvGda7UZyLnmvmx7UfBUR",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
-     "ticker": "PANGEA",
-     "entry_et": "2026-10-21 12:41 EDT",
-     "min_after_launch": 6.7,
-     "result": "pending"
-    },
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
      "result": "win"
     }
    ],
@@ -467,1734 +180,17 @@
    ],
    "sniper_like": true,
    "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8RjV3orwmu68xRPhJnQRrhrfS7f7yZCHdaTNNziMQfuZ",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.0,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "VVV4C8wbLVU5Yw2JmdF7SPmoG2ubmJmmcjzHAJcdHgH",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Hn6vBWWySnxA8XjxRQDEmZEuH5QL7KqosnJGcLcUzFJ6",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "H8MJqWWnugp5p8Fz6XUYUtMFWTBajF9DsaKxR3qxdfma",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "9wrsZVw68BwXNHpbgAaHJc5U3iA7JYo8P4UDHrTpqeum",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "J2cc3ANdyHM1sgALqRDMWZigp8YhWUQ6buaWVY5vSZvK",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "9EHhuegvjnaEMGhXmgqhgyVa7fBnmqmYV93KQ76Bb59i",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8wRqswEHsPcA4mFL193UuHjDoQdSQ95X2H4pnZXSfjEP",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "FdcLZmVLf7s6ZPH1SKNoGeem85kS2U3k3MC8pSNMFTUz",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "FgTaJSevm3aEmEwkBJ4YhTE6jvDi1dBGz3NhavPF3u1z",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "64oquCW1cm4SZ3NB3RanZSacZ5DHq7g1pWsaDWa15Wvu",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "ErK2UB5KWvQCYZWPgYEjKcnaoBirjeYP4Vhs2YhDx2iV",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4zcxVHByX1YELnvXVUo7bwTFFT3TV5LMrwJS2ocXpftp",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "6GisP3YKjzVQ5jFzewWuEy6ZSsD9Wq1QXLjQ7fpyCYDF",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HTYpDu8D2vFpCxZFyDkGUCHcFfgEidiaVdBSG9RPMoHq",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "SpwgQAgBM7juc8spRwJu1UFM3fHYnMmfrySUSHfwjkQ",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "5QsGub1dr6oV928UkvEC5fHb2WCnztv1Aeo1XJUHPwPr",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "GGLwpJVtPMhvKow2TeZk8Sx71azH63boQHQ7AzUfZW1H",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "AFuqo9K2J1qCmRUkEXdUSYS9RXssjACS3kuDMzFgkQhd",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "3ZHm7WnPoGbXdbcgyNABAaxUJBUKUXUadGErboRrUZzk",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "CHpPDmCgovBVn237np5rk6uWMN6EZHBGaSEfnwFHQkFh",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "5gwsFVV66qqeWfXdJ1PhfKu5BJyfJcnKPPx6wPHV2XKD",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "2B5nDHTvLECZQeeRFZdpNT4YmY6fQFs47vnvanVVUh1A",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "7pVzefCBwgZdcpRFSqFcL6BJogu8Z3rCz6gT3YkhXHuc",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8rftKGToeF2LMygZvpCGKJ4qBjdj8ckD3PQ1b8XFH8mE",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8nRmpftUrtp6dLNuJX6baz4UsVwV9wXSp4mTme35Dstz",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "BNEiD5rftfAKNRmTbBEmngN95XwPwJanbibEtk5f3bW9",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "2sWNZYkEx71vC7GYNvi67HVbgWkaY2dxHAwxBUvg8DQi",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "H1TBdxnSm2C9r8AeiDPqJ72t1y4m8YDBayGbmidXgmVU",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "68Dto8TtVWX7tLDiPtM7MPmNPnTP5F69Jmm28Ti1HHFi",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "GXQcifCrdCGdKTqah881Dx9PhEyR8KQ3QaHcDocmbC4i",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "9LkopJ8jM1r4kX87NwahKxPmiZARig4i8FchMB67WnpP",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4MQxaMBhfRUziF6eC8Gs6esiHhws2VxEAHEwiadcpr4K",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "2WZ4wW6FT886tNATuEQ5b51yegpFYsvQo8kHQNXZkxqR",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "CbLWUDQ9b27cqEZZ6FZw2VHJKvD1SNsz952nipL8TXDi",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "ADSiVsctnN2DuBoiN2rVh8D3YmcfUnSp5TRka8ZnBaz4",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "CQDmCuepgB18BWcAhaeWxcdz71zXSFDzhW13LCsoUB3J",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "9nhEgYZSYkE5QfjomWayYCYF2cioDBAMX3j2JZH7fCyZ",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "5GjQkGJF1NtAsTt9P8Q3Ni6SD2QsSZ1sSnsi8GBqDnt5",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "iPexhEKfSKbYzQJmmy8VzyGZSWrjzJNsjLE9NG5fqMR",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "D6gsaFQJM7VkQv4wPQfDBBxGZbaVpmcxnCboRqLFCzu4",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "3QUSQqDYTBpz5F71YTWiuQx87RHkNCoYvHNEQgX9rwRh",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "BakugYLzTHch1bPQLGy2FqgFQaFQMEmZYHMvDHUcayox",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "FqumKXGYk8L9ZNugvB8Cmoo5LR9r5PCwMp4k5re18Cj7",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "6JD4m2Ynizg9itSq6AQe7NZrjFR5NFHGnAFR35W6esxW",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Cs2fq9gjo2wziywYegRYGuB8qeRhewSktzNsTYHjHVtb",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "H1a2kKeL5Znbc1HRsPptqWpfhWhuM3nd6UMnWTq1GmcC",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "82mEuomnhsregycX4nVmEsxW3ZW7P8WxYKkfW6nv2GY1",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "2yGSzE7hufwmiNgKcU7i1KRL4jEKD6SfPt1iZeuXAchG",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "FsG3BaPmRTdSrPaivbgJsFNCCa8cPfkUtk8VLWXkHpHP",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "7AzJK3mcS7EEeBncwZWv7sGGLWngQ8EzsHUAJRGrywC",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HVQhmY7CUo6wU3LzcrmoKZV1k28zYWtpfdpdCC2wryH4",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "AHPzGsiUUZxpeKsv8W8rvjoEHRAxy8aW179poLnYpB1V",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "444HYzao8BurbiPvtJAcUPh3361UrK9JCSrWSJYJ6Hcn",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "FN5mPgarUr3B87MeGN3mUzn1ZHjGaAuEc1sWHFhNEwGD",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "CiyqN77XqcJFLYKRL2njpWD2N3ghj7CntAX5nVmRWhvK",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "CffMSvWytDxp6hbR1o4NZs2EEPrjALVwxfWPofqCdcLB",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "EXYQtqxj6vWc5c8KF2toZGjDAtVAWXBDqp1CY58sFNMW",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8XDgfPG4V7xtMy3HupdoWKTBTCwT26coqYppV7BUJNSf",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "G3wFmV5x3MebSQ8nUA9UNPmYGtjFmZa8qwYcwXzF9PFz",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.1,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "A9XvNqVZCS29obqh6LGTABfdcJgNrzeXSbNxbweA1HYo",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8xZDnuQnDdKUs6EyoNN98nrYSUyHdJCZw1vrmvb3UUB1",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "222rwqVEhc4iPDqQxk8ycUhnq6t5zPN6z3ofVSEfLTBV",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "7rzHb25KeVs1WeeSaRHTouJWiCiSJKkxE14DvYCNkw3k",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "5U5UrEPNJSWFnJWLFabN7gsaC7j445UiHeBaxPTzpW9o",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Eh3q5AXnopCFULMLGv6QeVqpZhRvPgkWHBMKqNGQvQTX",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "9bAEStoQQRabVR6RR1Uwh1HaN3LKFnQU91t5m1VpLfew",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "EPQszHc25DtDjjMRJ132JdDxPd3b4XYVnEswWMeWBkbu",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HAP1ckhzKZmT1M2TA5EwCHJTYvyT84jzsXkyczf96Zfu",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Eu6Vj9Ed5548aZPYG8UNMn7zzkKwcynry1wghhQXjRVY",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "DR1LLcLLm3zgmmkQHdGHd9CZUXjmed4DD6Y7HF2DGiRs",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "AGSArXy4LQAuNFxYyfE1zLrQmLEKnfV2vyGntUQ464J4",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "GspMM42MkZ9M5DZQFNkSpVrMMghzdpWZ5n79HDqRdia1",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "69FNRB1MF9fFojH9iGAozEyedXL7CsXDWHA4e6y7a5d4",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "B9vz4Q81M892cngcKHAcbnJyheeH5fSa2H717vubAbnm",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4jb8i5ScdTFNDLRdthhBbGArmAEko9iRDxMQvUSY6Wzr",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HdzM4i8iySA3qJb8KiN2xcch7MnGtN7ga8dEGmy2cuwH",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HxHxSQiZsFBbyGFam2gyTYp2CX47cZc5XgLqWewq5X6o",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "21Qc6YrHrDs2ebNorrEY1h3aMaeawFK8bgDhXYKJE2SR",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "3uBNHAG5tagLmvUeuz3XYemv4euCgXF7SK9j72awK4kb",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "ErJmajXN6mpRniL9yKCiKcXibQyemDB8JGnWWeeyZERT",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "3WSeFLxZY3QwH7KD7V7jZDweSo6dJJVpxMvfqmCNhPQJ",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "GUSXUghQYjHTv2wosvyPX25EBomf7jY9PhsWApPHMHUx",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "DS2hLkrrZUseDxf5rMjFU4UCHHqssbXUGenSZ1zvMVem",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "hopeDXMQDHvbkK9seppE4yBRvTmMmQGYvPvNBdBxKN8",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "J2vmvhRZXi4xLB1ztYxfQn1dt45eZnTqGpVXBptn9C8F",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "HP28TyhsZDTBHnC8LWFMAVVHex6zMpnCKX3Cugpm5HFU",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "BddGHjgm5ZBCEAkmvvXJNuWenciVP6XCs1KdzdERnc2W",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "6YoLPv9VMnPuCU3ugygerMWsLtm5LJEbqXHEGM47qDwp",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "5dhscyN8tQnWBruqDiJ7Y9B2tzTJk9PXdgK5Vi7YFNtw",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "4QRTn2yvzLKfcSZ5NNRDz7mohr9djkFmydAdB178f2xQ",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Fx7hC3qMpywfeiS35eysqbPcvZAkFEPpv8ruWbsX5wNn",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "7RG8USadzoq3SrxvwbC9kbdujDSVcchbrEuksiSBmwgw",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "BLUEZYapTJn89Rq5Mb48gD6XdT2ZJtDMw9iXBeNq8ntx",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "8ePopeRgjA9Yg2acthJEoc4Q9i7zKoQvGU1zbrixELTD",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "9RpMHqRqZGAz1KfdVwook3wSrZwGU6FKctaaZcp2HWuB",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.2,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "Spomb4JKbRhhLRTTVrUR5PHRnw2uKDw9KjkQgfXrRFq",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.3,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "BGDqnUPSRDP19ZdZE8LDrJ6NStNuotiQVGxm4GQaHWY9",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.3,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "DENtPXw2VGHcxszfzuYpWQFJi3Tvz3bctYHp99p9NrFw",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.3,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "E39uJNk8emcFbvUNeDdC6T3Ci8VnAG3CEeMteiBYqgCY",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.3,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
-  },
-  {
-   "address": "ApbqtbH7aWhrehCGJLPuWv2CwZmdG8HxU61jvi83WmdD",
-   "tier": "candidate",
-   "wins": 1,
-   "losses": 0,
-   "coins": [
-    {
-     "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
-     "ticker": "SENSE",
-     "entry_et": "2026-10-29 10:37 EDT",
-     "min_after_launch": 0.3,
-     "result": "win"
-    }
-   ],
-   "sniper_like": true,
-   "label": "early-survivor wallet (1 wins/0 losses)"
   }
  ],
  "coins": {
   "FzPujTgKNJVim7YYa5HYHngGtf19QwV6ACJ1zDLWpump": {
    "ticker": "UP",
    "result": "loss",
-   "age_h": 859.9,
+   "age_h": 1004.1,
    "liq_scan": 64648.74,
    "mcap_scan": 295442.0,
-   "liq_now": 7267,
-   "mcap_now": 7354,
+   "liq_now": 5782,
+   "mcap_now": 6079.627101,
    "risk_at_scan": 29,
    "early_buyers_known": 31,
    "buyer_pages": 1
@@ -2202,11 +198,11 @@
   "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": {
    "ticker": "SI276",
    "result": "loss",
-   "age_h": 835.5,
+   "age_h": 979.7,
    "liq_scan": 54993.88,
    "mcap_scan": 356452.0,
-   "liq_now": 12340,
-   "mcap_now": 18480,
+   "liq_now": 10123,
+   "mcap_now": 14923,
    "risk_at_scan": 77,
    "early_buyers_known": 27,
    "buyer_pages": 5
@@ -2214,7 +210,7 @@
   "5YLCp1XSRpGevfKBoSJvs7fSv6fSgbTDe3XB3dLfpump": {
    "ticker": "UDR",
    "result": "loss",
-   "age_h": 822.8,
+   "age_h": 966.9,
    "liq_scan": 329741.2876,
    "mcap_scan": 13379941.0521221,
    "liq_now": null,
@@ -2226,11 +222,11 @@
   "CBcjQNdtgb4SHwKDqKFxD3yPSk7pEMpKHQiMmZrgpump": {
    "ticker": "phubber",
    "result": "loss",
-   "age_h": 853.1,
+   "age_h": 997.3,
    "liq_scan": 88943.0178,
    "mcap_scan": 614639.881808762,
-   "liq_now": 5730,
-   "mcap_now": 4987,
+   "liq_now": 8230,
+   "mcap_now": 10356,
    "risk_at_scan": 40,
    "early_buyers_known": 17,
    "buyer_pages": 1
@@ -2238,11 +234,11 @@
   "7K52aYQW9rWGjwZmQ7o2d1P6E7bji6hSMsqaLy5EcxLh": {
    "ticker": "PQC",
    "result": "loss",
-   "age_h": 802.7,
+   "age_h": 946.8,
    "liq_scan": 342311.95,
    "mcap_scan": 1444813.0,
-   "liq_now": 13424,
-   "mcap_now": 15820,
+   "liq_now": 13429,
+   "mcap_now": 18174,
    "risk_at_scan": 56,
    "early_buyers_known": 16,
    "buyer_pages": 1
@@ -2250,11 +246,11 @@
   "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy": {
    "ticker": "TWEETCRAFT",
    "result": "loss",
-   "age_h": 833.0,
+   "age_h": 977.1,
    "liq_scan": 437365.73,
    "mcap_scan": 1879584.0,
-   "liq_now": 12711,
-   "mcap_now": 13190,
+   "liq_now": 10898,
+   "mcap_now": 11489,
    "risk_at_scan": 49,
    "early_buyers_known": 7,
    "buyer_pages": 1
@@ -2262,7 +258,7 @@
   "AQ7A9nsCcrfbftRq2kfFjCkaG6NicixZ1Vy4RZ4Hpump": {
    "ticker": "GOIF",
    "result": "loss",
-   "age_h": 813.4,
+   "age_h": 957.5,
    "liq_scan": 803255.76,
    "mcap_scan": 81044765.0,
    "liq_now": null,
@@ -2274,11 +270,11 @@
   "64oAuE88tNP7KsSyaiJTKGP4sWmLMFGWLUs9eBTLYgCp": {
    "ticker": "TikTok",
    "result": "loss",
-   "age_h": 786.5,
+   "age_h": 930.7,
    "liq_scan": 98302.38,
    "mcap_scan": 410424.0,
-   "liq_now": 11240,
-   "mcap_now": 13990,
+   "liq_now": 10566,
+   "mcap_now": 14426,
    "risk_at_scan": 70,
    "early_buyers_known": 13,
    "buyer_pages": 1
@@ -2286,11 +282,11 @@
   "4nuj5NLHMtQSezfmz6CwBpCRJisFie6F6MxNNz1dpump": {
    "ticker": "Ahsoka",
    "result": "loss",
-   "age_h": 191.3,
+   "age_h": 335.4,
    "liq_scan": 73114.74,
    "mcap_scan": 724176.0,
-   "liq_now": 2531,
-   "mcap_now": 2036,
+   "liq_now": 2139,
+   "mcap_now": 1727,
    "risk_at_scan": 64,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -2298,11 +294,11 @@
   "3ZiJBcFiLcdQ1Sx5DD3SBLadgkS3PQQMoPCN5pyFpump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 178.6,
+   "age_h": 322.8,
    "liq_scan": 881061.57,
    "mcap_scan": 114150407.0,
-   "liq_now": 2034,
-   "mcap_now": 1979,
+   "liq_now": 1561,
+   "mcap_now": 1507,
    "risk_at_scan": 74,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -2310,11 +306,11 @@
   "7gCND4jhgJ8Mq1XxNhRdercinXh7fcCDPjA9uEQLk3f2": {
    "ticker": "HAMSTER",
    "result": "loss",
-   "age_h": 183.1,
+   "age_h": 327.2,
    "liq_scan": 89193.05,
    "mcap_scan": 199771.0,
-   "liq_now": 29923,
-   "mcap_now": 24934,
+   "liq_now": 18127,
+   "mcap_now": 10933,
    "risk_at_scan": 19,
    "early_buyers_known": 40,
    "buyer_pages": 1
@@ -2322,23 +318,23 @@
   "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump": {
    "ticker": "ANONVOYAGE",
    "result": "loss",
-   "age_h": 167.7,
+   "age_h": 311.8,
    "liq_scan": 116525.43000000001,
    "mcap_scan": 1831358.0,
-   "liq_now": 2848,
-   "mcap_now": 2323,
+   "liq_now": 2407,
+   "mcap_now": 1961,
    "risk_at_scan": 81,
    "early_buyers_known": 0,
    "buyer_pages": 0
   },
   "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr": {
    "ticker": "CAPY",
-   "result": "pending",
-   "age_h": 186.4,
+   "result": "loss",
+   "age_h": 330.5,
    "liq_scan": 131782.87,
    "mcap_scan": 440250.0,
-   "liq_now": 37092,
-   "mcap_now": 38291,
+   "liq_now": 24149,
+   "mcap_now": 19506,
    "risk_at_scan": 62,
    "early_buyers_known": 68,
    "buyer_pages": 1
@@ -2346,7 +342,7 @@
   "5fePPYbUE2yQHD4AfKetsZzVLuz1Hu8K2mSuCBu5pump": {
    "ticker": "UDR",
    "result": "loss",
-   "age_h": 728.8,
+   "age_h": 872.9,
    "liq_scan": 545100.87,
    "mcap_scan": 39869013.0,
    "liq_now": null,
@@ -2358,11 +354,11 @@
   "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump": {
    "ticker": "HIRE",
    "result": "loss",
-   "age_h": 695.8,
+   "age_h": 839.9,
    "liq_scan": 171768.66,
    "mcap_scan": 787511.0,
-   "liq_now": 10551,
-   "mcap_now": 13191,
+   "liq_now": 7738,
+   "mcap_now": 8783,
    "risk_at_scan": 85,
    "early_buyers_known": 17,
    "buyer_pages": 1
@@ -2370,11 +366,11 @@
   "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": {
    "ticker": "DOPE",
    "result": "pending",
-   "age_h": 719.9,
+   "age_h": 864.1,
    "liq_scan": 277894.98000000004,
    "mcap_scan": 886907.0,
-   "liq_now": 110234,
-   "mcap_now": 761829,
+   "liq_now": 87509,
+   "mcap_now": 557750,
    "risk_at_scan": 38,
    "early_buyers_known": 58,
    "buyer_pages": 5
@@ -2382,7 +378,7 @@
   "3PQxZUJoVhQV4Q3fczafyJYvdMrXyHAPPcwwc3mopump": {
    "ticker": "XRPN",
    "result": "loss",
-   "age_h": 736.0,
+   "age_h": 880.1,
    "liq_scan": 479223.14,
    "mcap_scan": 29433754.0,
    "liq_now": null,
@@ -2394,11 +390,11 @@
   "CQCDTp8rsFV3PhaPeYjcCW5LdGTxi6jFx7eC3UXnpump": {
    "ticker": "CRAWLER",
    "result": "loss",
-   "age_h": 688.8,
+   "age_h": 833.0,
    "liq_scan": 438769.08,
    "mcap_scan": 22434667.0,
-   "liq_now": 6570,
-   "mcap_now": 7443,
+   "liq_now": 5321,
+   "mcap_now": 5950,
    "risk_at_scan": 88,
    "early_buyers_known": 43,
    "buyer_pages": 1
@@ -2406,11 +402,11 @@
   "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump": {
    "ticker": "MarsX",
    "result": "loss",
-   "age_h": 691.8,
+   "age_h": 835.9,
    "liq_scan": 97569.97,
    "mcap_scan": 434937.0,
-   "liq_now": 13411,
-   "mcap_now": 21061,
+   "liq_now": 9708,
+   "mcap_now": 13582,
    "risk_at_scan": 78,
    "early_buyers_known": 18,
    "buyer_pages": 1
@@ -2418,11 +414,11 @@
   "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump": {
    "ticker": "Normie",
    "result": "pending",
-   "age_h": 723.9,
+   "age_h": 868.0,
    "liq_scan": 126467.01,
    "mcap_scan": 647929.0,
-   "liq_now": 38309,
-   "mcap_now": 160301,
+   "liq_now": 33289,
+   "mcap_now": 145725,
    "risk_at_scan": 80,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -2430,11 +426,11 @@
   "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump": {
    "ticker": "Leverhedge",
    "result": "loss",
-   "age_h": 253.7,
+   "age_h": 397.9,
    "liq_scan": 86972.49,
    "mcap_scan": 1068423.0,
-   "liq_now": 2579,
-   "mcap_now": 2093,
+   "liq_now": 2179,
+   "mcap_now": 1773,
    "risk_at_scan": 89,
    "early_buyers_known": 199,
    "buyer_pages": 5
@@ -2442,23 +438,23 @@
   "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump": {
    "ticker": "BNB",
    "result": "loss",
-   "age_h": 256.6,
+   "age_h": 400.7,
    "liq_scan": 61426.5,
    "mcap_scan": 461247.0,
-   "liq_now": 4382,
-   "mcap_now": 3075,
+   "liq_now": 3609,
+   "mcap_now": 2519,
    "risk_at_scan": 75,
    "early_buyers_known": 27,
    "buyer_pages": 1
   },
   "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": {
    "ticker": "swordcat",
-   "result": "win",
-   "age_h": 1036.7,
+   "result": "pending",
+   "age_h": 1180.9,
    "liq_scan": 236160.12000000002,
    "mcap_scan": 1702759.0,
-   "liq_now": 127152,
-   "mcap_now": 932400,
+   "liq_now": 94344,
+   "mcap_now": 597311,
    "risk_at_scan": 49,
    "early_buyers_known": 13,
    "buyer_pages": 5
@@ -2466,35 +462,23 @@
   "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU": {
    "ticker": "e/acc",
    "result": "loss",
-   "age_h": 1096.2,
+   "age_h": 1240.3,
    "liq_scan": 828274.27,
    "mcap_scan": 5785425.0,
-   "liq_now": 94595,
-   "mcap_now": 301079,
+   "liq_now": 67603,
+   "mcap_now": 184058,
    "risk_at_scan": 29,
    "early_buyers_known": 8,
    "buyer_pages": 1
   },
-  "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump": {
-   "ticker": "PAID",
-   "result": "pending",
-   "age_h": 1338.1,
-   "liq_scan": 514207.7574,
-   "mcap_scan": 5077297.81837133,
-   "liq_now": 270990,
-   "mcap_now": 1550288,
-   "risk_at_scan": 27,
-   "early_buyers_known": 32,
-   "buyer_pages": 5
-  },
   "45VHsie7CwFfPKWCw28PCdZdJWMA5Y6k56wDam9Hpump": {
    "ticker": "RARINU",
    "result": "loss",
-   "age_h": 831.8,
+   "age_h": 975.9,
    "liq_scan": 163907.53,
    "mcap_scan": 2844860.0,
-   "liq_now": 2304,
-   "mcap_now": 1966.6285666554,
+   "liq_now": 1917,
+   "mcap_now": 1596,
    "risk_at_scan": 77,
    "early_buyers_known": 26,
    "buyer_pages": 1
@@ -2502,11 +486,11 @@
   "HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump": {
    "ticker": "Frank",
    "result": "loss",
-   "age_h": 879.2,
+   "age_h": 1023.3,
    "liq_scan": 68068.93,
    "mcap_scan": 453190.0,
-   "liq_now": 9621,
-   "mcap_now": 10353,
+   "liq_now": 7484,
+   "mcap_now": 7637,
    "risk_at_scan": 58,
    "early_buyers_known": 14,
    "buyer_pages": 1
@@ -2514,7 +498,7 @@
   "9zvMmVxDsdA9q4uQ64gdGeTqcUD9gQ1xQi7kTH6ppump": {
    "ticker": "MUCRON",
    "result": "loss",
-   "age_h": 547.0,
+   "age_h": 691.1,
    "liq_scan": 372207.23,
    "mcap_scan": 19442112.0,
    "liq_now": null,
@@ -2526,11 +510,11 @@
   "9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump": {
    "ticker": "GOMO",
    "result": "loss",
-   "age_h": 879.6,
+   "age_h": 1023.7,
    "liq_scan": 116728.1357,
    "mcap_scan": 1222783.55255071,
-   "liq_now": 20889,
-   "mcap_now": 40425,
+   "liq_now": 15601,
+   "mcap_now": 26631,
    "risk_at_scan": 32,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -2538,11 +522,11 @@
   "39ahtL8ynzE4amH26J29C93PA5172V3ft9UuUcqQS8fz": {
    "ticker": "AUTON",
    "result": "loss",
-   "age_h": 834.7,
+   "age_h": 978.8,
    "liq_scan": 388412.9632,
    "mcap_scan": 4294987.9362945,
-   "liq_now": 5064,
-   "mcap_now": 4521,
+   "liq_now": 4207,
+   "mcap_now": 3679,
    "risk_at_scan": 37,
    "early_buyers_known": 51,
    "buyer_pages": 1
@@ -2550,11 +534,11 @@
   "CioPfvQWpVF2eTzpBj72x2zPyqgJRgvi36PqdLCCpump": {
    "ticker": "TON618",
    "result": "loss",
-   "age_h": 834.4,
+   "age_h": 978.5,
    "liq_scan": 53004.35,
    "mcap_scan": 310187.0,
-   "liq_now": 3294,
-   "mcap_now": 3037,
+   "liq_now": 2527,
+   "mcap_now": 2245,
    "risk_at_scan": 25,
    "early_buyers_known": 7,
    "buyer_pages": 1
@@ -2562,11 +546,11 @@
   "3NxfWMHmfQg8NJFW5AG1ti2xACdczWz24e9SKyk1pump": {
    "ticker": "MINTER",
    "result": "loss",
-   "age_h": 568.0,
+   "age_h": 712.1,
    "liq_scan": 367464.9,
    "mcap_scan": 15519150.0,
-   "liq_now": 4239,
-   "mcap_now": 3886,
+   "liq_now": 3755,
+   "mcap_now": 3529,
    "risk_at_scan": 83,
    "early_buyers_known": 45,
    "buyer_pages": 1
@@ -2574,11 +558,11 @@
   "3zxtzoumrXqaqS2CDRjnbVEbf1tb12d5fWwMfa2Npump": {
    "ticker": "CATSZN",
    "result": "loss",
-   "age_h": 562.9,
+   "age_h": 707.1,
    "liq_scan": 88380.71,
    "mcap_scan": 915640.0,
-   "liq_now": 2478,
-   "mcap_now": 2018,
+   "liq_now": 2060,
+   "mcap_now": 1713.9545101573,
    "risk_at_scan": 75,
    "early_buyers_known": 35,
    "buyer_pages": 1
@@ -2586,11 +570,11 @@
   "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": {
    "ticker": "GLITCH",
    "result": "win",
-   "age_h": 598.2,
+   "age_h": 742.4,
    "liq_scan": 109785.65,
    "mcap_scan": 1559848.0,
-   "liq_now": 130230,
-   "mcap_now": 2139025,
+   "liq_now": 92205,
+   "mcap_now": 1233751,
    "risk_at_scan": 74,
    "early_buyers_known": 5,
    "buyer_pages": 5
@@ -2598,11 +582,11 @@
   "72xNDka3KZQdJw2QLC2NMnkxoTPZFunhWXvxVp6Spump": {
    "ticker": "FTR\ud83d\udd25",
    "result": "loss",
-   "age_h": 584.4,
+   "age_h": 728.5,
    "liq_scan": 860064.36,
    "mcap_scan": 102725677.0,
-   "liq_now": 1612,
-   "mcap_now": 1608.819777742,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 81,
    "early_buyers_known": 13,
    "buyer_pages": 1
@@ -2610,11 +594,11 @@
   "AcV6CcpMGFrA1dhRFiCKNiVNje8QE6ZXR9ep9jh7pump": {
    "ticker": "TSI",
    "result": "loss",
-   "age_h": 565.3,
+   "age_h": 709.4,
    "liq_scan": 109682.31,
    "mcap_scan": 452046.0,
-   "liq_now": 5392,
-   "mcap_now": 5115,
+   "liq_now": 4604,
+   "mcap_now": 4359,
    "risk_at_scan": 65,
    "early_buyers_known": 16,
    "buyer_pages": 1
@@ -2622,11 +606,11 @@
   "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump": {
    "ticker": "Gato",
    "result": "loss",
-   "age_h": 590.7,
+   "age_h": 734.8,
    "liq_scan": 132086.61,
    "mcap_scan": 577572.0,
-   "liq_now": 21055,
-   "mcap_now": 40156,
+   "liq_now": 23972,
+   "mcap_now": 58667,
    "risk_at_scan": 46,
    "early_buyers_known": 8,
    "buyer_pages": 1
@@ -2634,11 +618,11 @@
   "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump": {
    "ticker": "FTR",
    "result": "loss",
-   "age_h": 595.2,
+   "age_h": 739.3,
    "liq_scan": 90014.97,
    "mcap_scan": 916333.0,
-   "liq_now": 2868,
-   "mcap_now": 2271.4797314833,
+   "liq_now": 2438,
+   "mcap_now": 2093.4162997537,
    "risk_at_scan": 67,
    "early_buyers_known": 30,
    "buyer_pages": 1
@@ -2646,11 +630,11 @@
   "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": {
    "ticker": "REMUS",
    "result": "pending",
-   "age_h": 422.2,
+   "age_h": 566.4,
    "liq_scan": 60274.89,
    "mcap_scan": 450964.0,
-   "liq_now": 41821,
-   "mcap_now": 186068,
+   "liq_now": 31972,
+   "mcap_now": 128813,
    "risk_at_scan": 56,
    "early_buyers_known": 57,
    "buyer_pages": 5
@@ -2658,11 +642,11 @@
   "H7VZNCBynDK5ikBS9krDJ2Tx8CUr1wxedV19ZgkWpump": {
    "ticker": "CATTLEAXE",
    "result": "loss",
-   "age_h": 401.8,
+   "age_h": 545.9,
    "liq_scan": 109039.93,
    "mcap_scan": 1401032.0,
-   "liq_now": 3298,
-   "mcap_now": 2523,
+   "liq_now": 2817,
+   "mcap_now": 2155,
    "risk_at_scan": 81,
    "early_buyers_known": 22,
    "buyer_pages": 1
@@ -2670,11 +654,11 @@
   "9DGb9TWswLUqu85reo2kNoZkKkME9nB9YVfjYkqopump": {
    "ticker": "GTA",
    "result": "loss",
-   "age_h": 381.7,
+   "age_h": 525.8,
    "liq_scan": 62792.6,
    "mcap_scan": 534769.0,
-   "liq_now": 2279,
-   "mcap_now": 1909,
+   "liq_now": 1903,
+   "mcap_now": 1593,
    "risk_at_scan": 86,
    "early_buyers_known": 41,
    "buyer_pages": 1
@@ -2682,11 +666,11 @@
   "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": {
    "ticker": "\u2588\u2588\u2588",
    "result": "pending",
-   "age_h": 418.2,
+   "age_h": 562.3,
    "liq_scan": 143357.87,
    "mcap_scan": 790572.0,
-   "liq_now": 66542,
-   "mcap_now": 394913,
+   "liq_now": 37794,
+   "mcap_now": 145716,
    "risk_at_scan": 68,
    "early_buyers_known": 47,
    "buyer_pages": 5
@@ -2694,11 +678,11 @@
   "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": {
    "ticker": "Nothing",
    "result": "loss",
-   "age_h": 352.4,
+   "age_h": 496.5,
    "liq_scan": 179340.88999999998,
    "mcap_scan": 831987.0,
-   "liq_now": 9960,
-   "mcap_now": 11421,
+   "liq_now": 9406,
+   "mcap_now": 11810,
    "risk_at_scan": 73,
    "early_buyers_known": 7,
    "buyer_pages": 1
@@ -2706,11 +690,11 @@
   "EdSuZVh4ypz8cUqgi1Rjo1SE88wrRahPg85KStdpump": {
    "ticker": "pumpcat",
    "result": "loss",
-   "age_h": 379.0,
+   "age_h": 523.2,
    "liq_scan": 53445.82,
    "mcap_scan": 372154.0,
-   "liq_now": 2962,
-   "mcap_now": 2808,
+   "liq_now": 2366,
+   "mcap_now": 2240,
    "risk_at_scan": 27,
    "early_buyers_known": 47,
    "buyer_pages": 1
@@ -2718,11 +702,11 @@
   "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": {
    "ticker": "LAUNCH",
    "result": "loss",
-   "age_h": 385.8,
+   "age_h": 530.0,
    "liq_scan": 506126.67,
    "mcap_scan": 1978462.0,
-   "liq_now": 8646,
-   "mcap_now": 15438,
+   "liq_now": 458,
+   "mcap_now": 896431,
    "risk_at_scan": 56,
    "early_buyers_known": 8,
    "buyer_pages": 1
@@ -2730,11 +714,11 @@
   "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump": {
    "ticker": "CHICO",
    "result": "loss",
-   "age_h": 349.5,
+   "age_h": 493.7,
    "liq_scan": 215469.06,
    "mcap_scan": 6060873.0,
-   "liq_now": 2703,
-   "mcap_now": 2291,
+   "liq_now": 2066,
+   "mcap_now": 1708,
    "risk_at_scan": 85,
    "early_buyers_known": 33,
    "buyer_pages": 1
@@ -2742,11 +726,11 @@
   "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx": {
    "ticker": "ELON2028",
    "result": "loss",
-   "age_h": 390.7,
+   "age_h": 534.8,
    "liq_scan": 128703.98,
    "mcap_scan": 487741.0,
-   "liq_now": 20799,
-   "mcap_now": 38056,
+   "liq_now": 17094,
+   "mcap_now": 25537,
    "risk_at_scan": 74,
    "early_buyers_known": 3,
    "buyer_pages": 1
@@ -2754,11 +738,11 @@
   "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": {
    "ticker": "\u2588\u2588\u2588WIF",
    "result": "loss",
-   "age_h": 350.4,
+   "age_h": 494.6,
    "liq_scan": 116428.57,
    "mcap_scan": 1841942.0,
-   "liq_now": 2258,
-   "mcap_now": 1931,
+   "liq_now": 1894,
+   "mcap_now": 1620,
    "risk_at_scan": 86,
    "early_buyers_known": 32,
    "buyer_pages": 1
@@ -2766,11 +750,11 @@
   "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump": {
    "ticker": "HYPERCHAN",
    "result": "loss",
-   "age_h": 274.0,
+   "age_h": 418.1,
    "liq_scan": 125976.02,
    "mcap_scan": 2068578.0,
-   "liq_now": 2346,
-   "mcap_now": 1964,
+   "liq_now": 1970,
+   "mcap_now": 1650,
    "risk_at_scan": 77,
    "early_buyers_known": 50,
    "buyer_pages": 1
@@ -2778,11 +762,11 @@
   "3w2TvVmTrtq4kSkoFVrTFQgz6MX7ThzDVrx9r5c3pump": {
    "ticker": "HI",
    "result": "loss",
-   "age_h": 284.8,
+   "age_h": 428.9,
    "liq_scan": 183570.36,
    "mcap_scan": 823831.0,
-   "liq_now": 30884,
-   "mcap_now": 106947,
+   "liq_now": 29164,
+   "mcap_now": 106021,
    "risk_at_scan": 78,
    "early_buyers_known": 29,
    "buyer_pages": 5
@@ -2790,11 +774,11 @@
   "9D51oXUyHGrLdabvXiJHRPc5UhW9Py14z3g6TTw7pump": {
    "ticker": "UDTF",
    "result": "loss",
-   "age_h": 280.7,
+   "age_h": 424.8,
    "liq_scan": 414231.14,
    "mcap_scan": 25751219.0,
-   "liq_now": 2438,
-   "mcap_now": 2560.9760161015,
+   "liq_now": 2288,
+   "mcap_now": 2443.6300479804,
    "risk_at_scan": 74,
    "early_buyers_known": 12,
    "buyer_pages": 1
@@ -2802,11 +786,11 @@
   "3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump": {
    "ticker": "SWORDOPE",
    "result": "loss",
-   "age_h": 401.7,
+   "age_h": 545.8,
    "liq_scan": 111632.49,
    "mcap_scan": 1435694.0,
-   "liq_now": 2950,
-   "mcap_now": 2306,
+   "liq_now": 2399,
+   "mcap_now": 1860,
    "risk_at_scan": 85,
    "early_buyers_known": 36,
    "buyer_pages": 1
@@ -2814,11 +798,11 @@
   "9k6gfTLbDaUpx635kQaGTeDvzYs7hWdDW1MerpjYpump": {
    "ticker": "USDF",
    "result": "loss",
-   "age_h": 420.3,
+   "age_h": 564.4,
    "liq_scan": 1086661.51,
    "mcap_scan": 165711827.0,
-   "liq_now": 2270,
-   "mcap_now": 2284,
+   "liq_now": 1812,
+   "mcap_now": 1986.3553723189,
    "risk_at_scan": 83,
    "early_buyers_known": 16,
    "buyer_pages": 1
@@ -2826,11 +810,11 @@
   "EVzBqTfq24KS63ahUjRCTxAeWqHJ6pNmrNYqL5Wipump": {
    "ticker": "NOTF",
    "result": "loss",
-   "age_h": 402.2,
+   "age_h": 546.4,
    "liq_scan": 415446.56,
    "mcap_scan": 24320198.0,
-   "liq_now": 1574,
-   "mcap_now": 1577.8262035308,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 85,
    "early_buyers_known": 11,
    "buyer_pages": 1
@@ -2838,11 +822,11 @@
   "GK1Vxw9529MWwvGEwKQfVP4GAtpn1tWa7ec44bmFpump": {
    "ticker": "AOP",
    "result": "loss",
-   "age_h": 406.8,
+   "age_h": 550.9,
    "liq_scan": 694859.93,
    "mcap_scan": 67796460.0,
-   "liq_now": 1570,
-   "mcap_now": 1656.3144491783,
+   "liq_now": 1316,
+   "mcap_now": 1294,
    "risk_at_scan": 82,
    "early_buyers_known": 37,
    "buyer_pages": 1
@@ -2850,11 +834,11 @@
   "AUHK6bsTMU6nemt7epnvELJtGezx9JS76Lm48pxipump": {
    "ticker": "KURUMI",
    "result": "loss",
-   "age_h": 397.2,
+   "age_h": 541.3,
    "liq_scan": 75397.36,
    "mcap_scan": 741606.0,
-   "liq_now": 2221,
-   "mcap_now": 1932,
+   "liq_now": 1863,
+   "mcap_now": 1622,
    "risk_at_scan": 75,
    "early_buyers_known": 35,
    "buyer_pages": 1
@@ -2862,11 +846,11 @@
   "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ": {
    "ticker": "QI",
    "result": "loss",
-   "age_h": 777.2,
+   "age_h": 921.4,
    "liq_scan": 244429.06999999998,
    "mcap_scan": 1125840.0,
-   "liq_now": 34754,
-   "mcap_now": 104257,
+   "liq_now": 29153,
+   "mcap_now": 86673,
    "risk_at_scan": 54,
    "early_buyers_known": 13,
    "buyer_pages": 1
@@ -2874,23 +858,23 @@
   "CKQMFCcp3KaaTgZ2qJ93289ibzaUZatmNSSXLZHRpump": {
    "ticker": "USDF",
    "result": "loss",
-   "age_h": 598.7,
+   "age_h": 742.9,
    "liq_scan": 937885.65,
    "mcap_scan": 122554417.0,
-   "liq_now": 1651,
-   "mcap_now": 1627,
+   "liq_now": 1613,
+   "mcap_now": 1624.013630738,
    "risk_at_scan": 66,
    "early_buyers_known": 12,
    "buyer_pages": 1
   },
   "B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx": {
    "ticker": "ELON",
-   "result": "pending",
-   "age_h": 595.9,
+   "result": "loss",
+   "age_h": 740.0,
    "liq_scan": 204931.75999999998,
    "mcap_scan": 2633675.0,
-   "liq_now": 44766,
-   "mcap_now": 136451,
+   "liq_now": 32251,
+   "mcap_now": 74272,
    "risk_at_scan": 88,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -2898,11 +882,11 @@
   "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
    "ticker": "FTR",
    "result": "loss",
-   "age_h": 635.4,
+   "age_h": 779.5,
    "liq_scan": 213812.44,
    "mcap_scan": 1406945.0,
-   "liq_now": 42172,
-   "mcap_now": 118164,
+   "liq_now": 32331,
+   "mcap_now": 82986,
    "risk_at_scan": 63,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -2910,11 +894,11 @@
   "HXqxTwCzREUXNK4CbNDgNEUEh2jLzFKdC4tvTuojpump": {
    "ticker": "ZKDARK",
    "result": "loss",
-   "age_h": 805.2,
+   "age_h": 949.4,
    "liq_scan": 80629.59,
    "mcap_scan": 778535.0,
-   "liq_now": null,
-   "mcap_now": null,
+   "liq_now": 2635,
+   "mcap_now": 2932.6175322824,
    "risk_at_scan": 73,
    "early_buyers_known": 40,
    "buyer_pages": 1
@@ -2922,11 +906,11 @@
   "HaQdrXRUoxxk1qLFZJNrSyzWNjn16o1r1np5h6jipump": {
    "ticker": "SharkTank",
    "result": "loss",
-   "age_h": 805.3,
+   "age_h": 949.4,
    "liq_scan": 111690.21999999999,
    "mcap_scan": 431411.0,
-   "liq_now": 3986,
-   "mcap_now": 3310,
+   "liq_now": 3249,
+   "mcap_now": 2685,
    "risk_at_scan": 58,
    "early_buyers_known": 23,
    "buyer_pages": 1
@@ -2934,11 +918,11 @@
   "HvitmAeh6TkToQonoiNwqWcrZsYdYiaSZHP7yMmspump": {
    "ticker": "LUMI",
    "result": "loss",
-   "age_h": 252.4,
+   "age_h": 396.6,
    "liq_scan": 100027.08,
    "mcap_scan": 556809.0,
-   "liq_now": 7441,
-   "mcap_now": 9162,
+   "liq_now": 6389,
+   "mcap_now": 6760,
    "risk_at_scan": 54,
    "early_buyers_known": 7,
    "buyer_pages": 1
@@ -2946,11 +930,11 @@
   "J6gWKPy7PD2oaruF4BfGa9jiDz8MU943yf8qxbaMpump": {
    "ticker": "AODF",
    "result": "loss",
-   "age_h": 262.8,
+   "age_h": 407.0,
    "liq_scan": 398633.43,
    "mcap_scan": 23576864.0,
-   "liq_now": 2593,
-   "mcap_now": 2731,
+   "liq_now": 1853,
+   "mcap_now": 2142.9785752606,
    "risk_at_scan": 76,
    "early_buyers_known": 17,
    "buyer_pages": 1
@@ -2958,11 +942,11 @@
   "HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump": {
    "ticker": "iCoin",
    "result": "pending",
-   "age_h": 255.6,
+   "age_h": 399.8,
    "liq_scan": 82122.4,
    "mcap_scan": 342282.0,
-   "liq_now": 27395,
-   "mcap_now": 66900,
+   "liq_now": 22478,
+   "mcap_now": 44004,
    "risk_at_scan": 80,
    "early_buyers_known": 38,
    "buyer_pages": 1
@@ -2970,11 +954,11 @@
   "DDG8rjV3TViCqKRQED2QZq4MEaE1uqXgEiosBNpapump": {
    "ticker": "AgenC",
    "result": "loss",
-   "age_h": 259.1,
+   "age_h": 403.2,
    "liq_scan": 51688.909999999996,
    "mcap_scan": 320120.0,
-   "liq_now": 2827,
-   "mcap_now": 2330,
+   "liq_now": 2302,
+   "mcap_now": 1882,
    "risk_at_scan": 77,
    "early_buyers_known": 35,
    "buyer_pages": 1
@@ -2982,11 +966,11 @@
   "GVDuUCX2F5ArFGYwqkM3dF6tmpnFrgfFaf5nQ9vgpump": {
    "ticker": "AOP",
    "result": "loss",
-   "age_h": 261.8,
+   "age_h": 405.9,
    "liq_scan": 721773.55,
    "mcap_scan": 77408677.0,
-   "liq_now": 1882,
-   "mcap_now": 1900.7803912228,
+   "liq_now": 1746,
+   "mcap_now": 1682.5949331843,
    "risk_at_scan": 79,
    "early_buyers_known": 12,
    "buyer_pages": 1
@@ -2994,11 +978,11 @@
   "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": {
    "ticker": "VIRTUAL",
    "result": "loss",
-   "age_h": 453.8,
+   "age_h": 597.9,
    "liq_scan": 55265.1,
    "mcap_scan": 372653.0,
-   "liq_now": 3075,
-   "mcap_now": 2434,
+   "liq_now": 2580,
+   "mcap_now": 2042,
    "risk_at_scan": 54,
    "early_buyers_known": 6,
    "buyer_pages": 1
@@ -3006,11 +990,11 @@
   "ENxyhuUVEJZZB4ttstSkLq6mpfnMKW976PLiFPNpump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 442.8,
+   "age_h": 587.0,
    "liq_scan": 1271911.58,
    "mcap_scan": 218496386.0,
-   "liq_now": 1945,
-   "mcap_now": 1926.6929308532,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 76,
    "early_buyers_known": 18,
    "buyer_pages": 1
@@ -3018,11 +1002,11 @@
   "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump": {
    "ticker": "McRib",
    "result": "loss",
-   "age_h": 450.0,
+   "age_h": 594.2,
    "liq_scan": 180352.50999999998,
    "mcap_scan": 720446.0,
-   "liq_now": 11540,
-   "mcap_now": 14063,
+   "liq_now": 10391,
+   "mcap_now": 13420,
    "risk_at_scan": 80,
    "early_buyers_known": 5,
    "buyer_pages": 1
@@ -3030,11 +1014,11 @@
   "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": {
    "ticker": "Kimchi",
    "result": "loss",
-   "age_h": 494.4,
+   "age_h": 638.5,
    "liq_scan": 1178013.8199999998,
    "mcap_scan": 29902477.0,
-   "liq_now": 155538,
-   "mcap_now": 2154098,
+   "liq_now": 132566,
+   "mcap_now": 1818195,
    "risk_at_scan": 78,
    "early_buyers_known": 15,
    "buyer_pages": 1
@@ -3042,11 +1026,11 @@
   "2qPoPQQCHGtDbgdSxXfrzW1iRS3cGbKmMWSMapZ4pump": {
    "ticker": "DOAS",
    "result": "loss",
-   "age_h": 448.0,
+   "age_h": 592.2,
    "liq_scan": 628125.79,
    "mcap_scan": 53733709.0,
-   "liq_now": 2656,
-   "mcap_now": 2787,
+   "liq_now": 2241,
+   "mcap_now": 2354,
    "risk_at_scan": 73,
    "early_buyers_known": 11,
    "buyer_pages": 1
@@ -3054,11 +1038,11 @@
   "FDJqEqqS68jummd8XGtBqzJTu2Pgc3pGQjozrpUzpump": {
    "ticker": "Altai ",
    "result": "loss",
-   "age_h": 743.9,
+   "age_h": 888.0,
    "liq_scan": 67891.73,
    "mcap_scan": 283140.0,
-   "liq_now": 8371,
-   "mcap_now": 8928,
+   "liq_now": 6375,
+   "mcap_now": 6463,
    "risk_at_scan": 68,
    "early_buyers_known": 5,
    "buyer_pages": 1
@@ -3066,11 +1050,11 @@
   "6UxgefgvYf1L3EPgkNNqiurYvGbfA4HBoXuHrxkux32s": {
    "ticker": "RSGP",
    "result": "loss",
-   "age_h": 767.2,
+   "age_h": 911.3,
    "liq_scan": 433734.52999999997,
    "mcap_scan": 5615314.0,
-   "liq_now": 5,
-   "mcap_now": 611.1645557,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 51,
    "early_buyers_known": 98,
    "buyer_pages": 1
@@ -3078,11 +1062,11 @@
   "6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump": {
    "ticker": "TM",
    "result": "loss",
-   "age_h": 751.5,
+   "age_h": 895.7,
    "liq_scan": 81115.47,
    "mcap_scan": 274146.0,
-   "liq_now": 10945,
-   "mcap_now": 14457,
+   "liq_now": 8536,
+   "mcap_now": 10696,
    "risk_at_scan": 50,
    "early_buyers_known": 43,
    "buyer_pages": 1
@@ -3090,11 +1074,11 @@
   "BQAeeSowpwEx8Km8GcporcbuLKq4a7EQceH3F2qZpump": {
    "ticker": "qOMPUTE",
    "result": "loss",
-   "age_h": 758.2,
+   "age_h": 902.3,
    "liq_scan": 171687.19,
    "mcap_scan": 3282939.0,
-   "liq_now": 3984,
-   "mcap_now": 3681,
+   "liq_now": 3059,
+   "mcap_now": 2718,
    "risk_at_scan": 79,
    "early_buyers_known": 27,
    "buyer_pages": 1
@@ -3102,11 +1086,11 @@
   "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump": {
    "ticker": "Altai",
    "result": "loss",
-   "age_h": 743.9,
+   "age_h": 888.0,
    "liq_scan": 182923.19,
    "mcap_scan": 934755.0,
-   "liq_now": 18911,
-   "mcap_now": 23177,
+   "liq_now": 15676,
+   "mcap_now": 18982,
    "risk_at_scan": 74,
    "early_buyers_known": 5,
    "buyer_pages": 1
@@ -3114,7 +1098,7 @@
   "DneSmn3NenxC8CMm4vTJUpTYfigZZKWWbyymq8MjFkw3": {
    "ticker": "ALLOX",
    "result": "loss",
-   "age_h": 616.9,
+   "age_h": 761.1,
    "liq_scan": 321128.9,
    "mcap_scan": 5324512.0,
    "liq_now": null,
@@ -3126,11 +1110,11 @@
   "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump": {
    "ticker": "SR",
    "result": "loss",
-   "age_h": 599.0,
+   "age_h": 743.1,
    "liq_scan": 56613.77,
    "mcap_scan": 423184.0,
-   "liq_now": 1882,
-   "mcap_now": 1746.0781905877,
+   "liq_now": 1564,
+   "mcap_now": 1412.4419045873,
    "risk_at_scan": 75,
    "early_buyers_known": 32,
    "buyer_pages": 1
@@ -3138,11 +1122,11 @@
   "6SPwGThCxae3SRQa1jsYtYKP6d8yiXMDui9CzENdpump": {
    "ticker": "FTR",
    "result": "loss",
-   "age_h": 612.4,
+   "age_h": 756.5,
    "liq_scan": 640468.04,
    "mcap_scan": 55669808.0,
-   "liq_now": null,
-   "mcap_now": null,
+   "liq_now": 1573,
+   "mcap_now": 1540.3116867848,
    "risk_at_scan": 82,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -3150,11 +1134,11 @@
   "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump": {
    "ticker": "1",
    "result": "loss",
-   "age_h": 617.1,
+   "age_h": 761.3,
    "liq_scan": 314924.84,
    "mcap_scan": 2160106.0,
-   "liq_now": 39484,
-   "mcap_now": 156202,
+   "liq_now": 49020,
+   "mcap_now": 284914,
    "risk_at_scan": 52,
    "early_buyers_known": 3,
    "buyer_pages": 1
@@ -3162,11 +1146,11 @@
   "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": {
    "ticker": "startupSI",
    "result": "loss",
-   "age_h": 546.8,
+   "age_h": 691.0,
    "liq_scan": 232608.42,
    "mcap_scan": 6178326.0,
-   "liq_now": 4682,
-   "mcap_now": 3723,
+   "liq_now": 4124,
+   "mcap_now": 3373,
    "risk_at_scan": 83,
    "early_buyers_known": 32,
    "buyer_pages": 1
@@ -3174,11 +1158,11 @@
   "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump": {
    "ticker": "PIERRE",
    "result": "loss",
-   "age_h": 549.0,
+   "age_h": 693.2,
    "liq_scan": 331972.94,
    "mcap_scan": 1430775.0,
-   "liq_now": 7241,
-   "mcap_now": 7720,
+   "liq_now": 6036,
+   "mcap_now": 6429,
    "risk_at_scan": 58,
    "early_buyers_known": 12,
    "buyer_pages": 1
@@ -3186,11 +1170,11 @@
   "HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8": {
    "ticker": "WEFT",
    "result": "loss",
-   "age_h": 571.4,
+   "age_h": 715.6,
    "liq_scan": 392700.7,
    "mcap_scan": 2566473.0,
-   "liq_now": 6532,
-   "mcap_now": 6942,
+   "liq_now": 4824,
+   "mcap_now": 4554,
    "risk_at_scan": 65,
    "early_buyers_known": 61,
    "buyer_pages": 1
@@ -3198,11 +1182,11 @@
   "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": {
    "ticker": "Doomsday",
    "result": "loss",
-   "age_h": 543.6,
+   "age_h": 687.8,
    "liq_scan": 80370.88,
    "mcap_scan": 794239.0,
-   "liq_now": 2421,
-   "mcap_now": 2232.6291845077,
+   "liq_now": 2025,
+   "mcap_now": 1950.1370559813,
    "risk_at_scan": 84,
    "early_buyers_known": 31,
    "buyer_pages": 1
@@ -3210,11 +1194,11 @@
   "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump": {
    "ticker": "RICO",
    "result": "loss",
-   "age_h": 189.0,
+   "age_h": 333.1,
    "liq_scan": 71784.92,
    "mcap_scan": 623094.0,
-   "liq_now": 10932,
-   "mcap_now": 17111,
+   "liq_now": 8126,
+   "mcap_now": 11621,
    "risk_at_scan": 72,
    "early_buyers_known": 31,
    "buyer_pages": 1
@@ -3222,11 +1206,11 @@
   "5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g": {
    "ticker": "CAPY",
    "result": "loss",
-   "age_h": 186.7,
+   "age_h": 330.8,
    "liq_scan": 73264.18,
    "mcap_scan": 247194.0,
-   "liq_now": 8110,
-   "mcap_now": 8718,
+   "liq_now": 6633,
+   "mcap_now": 7021,
    "risk_at_scan": 73,
    "early_buyers_known": 11,
    "buyer_pages": 1
@@ -3234,11 +1218,11 @@
   "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump": {
    "ticker": "SPHERE",
    "result": "loss",
-   "age_h": 179.1,
+   "age_h": 323.3,
    "liq_scan": 71776.48999999999,
    "mcap_scan": 724333.0,
-   "liq_now": 2531,
-   "mcap_now": 2268,
+   "liq_now": 2140,
+   "mcap_now": 1926,
    "risk_at_scan": 75,
    "early_buyers_known": 64,
    "buyer_pages": 1
@@ -3246,7 +1230,7 @@
   "E8LdNqkpPCXeHJAfwmSPAYmovWBoYuSXLr4kbk5rpump": {
    "ticker": "AODF",
    "result": "loss",
-   "age_h": 448.3,
+   "age_h": 592.4,
    "liq_scan": 86098.52,
    "mcap_scan": 1059542.0,
    "liq_now": null,
@@ -3258,11 +1242,11 @@
   "D35x555XCejXLQ8wvUUEXj8Lw2PPp6eG2Xk6jgffpump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 428.8,
+   "age_h": 572.9,
    "liq_scan": 560521.99,
    "mcap_scan": 44127429.0,
-   "liq_now": 1647,
-   "mcap_now": 1696.6300828945,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 84,
    "early_buyers_known": 11,
    "buyer_pages": 1
@@ -3270,11 +1254,11 @@
   "8cENLm4vr5cFd9pfy2AcXjEPRv47aZrAMZbYhWWjpump": {
    "ticker": "NODF",
    "result": "loss",
-   "age_h": 469.1,
+   "age_h": 613.2,
    "liq_scan": 346931.55,
    "mcap_scan": 16694835.0,
-   "liq_now": 2369,
-   "mcap_now": 2412,
+   "liq_now": 1986,
+   "mcap_now": 2281.5367043571,
    "risk_at_scan": 66,
    "early_buyers_known": 15,
    "buyer_pages": 1
@@ -3282,11 +1266,11 @@
   "25X5iC9VQY1yJhVTtfrXY1RVwocLrCQPaTBPnstApump": {
    "ticker": "AOP",
    "result": "loss",
-   "age_h": 467.2,
+   "age_h": 611.3,
    "liq_scan": 130749.3,
    "mcap_scan": 2397106.0,
-   "liq_now": 2066,
-   "mcap_now": 2090.9712506902,
+   "liq_now": 1779,
+   "mcap_now": 1824.1167597733,
    "risk_at_scan": 57,
    "early_buyers_known": 13,
    "buyer_pages": 1
@@ -3294,11 +1278,11 @@
   "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": {
    "ticker": "TRENCHERS",
    "result": "loss",
-   "age_h": 456.0,
+   "age_h": 600.1,
    "liq_scan": 188523.03,
    "mcap_scan": 197465.0,
-   "liq_now": 2082,
-   "mcap_now": 1849,
+   "liq_now": 1723,
+   "mcap_now": 1529,
    "risk_at_scan": 67,
    "early_buyers_known": 3,
    "buyer_pages": 1
@@ -3306,11 +1290,11 @@
   "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump": {
    "ticker": "Rapport",
    "result": "loss",
-   "age_h": 321.7,
+   "age_h": 465.9,
    "liq_scan": 50407.35,
    "mcap_scan": 304586.0,
-   "liq_now": 3086,
-   "mcap_now": 2344,
+   "liq_now": 2572,
+   "mcap_now": 1954,
    "risk_at_scan": 61,
    "early_buyers_known": 25,
    "buyer_pages": 1
@@ -3318,23 +1302,23 @@
   "AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump": {
    "ticker": "Something",
    "result": "loss",
-   "age_h": 328.0,
+   "age_h": 472.1,
    "liq_scan": 103011.01,
    "mcap_scan": 1188897.0,
-   "liq_now": 3291,
-   "mcap_now": 2459,
+   "liq_now": 2746,
+   "mcap_now": 2044,
    "risk_at_scan": 88,
    "early_buyers_known": 39,
    "buyer_pages": 1
   },
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
    "ticker": "JOB",
-   "result": "win",
-   "age_h": 330.2,
+   "result": "pending",
+   "age_h": 474.3,
    "liq_scan": 137216.61,
    "mcap_scan": 2465858.0,
-   "liq_now": 186523,
-   "mcap_now": 3586270,
+   "liq_now": 106103,
+   "mcap_now": 1180265,
    "risk_at_scan": 85,
    "early_buyers_known": 40,
    "buyer_pages": 5
@@ -3342,11 +1326,11 @@
   "WoWVTqfQh1AWnmBxUnSUJ5DSFQUc8NdB3SkB4tCpump": {
    "ticker": "USDF",
    "result": "loss",
-   "age_h": 346.3,
+   "age_h": 490.4,
    "liq_scan": 1295183.05,
    "mcap_scan": 232183447.0,
-   "liq_now": 2636,
-   "mcap_now": 2913.4092294553,
+   "liq_now": 2224,
+   "mcap_now": 2558.4359975371,
    "risk_at_scan": 74,
    "early_buyers_known": 641,
    "buyer_pages": 5
@@ -3354,11 +1338,11 @@
   "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": {
    "ticker": "MAMESUKE",
    "result": "loss",
-   "age_h": 193.8,
+   "age_h": 338.0,
    "liq_scan": 341239.66,
    "mcap_scan": 817445.0,
-   "liq_now": 27670,
-   "mcap_now": 177398,
+   "liq_now": 22592,
+   "mcap_now": 139036,
    "risk_at_scan": 86,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -3366,11 +1350,11 @@
   "wDSAqt4tEZpDAwB9XY6ejkZvMFuT1zUMjUh67txeYhf": {
    "ticker": "HEDGE",
    "result": "loss",
-   "age_h": 185.4,
+   "age_h": 329.5,
    "liq_scan": 92236.7,
    "mcap_scan": 186312.0,
-   "liq_now": 35886,
-   "mcap_now": 29984,
+   "liq_now": 27676,
+   "mcap_now": 17835,
    "risk_at_scan": 56,
    "early_buyers_known": 61,
    "buyer_pages": 1
@@ -3378,11 +1362,11 @@
   "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump": {
    "ticker": "VEIL",
    "result": "loss",
-   "age_h": 690.4,
+   "age_h": 834.5,
    "liq_scan": 458682.41000000003,
    "mcap_scan": 7833145.0,
-   "liq_now": 48220,
-   "mcap_now": 259375,
+   "liq_now": 48241,
+   "mcap_now": 300270,
    "risk_at_scan": 85,
    "early_buyers_known": 47,
    "buyer_pages": 1
@@ -3390,11 +1374,11 @@
   "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
    "ticker": "SAINDRA",
    "result": "loss",
-   "age_h": 655.3,
+   "age_h": 799.4,
    "liq_scan": 114912.11,
    "mcap_scan": 489333.0,
-   "liq_now": 17352,
-   "mcap_now": 34650,
+   "liq_now": 12923,
+   "mcap_now": 23465,
    "risk_at_scan": 53,
    "early_buyers_known": 4,
    "buyer_pages": 1
@@ -3402,11 +1386,11 @@
   "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": {
    "ticker": "VEILTRUMP",
    "result": "loss",
-   "age_h": 647.0,
+   "age_h": 791.2,
    "liq_scan": 96549.54,
    "mcap_scan": 1216252.0,
-   "liq_now": 2191,
-   "mcap_now": 1949.032660272,
+   "liq_now": 1820,
+   "mcap_now": 1547,
    "risk_at_scan": 80,
    "early_buyers_known": 45,
    "buyer_pages": 1
@@ -3414,11 +1398,11 @@
   "8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump": {
    "ticker": "ANAKIN",
    "result": "loss",
-   "age_h": 206.9,
+   "age_h": 351.1,
    "liq_scan": 175327.83000000002,
    "mcap_scan": 3865435.0,
-   "liq_now": 2894,
-   "mcap_now": 2336,
+   "liq_now": 2664,
+   "mcap_now": 2213,
    "risk_at_scan": 83,
    "early_buyers_known": 44,
    "buyer_pages": 1
@@ -3426,11 +1410,11 @@
   "KoLoaG4ktXXA2g5FjrwNAHeNy5wPfQ2RzVUxscgZrpc": {
    "ticker": "KOLO",
    "result": "loss",
-   "age_h": 496.0,
+   "age_h": 640.1,
    "liq_scan": 103864.0,
    "mcap_scan": 1116662.0,
-   "liq_now": 2788,
-   "mcap_now": 2667,
+   "liq_now": 2728,
+   "mcap_now": 2607,
    "risk_at_scan": 76,
    "early_buyers_known": 47,
    "buyer_pages": 1
@@ -3438,11 +1422,11 @@
   "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": {
    "ticker": "PHP",
    "result": "loss",
-   "age_h": 488.4,
+   "age_h": 632.5,
    "liq_scan": 134130.26,
    "mcap_scan": 655359.0,
-   "liq_now": 9330,
-   "mcap_now": 10647,
+   "liq_now": 6540,
+   "mcap_now": 6592,
    "risk_at_scan": 82,
    "early_buyers_known": 5,
    "buyer_pages": 1
@@ -3450,11 +1434,11 @@
   "WeKoqUt3DiQhr25PDohmy5oU8PEwK2ekJtinLpJpump": {
    "ticker": "UDR",
    "result": "loss",
-   "age_h": 508.2,
+   "age_h": 652.3,
    "liq_scan": 851100.27,
    "mcap_scan": 96558988.0,
-   "liq_now": 1657,
-   "mcap_now": 1621.7900082978,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 70,
    "early_buyers_known": 13,
    "buyer_pages": 1
@@ -3462,11 +1446,11 @@
   "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
    "ticker": "Pokecity",
    "result": "loss",
-   "age_h": 494.4,
+   "age_h": 638.5,
    "liq_scan": 89037.99,
    "mcap_scan": 970558.0,
-   "liq_now": 2148,
-   "mcap_now": 1820,
+   "liq_now": 1791,
+   "mcap_now": 1543.7258011876,
    "risk_at_scan": 87,
    "early_buyers_known": 39,
    "buyer_pages": 1
@@ -3474,11 +1458,11 @@
   "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": {
    "ticker": "MONEYBIZ",
    "result": "loss",
-   "age_h": 504.3,
+   "age_h": 648.4,
    "liq_scan": 97465.84999999999,
    "mcap_scan": 1137109.0,
-   "liq_now": 3405,
-   "mcap_now": 2523,
+   "liq_now": 2763,
+   "mcap_now": 2018,
    "risk_at_scan": 82,
    "early_buyers_known": 18,
    "buyer_pages": 1
@@ -3486,11 +1470,11 @@
   "GisLeWojTwmb4XRnZxvGoZ9VA3AhXmUKPtUeEooRpump": {
    "ticker": "EVERNORTHX",
    "result": "loss",
-   "age_h": 537.6,
+   "age_h": 681.8,
    "liq_scan": 469921.12,
    "mcap_scan": 30029582.0,
-   "liq_now": 2188,
-   "mcap_now": 2289.237350514,
+   "liq_now": 1990,
+   "mcap_now": 2079.55165586,
    "risk_at_scan": 83,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -3498,11 +1482,11 @@
   "E7yGMLy8drjm2YnVQXyGKizSR5nx594CyrhBCEVpump": {
    "ticker": "AODF",
    "result": "loss",
-   "age_h": 443.8,
+   "age_h": 588.0,
    "liq_scan": 1296291.18,
    "mcap_scan": 235770995.0,
-   "liq_now": 3029,
-   "mcap_now": 3368.0207751983,
+   "liq_now": 2477,
+   "mcap_now": 2700,
    "risk_at_scan": 74,
    "early_buyers_known": 35,
    "buyer_pages": 1
@@ -3510,11 +1494,11 @@
   "g22PMViZFFRBHMrrPyf1S2CYSQ16QXnBibzWqWCpump": {
    "ticker": "TRUTH",
    "result": "loss",
-   "age_h": 457.8,
+   "age_h": 601.9,
    "liq_scan": 1284291.82,
    "mcap_scan": 224373964.0,
-   "liq_now": 2178,
-   "mcap_now": 2229.9028890481,
+   "liq_now": 1771,
+   "mcap_now": 1788.8016416621,
    "risk_at_scan": 70,
    "early_buyers_known": 23,
    "buyer_pages": 1
@@ -3522,11 +1506,11 @@
   "CbTbAY45Tfp8Lbk2ovjkS7wthxNka19MbGbGAZAdpump": {
    "ticker": "MI",
    "result": "loss",
-   "age_h": 407.9,
+   "age_h": 552.1,
    "liq_scan": 61979.06,
    "mcap_scan": 516868.0,
-   "liq_now": 1861,
-   "mcap_now": 1695,
+   "liq_now": 1560,
+   "mcap_now": 1421,
    "risk_at_scan": 86,
    "early_buyers_known": 32,
    "buyer_pages": 1
@@ -3534,11 +1518,11 @@
   "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump": {
    "ticker": "Moustache",
    "result": "loss",
-   "age_h": 424.9,
+   "age_h": 569.0,
    "liq_scan": 109145.19,
    "mcap_scan": 368191.0,
-   "liq_now": 7244,
-   "mcap_now": 8262,
+   "liq_now": 5963,
+   "mcap_now": 6701,
    "risk_at_scan": 79,
    "early_buyers_known": 14,
    "buyer_pages": 1
@@ -3546,11 +1530,11 @@
   "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": {
    "ticker": "CYBER",
    "result": "loss",
-   "age_h": 471.0,
+   "age_h": 615.1,
    "liq_scan": 84169.53,
    "mcap_scan": 434757.0,
-   "liq_now": 14404,
-   "mcap_now": 24015,
+   "liq_now": 13553,
+   "mcap_now": 24436,
    "risk_at_scan": 78,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -3558,35 +1542,35 @@
   "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": {
    "ticker": "KIMCHIBULL",
    "result": "loss",
-   "age_h": 473.9,
+   "age_h": 618.1,
    "liq_scan": 234877.07,
    "mcap_scan": 5979095.0,
-   "liq_now": 3010,
-   "mcap_now": 2309,
+   "liq_now": 2609,
+   "mcap_now": 2022,
    "risk_at_scan": 81,
    "early_buyers_known": 38,
    "buyer_pages": 1
   },
   "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": {
    "ticker": "PANGEA",
-   "result": "pending",
-   "age_h": 476.8,
+   "result": "loss",
+   "age_h": 621.0,
    "liq_scan": 242233.22,
    "mcap_scan": 2080368.0,
-   "liq_now": 82423,
-   "mcap_now": 1127684,
+   "liq_now": 43431,
+   "mcap_now": 386381,
    "risk_at_scan": 86,
    "early_buyers_known": 185,
    "buyer_pages": 5
   },
   "2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat": {
    "ticker": "BINGUS",
-   "result": "pending",
-   "age_h": 167.9,
+   "result": "loss",
+   "age_h": 312.1,
    "liq_scan": 67490.68000000001,
    "mcap_scan": 101932.0,
-   "liq_now": 44694,
-   "mcap_now": 47688,
+   "liq_now": 23892,
+   "mcap_now": 16047,
    "risk_at_scan": 26,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -3594,11 +1578,11 @@
   "Baw61KXAJk4MMnNJPBa87S8F77oNhMy7gQ63S8SLpump": {
    "ticker": "SHAVCOIN",
    "result": "loss",
-   "age_h": 457.8,
+   "age_h": 601.9,
    "liq_scan": 169757.88,
    "mcap_scan": 3385694.0,
-   "liq_now": 2249,
-   "mcap_now": 1925,
+   "liq_now": 1887,
+   "mcap_now": 1609,
    "risk_at_scan": 77,
    "early_buyers_known": 33,
    "buyer_pages": 1
@@ -3606,11 +1590,11 @@
   "3Xq3nspu91fEzGbzi9kSJ4FYAnBeeiLHPoxQx6cPSQj1": {
    "ticker": "BLACKTOBER",
    "result": "loss",
-   "age_h": 465.5,
+   "age_h": 609.6,
    "liq_scan": 95468.01000000001,
    "mcap_scan": 511611.0,
-   "liq_now": 6878,
-   "mcap_now": 6981,
+   "liq_now": 5146,
+   "mcap_now": 4873,
    "risk_at_scan": 70,
    "early_buyers_known": 6,
    "buyer_pages": 1
@@ -3618,11 +1602,11 @@
   "ChjYk79x48RLPRKbKJcz5bfZ17rJXSgy9toreEaupump": {
    "ticker": "USDF",
    "result": "loss",
-   "age_h": 466.9,
+   "age_h": 611.1,
    "liq_scan": 1309507.25,
    "mcap_scan": 235139451.0,
-   "liq_now": 2160,
-   "mcap_now": 2058.5245358527,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 74,
    "early_buyers_known": 14,
    "buyer_pages": 1
@@ -3630,11 +1614,11 @@
   "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump": {
    "ticker": "SEALS",
    "result": "loss",
-   "age_h": 675.6,
+   "age_h": 819.7,
    "liq_scan": 253432.48,
    "mcap_scan": 887362.0,
-   "liq_now": 8458,
-   "mcap_now": 8487,
+   "liq_now": 7389,
+   "mcap_now": 7603,
    "risk_at_scan": 58,
    "early_buyers_known": 17,
    "buyer_pages": 1
@@ -3642,11 +1626,11 @@
   "Cx5LznX6bpGXVnAbwtpG12mHkZRwb91QkTyuias6Z83F": {
    "ticker": "RSGP",
    "result": "loss",
-   "age_h": 675.4,
+   "age_h": 819.5,
    "liq_scan": 381533.84,
    "mcap_scan": 4944190.0,
    "liq_now": 0,
-   "mcap_now": 616.9726474,
+   "mcap_now": 729.5192782,
    "risk_at_scan": 61,
    "early_buyers_known": 103,
    "buyer_pages": 1
@@ -3654,11 +1638,11 @@
   "GU5NkUVLzmJQxJKuho5dG4d1owChpcSQnhARrjYQpump": {
    "ticker": "YILONGMA",
    "result": "loss",
-   "age_h": 675.3,
+   "age_h": 819.5,
    "liq_scan": 222533.45,
    "mcap_scan": 398027.0,
-   "liq_now": 5728,
-   "mcap_now": 7360,
+   "liq_now": 7625,
+   "mcap_now": 13252,
    "risk_at_scan": 74,
    "early_buyers_known": 25,
    "buyer_pages": 1
@@ -3666,11 +1650,11 @@
   "48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump": {
    "ticker": "Dip",
    "result": "loss",
-   "age_h": 617.7,
+   "age_h": 761.8,
    "liq_scan": 56824.369999999995,
    "mcap_scan": 311842.0,
-   "liq_now": 14714,
-   "mcap_now": 27158,
+   "liq_now": 13736,
+   "mcap_now": 27880,
    "risk_at_scan": 60,
    "early_buyers_known": 7,
    "buyer_pages": 1
@@ -3678,11 +1662,11 @@
   "3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump": {
    "ticker": "mucron",
    "result": "loss",
-   "age_h": 556.5,
+   "age_h": 700.6,
    "liq_scan": 118600.46,
    "mcap_scan": 472985.0,
-   "liq_now": 7478,
-   "mcap_now": 8869,
+   "liq_now": 5998,
+   "mcap_now": 6876,
    "risk_at_scan": 69,
    "early_buyers_known": 9,
    "buyer_pages": 1
@@ -3690,10 +1674,10 @@
   "BKuDDAbmbwhzA7JWd4eM5K2zUeGxRhAV7TSMW9T3pump": {
    "ticker": "USOE",
    "result": "loss",
-   "age_h": 332.1,
+   "age_h": 476.3,
    "liq_scan": 1142869.45,
    "mcap_scan": 183713587.0,
-   "liq_now": 2543,
+   "liq_now": 2519,
    "mcap_now": 2231.9398809095,
    "risk_at_scan": 84,
    "early_buyers_known": 11,
@@ -3702,11 +1686,11 @@
   "3LC3gGxSFKCPeEeo1ruQ4nHcaSBATZvS7srefotEpump": {
    "ticker": "USDF",
    "result": "loss",
-   "age_h": 329.1,
+   "age_h": 473.2,
    "liq_scan": 399885.05,
    "mcap_scan": 22673941.0,
-   "liq_now": 3961,
-   "mcap_now": 4862,
+   "liq_now": 2696,
+   "mcap_now": 3050,
    "risk_at_scan": 74,
    "early_buyers_known": 1118,
    "buyer_pages": 5
@@ -3714,11 +1698,11 @@
   "BLeMEetdzeq9xsNti2tCiau4JnD7mzyQzQFHdy5pump": {
    "ticker": "RETIRED",
    "result": "loss",
-   "age_h": 360.9,
+   "age_h": 505.1,
    "liq_scan": 67981.75,
    "mcap_scan": 622723.0,
-   "liq_now": 2154,
-   "mcap_now": 1922,
+   "liq_now": 1655,
+   "mcap_now": 1455,
    "risk_at_scan": 47,
    "early_buyers_known": 152,
    "buyer_pages": 5
@@ -3726,11 +1710,11 @@
   "aQ2y8TWM9eeBWSksobbhQdAWFKiLHjDef2KUUJGpump": {
    "ticker": "DOTF",
    "result": "loss",
-   "age_h": 762.6,
+   "age_h": 906.7,
    "liq_scan": 941423.15,
    "mcap_scan": 114447016.0,
-   "liq_now": null,
-   "mcap_now": null,
+   "liq_now": 1892,
+   "mcap_now": 1730.7901202546,
    "risk_at_scan": 88,
    "early_buyers_known": 14,
    "buyer_pages": 1
@@ -3738,11 +1722,11 @@
   "ERkmk5rs8KKD9u2fxoDZUmwwuVc7rT3sSeowGTrQuBit": {
    "ticker": "QUBIT",
    "result": "loss",
-   "age_h": 783.2,
+   "age_h": 927.3,
    "liq_scan": 86493.09,
    "mcap_scan": 461809.0,
-   "liq_now": 4488,
-   "mcap_now": 4042,
+   "liq_now": 3630,
+   "mcap_now": 3217,
    "risk_at_scan": 58,
    "early_buyers_known": 16,
    "buyer_pages": 1
@@ -3750,11 +1734,11 @@
   "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": {
    "ticker": "WORTHLESS",
    "result": "loss",
-   "age_h": 528.5,
+   "age_h": 672.6,
    "liq_scan": 54838.33,
    "mcap_scan": 346755.0,
-   "liq_now": 12583,
-   "mcap_now": 22456,
+   "liq_now": 11945,
+   "mcap_now": 22866,
    "risk_at_scan": 73,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -3762,7 +1746,7 @@
   "4GGuUG6QZQ97LraPpUEoqLHuZZK9MrxnGogyqJLhpump": {
    "ticker": "SARP",
    "result": "loss",
-   "age_h": 541.3,
+   "age_h": 685.4,
    "liq_scan": 456657.74,
    "mcap_scan": 28354169.0,
    "liq_now": null,
@@ -3774,11 +1758,11 @@
   "FGkCj28xhabWTYg9QyzACvs4NsN6LUyesP6EwiHepump": {
    "ticker": "UHI",
    "result": "loss",
-   "age_h": 540.6,
+   "age_h": 684.8,
    "liq_scan": 241641.17,
    "mcap_scan": 1085358.0,
-   "liq_now": 14472,
-   "mcap_now": 23350,
+   "liq_now": 9958,
+   "mcap_now": 13770,
    "risk_at_scan": 78,
    "early_buyers_known": 13,
    "buyer_pages": 1
@@ -3786,11 +1770,11 @@
   "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
    "ticker": "SHADOW",
    "result": "loss",
-   "age_h": 476.2,
+   "age_h": 620.3,
    "liq_scan": 51055.32,
    "mcap_scan": 321797.0,
-   "liq_now": 3561,
-   "mcap_now": 3351,
+   "liq_now": 2990,
+   "mcap_now": 2819,
    "risk_at_scan": 65,
    "early_buyers_known": 28,
    "buyer_pages": 1
@@ -3798,11 +1782,11 @@
   "9FAjujeZsLW7C8jRLvcH1fS3dYCtLV6LYHKq822dpump": {
    "ticker": "RAT",
    "result": "pending",
-   "age_h": 501.4,
+   "age_h": 645.6,
    "liq_scan": 67415.17,
    "mcap_scan": 314426.0,
-   "liq_now": 28281,
-   "mcap_now": 82779,
+   "liq_now": 20799,
+   "mcap_now": 59810,
    "risk_at_scan": 33,
    "early_buyers_known": 91,
    "buyer_pages": 5
@@ -3810,11 +1794,11 @@
   "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
    "ticker": "STREAM",
    "result": "loss",
-   "age_h": 642.1,
+   "age_h": 786.2,
    "liq_scan": 200921.53,
    "mcap_scan": 4780465.0,
-   "liq_now": 5488,
-   "mcap_now": 5228,
+   "liq_now": 4381,
+   "mcap_now": 4071,
    "risk_at_scan": 83,
    "early_buyers_known": 34,
    "buyer_pages": 1
@@ -3822,11 +1806,11 @@
   "3EC7gRDGKgqPHc9ipJxxChoeyseE2xAbQHZUSSTfpump": {
    "ticker": "SYCAMORE",
    "result": "loss",
-   "age_h": 629.6,
+   "age_h": 773.8,
    "liq_scan": 52296.83,
    "mcap_scan": 300908.0,
-   "liq_now": 3162,
-   "mcap_now": 2474,
+   "liq_now": 2645,
+   "mcap_now": 2061,
    "risk_at_scan": 67,
    "early_buyers_known": 23,
    "buyer_pages": 1
@@ -3834,7 +1818,7 @@
   "hbPCDEMrTZPb7effgAs8UbEJxTSGJzmiHYzWkGXpump": {
    "ticker": "486",
    "result": "loss",
-   "age_h": 669.0,
+   "age_h": 813.2,
    "liq_scan": 126834.363,
    "mcap_scan": 128389.371659841,
    "liq_now": null,
@@ -3846,11 +1830,11 @@
   "3KZMhdGUE8KqLkG7q45qJS8czmd7UUhfwdEkN24Jpump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 658.5,
+   "age_h": 802.6,
    "liq_scan": 550949.65,
    "mcap_scan": 42332027.0,
-   "liq_now": 9231,
-   "mcap_now": 18661,
+   "liq_now": 7540,
+   "mcap_now": 15081,
    "risk_at_scan": 87,
    "early_buyers_known": 77,
    "buyer_pages": 1
@@ -3858,11 +1842,11 @@
   "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": {
    "ticker": "Anakin",
    "result": "loss",
-   "age_h": 283.6,
+   "age_h": 427.8,
    "liq_scan": 185336.49,
    "mcap_scan": 896975.0,
-   "liq_now": 34021,
-   "mcap_now": 120338,
+   "liq_now": 22928,
+   "mcap_now": 68067,
    "risk_at_scan": 58,
    "early_buyers_known": 11,
    "buyer_pages": 5
@@ -3870,11 +1854,11 @@
   "Aw4QbwxTvCjgUpJpXDq91okZrNikxy8oFu8jvHDyUtq7": {
    "ticker": "ALLOX",
    "result": "loss",
-   "age_h": 569.7,
+   "age_h": 713.8,
    "liq_scan": 293618.49,
    "mcap_scan": 5119502.0,
    "liq_now": 0,
-   "mcap_now": 12025226,
+   "mcap_now": 632788.9239,
    "risk_at_scan": 62,
    "early_buyers_known": 103,
    "buyer_pages": 1
@@ -3882,7 +1866,7 @@
   "4vNUXyhLbYW2jyA6EiHi5ZXsyddvXhk6fWhQXDNvpump": {
    "ticker": "WSOS",
    "result": "loss",
-   "age_h": 781.1,
+   "age_h": 925.3,
    "liq_scan": 1462856.2,
    "mcap_scan": 279238901.0,
    "liq_now": null,
@@ -3894,11 +1878,11 @@
   "5yuiTSNd32qxBM4rkuxqNd6gaSLBqCykJEaKwK4Jpump": {
    "ticker": "SW",
    "result": "loss",
-   "age_h": 762.6,
+   "age_h": 906.8,
    "liq_scan": 58583.31,
    "mcap_scan": 446914.0,
-   "liq_now": 1823,
-   "mcap_now": 1696.8956876583,
+   "liq_now": 1550,
+   "mcap_now": 1543.3276215228,
    "risk_at_scan": 68,
    "early_buyers_known": 38,
    "buyer_pages": 1
@@ -3906,11 +1890,11 @@
   "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": {
    "ticker": "Au",
    "result": "loss",
-   "age_h": 467.8,
+   "age_h": 611.9,
    "liq_scan": 64080.67,
    "mcap_scan": 363184.0,
-   "liq_now": 5407,
-   "mcap_now": 5082,
+   "liq_now": 3587,
+   "mcap_now": 2886,
    "risk_at_scan": 44,
    "early_buyers_known": 3,
    "buyer_pages": 1
@@ -3918,11 +1902,11 @@
   "ECFmFaHyJ8krXErN1QAxqUq97xCFUWYv9Ax5j2Aspump": {
    "ticker": "BORLY",
    "result": "loss",
-   "age_h": 514.4,
+   "age_h": 658.5,
    "liq_scan": 84945.1,
    "mcap_scan": 860751.0,
-   "liq_now": 2282,
-   "mcap_now": 2064.870177,
+   "liq_now": 1996,
+   "mcap_now": 1816.541447,
    "risk_at_scan": 89,
    "early_buyers_known": 36,
    "buyer_pages": 1
@@ -3930,11 +1914,11 @@
   "4hsJNmPComjTsbrDtoLjDMmsyZ1g2T1xy1xHnEE2pump": {
    "ticker": "BATONA",
    "result": "loss",
-   "age_h": 693.9,
+   "age_h": 838.0,
    "liq_scan": 54329.32,
    "mcap_scan": 393351.0,
-   "liq_now": 1979,
-   "mcap_now": 1806.4546858686,
+   "liq_now": 1649,
+   "mcap_now": 1456.4751492974,
    "risk_at_scan": 68,
    "early_buyers_known": 44,
    "buyer_pages": 1
@@ -3942,7 +1926,7 @@
   "6VZxuW4uBMTqpQwianW8yorme9KnBC5t6K8SpVUVpump": {
    "ticker": "SI276",
    "result": "loss",
-   "age_h": 739.8,
+   "age_h": 883.9,
    "liq_scan": 568989.96,
    "mcap_scan": 42439029.0,
    "liq_now": null,
@@ -3954,11 +1938,11 @@
   "8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump": {
    "ticker": "Solamians",
    "result": "loss",
-   "age_h": 707.2,
+   "age_h": 851.4,
    "liq_scan": 90281.70999999999,
    "mcap_scan": 355959.0,
-   "liq_now": 6013,
-   "mcap_now": 6201,
+   "liq_now": 5115,
+   "mcap_now": 5332,
    "risk_at_scan": 83,
    "early_buyers_known": 6,
    "buyer_pages": 1
@@ -3966,11 +1950,11 @@
   "7jNwX4Me9zGEjmWY7zARDG2LYjVs1WXD6DZ1JvSfpump": {
    "ticker": "HUMPH",
    "result": "loss",
-   "age_h": 698.5,
+   "age_h": 842.6,
    "liq_scan": 167828.97,
    "mcap_scan": 3183890.0,
-   "liq_now": 3758,
-   "mcap_now": 2992,
+   "liq_now": 3068,
+   "mcap_now": 2431,
    "risk_at_scan": 75,
    "early_buyers_known": 20,
    "buyer_pages": 1
@@ -3978,11 +1962,11 @@
   "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": {
    "ticker": "KIMCHI",
    "result": "loss",
-   "age_h": 493.6,
+   "age_h": 637.7,
    "liq_scan": 72939.45,
    "mcap_scan": 587705.0,
-   "liq_now": 3004,
-   "mcap_now": 2643,
+   "liq_now": 2444,
+   "mcap_now": 2132,
    "risk_at_scan": 75,
    "early_buyers_known": 43,
    "buyer_pages": 1
@@ -3990,11 +1974,11 @@
   "FAopSovS2WFJK5qEAmcuwAVH98CvmBwT6Lpq4EK2pump": {
    "ticker": "A1",
    "result": "loss",
-   "age_h": 834.6,
+   "age_h": 978.7,
    "liq_scan": 123939.22,
    "mcap_scan": 1465676.0,
-   "liq_now": 2844,
-   "mcap_now": 2224,
+   "liq_now": 2364,
+   "mcap_now": 1845.0034844002,
    "risk_at_scan": 76,
    "early_buyers_known": 24,
    "buyer_pages": 1
@@ -4002,11 +1986,11 @@
   "7qKSjmHwVn7zmbwiMMkjvGN7tnoSQXZ77umVzMXspump": {
    "ticker": "RIGHT",
    "result": "loss",
-   "age_h": 809.9,
+   "age_h": 954.1,
    "liq_scan": 70762.82,
    "mcap_scan": 627977.0,
-   "liq_now": 2026,
-   "mcap_now": 1847.6626413353,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 37,
    "early_buyers_known": 26,
    "buyer_pages": 1
@@ -4014,11 +1998,11 @@
   "GNzPerGXMSvJ8tfhvihTLHbmQ86BwNsfC2F9gtvkDzQG": {
    "ticker": "CAI",
    "result": "loss",
-   "age_h": 810.1,
+   "age_h": 954.2,
    "liq_scan": 54651.299999999996,
    "mcap_scan": 343021.0,
-   "liq_now": 3414,
-   "mcap_now": 1815,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 65,
    "early_buyers_known": 54,
    "buyer_pages": 1
@@ -4026,11 +2010,11 @@
   "9Bgjx6N4g38ERqKzA3THJxHWKFTVY1FKaeftGryGpump": {
    "ticker": "LOBBY",
    "result": "loss",
-   "age_h": 813.3,
+   "age_h": 957.4,
    "liq_scan": 143369.07,
    "mcap_scan": 1078410.0,
-   "liq_now": 4188,
-   "mcap_now": 3980,
+   "liq_now": 3449,
+   "mcap_now": 3367.0796302296,
    "risk_at_scan": 58,
    "early_buyers_known": 27,
    "buyer_pages": 1
@@ -4038,11 +2022,11 @@
   "AHmD5jaFKqWMGswNkTSwAfvaWNHVY8m6JJro9LFppump": {
    "ticker": "FLY",
    "result": "loss",
-   "age_h": 811.4,
+   "age_h": 955.6,
    "liq_scan": 108771.38,
    "mcap_scan": 369547.0,
-   "liq_now": 3398,
-   "mcap_now": 2789,
+   "liq_now": 2812,
+   "mcap_now": 2307,
    "risk_at_scan": 48,
    "early_buyers_known": 12,
    "buyer_pages": 1
@@ -4050,11 +2034,11 @@
   "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": {
    "ticker": "SEAN",
    "result": "loss",
-   "age_h": 708.8,
+   "age_h": 852.9,
    "liq_scan": 138729.99,
    "mcap_scan": 2126728.0,
-   "liq_now": 3224,
-   "mcap_now": 2945,
+   "liq_now": 2658,
+   "mcap_now": 2411,
    "risk_at_scan": 79,
    "early_buyers_known": 51,
    "buyer_pages": 1
@@ -4062,11 +2046,11 @@
   "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump": {
    "ticker": "Agency",
    "result": "loss",
-   "age_h": 950.7,
+   "age_h": 1094.9,
    "liq_scan": 549334.03,
    "mcap_scan": 2172463.0,
-   "liq_now": 46567,
-   "mcap_now": 109946,
+   "liq_now": 33020,
+   "mcap_now": 66253,
    "risk_at_scan": 36,
    "early_buyers_known": 4,
    "buyer_pages": 1
@@ -4074,11 +2058,11 @@
   "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": {
    "ticker": "YMB",
    "result": "loss",
-   "age_h": 426.4,
+   "age_h": 570.5,
    "liq_scan": 75399.22,
    "mcap_scan": 282275.0,
-   "liq_now": 7829,
-   "mcap_now": 9033,
+   "liq_now": 8421,
+   "mcap_now": 9636,
    "risk_at_scan": 62,
    "early_buyers_known": 31,
    "buyer_pages": 1
@@ -4086,11 +2070,11 @@
   "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": {
    "ticker": "INVERSE",
    "result": "loss",
-   "age_h": 329.2,
+   "age_h": 473.3,
    "liq_scan": 236895.85,
    "mcap_scan": 1298288.0,
-   "liq_now": 17238,
-   "mcap_now": 32326,
+   "liq_now": 13985,
+   "mcap_now": 25000,
    "risk_at_scan": 74,
    "early_buyers_known": 5,
    "buyer_pages": 1
@@ -4098,23 +2082,23 @@
   "dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump": {
    "ticker": "CATBOT",
    "result": "loss",
-   "age_h": 304.6,
+   "age_h": 448.8,
    "liq_scan": 89323.7,
    "mcap_scan": 911164.0,
-   "liq_now": 2706,
-   "mcap_now": 2187,
+   "liq_now": 2229,
+   "mcap_now": 1789,
    "risk_at_scan": 78,
    "early_buyers_known": 31,
    "buyer_pages": 1
   },
   "KS9avswL2kDwUm6e7aPvw8wtC2p7JznHv48UAhppump": {
    "ticker": "XTO",
-   "result": "pending",
-   "age_h": 308.4,
+   "result": "loss",
+   "age_h": 452.5,
    "liq_scan": 72143.27,
    "mcap_scan": 755412.0,
-   "liq_now": 16936,
-   "mcap_now": 54553,
+   "liq_now": 12841,
+   "mcap_now": 38066,
    "risk_at_scan": 81,
    "early_buyers_known": 0,
    "buyer_pages": 0
@@ -4122,11 +2106,11 @@
   "DUKEjskPBoszW4xEowcSWptekuUZpwLFv6nTt5Cmpump": {
    "ticker": "HOUSECOIN",
    "result": "loss",
-   "age_h": 307.5,
+   "age_h": 451.6,
    "liq_scan": 65485.04,
    "mcap_scan": 293196.0,
-   "liq_now": 5626,
-   "mcap_now": 5329,
+   "liq_now": 3856,
+   "mcap_now": 3306,
    "risk_at_scan": 56,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -4134,11 +2118,11 @@
   "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
    "ticker": "FLOAT",
    "result": "win",
-   "age_h": 303.5,
+   "age_h": 447.7,
    "liq_scan": 356356.67,
    "mcap_scan": 1655893.0,
-   "liq_now": 616762,
-   "mcap_now": 9153678,
+   "liq_now": 292718,
+   "mcap_now": 2706793,
    "risk_at_scan": 62,
    "early_buyers_known": 15,
    "buyer_pages": 5
@@ -4146,11 +2130,11 @@
   "GF74fBfcaeLjUiUwKpRiUbvMQtTvNyzMoo6KNyyqNyk6": {
    "ticker": "STONKLANA",
    "result": "loss",
-   "age_h": 312.7,
+   "age_h": 456.9,
    "liq_scan": 207384.99,
    "mcap_scan": 449921.0,
-   "liq_now": 3246,
-   "mcap_now": 3626,
+   "liq_now": 2766,
+   "mcap_now": 3213,
    "risk_at_scan": 86,
    "early_buyers_known": 48,
    "buyer_pages": 1
@@ -4158,7 +2142,7 @@
   "XJ5V7PNjzSFRAHwx72nm7eQ6VFnx7oZJDspK4n6pump": {
    "ticker": "SARP",
    "result": "loss",
-   "age_h": 743.0,
+   "age_h": 887.2,
    "liq_scan": 1455215.34,
    "mcap_scan": 281135820.0,
    "liq_now": null,
@@ -4170,11 +2154,11 @@
   "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK": {
    "ticker": "SWOLF",
    "result": "loss",
-   "age_h": 772.4,
+   "age_h": 916.6,
    "liq_scan": 329524.59,
    "mcap_scan": 2095512.0,
-   "liq_now": 14165,
-   "mcap_now": 30635,
+   "liq_now": 9049,
+   "mcap_now": 14302,
    "risk_at_scan": 67,
    "early_buyers_known": 6,
    "buyer_pages": 1
@@ -4182,11 +2166,11 @@
   "E92fvVYzA4AumJnp1ZsdVN3mfnNdDFSs3rP9gsUVxmC7": {
    "ticker": "PULT",
    "result": "loss",
-   "age_h": 746.6,
+   "age_h": 890.7,
    "liq_scan": 346200.77,
    "mcap_scan": 5506913.0,
-   "liq_now": 0,
-   "mcap_now": 392609.011,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 52,
    "early_buyers_known": 103,
    "buyer_pages": 1
@@ -4194,11 +2178,11 @@
   "BBZ3sgY66QVsxcXXBVpuQfDzH2b5Ub8qmfKNQJjBpump": {
    "ticker": "Incognito",
    "result": "loss",
-   "age_h": 727.7,
+   "age_h": 871.9,
    "liq_scan": 122568.67,
    "mcap_scan": 559356.0,
-   "liq_now": 7823,
-   "mcap_now": 8901,
+   "liq_now": 7807,
+   "mcap_now": 8916,
    "risk_at_scan": 59,
    "early_buyers_known": 12,
    "buyer_pages": 1
@@ -4206,11 +2190,11 @@
   "2Dx7XJQp2LGdq14nP98swmtUhfhHz8FVs98bt11Mpump": {
    "ticker": "ALOIS",
    "result": "loss",
-   "age_h": 774.4,
+   "age_h": 918.5,
    "liq_scan": 89132.44,
    "mcap_scan": 765931.0,
-   "liq_now": 3585,
-   "mcap_now": 3093,
+   "liq_now": 3050,
+   "mcap_now": 2821.4366648338,
    "risk_at_scan": 75,
    "early_buyers_known": 17,
    "buyer_pages": 1
@@ -4218,11 +2202,11 @@
   "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump": {
    "ticker": "QT",
    "result": "loss",
-   "age_h": 739.0,
+   "age_h": 883.2,
    "liq_scan": 140083.04,
    "mcap_scan": 2351758.0,
-   "liq_now": 2194,
-   "mcap_now": 1929,
+   "liq_now": 1857,
+   "mcap_now": 1811.5256889742,
    "risk_at_scan": 77,
    "early_buyers_known": 34,
    "buyer_pages": 1
@@ -4230,11 +2214,11 @@
   "9pZL5BtFgYFeSGrGMeMf8sKyNX1Mg4R7LjfbpLkJAYT": {
    "ticker": "Jarvis",
    "result": "loss",
-   "age_h": 765.3,
+   "age_h": 909.5,
    "liq_scan": 65019.8,
    "mcap_scan": 322969.0,
-   "liq_now": 10502,
-   "mcap_now": 19886,
+   "liq_now": 8465,
+   "mcap_now": 14759,
    "risk_at_scan": 79,
    "early_buyers_known": 6,
    "buyer_pages": 1
@@ -4242,11 +2226,11 @@
   "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": {
    "ticker": "DARKCAT",
    "result": "loss",
-   "age_h": 507.4,
+   "age_h": 651.5,
    "liq_scan": 77758.6,
    "mcap_scan": 776371.0,
-   "liq_now": 2324,
-   "mcap_now": 1962,
+   "liq_now": 1964,
+   "mcap_now": 1656,
    "risk_at_scan": 72,
    "early_buyers_known": 31,
    "buyer_pages": 1
@@ -4254,11 +2238,11 @@
   "D61pTaTqR93axxVvu7AX5TW6c3a4vhffPPMfCnsYpump": {
    "ticker": "OWLDACITY",
    "result": "loss",
-   "age_h": 616.9,
+   "age_h": 761.0,
    "liq_scan": 66517.39,
    "mcap_scan": 517914.0,
-   "liq_now": 2578,
-   "mcap_now": 2111.7846614774,
+   "liq_now": 2294,
+   "mcap_now": 2031.4089685762,
    "risk_at_scan": 85,
    "early_buyers_known": 19,
    "buyer_pages": 1
@@ -4266,11 +2250,11 @@
   "5YEk5atScd8cJexzGMmoLxLggyyVPf7AY6zpiV5mray": {
    "ticker": "RAYPAD",
    "result": "loss",
-   "age_h": 372.0,
+   "age_h": 516.1,
    "liq_scan": 93009.29000000001,
    "mcap_scan": 565346.0,
-   "liq_now": 11215,
-   "mcap_now": 13882,
+   "liq_now": 6500,
+   "mcap_now": 5527,
    "risk_at_scan": 68,
    "early_buyers_known": 27,
    "buyer_pages": 1
@@ -4278,11 +2262,11 @@
   "49tCiqESiHKxXYU6W2zwToBgWSQMaaTBGTRbWJpspump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 382.6,
+   "age_h": 526.7,
    "liq_scan": 618136.14,
    "mcap_scan": 53227227.0,
-   "liq_now": 3110,
-   "mcap_now": 3739.1431127692,
+   "liq_now": 1818,
+   "mcap_now": 1843,
    "risk_at_scan": 84,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -4290,11 +2274,11 @@
   "3p4LAKKCcsiBF5nuYYqLu8mJpfXStQJMk2LYubM3pump": {
    "ticker": "Chop",
    "result": "loss",
-   "age_h": 377.1,
+   "age_h": 521.3,
    "liq_scan": 84622.90000000001,
    "mcap_scan": 835784.0,
-   "liq_now": 2539,
-   "mcap_now": 2089,
+   "liq_now": 2069,
+   "mcap_now": 1689,
    "risk_at_scan": 69,
    "early_buyers_known": 32,
    "buyer_pages": 1
@@ -4302,11 +2286,11 @@
   "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": {
    "ticker": "paws",
    "result": "win",
-   "age_h": 348.0,
+   "age_h": 492.1,
    "liq_scan": 85664.06999999999,
    "mcap_scan": 363232.0,
-   "liq_now": 43914,
-   "mcap_now": 188152,
+   "liq_now": 73640,
+   "mcap_now": 524793,
    "risk_at_scan": 49,
    "early_buyers_known": 10,
    "buyer_pages": 5
@@ -4314,11 +2298,11 @@
   "9KhzhyM1BwgW6myZRcqdzQvemKjVrjck8kaevTkMpump": {
    "ticker": "HOUSEWORM",
    "result": "loss",
-   "age_h": 285.5,
+   "age_h": 429.7,
    "liq_scan": 90516.25,
    "mcap_scan": 1074921.0,
-   "liq_now": 2084,
-   "mcap_now": 1795,
+   "liq_now": 1785,
+   "mcap_now": 1544,
    "risk_at_scan": 80,
    "early_buyers_known": 16,
    "buyer_pages": 1
@@ -4326,11 +2310,11 @@
   "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump": {
    "ticker": "COMPUTE",
    "result": "loss",
-   "age_h": 529.2,
+   "age_h": 673.4,
    "liq_scan": 65041.74,
    "mcap_scan": 264980.0,
-   "liq_now": 7489,
-   "mcap_now": 8115,
+   "liq_now": 5507,
+   "mcap_now": 5463,
    "risk_at_scan": 67,
    "early_buyers_known": 22,
    "buyer_pages": 1
@@ -4338,11 +2322,11 @@
   "A7rdP4KehZA1jjgYQrtKfN7AzG5zPh2z2ECXJzv4pump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 209.5,
+   "age_h": 353.7,
    "liq_scan": 548609.99,
    "mcap_scan": 45441013.0,
-   "liq_now": 2302,
-   "mcap_now": 2364,
+   "liq_now": 1630,
+   "mcap_now": 1659.6638654071,
    "risk_at_scan": 74,
    "early_buyers_known": 11,
    "buyer_pages": 1
@@ -4350,11 +2334,11 @@
   "CvRJ8MrnB1AwjrgX25uyeLJiXNSugTo2ZHh8UXDTpump": {
    "ticker": "ANSEM",
    "result": "loss",
-   "age_h": 237.7,
+   "age_h": 381.8,
    "liq_scan": 54743.18,
    "mcap_scan": 340703.0,
-   "liq_now": 7256,
-   "mcap_now": 8507,
+   "liq_now": 5330,
+   "mcap_now": 5739,
    "risk_at_scan": 38,
    "early_buyers_known": 26,
    "buyer_pages": 5
@@ -4362,11 +2346,11 @@
   "biMBtbQ6rrbYwFkUSYoWLWdN7UboDSu6S35wFrWpump": {
    "ticker": "XTO",
    "result": "loss",
-   "age_h": 374.4,
+   "age_h": 518.5,
    "liq_scan": 73844.89,
    "mcap_scan": 795717.0,
-   "liq_now": 1880,
-   "mcap_now": 1841,
+   "liq_now": 1760,
+   "mcap_now": 1731.3083681821,
    "risk_at_scan": 68,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -4374,11 +2358,11 @@
   "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump": {
    "ticker": "PumpkinBot",
    "result": "loss",
-   "age_h": 388.3,
+   "age_h": 532.5,
    "liq_scan": 55003.57,
    "mcap_scan": 413704.0,
-   "liq_now": 2320,
-   "mcap_now": 2047.0509159111,
+   "liq_now": 1960,
+   "mcap_now": 1840.4469774286,
    "risk_at_scan": 65,
    "early_buyers_known": 29,
    "buyer_pages": 1
@@ -4386,23 +2370,23 @@
   "7S9v86SXnm2Hmew7peDo8XEx44T2FRmZVSqm8jaPpump": {
    "ticker": "HALVE",
    "result": "loss",
-   "age_h": 289.4,
+   "age_h": 433.6,
    "liq_scan": 217724.99,
    "mcap_scan": 7067583.0,
-   "liq_now": 1620,
-   "mcap_now": 1601.2589859896,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 88,
    "early_buyers_known": 193,
    "buyer_pages": 5
   },
   "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun": {
    "ticker": "SENSE",
-   "result": "win",
-   "age_h": 286.8,
+   "result": "pending",
+   "age_h": 430.9,
    "liq_scan": 61018.259999999995,
    "mcap_scan": 342317.0,
-   "liq_now": 44595,
-   "mcap_now": 232658,
+   "liq_now": 40927,
+   "mcap_now": 94389,
    "risk_at_scan": 69,
    "early_buyers_known": 133,
    "buyer_pages": 5
@@ -4410,11 +2394,11 @@
   "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump": {
    "ticker": "HEXN",
    "result": "loss",
-   "age_h": 284.5,
+   "age_h": 428.6,
    "liq_scan": 65315.38,
    "mcap_scan": 476984.0,
-   "liq_now": 3394,
-   "mcap_now": 2593,
+   "liq_now": 3096,
+   "mcap_now": 2444,
    "risk_at_scan": 72,
    "early_buyers_known": 25,
    "buyer_pages": 1
@@ -4422,11 +2406,11 @@
   "zDCwvt2HxLiNhVegZaR1b5zcHDJaT9qpK1rqWKGpump": {
    "ticker": "NODF",
    "result": "loss",
-   "age_h": 470.6,
+   "age_h": 614.8,
    "liq_scan": 1383029.77,
    "mcap_scan": 260071653.0,
-   "liq_now": 2649,
-   "mcap_now": 2911.9635532525,
+   "liq_now": null,
+   "mcap_now": null,
    "risk_at_scan": 62,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -4434,11 +2418,11 @@
   "rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump": {
    "ticker": "XRP",
    "result": "loss",
-   "age_h": 477.5,
+   "age_h": 621.6,
    "liq_scan": 143442.13,
    "mcap_scan": 2767562.0,
-   "liq_now": 2471,
-   "mcap_now": 2519.4666221785,
+   "liq_now": 1943,
+   "mcap_now": 1841.7490062288,
    "risk_at_scan": 68,
    "early_buyers_known": 10,
    "buyer_pages": 1
@@ -4446,11 +2430,11 @@
   "Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump": {
    "ticker": "chud",
    "result": "loss",
-   "age_h": 480.1,
+   "age_h": 624.2,
    "liq_scan": 1004499.83,
    "mcap_scan": 1097931.0,
-   "liq_now": 1703,
-   "mcap_now": 1626,
+   "liq_now": 1429,
+   "mcap_now": 1365,
    "risk_at_scan": 59,
    "early_buyers_known": 3,
    "buyer_pages": 1
