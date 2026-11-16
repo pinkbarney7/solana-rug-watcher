@@ -1,12 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-16 15:38 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-16 15:48 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 33 | Open: 2 | Not opened (failed sell gate): 0
 Win rate 24% | avg return -37.0% | expectancy $-9.24 per $25 trade | total $-304.95
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| rockstar | [`9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump`](https://pump.fun/coin/9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump) | scored_fast_scan | CAUTION | 2026-11-16 13:07 EST | open | -37.2% |
+| rockstar | [`9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump`](https://pump.fun/coin/9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump) | scored_fast_scan | CAUTION | 2026-11-16 13:07 EST | open | -36.3% |
 | LAUNCH | [`AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C`](https://dexscreener.com/solana/AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C) | scored_scorecard | CAUTION | 2026-11-16 10:08 EST | closed (pool dead/delisted (-100%)) | -100.0% |
 | LEGO | [`Ei8RUmbtWDcQp6fBh6rGvBbbVguC7MwmCjaGmj5pump`](https://pump.fun/coin/Ei8RUmbtWDcQp6fBh6rGvBbbVguC7MwmCjaGmj5pump) | scored_scorecard | CAUTION | 2026-11-16 10:08 EST | closed (pool dead/delisted (-100%)) | -100.0% |
 | DUO | [`ADkd6izPxJtKueHAzKsDEnGRNEq5ERu1g3ses1wKpump`](https://pump.fun/coin/ADkd6izPxJtKueHAzKsDEnGRNEq5ERu1g3ses1wKpump) | scored_scorecard | CAUTION | 2026-11-16 09:57 EST | open | +0.0% |
