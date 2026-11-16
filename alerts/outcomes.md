@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 07:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 07:24 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -33,5 +33,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | bill | `B363HkenheRKssXjM8eEW2T6wS2FwrkH4Pgn9ZNyUWW` | SKIP | 53 | 0.2% / liq $0 | 0.2% / liq $0 | - |
 | GETAJOB | `ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump` | CAUTION | 52 | -20.0% / liq $55,798 | -20.0% / liq $55,798 | - |
 | UODF | `39rS82a9nNnBuDdoJHGFti2CHQaZvLtauQzzUkERpump` | SKIP | 67 | 13.1% / liq $1,191,766 | -99.6% / liq $73,235 | -100.0% / liq $2,014 |
-| Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 3.3% / liq $5,067,189 | 1.9% / liq $4,982,206 | 2.4% / liq $4,998,876 |
-| TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 67 | 0.9% / liq $718,082 | 1.0% / liq $1,060,349 | 1.2% / liq $630,460 |
+| Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 3.3% / liq $5,067,189 | 1.9% / liq $4,982,206 | 2.0% / liq $4,980,516 |
+| TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 67 | 0.9% / liq $718,082 | 1.0% / liq $1,060,349 | 1.2% / liq $636,204 |

@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794813610.1898694,
-"liq": 1637437.3399999999,
+"ts": 1794813853.5200198,
+"liq": 1628363.1800000002,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794813610.1898682,
-"liq": 4338656.87,
+"ts": 1794813853.5200117,
+"liq": 4339150.88,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,8 +175,8 @@
 "verdict": "CAUTION"
 },
 "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump": {
-"ts": 1794813610.1898668,
-"liq": 176057.96,
+"ts": 1794813853.5200186,
+"liq": 175526.74,
 "holders": null,
 "risk": 44,
 "verdict": "CAUTION"
@@ -189,22 +189,22 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794813610.1898549,
-"liq": 1649513.55,
+"ts": 1794813853.520017,
+"liq": 1661380.57,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump": {
-"ts": 1794813610.1898608,
-"liq": 1043126.02,
+"ts": 1794813853.5200155,
+"liq": 1040157.12,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794813610.1898644,
-"liq": 80311.49,
+"ts": 1794813853.5200095,
+"liq": 79445.38,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -217,8 +217,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794813610.1898582,
-"liq": 100293.59,
+"ts": 1794813853.5200012,
+"liq": 100516.71,
 "holders": null,
 "risk": 60,
 "verdict": "SKIP"
@@ -231,8 +231,8 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794813610.1898627,
-"liq": 89960.91,
+"ts": 1794813853.5200064,
+"liq": 89723.49,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -259,10 +259,10 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794813610.1898506,
-"liq": 118442.74,
+"ts": 1794813853.5200136,
+"liq": 118249.32,
 "holders": null,
-"risk": 45,
+"risk": 41,
 "verdict": "CAUTION"
 }
 }
