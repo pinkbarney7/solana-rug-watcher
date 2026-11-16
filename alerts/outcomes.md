@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 04:16 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 04:29 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | - | - | - |
+| BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | - | - | - |
+| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | - | - | - |
+| Anthropig | `2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump` | SKIP | 58 | - | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 66 | 0.8% / liq $2,654,993 | 1.1% / liq $2,607,121 | - |
 | USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 75 | 12.8% / liq $972,488 | 17.2% / liq $989,407 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 50 | 26.6% / liq $1,641,805 | 10.7% / liq $1,532,976 | - |
