@@ -1,11 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-16 09:47 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-16 09:57 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 31 | Open: 0 | Not opened (failed sell gate): 0
+Closed: 31 | Open: 1 | Not opened (failed sell gate): 0
 Win rate 26% | avg return -32.9% | expectancy $-8.22 per $25 trade | total $-254.95
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
+| DUO | [`ADkd6izPxJtKueHAzKsDEnGRNEq5ERu1g3ses1wKpump`](https://pump.fun/coin/ADkd6izPxJtKueHAzKsDEnGRNEq5ERu1g3ses1wKpump) | scored_scorecard | CAUTION | 2026-11-16 09:57 EST | open | +0.0% |
 | CLAW | [`739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump`](https://pump.fun/coin/739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump) | new_launch_scored | CAUTION | 2026-11-10 08:18 EST | closed (24h time exit) | -14.8% |
 | SCF | [`GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump`](https://pump.fun/coin/GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump) | new_launch_scored | CAUTION | 2026-11-10 07:02 EST | closed (24h time exit) | -14.2% |
 | WOJAK | [`8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump`](https://pump.fun/coin/8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump) | new_launch_scored | CAUTION | 2026-11-10 05:54 EST | closed (24h time exit) | +3.6% |
