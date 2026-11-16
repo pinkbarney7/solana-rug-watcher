@@ -1,24 +1,26 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 05:23 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 05:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 4 | -1.3% | 0 |
+| CAUTION | 1h | 5 | -1.3% | 0 |
 | CAUTION | 6h | 4 | -5.0% | 0 |
 | CAUTION | 24h | 1 | 4.4% | 0 |
-| SKIP | 1h | 12 | 1.1% | 2 |
+| SKIP | 1h | 15 | 0.8% | 2 |
 | SKIP | 6h | 12 | 1.0% | 2 |
 | SKIP | 24h | 2 | -2.6% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | - | - | - |
+| gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | - | - | - |
 | rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | - | - | - |
-| UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | - | - | - |
-| BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | - | - | - |
-| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | - | - | - |
-| Anthropig | `2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump` | SKIP | 58 | - | - | - |
+| UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | 0.0% / liq $32,128,275 | - | - |
+| BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | -10.2% / liq $95,013 | - | - |
+| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | 0.1% / liq $1,564,467 | - | - |
+| Anthropig | `2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump` | SKIP | 58 | -7.9% / liq $73,144 | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 66 | 0.8% / liq $2,654,993 | 1.1% / liq $2,607,121 | - |
 | USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 75 | 12.8% / liq $972,488 | 17.2% / liq $989,407 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 50 | 26.6% / liq $1,641,805 | 10.7% / liq $1,532,976 | - |
