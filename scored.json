@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794824786.8222802,
-"liq": 1625811.72,
+"ts": 1794825021.2695773,
+"liq": 1624646.48,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794824786.8222768,
-"liq": 4335740.54,
+"ts": 1794825021.2695644,
+"liq": 4335505.29,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,8 +175,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794824786.8222733,
-"liq": 1558677.1300000001,
+"ts": 1794825021.269561,
+"liq": 1555787.05,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -189,8 +189,8 @@
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794824786.8222687,
-"liq": 67014.93,
+"ts": 1794825021.2695696,
+"liq": 65527.22,
 "holders": null,
 "risk": 58,
 "verdict": "SKIP"
@@ -203,8 +203,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794824786.8222604,
-"liq": 97344.08,
+"ts": 1794825021.2695715,
+"liq": 98205.83,
 "holders": null,
 "risk": 60,
 "verdict": "SKIP"
@@ -217,15 +217,15 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794824786.822275,
-"liq": 163195.35,
+"ts": 1794825021.269567,
+"liq": 162678.67,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
 },
 "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-"ts": 1794824786.822279,
-"liq": 249385.57,
+"ts": 1794825021.2695758,
+"liq": 266041.74,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -245,8 +245,8 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794824786.8222654,
-"liq": 110111.45,
+"ts": 1794825021.269555,
+"liq": 111249.71,
 "holders": null,
 "risk": 50,
 "verdict": "SKIP"
@@ -280,8 +280,8 @@
 "verdict": "SKIP"
 },
 "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": {
-"ts": 1794824786.8222716,
-"liq": 87421.52,
+"ts": 1794825021.269574,
+"liq": 85139.95,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
