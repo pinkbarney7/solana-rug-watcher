@@ -1,15 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 20:54 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 21:09 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 3 | 1.1% | 0 |
-| CAUTION | 6h | 3 | 0.0% | 0 |
-| CAUTION | 24h | 1 | 54.7% | 0 |
-| SKIP | 1h | 19 | -0.8% | 3 |
-| SKIP | 6h | 19 | -0.2% | 3 |
-| SKIP | 24h | 4 | -0.8% | 0 |
+| CAUTION | 1h | 2 | 1.1% | 0 |
+| CAUTION | 6h | 2 | 0.0% | 0 |
+| SKIP | 1h | 15 | -1.3% | 3 |
+| SKIP | 6h | 15 | -0.5% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -30,8 +28,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | -10.2% / liq $95,013 | -6.1% / liq $97,400 | - |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | 0.1% / liq $1,564,467 | 1.8% / liq $1,571,164 | - |
 | Anthropig | `2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump` | SKIP | 58 | -7.9% / liq $73,144 | -30.4% / liq $63,766 | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 66 | 0.8% / liq $2,654,993 | 1.1% / liq $2,607,121 | -0.8% / liq $2,730,534 |
-| USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 75 | 12.8% / liq $972,488 | 17.2% / liq $989,407 | 55.8% / liq $1,136,890 |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 50 | 26.6% / liq $1,641,805 | 10.7% / liq $1,532,976 | -5.2% / liq $1,418,478 |
-| UM | `FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump` | SKIP | 58 | -99.9% / liq $1,783 | -99.9% / liq $1,707 | -99.9% / liq $1,633 |
-| BUTTHOLE | `4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump` | CAUTION | 44 | 32.3% / liq $187,123 | 52.3% / liq $204,622 | 54.7% / liq $206,964 |
