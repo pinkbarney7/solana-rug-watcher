@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-16 04:54 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-16 05:09 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 17 | Open: 3 | Not opened (failed sell gate): 0
 Win rate 6% | avg return -39.3% | expectancy $-9.83 per $25 trade | total $-167.12
@@ -7,9 +7,9 @@ Win rate 6% | avg return -39.3% | expectancy $-9.83 per $25 trade | total $-167.
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
 | UODF | [`AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc`](https://dexscreener.com/solana/AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc) | scored_fast_scan | CAUTION | 2026-11-16 04:29 UTC | open | +0.0% |
-| BUTTHOLE | [`4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump`](https://pump.fun/coin/4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump) | scored_fast_scan | CAUTION | 2026-11-15 19:02 UTC | open | +22.8% |
+| BUTTHOLE | [`4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump`](https://pump.fun/coin/4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump) | scored_fast_scan | CAUTION | 2026-11-15 19:02 UTC | open | +19.7% |
 | GETAJOB | [`ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump`](https://pump.fun/coin/ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | closed (stop -50%) | -52.7% |
-| fone | [`CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump`](https://pump.fun/coin/CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | open | -18.0% |
+| fone | [`CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump`](https://pump.fun/coin/CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | open | -20.9% |
 | JENSEN | [`B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump`](https://pump.fun/coin/B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump) | scored_fast_scan | CAUTION | 2026-11-14 20:20 UTC | closed (stop -50%) | -84.0% |
 | SHARKBUX | [`ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v`](https://dexscreener.com/solana/ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v) | scored_fast_scan | CAUTION | 2026-11-14 09:31 UTC | closed (stop -50%) | -58.3% |
 | FOOD | [`FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump`](https://pump.fun/coin/FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump) | scored_fast_scan | CAUTION | 2026-11-14 02:46 UTC | closed (stop -50%) | -50.5% |
