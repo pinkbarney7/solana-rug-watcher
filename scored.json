@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794808433.6405442,
-"liq": 1631909.3800000001,
+"ts": 1794810859.1430237,
+"liq": 1623953.03,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794810386.8574784,
-"liq": 4389819.18,
+"ts": 1794810859.1430204,
+"liq": 4390950.07,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,8 +175,8 @@
 "verdict": "CAUTION"
 },
 "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump": {
-"ts": 1794810386.8574622,
-"liq": 175454.09,
+"ts": 1794810859.1430008,
+"liq": 179655.69999999998,
 "holders": null,
 "risk": 44,
 "verdict": "CAUTION"
@@ -189,22 +189,22 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794810386.8574717,
-"liq": 1608183.54,
+"ts": 1794810859.1430173,
+"liq": 1665037.82,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump": {
-"ts": 1794810386.857469,
-"liq": 1034334.15,
+"ts": 1794810859.1430135,
+"liq": 1034209.47,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794810386.8574767,
-"liq": 75744.1,
+"ts": 1794810859.1430223,
+"liq": 74806.86,
 "holders": null,
 "risk": 58,
 "verdict": "SKIP"
@@ -217,8 +217,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794810386.8574665,
-"liq": 97647.78,
+"ts": 1794810859.1430187,
+"liq": 97771.3,
 "holders": null,
 "risk": 60,
 "verdict": "SKIP"
@@ -231,8 +231,8 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794810386.8574753,
-"liq": 87415.0,
+"ts": 1794810859.1430073,
+"liq": 88651.69,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -245,10 +245,10 @@
 "verdict": "SKIP"
 },
 "GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm": {
-"ts": 1794810386.8574736,
-"liq": 135208.71,
+"ts": 1794810859.1430154,
+"liq": 136726.76,
 "holders": null,
-"risk": 53,
+"risk": 67,
 "verdict": "SKIP"
 },
 "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump": {
