@@ -1,15 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 14:23 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 14:33 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | 0.0% | 0 |
-| CAUTION | 6h | 5 | -5.0% | 0 |
-| CAUTION | 24h | 2 | -22.8% | 0 |
-| SKIP | 1h | 22 | -0.8% | 5 |
-| SKIP | 6h | 17 | 0.0% | 3 |
-| SKIP | 24h | 3 | -99.8% | 2 |
+| CAUTION | 1h | 3 | 1.1% | 0 |
+| CAUTION | 6h | 3 | 0.0% | 0 |
+| SKIP | 1h | 19 | -0.8% | 3 |
+| SKIP | 6h | 14 | 0.9% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -35,8 +33,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 50 | 26.6% / liq $1,641,805 | 10.7% / liq $1,532,976 | - |
 | UM | `FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump` | SKIP | 58 | -99.9% / liq $1,783 | -99.9% / liq $1,707 | - |
 | BUTTHOLE | `4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump` | CAUTION | 44 | 32.3% / liq $187,123 | 52.3% / liq $204,622 | - |
-| WANTED | `CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump` | SKIP | 58 | -99.8% / liq $2,017 | -99.8% / liq $2,017 | -99.8% / liq $2,028 |
-| fone | `CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump` | CAUTION | 38 | -5.0% / liq $197,569 | -5.0% / liq $197,569 | -22.8% / liq $177,660 |
-| DacityCoin | `9TjNE2HmETBq4fAh9GZAy6LjPPadQBXuEFasCpMmsim` | SKIP | 53 | -99.8% / liq $0 | -99.8% / liq $0 | -99.8% / liq $0 |
-| bill | `B363HkenheRKssXjM8eEW2T6wS2FwrkH4Pgn9ZNyUWW` | SKIP | 53 | 0.2% / liq $0 | 0.2% / liq $0 | 0.2% / liq $0 |
-| GETAJOB | `ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump` | CAUTION | 52 | -20.0% / liq $55,798 | -20.0% / liq $55,798 | -99.8% / liq $1,624 |
