@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:56:20",
+ "updated": "2026-11-16T08:05:39",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T07:55:19+00:00",
+   "scored_at": "2026-11-16T08:05:37+00:00",
    "path": "survivor"
   },
   {
@@ -240,7 +240,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T07:55:18+00:00",
+   "scored_at": "2026-11-16T08:05:38+00:00",
    "path": "survivor"
   },
   {
@@ -276,7 +276,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T07:55:08+00:00",
+   "scored_at": "2026-11-16T08:05:28+00:00",
    "path": "young"
   },
   {
@@ -312,7 +312,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T07:55:19+00:00",
+   "scored_at": "2026-11-16T08:05:37+00:00",
    "path": "young"
   },
   {
@@ -324,7 +324,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T07:55:18+00:00",
+   "scored_at": "2026-11-16T08:05:38+00:00",
    "path": "young"
   },
   {
@@ -385,8 +385,21 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T07:37:50+00:00",
+   "scored_at": "2026-11-16T08:05:38+00:00",
    "path": "young"
+  },
+  {
+   "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+   "ticker": "ZEC",
+   "risk": 72,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "authorities",
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-16T08:05:36+00:00",
+   "path": "survivor"
   }
  ]
 }
