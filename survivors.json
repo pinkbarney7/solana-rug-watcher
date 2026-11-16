@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:40:04",
+ "updated": "2026-11-16T16:58:42",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -62,30 +62,6 @@
    ],
    "scored_at": "2026-11-15T07:19:49+00:00",
    "path": "young"
-  },
-  {
-   "mint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
-   "ticker": "jellyjelly",
-   "risk": 51,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T04:58:07+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
-   "ticker": "FLOAT",
-   "risk": 38,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T04:58:07+00:00",
-   "path": "survivor"
   },
   {
    "mint": "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
