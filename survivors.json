@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:40:15",
+ "updated": "2026-11-16T10:52:31",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:40:15+00:00",
+   "scored_at": "2026-11-16T10:52:31+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:12+00:00",
+   "scored_at": "2026-11-16T10:51:28+00:00",
    "path": "survivor"
   },
   {
@@ -204,7 +204,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:13+00:00",
+   "scored_at": "2026-11-16T10:51:29+00:00",
    "path": "survivor"
   },
   {
@@ -270,49 +270,50 @@
   {
    "mint": "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump",
    "ticker": "Anthropig",
-   "risk": 58,
+   "risk": 57,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:12+00:00",
+   "scored_at": "2026-11-16T10:51:28+00:00",
    "path": "young"
   },
   {
    "mint": "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump",
    "ticker": "BJB",
-   "risk": 60,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:13+00:00",
+   "scored_at": "2026-11-16T10:51:20+00:00",
    "path": "young"
   },
   {
    "mint": "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump",
    "ticker": "rockstar",
-   "risk": 55,
+   "risk": 52,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:03+00:00",
+   "scored_at": "2026-11-16T10:51:30+00:00",
    "path": "young"
   },
   {
    "mint": "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK",
    "ticker": "gtacoin",
-   "risk": 47,
+   "risk": 52,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-16T10:39:14+00:00",
+   "scored_at": "2026-11-16T10:51:29+00:00",
    "path": "young"
   },
   {
@@ -349,7 +350,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:14+00:00",
+   "scored_at": "2026-11-16T10:51:30+00:00",
    "path": "young"
   },
   {
@@ -405,13 +406,13 @@
   {
    "mint": "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump",
    "ticker": "Marvin",
-   "risk": 56,
+   "risk": 55,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T10:39:11+00:00",
+   "scored_at": "2026-11-16T10:51:30+00:00",
    "path": "young"
   },
   {
