@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:16:04",
+ "updated": "2026-11-16T19:23:43",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -27,18 +27,6 @@
    "path": "survivor"
   },
   {
-   "mint": "9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump",
-   "ticker": "XTO",
-   "risk": 60,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T07:19:47+00:00",
-   "path": "young"
-  },
-  {
    "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
    "ticker": "TTWO",
    "risk": 67,
@@ -50,18 +38,6 @@
    ],
    "scored_at": "2026-11-15T19:02:33+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "39rS82a9nNnBuDdoJHGFti2CHQaZvLtauQzzUkERpump",
-   "ticker": "UODF",
-   "risk": 67,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T07:19:49+00:00",
-   "path": "young"
   },
   {
    "mint": "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
