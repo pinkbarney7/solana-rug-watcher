@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794826351.4949102,
-"liq": 1635964.9000000001,
+"ts": 1794826585.0230408,
+"liq": 1638608.4200000002,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794826351.4948983,
-"liq": 4345298.38,
+"ts": 1794826585.0230396,
+"liq": 4345718.48,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,8 +175,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794826351.4949002,
-"liq": 1597767.5599999998,
+"ts": 1794826585.023036,
+"liq": 1580216.71,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -189,8 +189,8 @@
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794826351.4948955,
-"liq": 63874.72,
+"ts": 1794826585.023034,
+"liq": 62320.84,
 "holders": null,
 "risk": 57,
 "verdict": "SKIP"
@@ -203,8 +203,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794826351.49489,
-"liq": 96013.65000000001,
+"ts": 1794826585.023038,
+"liq": 94815.03,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -217,15 +217,15 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794826351.4949067,
-"liq": 167042.06,
+"ts": 1794826585.023032,
+"liq": 165828.89,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
 },
 "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-"ts": 1794826351.4949026,
-"liq": 244409.74,
+"ts": 1794826585.023029,
+"liq": 242868.84999999998,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -245,8 +245,8 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794826351.4949088,
-"liq": 117055.06,
+"ts": 1794826585.023026,
+"liq": 119073.76000000001,
 "holders": null,
 "risk": 50,
 "verdict": "SKIP"
@@ -280,8 +280,8 @@
 "verdict": "SKIP"
 },
 "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": {
-"ts": 1794826351.4949043,
-"liq": 80979.4,
+"ts": 1794826585.0230203,
+"liq": 76836.01,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
