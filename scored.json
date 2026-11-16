@@ -7,15 +7,15 @@
 "verdict": "SKIP"
 },
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1794827362.3117208,
-"liq": 1641181.3,
+"ts": 1794827675.5912077,
+"liq": 1644758.06,
 "holders": null,
 "risk": 45,
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794827362.3117151,
-"liq": 4352636.109999999,
+"ts": 1794827675.5912066,
+"liq": 4353059.98,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -175,8 +175,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794827362.3117194,
-"liq": 1564462.26,
+"ts": 1794827675.5911984,
+"liq": 1571383.99,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -189,8 +189,8 @@
 "verdict": "SKIP"
 },
 "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
-"ts": 1794827362.3117054,
-"liq": 62186.78,
+"ts": 1794827675.5912051,
+"liq": 63674.65,
 "holders": null,
 "risk": 57,
 "verdict": "SKIP"
@@ -203,8 +203,8 @@
 "verdict": "SKIP"
 },
 "CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump": {
-"ts": 1794827362.3117135,
-"liq": 95901.2,
+"ts": 1794827675.5912004,
+"liq": 96742.95,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -217,15 +217,15 @@
 "verdict": "CAUTION"
 },
 "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-"ts": 1794827362.311709,
-"liq": 162915.9,
+"ts": 1794827675.5911956,
+"liq": 156604.49,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
 },
 "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-"ts": 1794827362.311717,
-"liq": 242961.27,
+"ts": 1794827675.5912023,
+"liq": 242357.28999999998,
 "holders": null,
 "risk": 47,
 "verdict": "SKIP"
@@ -245,8 +245,8 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794827362.3117118,
-"liq": 108281.85,
+"ts": 1794827675.5911908,
+"liq": 107816.45,
 "holders": null,
 "risk": 50,
 "verdict": "SKIP"
@@ -280,10 +280,10 @@
 "verdict": "SKIP"
 },
 "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump": {
-"ts": 1794827362.3116994,
-"liq": 73717.88,
+"ts": 1794827675.5912037,
+"liq": 73332.36,
 "holders": null,
-"risk": 55,
+"risk": 56,
 "verdict": "SKIP"
 },
 "8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW": {
