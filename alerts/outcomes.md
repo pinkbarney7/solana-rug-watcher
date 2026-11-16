@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 10:07 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 10:15 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | - | - | - |
 | Marvin | `HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump` | SKIP | 55 | - | - | - |
 | FiveM | `2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump` | SKIP | 57 | - | - | - |
 | Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | - | - | - |
