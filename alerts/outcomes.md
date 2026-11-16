@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-16 02:00 UTC
+# Outcomes (DEX Screener, free) - 2026-11-16 02:17 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | -1.3% | 0 |
 | CAUTION | 6h | 4 | -5.0% | 0 |
-| SKIP | 1h | 15 | 1.1% | 3 |
-| SKIP | 6h | 15 | 1.0% | 3 |
-| SKIP | 24h | 3 | 15.1% | 1 |
+| SKIP | 1h | 12 | 1.1% | 2 |
+| SKIP | 6h | 12 | 1.0% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -28,6 +27,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | jellyjelly | `FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump` | SKIP | 51 | 1.1% / liq $3,531,141 | 6.4% / liq $3,681,582 | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -1.3% / liq $291,272 | -5.8% / liq $289,853 | - |
 | bill | `85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump` | SKIP | 55 | 18.6% / liq $92,206 | -1.4% / liq $84,638 | - |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | 10.9% / liq $1,276,003 | 9.9% / liq $1,264,291 | 15.1% / liq $1,313,978 |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.3% / liq $1,846,604 | -0.5% / liq $1,829,784 | 6.6% / liq $1,922,733 |
-| bill | `KUtvFkr8Ao6A3YT8V2oZAxs3WtvrmtqU9JAwuEtLb4r` | SKIP | 53 | 10.0% / liq $0 | 10.0% / liq $0 | 91902.5% / liq $0 |
