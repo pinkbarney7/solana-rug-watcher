@@ -22,3 +22,4 @@
 {"mint": "6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY", "ticker": "DADOG", "t0": 1794817060.0, "verdict": "SKIP", "risk": 73, "p0": 0.0008424, "liq0": 834216.72, "mcap0": 842304.0, "1h": {"price": 0.0008424, "liq": 834216.72, "chg_pct": 0.0, "liq_chg_pct": 0.0, "late_min": 13}}
 {"mint": "CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM", "ticker": "Marvin", "t0": 1794821359.0, "verdict": "SKIP", "risk": 53, "p0": 9.65e-07, "liq0": 151186.12, "mcap0": 96506.0}
 {"mint": "2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump", "ticker": "FiveM", "t0": 1794821369.0, "verdict": "SKIP", "risk": 57, "p0": 0.0006462, "liq0": 57835.909999999996, "mcap0": 633161.0}
+{"mint": "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump", "ticker": "Marvin", "t0": 1794823007.0, "verdict": "SKIP", "risk": 55, "p0": 0.0003371, "liq0": 87633.72, "mcap0": 327999.0}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:44:30",
+ "updated": "2026-11-16T09:57:48",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:44:30+00:00",
+   "scored_at": "2026-11-16T09:57:48+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:25+00:00",
+   "scored_at": "2026-11-16T09:56:44+00:00",
    "path": "survivor"
   },
   {
@@ -204,7 +204,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:25+00:00",
+   "scored_at": "2026-11-16T09:56:46+00:00",
    "path": "survivor"
   },
   {
@@ -276,7 +276,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:27+00:00",
+   "scored_at": "2026-11-16T09:56:47+00:00",
    "path": "young"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:24+00:00",
+   "scored_at": "2026-11-16T09:56:46+00:00",
    "path": "young"
   },
   {
@@ -312,7 +312,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:27+00:00",
+   "scored_at": "2026-11-16T09:56:45+00:00",
    "path": "young"
   },
   {
@@ -343,13 +343,13 @@
   {
    "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
    "ticker": "HOGE",
-   "risk": 44,
-   "verdict": "CAUTION",
+   "risk": 50,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:16+00:00",
+   "scored_at": "2026-11-16T09:56:45+00:00",
    "path": "young"
   },
   {
@@ -393,13 +393,25 @@
   {
    "mint": "2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump",
    "ticker": "FiveM",
-   "risk": 57,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T09:43:26+00:00",
+   "scored_at": "2026-11-16T09:56:36+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump",
+   "ticker": "Marvin",
+   "risk": 55,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-16T09:56:47+00:00",
    "path": "young"
   }
  ]
