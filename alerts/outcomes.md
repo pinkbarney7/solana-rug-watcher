@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 11:18 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 11:29 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,13 +6,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 2.1% | 0 |
 | CAUTION | 6h | 2 | 18.6% | 0 |
-| SKIP | 1h | 23 | 0.2% | 10 |
-| SKIP | 6h | 15 | -0.5% | 5 |
-| SKIP | 24h | 3 | -67.7% | 0 |
+| SKIP | 1h | 22 | 0.5% | 9 |
+| SKIP | 6h | 13 | -0.2% | 4 |
+| SKIP | 24h | 2 | 0.0% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | - | - | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | 0.7% / liq $3,795,816 | - | - |
 | WANTED | `9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump` | SKIP | 60 | 38.6% / liq $62,579 | - | - |
 | SACK | `N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf` | SKIP | 56 | 31.6% / liq $0 | - | - |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | CAUTION | 41 | 6.9% / liq $90,498 | - | - |
@@ -37,5 +37,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | 1.0 | `9scZoXUom7Zftw8m1sNF9cnHFqNGkJKmnnNRR7aSU2d` | SKIP | 53 | -0.2% / liq $0 | -0.2% / liq $0 | - |
 | ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | 0.0% / liq $2,319,356 | 0.0% / liq $2,319,314 | 0.0% / liq $2,319,323 |
 | Marvin | `HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump` | SKIP | 55 | -11.2% / liq $51,627 | -12.1% / liq $51,531 | -67.7% / liq $31,107 |
-| FiveM | `2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump` | SKIP | 57 | -99.8% / liq $1,551 | -99.8% / liq $1,521 | -99.8% / liq $1,558 |
-| Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | -0.5% / liq $0 | -0.5% / liq $0 | - |
