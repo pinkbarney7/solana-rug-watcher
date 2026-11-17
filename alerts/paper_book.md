@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-17 00:22 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-17 00:32 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 20 | Open: 2 | Not opened (failed sell gate): 0
 Win rate 15% | avg return -26.3% | expectancy $-6.58 per $25 trade | total $-131.51
@@ -7,7 +7,7 @@ Win rate 15% | avg return -26.3% | expectancy $-6.58 per $25 trade | total $-131
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
 | HOGE | [`FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump`](https://pump.fun/coin/FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump) | scored_fast_scan | CAUTION | 2026-11-16 07:11 UTC | closed (take profit +100%) | +108.0% |
-| PAID | [`98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump`](https://pump.fun/coin/98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump) | scored_fast_scan | CAUTION | 2026-11-16 06:06 UTC | open | +22.1% |
+| PAID | [`98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump`](https://pump.fun/coin/98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump) | scored_fast_scan | CAUTION | 2026-11-16 06:06 UTC | open | +31.6% |
 | UODF | [`AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc`](https://dexscreener.com/solana/AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc) | scored_fast_scan | CAUTION | 2026-11-16 04:29 UTC | open | +0.0% |
 | BUTTHOLE | [`4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump`](https://pump.fun/coin/4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump) | scored_fast_scan | CAUTION | 2026-11-15 19:02 UTC | closed (24h time exit) | +56.8% |
 | GETAJOB | [`ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump`](https://pump.fun/coin/ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | closed (stop -50%) | -52.7% |
