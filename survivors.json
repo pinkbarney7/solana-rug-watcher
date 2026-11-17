@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:08:44",
+ "updated": "2026-11-17T05:18:54",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:08:44+00:00",
+   "scored_at": "2026-11-17T05:18:54+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:40+00:00",
+   "scored_at": "2026-11-17T05:17:50+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:41+00:00",
+   "scored_at": "2026-11-17T05:17:51+00:00",
    "path": "survivor"
   },
   {
@@ -217,7 +217,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:30+00:00",
+   "scored_at": "2026-11-17T05:17:41+00:00",
    "path": "young"
   },
   {
@@ -352,31 +352,31 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:41+00:00",
+   "scored_at": "2026-11-17T05:17:50+00:00",
    "path": "young"
   },
   {
    "mint": "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump",
    "ticker": "GTA",
-   "risk": 59,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:39+00:00",
+   "scored_at": "2026-11-17T05:17:51+00:00",
    "path": "young"
   },
   {
    "mint": "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump",
    "ticker": "BAWSAQ",
-   "risk": 45,
-   "verdict": "CAUTION",
+   "risk": 55,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:41+00:00",
+   "scored_at": "2026-11-17T05:17:51+00:00",
    "path": "young"
   },
   {
@@ -400,7 +400,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T05:07:39+00:00",
+   "scored_at": "2026-11-17T05:17:50+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump",
+   "ticker": "LEOSTAR",
+   "risk": 58,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-17T05:17:49+00:00",
    "path": "young"
   }
  ]

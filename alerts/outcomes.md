@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 05:08 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 05:18 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,10 +9,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 24h | 1 | 0.0% | 0 |
 | SKIP | 1h | 21 | -0.7% | 5 |
 | SKIP | 6h | 15 | -0.5% | 3 |
-| SKIP | 24h | 3 | -99.8% | 0 |
+| SKIP | 24h | 5 | -20.7% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| LEOSTAR | `2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump` | SKIP | 58 | - | - | - |
 | CHAR | `NpAYjNvLsMiaYCcguXMUCAosoeofLMBDgqdhwCCqtU3` | SKIP | 53 | - | - | - |
 | bul | `Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv` | CAUTION | 41 | - | - | - |
 | GTA | `2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump` | SKIP | 58 | - | - | - |
@@ -35,8 +36,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | 1.1% / liq $214,942 | -7.4% / liq $205,187 | - |
 | Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | -0.8% / liq $0 | -0.8% / liq $0 | - |
 | gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | 37.9% / liq $54,960 | - |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | -1.6% / liq $1,240,876 | 0.9% / liq $1,262,775 | - |
-| rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | -9.0% / liq $66,674 | 73.1% / liq $94,281 | - |
+| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | -1.6% / liq $1,240,876 | 0.9% / liq $1,262,775 | 2.7% / liq $1,283,776 |
+| rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | -9.0% / liq $66,674 | 73.1% / liq $94,281 | -20.7% / liq $62,653 |
 | UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | 0.0% / liq $32,128,275 | 0.0% / liq $32,128,280 | 0.0% / liq $32,128,296 |
 | BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | -10.2% / liq $95,013 | -6.1% / liq $97,400 | -99.9% / liq $1,856 |
 | BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | 0.1% / liq $1,564,467 | 1.8% / liq $1,571,164 | -1.9% / liq $1,556,911 |
