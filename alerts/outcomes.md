@@ -1,19 +1,19 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 08:34 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 08:50 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 2 | 2.1% | 0 |
-| SKIP | 1h | 21 | 0.0% | 7 |
-| SKIP | 6h | 14 | -0.7% | 4 |
-| SKIP | 24h | 2 | 56.3% | 0 |
+| SKIP | 1h | 22 | 0.0% | 8 |
+| SKIP | 6h | 13 | -0.7% | 4 |
+| SKIP | 24h | 1 | 3.7% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | BAWSAQ | `AHYB7o6eQV9GAERKJzAyeiZj5KHGBhfEiLyq2ftjwvM` | SKIP | 53 | - | - | - |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | - | - | - |
-| GTA6 | `P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9` | SKIP | 53 | - | - | - |
+| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -0.1% / liq $1,317,954 | - | - |
+| GTA6 | `P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9` | SKIP | 53 | 1.1% / liq $0 | - | - |
 | Bones | `1Q5LFbfP8SLDQrEKq7arfa4tPN1Yh3zatKDGxZXWNfp` | SKIP | 56 | 6.8% / liq $0 | - | - |
 | CLAUDIA | `14EC45Btj3he8rW15KBp2iacN1yL9J833o9Kt9dGsVg2` | SKIP | 53 | 3.4% / liq $0 | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -1.2% / liq $1,928,007 | - | - |
@@ -36,4 +36,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | -0.5% / liq $0 | -0.5% / liq $0 | - |
 | DADOG | `6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY` | SKIP | 73 | 0.0% / liq $834,217 | 0.0% / liq $834,217 | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | -3.7% / liq $3,500,396 | 3.7% / liq $3,782,206 |
-| HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | SKIP | 50 | -11.9% / liq $68,675 | -12.6% / liq $68,870 | 56.3% / liq $95,920 |
