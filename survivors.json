@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:13:09",
+ "updated": "2026-11-17T08:27:17",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:13:09+00:00",
+   "scored_at": "2026-11-17T08:27:17+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:12:06+00:00",
+   "scored_at": "2026-11-17T08:26:16+00:00",
    "path": "survivor"
   },
   {
@@ -47,7 +47,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:12:05+00:00",
+   "scored_at": "2026-11-17T08:26:15+00:00",
    "path": "survivor"
   },
   {
@@ -180,7 +180,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:12:03+00:00",
+   "scored_at": "2026-11-17T08:26:16+00:00",
    "path": "young"
   },
   {
@@ -315,19 +315,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:11:55+00:00",
+   "scored_at": "2026-11-17T08:26:13+00:00",
    "path": "young"
   },
   {
    "mint": "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump",
    "ticker": "GTA",
-   "risk": 58,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:12:06+00:00",
+   "scored_at": "2026-11-17T08:26:15+00:00",
    "path": "young"
   },
   {
@@ -339,7 +339,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:12:04+00:00",
+   "scored_at": "2026-11-17T08:26:14+00:00",
    "path": "young"
   },
   {
@@ -375,7 +375,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T08:12:06+00:00",
+   "scored_at": "2026-11-17T08:26:14+00:00",
    "path": "young"
   },
   {
@@ -424,6 +424,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-17T07:39:23+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "AHYB7o6eQV9GAERKJzAyeiZj5KHGBhfEiLyq2ftjwvM",
+   "ticker": "BAWSAQ",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-17T08:26:05+00:00",
    "path": "young"
   }
  ]
