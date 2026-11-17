@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 12:30 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 12:39 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Millionaires | `12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb` | SKIP | 53 | - | - | - |
 | KATIA | `6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj` | SKIP | 53 | - | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | 0.7% / liq $3,795,816 | - | - |
 | WANTED | `9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump` | SKIP | 60 | 38.6% / liq $62,579 | - | - |

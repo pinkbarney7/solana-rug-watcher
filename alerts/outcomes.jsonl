@@ -22,3 +22,4 @@
 {"mint": "9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump", "ticker": "WANTED", "t0": 1794907417.0, "verdict": "SKIP", "risk": 60, "p0": 0.0004656, "liq0": 53840.07, "mcap0": 463892.0, "1h": {"price": 0.0006452, "liq": 62579.41, "chg_pct": 38.6, "liq_chg_pct": 16.2, "late_min": 2}}
 {"mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS", "ticker": "ZEC", "t0": 1794910707.0, "verdict": "SKIP", "risk": 72, "p0": 929.17, "liq0": 9185007.05, "mcap0": 22947.0, "1h": {"price": 935.92, "liq": 3795816.48, "chg_pct": 0.7, "liq_chg_pct": -58.7, "late_min": 12}}
 {"mint": "6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj", "ticker": "KATIA", "t0": 1794916167.0, "verdict": "SKIP", "risk": 53, "p0": 8.741e-07, "liq0": 133079.26, "mcap0": 87410.0}
+{"mint": "12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb", "ticker": "Millionaires", "t0": 1794919132.0, "verdict": "SKIP", "risk": 53, "p0": 7.43e-07, "liq0": 115448.43, "mcap0": 74309.0}
