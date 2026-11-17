@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 11:46 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 11:50 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -22,7 +22,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | GTA6 | `P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9` | SKIP | 53 | 1.1% / liq $0 | - | - |
 | Bones | `1Q5LFbfP8SLDQrEKq7arfa4tPN1Yh3zatKDGxZXWNfp` | SKIP | 56 | 6.8% / liq $0 | - | - |
 | CLAUDIA | `14EC45Btj3he8rW15KBp2iacN1yL9J833o9Kt9dGsVg2` | SKIP | 53 | 3.4% / liq $0 | - | - |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -1.2% / liq $1,928,007 | 0.7% / liq $1,963,521 | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -1.2% / liq $1,928,007 | 0.4% / liq $1,959,486 | - |
 | LEOSTAR | `2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump` | SKIP | 58 | 19.1% / liq $71,749 | 67.3% / liq $85,670 | - |
 | CHAR | `NpAYjNvLsMiaYCcguXMUCAosoeofLMBDgqdhwCCqtU3` | SKIP | 53 | -3.7% / liq $0 | -3.7% / liq $0 | - |
 | bul | `Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv` | CAUTION | 41 | -30.5% / liq $87,159 | -59.9% / liq $62,170 | - |
