@@ -25,3 +25,4 @@
 {"mint": "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump", "ticker": "BAWSAQ", "t0": 1794890654.0, "verdict": "SKIP", "risk": 58, "p0": 0.001046, "liq0": 76593.41, "mcap0": 1041738.0}
 {"mint": "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump", "ticker": "BAWSAQ", "t0": 1794890654.0, "verdict": "CAUTION", "risk": 45, "p0": 0.0004562, "liq0": 119123.38, "mcap0": 441128.0}
 {"mint": "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv", "ticker": "bul", "t0": 1794890655.0, "verdict": "CAUTION", "risk": 41, "p0": 0.0003146, "liq0": 106956.83, "mcap0": 314655.0}
+{"mint": "NpAYjNvLsMiaYCcguXMUCAosoeofLMBDgqdhwCCqtU3", "ticker": "CHAR", "t0": 1794892059.0, "verdict": "SKIP", "risk": 53, "p0": 8.793e-07, "liq0": 131481.34, "mcap0": 87932.0}
