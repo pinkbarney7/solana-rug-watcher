@@ -1,13 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 05:42 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 05:46 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 2 | 1.1% | 0 |
+| CAUTION | 1h | 4 | 1.1% | 0 |
 | CAUTION | 6h | 2 | 0.0% | 0 |
 | CAUTION | 24h | 1 | 0.0% | 0 |
-| SKIP | 1h | 21 | -0.7% | 5 |
+| SKIP | 1h | 23 | -0.5% | 5 |
 | SKIP | 6h | 15 | -0.5% | 3 |
 | SKIP | 24h | 7 | -1.9% | 1 |
 
@@ -16,10 +16,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | - | - | - |
 | LEOSTAR | `2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump` | SKIP | 58 | - | - | - |
 | CHAR | `NpAYjNvLsMiaYCcguXMUCAosoeofLMBDgqdhwCCqtU3` | SKIP | 53 | - | - | - |
-| bul | `Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv` | CAUTION | 41 | - | - | - |
-| GTA | `2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump` | SKIP | 58 | - | - | - |
-| BAWSAQ | `D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump` | SKIP | 58 | - | - | - |
-| BAWSAQ | `4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump` | CAUTION | 45 | - | - | - |
+| bul | `Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv` | CAUTION | 41 | -30.5% / liq $87,159 | - | - |
+| GTA | `2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump` | SKIP | 58 | 19.2% / liq $78,674 | - | - |
+| BAWSAQ | `D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump` | SKIP | 58 | 0.5% / liq $76,992 | - | - |
+| BAWSAQ | `4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump` | CAUTION | 45 | 2.1% / liq $57,232 | - | - |
 | USOE | `9ywBZUXaPhjtxwVbjdq9SJJoXuTTRx5BmqK5wnb8pump` | SKIP | 67 | 1.9% / liq $454,740 | - | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -6.6% / liq $1,326,097 | - | - |
 | BAWSAQ | `55jDZh5aM1H3rYxc4Z8mndGUXNj35jvBan6SkDoqNoS` | SKIP | 53 | 0.3% / liq $0 | - | - |
