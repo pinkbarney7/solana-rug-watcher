@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:25:03",
+ "updated": "2026-11-17T04:41:24",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T01:06:03+00:00",
+   "scored_at": "2026-11-17T04:41:22+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T01:06:13+00:00",
+   "scored_at": "2026-11-17T04:41:22+00:00",
    "path": "survivor"
   },
   {
@@ -211,13 +211,13 @@
   {
    "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
    "ticker": "HOGE",
-   "risk": 50,
-   "verdict": "SKIP",
+   "risk": 41,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T13:18:00+00:00",
+   "scored_at": "2026-11-17T04:41:21+00:00",
    "path": "young"
   },
   {
@@ -230,7 +230,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-16T13:18:10+00:00",
+   "scored_at": "2026-11-17T04:41:22+00:00",
    "path": "survivor"
   },
   {
@@ -341,6 +341,54 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-17T01:06:13+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv",
+   "ticker": "bul",
+   "risk": 41,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-17T04:41:20+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump",
+   "ticker": "GTA",
+   "risk": 58,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-17T04:41:11+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump",
+   "ticker": "BAWSAQ",
+   "risk": 45,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-17T04:41:20+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump",
+   "ticker": "BAWSAQ",
+   "risk": 58,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-17T04:41:21+00:00",
    "path": "young"
   }
  ]
