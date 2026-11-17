@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 08:50 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 09:01 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | CAUTION | 41 | - | - | - |
+| SACK | `N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf` | SKIP | 56 | - | - | - |
 | BAWSAQ | `AHYB7o6eQV9GAERKJzAyeiZj5KHGBhfEiLyq2ftjwvM` | SKIP | 53 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -0.1% / liq $1,317,954 | - | - |
 | GTA6 | `P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9` | SKIP | 53 | 1.1% / liq $0 | - | - |
