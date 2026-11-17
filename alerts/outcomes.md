@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 12:03 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 12:16 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 2.1% | 0 |
 | CAUTION | 6h | 2 | 18.6% | 0 |
-| SKIP | 1h | 21 | 0.5% | 9 |
-| SKIP | 6h | 13 | 0.0% | 4 |
-| SKIP | 24h | 1 | 0.0% | 0 |
+| SKIP | 1h | 20 | 0.7% | 9 |
+| SKIP | 6h | 12 | 0.1% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -36,4 +35,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 67 | 2.2% / liq $1,209,682 | -100.0% / liq $1,632 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.2% / liq $2,864,780 | 0.1% / liq $2,826,691 | - |
 | 1.0 | `9scZoXUom7Zftw8m1sNF9cnHFqNGkJKmnnNRR7aSU2d` | SKIP | 53 | -0.2% / liq $0 | -0.2% / liq $0 | - |
-| ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | 0.0% / liq $2,319,356 | 0.0% / liq $2,319,314 | 0.0% / liq $2,319,323 |
