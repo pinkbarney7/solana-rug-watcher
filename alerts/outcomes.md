@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 07:30 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 07:40 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,12 +7,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 3 | 1.1% | 0 |
 | CAUTION | 6h | 1 | -7.4% | 0 |
 | CAUTION | 24h | 1 | 10.3% | 0 |
-| SKIP | 1h | 22 | 0.0% | 7 |
-| SKIP | 6h | 16 | -0.7% | 5 |
-| SKIP | 24h | 3 | 56.3% | 1 |
+| SKIP | 1h | 20 | 0.0% | 6 |
+| SKIP | 6h | 14 | -0.7% | 4 |
+| SKIP | 24h | 1 | 56.3% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| GTA6 | `P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9` | SKIP | 53 | - | - | - |
 | Bones | `1Q5LFbfP8SLDQrEKq7arfa4tPN1Yh3zatKDGxZXWNfp` | SKIP | 56 | - | - | - |
 | CLAUDIA | `14EC45Btj3he8rW15KBp2iacN1yL9J833o9Kt9dGsVg2` | SKIP | 53 | 3.4% / liq $0 | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -1.2% / liq $1,928,007 | - | - |
@@ -37,5 +38,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | -3.7% / liq $3,500,396 | - |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | SKIP | 50 | -11.9% / liq $68,675 | -12.6% / liq $68,870 | 56.3% / liq $95,920 |
 | PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | 1.1% / liq $214,942 | -7.4% / liq $205,187 | 10.3% / liq $227,437 |
-| Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | -0.8% / liq $0 | -0.8% / liq $0 | -0.8% / liq $0 |
-| gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | 37.9% / liq $54,960 | 80.0% / liq $187,482 |
