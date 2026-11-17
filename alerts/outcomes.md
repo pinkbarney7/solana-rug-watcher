@@ -1,23 +1,24 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 14:00 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 20:05 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 2.1% | 0 |
-| CAUTION | 6h | 2 | 18.6% | 0 |
-| SKIP | 1h | 22 | 0.7% | 11 |
-| SKIP | 6h | 16 | 0.4% | 7 |
+| CAUTION | 6h | 3 | 1.7% | 0 |
+| SKIP | 1h | 21 | 0.7% | 10 |
+| SKIP | 6h | 21 | 0.3% | 10 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| Millionaires | `12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb` | SKIP | 53 | 2.0% / liq $0 | - | - |
-| KATIA | `6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj` | SKIP | 53 | -1.7% / liq $0 | - | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | 0.7% / liq $3,795,816 | - | - |
-| WANTED | `9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump` | SKIP | 60 | 38.6% / liq $62,579 | - | - |
-| SACK | `N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf` | SKIP | 56 | 31.6% / liq $0 | - | - |
-| HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | CAUTION | 41 | 6.9% / liq $90,498 | - | - |
-| BAWSAQ | `AHYB7o6eQV9GAERKJzAyeiZj5KHGBhfEiLyq2ftjwvM` | SKIP | 53 | -99.7% / liq $0 | - | - |
+| ANT | `ELR9i6Z7uhtZMWqkySYNnDhviSuSMA7nnyZ1BocKkEK` | SKIP | 59 | - | - | - |
+| Millionaires | `12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb` | SKIP | 53 | 2.0% / liq $0 | 113.3% / liq $0 | - |
+| KATIA | `6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj` | SKIP | 53 | -1.7% / liq $0 | -1.7% / liq $0 | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | 0.7% / liq $3,795,816 | -1.2% / liq $3,746,026 | - |
+| WANTED | `9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump` | SKIP | 60 | 38.6% / liq $62,579 | -82.1% / liq $22,578 | - |
+| SACK | `N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf` | SKIP | 56 | 31.6% / liq $0 | 31.6% / liq $0 | - |
+| HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | CAUTION | 41 | 6.9% / liq $90,498 | 1.7% / liq $89,170 | - |
+| BAWSAQ | `AHYB7o6eQV9GAERKJzAyeiZj5KHGBhfEiLyq2ftjwvM` | SKIP | 53 | -99.7% / liq $0 | -99.7% / liq $0 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -0.1% / liq $1,317,954 | 6.2% / liq $1,367,848 | - |
 | GTA6 | `P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9` | SKIP | 53 | 1.1% / liq $0 | 1.1% / liq $0 | - |
 | Bones | `1Q5LFbfP8SLDQrEKq7arfa4tPN1Yh3zatKDGxZXWNfp` | SKIP | 56 | 6.8% / liq $0 | 6.8% / liq $0 | - |
@@ -35,4 +36,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | GTA6 | `JqWFgttDRXeP49F6iYc4eVK88D1PonNEmKcQwkLwENN` | SKIP | 53 | -0.7% / liq $0 | -0.7% / liq $0 | - |
 | USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 67 | 2.2% / liq $1,209,682 | -100.0% / liq $1,632 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.2% / liq $2,864,780 | 0.1% / liq $2,826,691 | - |
-| 1.0 | `9scZoXUom7Zftw8m1sNF9cnHFqNGkJKmnnNRR7aSU2d` | SKIP | 53 | -0.2% / liq $0 | -0.2% / liq $0 | - |
