@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794907034.2363026,
-"liq": 4660539.19,
+"ts": 1794907479.2741792,
+"liq": 4652598.51,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -84,8 +84,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794907034.2363088,
-"liq": 1364991.04,
+"ts": 1794907479.2741838,
+"liq": 1372235.0,
 "holders": null,
 "risk": 48,
 "verdict": "SKIP"
@@ -154,15 +154,15 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794907034.2363045,
-"liq": 100223.56,
+"ts": 1794907479.2741814,
+"liq": 99203.63,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1794907034.2362955,
-"liq": 9052509.73,
+"ts": 1794907479.2741718,
+"liq": 9018346.709999999,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -231,8 +231,8 @@
 "verdict": "SKIP"
 },
 "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": {
-"ts": 1794907034.2362921,
-"liq": 81267.98,
+"ts": 1794907479.2741597,
+"liq": 82169.11,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -245,15 +245,15 @@
 "verdict": "SKIP"
 },
 "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": {
-"ts": 1794907034.2362983,
-"liq": 111817.6,
+"ts": 1794907479.2741745,
+"liq": 114195.88,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
 },
 "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": {
-"ts": 1794907034.2363064,
-"liq": 67100.52,
+"ts": 1794907479.2741694,
+"liq": 66236.92,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -266,8 +266,8 @@
 "verdict": "SKIP"
 },
 "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump": {
-"ts": 1794907034.2363007,
-"liq": 73258.52,
+"ts": 1794907479.2741659,
+"liq": 74611.35,
 "holders": null,
 "risk": 58,
 "verdict": "SKIP"
@@ -312,6 +312,13 @@
 "liq": 160859.34,
 "holders": null,
 "risk": 56,
+"verdict": "SKIP"
+},
+"9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump": {
+"ts": 1794907479.2741768,
+"liq": 53840.07,
+"holders": null,
+"risk": 60,
 "verdict": "SKIP"
 }
 }
