@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:50:29",
+ "updated": "2026-11-17T11:58:15",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:50:29+00:00",
+   "scored_at": "2026-11-17T11:58:15+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:27+00:00",
+   "scored_at": "2026-11-17T11:57:11+00:00",
    "path": "survivor"
   },
   {
@@ -47,7 +47,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:27+00:00",
+   "scored_at": "2026-11-17T11:57:13+00:00",
    "path": "survivor"
   },
   {
@@ -180,7 +180,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:25+00:00",
+   "scored_at": "2026-11-17T11:57:13+00:00",
    "path": "young"
   },
   {
@@ -315,7 +315,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:45:27+00:00",
+   "scored_at": "2026-11-17T11:57:14+00:00",
    "path": "young"
   },
   {
@@ -327,7 +327,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:17+00:00",
+   "scored_at": "2026-11-17T11:57:03+00:00",
    "path": "young"
   },
   {
@@ -339,7 +339,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:27+00:00",
+   "scored_at": "2026-11-17T11:57:12+00:00",
    "path": "young"
   },
   {
@@ -375,7 +375,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:26+00:00",
+   "scored_at": "2026-11-17T11:57:14+00:00",
    "path": "young"
   },
   {
@@ -471,19 +471,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T11:49:27+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj",
-   "ticker": "KATIA",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-17T11:45:25+00:00",
+   "scored_at": "2026-11-17T11:57:12+00:00",
    "path": "young"
   }
  ]
