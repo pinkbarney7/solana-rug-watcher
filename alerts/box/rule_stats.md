@@ -1,38 +1,38 @@
 # Rule stats - outcome learning (info/risk only, not advice)
-Updated 2026-11-16 22:56 EST. Labeled coins: 1169 (967 dead/pulled, 202 still alive). Base dead rate 82.7%. Forward 24h samples so far: 83.
+Updated 2026-11-17 08:11 EST. Labeled coins: 1174 (973 dead/pulled, 201 still alive). Base dead rate 82.9%. Forward 24h samples so far: 88.
 
 **Caveats:** history labels are 'dead now vs alive now' plus the liquidity-pull watch, which mostly watched SKIP coins, so precision is biased upward for SKIP-heavy rules. Clean 1h/6h/24h forward samples need ~a week before thresholds should move. Nothing here changes alerting automatically.
 
 | check # | flagged (FAIL/WARN) n | dead when flagged (precision) | false positives (flagged, alive) | dead when PASS | lift vs base |
 |---|---|---|---|---|---|
-| 1 | 960 | 83% | 166 (17%) | 61% of 57 | -0% |
-| 2 | 25 | 20% | 20 (80%) | 83% of 1009 | -63% |
-| 3 | 357 | 85% | 55 (15%) | 80% of 666 | +2% |
-| 4 | 152 | 82% | 27 (18%) | 81% of 872 | -0% |
-| 5 | 819 | 88% | 97 (12%) | 57% of 216 | +5% |
-| 6 | 87 | 52% | 42 (48%) | 84% of 872 | -31% |
-| 7 | 438 | 73% | 119 (27%) | 89% of 495 | -10% |
-| 8 | 461 | 77% | 105 (23%) | 81% of 440 | -5% |
-| 9 | 767 | 87% | 103 (13%) | 67% of 257 | +4% |
-| 10 | 798 | 90% | 79 (10%) | 51% of 223 | +7% |
-| 11 | 585 | 90% | 60 (10%) | 73% of 472 | +7% |
-| 12 | 955 | 86% | 131 (14%) | 43% of 102 | +4% |
-| 13 | 654 | 83% | 111 (17%) | 81% of 403 | +0% |
-| 14 | 444 | 80% | 87 (20%) | 83% of 613 | -2% |
-| 15 | 525 | 76% | 127 (24%) | 88% of 532 | -7% |
-| 16 | 91 | 80% | 18 (20%) | 82% of 966 | -3% |
-| 18 | 735 | 88% | 88 (12%) | 69% of 322 | +5% |
-| 19 | 370 | 82% | 66 (18%) | 82% of 574 | -1% |
+| 1 | 964 | 83% | 164 (17%) | 60% of 58 | +0% |
+| 2 | 25 | 20% | 20 (80%) | 83% of 1014 | -63% |
+| 3 | 359 | 85% | 54 (15%) | 80% of 669 | +2% |
+| 4 | 152 | 84% | 25 (16%) | 81% of 877 | +1% |
+| 5 | 820 | 89% | 94 (11%) | 57% of 220 | +6% |
+| 6 | 88 | 51% | 43 (49%) | 85% of 876 | -32% |
+| 7 | 442 | 73% | 120 (27%) | 90% of 496 | -10% |
+| 8 | 466 | 77% | 106 (23%) | 81% of 440 | -6% |
+| 9 | 770 | 87% | 102 (13%) | 67% of 259 | +4% |
+| 10 | 799 | 90% | 76 (10%) | 51% of 227 | +8% |
+| 11 | 590 | 89% | 62 (11%) | 73% of 472 | +7% |
+| 12 | 960 | 86% | 131 (14%) | 44% of 102 | +3% |
+| 13 | 659 | 83% | 110 (17%) | 81% of 403 | +0% |
+| 14 | 449 | 81% | 87 (19%) | 84% of 613 | -2% |
+| 15 | 530 | 76% | 128 (24%) | 89% of 532 | -7% |
+| 16 | 91 | 80% | 18 (20%) | 82% of 971 | -3% |
+| 18 | 740 | 88% | 88 (12%) | 69% of 322 | +5% |
+| 19 | 370 | 82% | 65 (18%) | 82% of 574 | -0% |
 
 ## Suggested bar changes (logged to bar_changes.jsonl, need Barney's yes; not applied)
-- check #1: lower weight: flagged coins die no more often than average (precision 83% vs base 83%, n=960)
-- check #3: lower weight: flagged coins die no more often than average (precision 85% vs base 83%, n=357)
-- check #4: lower weight: flagged coins die no more often than average (precision 82% vs base 83%, n=152)
-- check #6: lower weight: flagged coins die no more often than average (precision 52% vs base 83%, n=87)
-- check #7: lower weight: flagged coins die no more often than average (precision 73% vs base 83%, n=438)
-- check #8: lower weight: flagged coins die no more often than average (precision 77% vs base 83%, n=461)
-- check #13: lower weight: flagged coins die no more often than average (precision 83% vs base 83%, n=654)
-- check #14: lower weight: flagged coins die no more often than average (precision 80% vs base 83%, n=444)
-- check #15: lower weight: flagged coins die no more often than average (precision 76% vs base 83%, n=525)
+- check #1: lower weight: flagged coins die no more often than average (precision 83% vs base 83%, n=964)
+- check #3: lower weight: flagged coins die no more often than average (precision 85% vs base 83%, n=359)
+- check #4: lower weight: flagged coins die no more often than average (precision 84% vs base 83%, n=152)
+- check #6: lower weight: flagged coins die no more often than average (precision 51% vs base 83%, n=88)
+- check #7: lower weight: flagged coins die no more often than average (precision 73% vs base 83%, n=442)
+- check #8: lower weight: flagged coins die no more often than average (precision 77% vs base 83%, n=466)
+- check #13: lower weight: flagged coins die no more often than average (precision 83% vs base 83%, n=659)
+- check #14: lower weight: flagged coins die no more often than average (precision 81% vs base 83%, n=449)
+- check #15: lower weight: flagged coins die no more often than average (precision 76% vs base 83%, n=530)
 - check #16: lower weight: flagged coins die no more often than average (precision 80% vs base 83%, n=91)
 - check #19: lower weight: flagged coins die no more often than average (precision 82% vs base 83%, n=370)
