@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:57:40",
+ "updated": "2026-11-17T07:10:47",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -23,33 +23,8 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:36+00:00",
+   "scored_at": "2026-11-17T07:09:45+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
-   "ticker": "TTWO",
-   "risk": 67,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T19:02:33+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
-   "ticker": "bill",
-   "risk": 55,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T19:02:35+00:00",
-   "path": "young"
   },
   {
    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
@@ -72,20 +47,8 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:57:39+00:00",
+   "scored_at": "2026-11-17T07:10:47+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump",
-   "ticker": "UM",
-   "risk": 58,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-15T19:02:35+00:00",
-   "path": "young"
   },
   {
    "mint": "4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump",
@@ -217,7 +180,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:36+00:00",
+   "scored_at": "2026-11-17T07:09:44+00:00",
    "path": "young"
   },
   {
@@ -230,7 +193,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:37+00:00",
+   "scored_at": "2026-11-17T07:09:45+00:00",
    "path": "survivor"
   },
   {
@@ -352,7 +315,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:27+00:00",
+   "scored_at": "2026-11-17T07:09:44+00:00",
    "path": "young"
   },
   {
@@ -364,7 +327,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:35+00:00",
+   "scored_at": "2026-11-17T07:09:45+00:00",
    "path": "young"
   },
   {
@@ -376,7 +339,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:37+00:00",
+   "scored_at": "2026-11-17T07:09:35+00:00",
    "path": "young"
   },
   {
@@ -388,7 +351,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:35+00:00",
+   "scored_at": "2026-11-17T07:09:43+00:00",
    "path": "young"
   },
   {
@@ -406,13 +369,13 @@
   {
    "mint": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump",
    "ticker": "LEOSTAR",
-   "risk": 58,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:56:37+00:00",
+   "scored_at": "2026-11-17T07:09:45+00:00",
    "path": "young"
   },
   {
