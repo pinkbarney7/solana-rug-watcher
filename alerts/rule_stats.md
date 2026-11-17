@@ -1,5 +1,5 @@
 # Rule stats - outcome learning (info/risk only, not advice)
-Updated 2026-11-17 06:37 UTC. Labeled coins: 103 (25 dead/pulled, 78 still alive). Base dead rate 24.3%. Forward 24h samples so far: 68.
+Updated 2026-11-17 06:43 UTC. Labeled coins: 103 (25 dead/pulled, 78 still alive). Base dead rate 24.3%. Forward 24h samples so far: 68.
 
 **Caveats:** history labels are 'dead now vs alive now' plus the liquidity-pull watch, which mostly watched SKIP coins, so precision is biased upward for SKIP-heavy rules. Clean 1h/6h/24h forward samples need ~a week before thresholds should move. Nothing here changes alerting automatically.
 
