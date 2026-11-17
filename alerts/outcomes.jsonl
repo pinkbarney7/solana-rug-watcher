@@ -23,3 +23,4 @@
 {"mint": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump", "ticker": "LEOSTAR", "t0": 1794892669.0, "verdict": "SKIP", "risk": 58, "p0": 0.0008027, "liq0": 65475.43, "mcap0": 793383.0, "1h": {"price": 0.0009563, "liq": 71748.68, "chg_pct": 19.1, "liq_chg_pct": 9.6, "late_min": 12}}
 {"mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2", "ticker": "TROLL", "t0": 1794894167.0, "verdict": "SKIP", "risk": 54, "p0": 0.0241, "liq0": 2095038.08, "mcap0": 24076285.0, "1h": {"price": 0.02381, "liq": 1928006.74, "chg_pct": -1.2, "liq_chg_pct": -8.0, "late_min": 1}}
 {"mint": "14EC45Btj3he8rW15KBp2iacN1yL9J833o9Kt9dGsVg2", "ticker": "CLAUDIA", "t0": 1794896903.0, "verdict": "SKIP", "risk": 53, "p0": 8.942e-07, "liq0": 138120.06, "mcap0": 89425.0}
+{"mint": "1Q5LFbfP8SLDQrEKq7arfa4tPN1Yh3zatKDGxZXWNfp", "ticker": "Bones", "t0": 1794900109.0, "verdict": "SKIP", "risk": 56, "p0": 1.192e-06, "liq0": 147606.85, "mcap0": 119220.0}

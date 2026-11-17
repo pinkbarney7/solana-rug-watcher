@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 07:10 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 07:22 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Bones | `1Q5LFbfP8SLDQrEKq7arfa4tPN1Yh3zatKDGxZXWNfp` | SKIP | 56 | - | - | - |
 | CLAUDIA | `14EC45Btj3he8rW15KBp2iacN1yL9J833o9Kt9dGsVg2` | SKIP | 53 | - | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -1.2% / liq $1,928,007 | - | - |
 | LEOSTAR | `2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump` | SKIP | 58 | 19.1% / liq $71,749 | - | - |
