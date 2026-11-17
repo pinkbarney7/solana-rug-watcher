@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 04:41 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 04:44 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,10 +13,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| BAWSAQ | `D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump` | SKIP | 58 | - | - | - |
 | bul | `Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv` | CAUTION | 41 | - | - | - |
-| BAWSAQ | `4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump` | CAUTION | 45 | - | - | - |
 | GTA | `2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump` | SKIP | 58 | - | - | - |
+| BAWSAQ | `D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump` | SKIP | 58 | - | - | - |
+| BAWSAQ | `4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump` | CAUTION | 45 | - | - | - |
 | USOE | `9ywBZUXaPhjtxwVbjdq9SJJoXuTTRx5BmqK5wnb8pump` | SKIP | 67 | 1.9% / liq $454,740 | - | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -6.6% / liq $1,326,097 | - | - |
 | BAWSAQ | `55jDZh5aM1H3rYxc4Z8mndGUXNj35jvBan6SkDoqNoS` | SKIP | 53 | 0.3% / liq $0 | - | - |
@@ -38,5 +38,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | -9.0% / liq $66,674 | 73.1% / liq $94,281 | - |
 | UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | 0.0% / liq $32,128,275 | 0.0% / liq $32,128,280 | 0.0% / liq $32,128,296 |
 | BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | -10.2% / liq $95,013 | -6.1% / liq $97,400 | -99.9% / liq $1,856 |
-| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | 0.1% / liq $1,564,467 | 1.8% / liq $1,571,164 | -1.9% / liq $1,556,852 |
+| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | 0.1% / liq $1,564,467 | 1.8% / liq $1,571,164 | -1.9% / liq $1,556,911 |
 | Anthropig | `2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump` | SKIP | 58 | -7.9% / liq $73,144 | -30.4% / liq $63,766 | -99.8% / liq $2,518 |
