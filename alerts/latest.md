@@ -1,9 +1,9 @@
-# Last scan 2026-11-17T03:06:45Z - mode: free (box heartbeat 6 min old (fresh) - box covers Helius)
+# Last scan 2026-11-17T03:07:19Z - mode: free (box heartbeat 7 min old (fresh) - box covers Helius)
 
 ```
-[fast_scan] 135 candidate mints from 9 source tags; 130 with pair data; 32 >= $50,000 liq; 11 pass survivor pre-gates (11s)
+[fast_scan] 135 candidate mints from 9 source tags; 130 with pair data; 32 >= $50,000 liq; 11 pass survivor pre-gates (0s)
 [fast_scan] FREE-ONLY pass: 8 candidate(s) NOT scored (no Helius) - results UNVERIFIED
-# Market scan 2026-11-17 03:06 UTC
+# Market scan 2026-11-17 03:07 UTC
 
 **UNVERIFIED: free-API-only pass (no Helius scoring this run). Rows below are pre-rank red flags from DEX Screener/GeckoTerminal/pump.fun only.**
 
@@ -40,7 +40,7 @@ Must also pass: no rug-funder or same-operator-as-rug link, no coordinated launc
 | [Dacity](https://pump.fun/coin/nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump) | `nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump` | $198.6k | $1.36M | -0% | -28% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.7%, round-trip loss 0.7%; $100 sell impact 0.8%, round-trip 0.8% / RugCheck 1, LP locked 85.41467217988746%: no risks listed |
 | [DacityCoin](https://pump.fun/coin/DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump) | `DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump` | $357.7k | $5.98M | +1% | +38% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.5%, round-trip loss 0.6%; $100 sell impact 0.8%, round-trip 1.3% / RugCheck 1, LP locked 65.62751850009742%: no risks listed |
 | [BP](https://dexscreener.com/solana/BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy) | `BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy` | $6.09M | $249.37M | +4% | +19% | liq/mcap 2.4% | Jupiter exit test PASS: $25 sell impact 0.2%, round-trip loss 0.2%; $100 sell impact 0.3%, round-trip 0.3% / RugCheck 78, LP locked 0.009365703220538688%: Mint Authority still enabled (danger); Freeze Authority still enabled (danger); Top 10 holders high ownership (danger); Single holder ownership (danger); High ownership (danger) |
-| [CBUCKS](https://pump.fun/coin/DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump) | `DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump` | $231.8k | $4.13M | -4% | -16% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 1.7%, round-trip loss 1.7%; $100 sell impact 1.8%, round-trip 1.9% / RugCheck 1, LP locked 99.99002152972936%: no risks listed |
+| [CBUCKS](https://pump.fun/coin/DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump) | `DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump` | $231.8k | $4.13M | -4% | -16% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 1.7%, round-trip loss 1.7%; $100 sell impact 1.8%, round-trip 1.9% / RugCheck 1, LP locked 99.99002404966045%: no risks listed |
 
 ## Biggest movers (mostly traps)
 Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free data); not scored unless --score-movers.
@@ -54,7 +54,7 @@ Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free 
 | [BAWSAQ](https://dexscreener.com/solana/4jkqhVd151emYEf4h3mysXU6r2L6DFedRuaE3mVvKshS) | `4jkqhVd151emYEf4h3mysXU6r2L6DFedRuaE3mVvKshS` | $65.2k | $100.2k | +50% | +1371% | +1371% | 211.3x | churn 211x vol/liq; spike (+50% 1h, +1371% 6h) | not scored |
 | [GTA](https://pump.fun/coin/2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump) | `2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump` | $74.6k | $1.05M | -4% | +34% | +3203% | 10.4x | none flagged (still high risk) | not scored |
 
-_Timing: total 12s (discovery 9.0s, screen 1.9s, GT prime 0.7s, scoring 0.0s for 0 coins, 0 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 0/18; Helius 429s 0; DEX Screener ok._
+_Timing: total 0s (discovery 0.0s, screen 0.1s, GT prime 0.0s, scoring 0.0s for 0 coins, 0 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 18/18; Helius 429s 0; DEX Screener ok._
 
 _Full reports: out/<mint>.md (+ .json)_
 ```
