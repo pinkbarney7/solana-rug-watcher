@@ -23,5 +23,5 @@
 {"mint": "P15emBSXx5m3jkmoX3ZVEUTnF23B3N9kSaDAMjrhyx9", "ticker": "GTA6", "t0": 1794901163.0, "verdict": "SKIP", "risk": 53, "p0": 9.108e-07, "liq0": 139212.54, "mcap0": 91082.0, "1h": {"price": 9.204e-07, "liq": 0, "chg_pct": 1.1, "liq_chg_pct": -100.0, "late_min": 11}}
 {"mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump", "ticker": "CATE", "t0": 1794901523.0, "verdict": "SKIP", "risk": 51, "p0": 0.01816, "liq0": 1703689.28, "mcap0": 17513020.0, "1h": {"price": 0.01815, "liq": 1317953.63, "chg_pct": -0.1, "liq_chg_pct": -22.6, "late_min": 5}}
 {"mint": "AHYB7o6eQV9GAERKJzAyeiZj5KHGBhfEiLyq2ftjwvM", "ticker": "BAWSAQ", "t0": 1794903965.0, "verdict": "SKIP", "risk": 53, "p0": 9.393e-07, "liq0": 135200.32, "mcap0": 93931.0}
-{"mint": "N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf", "ticker": "SACK", "t0": 1794906009.0, "verdict": "SKIP", "risk": 56, "p0": 1.135e-06, "liq0": 145271.09, "mcap0": 113576.0}
-{"mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "ticker": "HOGE", "t0": 1794906011.0, "verdict": "CAUTION", "risk": 41, "p0": 0.0005724, "liq0": 96293.20999999999, "mcap0": 546859.0}
+{"mint": "N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf", "ticker": "SACK", "t0": 1794906246.0, "verdict": "SKIP", "risk": 56, "p0": 1.192e-06, "liq0": 149912.08, "mcap0": 119257.0}
+{"mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "ticker": "HOGE", "t0": 1794906245.0, "verdict": "CAUTION", "risk": 41, "p0": 0.0005748, "liq0": 97543.23, "mcap0": 549192.0}
