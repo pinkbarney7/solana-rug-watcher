@@ -1,15 +1,15 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 06:29 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 06:37 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 4 | 1.1% | 0 |
-| CAUTION | 6h | 2 | 0.0% | 0 |
-| CAUTION | 24h | 2 | 10.3% | 0 |
-| SKIP | 1h | 25 | -0.5% | 6 |
-| SKIP | 6h | 15 | -0.5% | 3 |
-| SKIP | 24h | 7 | -1.9% | 1 |
+| CAUTION | 1h | 3 | 1.1% | 0 |
+| CAUTION | 6h | 1 | -7.4% | 0 |
+| CAUTION | 24h | 1 | 10.3% | 0 |
+| SKIP | 1h | 22 | -0.2% | 6 |
+| SKIP | 6h | 12 | -0.2% | 3 |
+| SKIP | 24h | 4 | 2.7% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | 37.9% / liq $54,960 | 80.0% / liq $187,482 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | -1.6% / liq $1,240,876 | 0.9% / liq $1,262,775 | 2.7% / liq $1,283,776 |
 | rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | -9.0% / liq $66,674 | 73.1% / liq $94,281 | -20.7% / liq $62,653 |
-| UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | 0.0% / liq $32,128,275 | 0.0% / liq $32,128,280 | 0.0% / liq $32,128,296 |
-| BJB | `CHuLmJXz8F3YXUyv984PRxeECfSvqD5MZ3W1FoDmpump` | SKIP | 60 | -10.2% / liq $95,013 | -6.1% / liq $97,400 | -99.9% / liq $1,856 |
-| BIRB | `G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG` | SKIP | 56 | 0.1% / liq $1,564,467 | 1.8% / liq $1,571,164 | -1.9% / liq $1,556,911 |
-| Anthropig | `2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump` | SKIP | 58 | -7.9% / liq $73,144 | -30.4% / liq $63,766 | -99.8% / liq $2,518 |

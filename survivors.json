@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:29:24",
+ "updated": "2026-11-17T06:37:08",
  "coins": [
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:28+00:00",
+   "scored_at": "2026-11-17T06:36:07+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:29:24+00:00",
+   "scored_at": "2026-11-17T06:37:08+00:00",
    "path": "survivor"
   },
   {
@@ -217,7 +217,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:28+00:00",
+   "scored_at": "2026-11-17T06:36:05+00:00",
    "path": "young"
   },
   {
@@ -230,7 +230,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:22+00:00",
+   "scored_at": "2026-11-17T06:36:06+00:00",
    "path": "survivor"
   },
   {
@@ -352,7 +352,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:20+00:00",
+   "scored_at": "2026-11-17T06:36:06+00:00",
    "path": "young"
   },
   {
@@ -364,7 +364,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:22+00:00",
+   "scored_at": "2026-11-17T06:36:06+00:00",
    "path": "young"
   },
   {
@@ -376,19 +376,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:21+00:00",
+   "scored_at": "2026-11-17T06:36:04+00:00",
    "path": "young"
   },
   {
    "mint": "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump",
    "ticker": "BAWSAQ",
-   "risk": 58,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:12:47+00:00",
+   "scored_at": "2026-11-17T06:36:05+00:00",
    "path": "young"
   },
   {
@@ -412,7 +412,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-17T06:28:12+00:00",
+   "scored_at": "2026-11-17T06:35:56+00:00",
    "path": "young"
   },
   {
