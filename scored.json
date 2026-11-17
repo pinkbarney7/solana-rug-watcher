@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1794919584.2932076,
-"liq": 4434006.43,
+"ts": 1794920050.932171,
+"liq": 4483834.470000001,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -49,8 +49,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1794919584.2932026,
-"liq": 1376710.65,
+"ts": 1794920050.9321663,
+"liq": 1370696.0499999998,
 "holders": null,
 "risk": 48,
 "verdict": "SKIP"
@@ -119,15 +119,15 @@
 "verdict": "CAUTION"
 },
 "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-"ts": 1794919584.2931883,
-"liq": 104066.0,
+"ts": 1794920050.9321694,
+"liq": 105342.33,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1794919584.2931936,
-"liq": 9546660.25,
+"ts": 1794920050.9321644,
+"liq": 9538881.53,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -196,8 +196,8 @@
 "verdict": "SKIP"
 },
 "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": {
-"ts": 1794919584.2931964,
-"liq": 88954.67,
+"ts": 1794920050.9321496,
+"liq": 92351.67,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -210,15 +210,15 @@
 "verdict": "SKIP"
 },
 "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump": {
-"ts": 1794919584.2932045,
-"liq": 90707.75,
+"ts": 1794920050.9321618,
+"liq": 94046.17,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
 },
 "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": {
-"ts": 1794919584.293206,
-"liq": 102011.52,
+"ts": 1794920050.9321682,
+"liq": 106281.56,
 "holders": null,
 "risk": 45,
 "verdict": "CAUTION"
@@ -231,8 +231,8 @@
 "verdict": "SKIP"
 },
 "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump": {
-"ts": 1794919584.2932007,
-"liq": 89075.6,
+"ts": 1794920050.9321573,
+"liq": 94908.52,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -294,8 +294,8 @@
 "verdict": "SKIP"
 },
 "12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb": {
-"ts": 1794919584.2931986,
-"liq": 116579.28,
+"ts": 1794920050.9321542,
+"liq": 116685.34,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"

@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 12:46 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 12:54 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,13 +6,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 2.1% | 0 |
 | CAUTION | 6h | 2 | 18.6% | 0 |
-| SKIP | 1h | 20 | 0.7% | 9 |
+| SKIP | 1h | 21 | 0.5% | 10 |
 | SKIP | 6h | 13 | 0.1% | 5 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | Millionaires | `12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb` | SKIP | 53 | - | - | - |
-| KATIA | `6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj` | SKIP | 53 | - | - | - |
+| KATIA | `6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj` | SKIP | 53 | -1.7% / liq $0 | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | 0.7% / liq $3,795,816 | - | - |
 | WANTED | `9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump` | SKIP | 60 | 38.6% / liq $62,579 | - | - |
 | SACK | `N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf` | SKIP | 56 | 31.6% / liq $0 | - | - |
