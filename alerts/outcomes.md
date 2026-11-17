@@ -1,15 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 08:04 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 08:13 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 3 | 1.1% | 0 |
-| CAUTION | 6h | 1 | -7.4% | 0 |
-| CAUTION | 24h | 1 | 10.3% | 0 |
+| CAUTION | 1h | 2 | 2.1% | 0 |
 | SKIP | 1h | 20 | 0.0% | 6 |
 | SKIP | 6h | 14 | -0.7% | 4 |
-| SKIP | 24h | 1 | 56.3% | 0 |
+| SKIP | 24h | 2 | 56.3% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -36,6 +34,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | FiveM | `2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump` | SKIP | 57 | -99.8% / liq $1,551 | -99.8% / liq $1,521 | - |
 | Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | -0.5% / liq $0 | -0.5% / liq $0 | - |
 | DADOG | `6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY` | SKIP | 73 | 0.0% / liq $834,217 | 0.0% / liq $834,217 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | -3.7% / liq $3,500,396 | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | -3.7% / liq $3,500,396 | 3.7% / liq $3,782,206 |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | SKIP | 50 | -11.9% / liq $68,675 | -12.6% / liq $68,870 | 56.3% / liq $95,920 |
-| PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | 1.1% / liq $214,942 | -7.4% / liq $205,187 | 10.3% / liq $227,437 |
