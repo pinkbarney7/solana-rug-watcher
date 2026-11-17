@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 05:27 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 05:42 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,10 +9,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 24h | 1 | 0.0% | 0 |
 | SKIP | 1h | 21 | -0.7% | 5 |
 | SKIP | 6h | 15 | -0.5% | 3 |
-| SKIP | 24h | 5 | -20.7% | 0 |
+| SKIP | 24h | 7 | -1.9% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | - | - | - |
 | LEOSTAR | `2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump` | SKIP | 58 | - | - | - |
 | CHAR | `NpAYjNvLsMiaYCcguXMUCAosoeofLMBDgqdhwCCqtU3` | SKIP | 53 | - | - | - |
 | bul | `Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv` | CAUTION | 41 | - | - | - |
@@ -34,8 +35,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -1.3% / liq $3,551,840 | -3.7% / liq $3,500,396 | - |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | SKIP | 50 | -11.9% / liq $68,675 | -12.6% / liq $68,870 | - |
 | PAID | `98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump` | CAUTION | 38 | 1.1% / liq $214,942 | -7.4% / liq $205,187 | - |
-| Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | -0.8% / liq $0 | -0.8% / liq $0 | - |
-| gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | 37.9% / liq $54,960 | - |
+| Marvin | `GYTxMUNTFuA4sS2XCQU6PYacLW51Hi1JLbhSCzA9Pjm` | SKIP | 53 | -0.8% / liq $0 | -0.8% / liq $0 | -0.8% / liq $0 |
+| gtacoin | `DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK` | SKIP | 47 | 7.9% / liq $48,122 | 37.9% / liq $54,960 | 80.0% / liq $187,482 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 45 | -1.6% / liq $1,240,876 | 0.9% / liq $1,262,775 | 2.7% / liq $1,283,776 |
 | rockstar | `9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump` | SKIP | 55 | -9.0% / liq $66,674 | 73.1% / liq $94,281 | -20.7% / liq $62,653 |
 | UODF | `AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc` | CAUTION | 45 | 0.0% / liq $32,128,275 | 0.0% / liq $32,128,280 | 0.0% / liq $32,128,296 |
