@@ -1,16 +1,17 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 10:12 UTC
+# Outcomes (DEX Screener, free) - 2026-11-17 10:19 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 2.1% | 0 |
-| SKIP | 1h | 23 | 0.0% | 10 |
-| SKIP | 6h | 12 | -0.5% | 4 |
-| SKIP | 24h | 2 | -67.7% | 0 |
+| SKIP | 1h | 22 | 0.2% | 10 |
+| SKIP | 6h | 11 | -0.7% | 4 |
+| SKIP | 24h | 3 | -67.7% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | - | - | - |
 | WANTED | `9jhs5qoJnUFU7AZXbsiD1Q6De6FVsino9Ysw8QU6pump` | SKIP | 60 | - | - | - |
 | SACK | `N8siSKt4dR7Tz79U1PvukfCSipRikykgFtDF1xx3muf` | SKIP | 56 | 31.6% / liq $0 | - | - |
 | HOGE | `FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump` | CAUTION | 41 | 6.9% / liq $90,498 | - | - |
@@ -33,8 +34,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 67 | 2.2% / liq $1,209,682 | -100.0% / liq $1,632 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.2% / liq $2,864,780 | 0.1% / liq $2,826,691 | - |
 | 1.0 | `9scZoXUom7Zftw8m1sNF9cnHFqNGkJKmnnNRR7aSU2d` | SKIP | 53 | -0.2% / liq $0 | -0.2% / liq $0 | - |
-| ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | 0.0% / liq $2,319,356 | 0.0% / liq $2,319,314 | - |
+| ZIL | `8uC7rqAEg3JF1tVGyePi3c41q2sMtuAe98qkdeVWG5VW` | SKIP | 56 | 0.0% / liq $2,319,356 | 0.0% / liq $2,319,314 | 0.0% / liq $2,319,323 |
 | Marvin | `HkRQ6Qcadi5yuoNpZdA1Q7yVF3r7LdEmAw1aKkSxpump` | SKIP | 55 | -11.2% / liq $51,627 | -12.1% / liq $51,531 | -67.7% / liq $31,107 |
 | FiveM | `2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump` | SKIP | 57 | -99.8% / liq $1,551 | -99.8% / liq $1,521 | -99.8% / liq $1,558 |
 | Marvin | `CuKub87k6z2Uu9xY7bV9sifaoMi4dW7CZSoRcQogDgM` | SKIP | 53 | -0.5% / liq $0 | -0.5% / liq $0 | - |
-| DADOG | `6FHTxbq7SQgHumeppwBvCZNj8161dNUuQHAVm8Sq6MdY` | SKIP | 73 | 0.0% / liq $834,217 | 0.0% / liq $834,217 | - |
