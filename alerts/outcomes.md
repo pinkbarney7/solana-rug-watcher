@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-17 20:05 UTC
+# Outcomes (DEX Screener, free) - 2026-11-18 02:23 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,12 +6,16 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 2.1% | 0 |
 | CAUTION | 6h | 3 | 1.7% | 0 |
-| SKIP | 1h | 21 | 0.7% | 10 |
-| SKIP | 6h | 21 | 0.3% | 10 |
+| SKIP | 1h | 22 | 0.7% | 11 |
+| SKIP | 6h | 22 | 0.3% | 11 |
+| SKIP | 24h | 4 | -15.4% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| ANT | `ELR9i6Z7uhtZMWqkySYNnDhviSuSMA7nnyZ1BocKkEK` | SKIP | 59 | - | - | - |
+| MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 72 | - | - | - |
+| GTA6 | `GTA6ot7gjnojk8WwAoxKrqDkrLtCPtSfzAikk6zu2koH` | SKIP | 70 | - | - | - |
+| JALU | `BSsmLA6UN8fzJ8qUkV4KwC5LxR7ab3TaUtcwvAyJpump` | SKIP | 57 | - | - | - |
+| ANT | `ELR9i6Z7uhtZMWqkySYNnDhviSuSMA7nnyZ1BocKkEK` | SKIP | 59 | -33.9% / liq $0 | -33.9% / liq $0 | - |
 | Millionaires | `12Xt9B42H3MkyYosmPffPjNK36v5pPwXhNuaFyDA3QFb` | SKIP | 53 | 2.0% / liq $0 | 113.3% / liq $0 | - |
 | KATIA | `6TaNXFp7MdjSheTCQ8Fh1h8NNiyAETfhQ5nzaXTLNAj` | SKIP | 53 | -1.7% / liq $0 | -1.7% / liq $0 | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | 0.7% / liq $3,795,816 | -1.2% / liq $3,746,026 | - |
@@ -30,9 +34,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | GTA | `2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump` | SKIP | 58 | 19.2% / liq $78,674 | 33.6% / liq $83,742 | - |
 | BAWSAQ | `D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump` | SKIP | 58 | 0.5% / liq $76,992 | 17.7% / liq $83,937 | - |
 | BAWSAQ | `4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump` | CAUTION | 45 | 2.1% / liq $57,232 | 18.6% / liq $62,142 | - |
-| USOE | `9ywBZUXaPhjtxwVbjdq9SJJoXuTTRx5BmqK5wnb8pump` | SKIP | 67 | 1.9% / liq $454,740 | -100.0% / liq $1,380 | - |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -6.6% / liq $1,326,097 | -5.5% / liq $1,342,183 | - |
+| USOE | `9ywBZUXaPhjtxwVbjdq9SJJoXuTTRx5BmqK5wnb8pump` | SKIP | 67 | 1.9% / liq $454,740 | -100.0% / liq $1,380 | -100.0% / liq $1,380 |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -6.6% / liq $1,326,097 | -5.5% / liq $1,342,183 | -15.4% / liq $1,285,146 |
 | BAWSAQ | `55jDZh5aM1H3rYxc4Z8mndGUXNj35jvBan6SkDoqNoS` | SKIP | 53 | 0.3% / liq $0 | 0.3% / liq $0 | - |
 | GTA6 | `JqWFgttDRXeP49F6iYc4eVK88D1PonNEmKcQwkLwENN` | SKIP | 53 | -0.7% / liq $0 | -0.7% / liq $0 | - |
-| USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 67 | 2.2% / liq $1,209,682 | -100.0% / liq $1,632 | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.2% / liq $2,864,780 | 0.1% / liq $2,826,691 | - |
+| USPR | `DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump` | SKIP | 67 | 2.2% / liq $1,209,682 | -100.0% / liq $1,632 | -100.0% / liq $1,503 |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.2% / liq $2,864,780 | 0.1% / liq $2,826,691 | 3.1% / liq $2,794,647 |
