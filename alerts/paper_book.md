@@ -1,14 +1,14 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-20 13:04 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-20 21:01 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 29 | Open: 2 | Not opened (failed sell gate): 0
-Win rate 21% | avg return -29.6% | expectancy $-7.40 per $25 trade | total $-214.54
+Closed: 30 | Open: 1 | Not opened (failed sell gate): 0
+Win rate 23% | avg return -28.4% | expectancy $-7.11 per $25 trade | total $-213.27
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| FIONA | [`B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump`](https://pump.fun/coin/B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump) | scored_fast_scan | CAUTION | 2026-11-20 13:04 UTC | open | +0.0% |
+| FIONA | [`B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump`](https://pump.fun/coin/B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump) | scored_fast_scan | CAUTION | 2026-11-20 13:04 UTC | open | -36.6% |
 | AI | [`EE6CRsqqpvHwkCYK8hF15RmNccdq32vdbcQdX4afLoat`](https://dexscreener.com/solana/EE6CRsqqpvHwkCYK8hF15RmNccdq32vdbcQdX4afLoat) | scored_fast_scan | CAUTION | 2026-11-19 17:26 UTC | closed (stop -50%) | -95.0% |
-| GME | [`8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB`](https://dexscreener.com/solana/8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB) | scored_fast_scan | CAUTION | 2026-11-19 17:26 UTC | open | +10.6% |
+| GME | [`8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB`](https://dexscreener.com/solana/8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB) | scored_fast_scan | CAUTION | 2026-11-19 17:26 UTC | closed (24h time exit) | +5.1% |
 | SHIT | [`Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump`](https://pump.fun/coin/Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump) | scored_fast_scan | CAUTION | 2026-11-19 08:14 UTC | closed (stop -50%) | -53.2% |
 | Leonida | [`9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump`](https://pump.fun/coin/9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump) | scored_fast_scan | CAUTION | 2026-11-19 08:14 UTC | closed (stop -50%) | -85.2% |
 | GTA | [`2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump`](https://pump.fun/coin/2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump) | scored_fast_scan | CAUTION | 2026-11-17 20:05 UTC | closed (stop -50%) | -99.8% |

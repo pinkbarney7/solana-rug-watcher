@@ -1,18 +1,6 @@
 {
- "updated": "2026-11-20T13:03:56",
+ "updated": "2026-11-20T21:00:53",
  "coins": [
-  {
-   "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-   "ticker": "CATE",
-   "risk": 51,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T08:13:41+00:00",
-   "path": "survivor"
-  },
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
    "ticker": "ZEC",
@@ -35,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-20T13:02:54+00:00",
+   "scored_at": "2026-11-20T21:00:42+00:00",
    "path": "survivor"
   },
   {
@@ -49,18 +37,6 @@
    ],
    "scored_at": "2026-11-19T23:42:36+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "HricrxBN3QXC3SN5VLtNhaEzoGrYea5ZtaTxQDfKSTNK",
-   "ticker": "VI",
-   "risk": 50,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T08:13:40+00:00",
-   "path": "young"
   },
   {
    "mint": "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
@@ -77,38 +53,13 @@
   {
    "mint": "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump",
    "ticker": "SHIT",
-   "risk": 44,
+   "risk": 46,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-20T13:02:54+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
-   "ticker": "CLAUDIA",
-   "risk": 44,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T08:14:43+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "CyfdugHk3PT44hEUxpnU25CXAJsVQ9EdipKWCHEBKSdS",
-   "ticker": "GRAND",
-   "risk": 76,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T08:13:39+00:00",
+   "scored_at": "2026-11-20T21:00:51+00:00",
    "path": "young"
   },
   {
@@ -124,18 +75,6 @@
    "path": "young"
   },
   {
-   "mint": "A4jXnWk1rDRDth6HmDASi45c89n1AguTHivAQPTVpump",
-   "ticker": "GTASZN",
-   "risk": 59,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T08:13:41+00:00",
-   "path": "young"
-  },
-  {
    "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
    "ticker": "VINE",
    "risk": 51,
@@ -144,7 +83,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-20T13:03:56+00:00",
+   "scored_at": "2026-11-20T21:00:50+00:00",
    "path": "survivor"
   },
   {
@@ -212,13 +151,13 @@
   {
    "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
    "ticker": "FIONA",
-   "risk": 45,
-   "verdict": "CAUTION",
+   "risk": 53,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-20T13:02:53+00:00",
+   "scored_at": "2026-11-20T21:00:51+00:00",
    "path": "young"
   },
   {
@@ -256,6 +195,18 @@
    ],
    "scored_at": "2026-11-20T13:02:53+00:00",
    "path": "young"
+  },
+  {
+   "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+   "ticker": "CATE",
+   "risk": 50,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-20T21:00:50+00:00",
+   "path": "survivor"
   }
  ]
 }
