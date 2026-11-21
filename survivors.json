@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:20:09",
+ "updated": "2026-11-21T16:54:26",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,32 +23,8 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T02:01:14+00:00",
+   "scored_at": "2026-11-21T16:53:22+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
-   "ticker": "CYBERLEEK",
-   "risk": 39,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T23:42:36+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
-   "ticker": "Leonida",
-   "risk": 46,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-19T23:42:27+00:00",
-   "path": "young"
   },
   {
    "mint": "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump",
@@ -65,13 +41,13 @@
   {
    "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
    "ticker": "VINE",
-   "risk": 48,
+   "risk": 51,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T09:20:09+00:00",
+   "scored_at": "2026-11-21T16:53:23+00:00",
    "path": "survivor"
   },
   {
@@ -85,18 +61,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-20T13:02:44+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "GQngHP8P6s45MxWnU7JsocfV2HjPQdJZmCEAYKpBpump",
-   "ticker": "MANDY",
-   "risk": 57,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-20T04:19:06+00:00",
    "path": "young"
   },
   {
@@ -168,7 +132,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T09:19:59+00:00",
+   "scored_at": "2026-11-21T16:53:24+00:00",
    "path": "young"
   },
   {
@@ -181,7 +145,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T09:20:08+00:00",
+   "scored_at": "2026-11-21T16:54:26+00:00",
    "path": "survivor"
   },
   {
@@ -205,7 +169,55 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T09:20:08+00:00",
+   "scored_at": "2026-11-21T16:53:24+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "dkpuQdjegjU8zcwYrBzYrLW11wvtjwonBsQhjLApump",
+   "ticker": "RIEMANN",
+   "risk": 58,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-21T16:53:23+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump",
+   "ticker": "PUNANI",
+   "risk": 60,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-21T16:53:22+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "9N6zGSBKeJMcDUt2sk9iQzoawqt2thg2KJv9K5gxDNJX",
+   "ticker": "win",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-21T16:53:14+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump",
+   "ticker": "MAYA",
+   "risk": 66,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-21T16:53:24+00:00",
    "path": "young"
   }
  ]

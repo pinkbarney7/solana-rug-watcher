@@ -1,24 +1,24 @@
-# Outcomes (DEX Screener, free) - 2026-11-21 09:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-21 16:54 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 2 | 61.6% | 0 |
-| CAUTION | 6h | 2 | 61.6% | 0 |
-| SKIP | 1h | 6 | -8.9% | 0 |
-| SKIP | 6h | 6 | -8.9% | 0 |
+| CAUTION | 1h | 1 | 1.0% | 0 |
+| CAUTION | 6h | 1 | 1.0% | 0 |
+| SKIP | 1h | 5 | 2.6% | 1 |
+| SKIP | 6h | 5 | 4.3% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| JENSEN | `DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump` | SKIP | 59 | - | - | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |
-| win | `5rDMySC3buoNTY6gE6sWzpFzvHfBpP5LGAVpjGCMaijV` | SKIP | 53 | - | - | - |
+| MAYA | `FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump` | SKIP | 66 | - | - | - |
+| RIEMANN | `dkpuQdjegjU8zcwYrBzYrLW11wvtjwonBsQhjLApump` | SKIP | 58 | - | - | - |
+| PUNANI | `2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump` | SKIP | 60 | - | - | - |
+| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | - | - | - |
+| win | `9N6zGSBKeJMcDUt2sk9iQzoawqt2thg2KJv9K5gxDNJX` | SKIP | 53 | - | - | - |
+| JENSEN | `DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump` | SKIP | 59 | 11.7% / liq $84,352 | 11.7% / liq $84,352 | - |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.9% / liq $2,513,009 | 0.9% / liq $2,513,009 | - |
+| win | `5rDMySC3buoNTY6gE6sWzpFzvHfBpP5LGAVpjGCMaijV` | SKIP | 53 | 17660.0% / liq $0 | 17660.0% / liq $0 | - |
 | CoT | `5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW` | CAUTION | 51 | 1.0% / liq $58,863 | 1.0% / liq $58,863 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -8.8% / liq $1,224,381 | -8.8% / liq $1,224,381 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 50 | 2.6% / liq $1,221,541 | 4.3% / liq $1,222,947 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 72 | -8.9% / liq $3,077,461 | -8.9% / liq $3,077,461 | - |
-| SHIT | `Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump` | CAUTION | 44 | 61.6% / liq $103,365 | 61.6% / liq $103,365 | - |
-| LOOSY | `HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump` | SKIP | 60 | -86.7% / liq $36,434 | -86.7% / liq $36,434 | - |
-| SWJ | `gHZhqEnFnitWCJ1MA2i9BzqTReFMhsGmbdL17xypump` | SKIP | 59 | -43.4% / liq $46,792 | -43.4% / liq $46,792 | - |
-| MACCA | `C5eGEXJZYvXEbKdyvPtasksjGNV4xvMowpKM92bVv47f` | SKIP | 59 | -33.6% / liq $42,113 | -33.6% / liq $42,113 | - |
