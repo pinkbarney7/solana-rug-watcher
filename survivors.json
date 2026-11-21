@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:54:26",
+ "updated": "2026-11-21T22:01:12",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T16:53:22+00:00",
+   "scored_at": "2026-11-21T22:00:10+00:00",
    "path": "survivor"
   },
   {
@@ -47,7 +47,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T16:53:23+00:00",
+   "scored_at": "2026-11-21T22:00:11+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T02:01:04+00:00",
+   "scored_at": "2026-11-21T22:00:10+00:00",
    "path": "young"
   },
   {
@@ -126,13 +126,13 @@
   {
    "mint": "5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW",
    "ticker": "CoT",
-   "risk": 51,
-   "verdict": "CAUTION",
+   "risk": 57,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T16:53:24+00:00",
+   "scored_at": "2026-11-21T22:00:00+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T16:54:26+00:00",
+   "scored_at": "2026-11-21T22:01:12+00:00",
    "path": "survivor"
   },
   {
@@ -187,13 +187,13 @@
   {
    "mint": "2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump",
    "ticker": "PUNANI",
-   "risk": 60,
+   "risk": 57,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T16:53:22+00:00",
+   "scored_at": "2026-11-21T22:00:09+00:00",
    "path": "young"
   },
   {
@@ -211,13 +211,37 @@
   {
    "mint": "FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump",
    "ticker": "MAYA",
-   "risk": 66,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T16:53:24+00:00",
+   "scored_at": "2026-11-21T22:00:15+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "8Q14yJbbwzK9NsvFTucUF38qBu51cutGJg6fmLXGkG8A",
+   "ticker": "Singularit",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-21T22:00:17+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "2wh7dPQV4w1tgVQzYzJB683fqxcTkU4A8WeaoNZJpump",
+   "ticker": "AODT",
+   "risk": 68,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-21T22:00:09+00:00",
    "path": "young"
   }
  ]
