@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795361969.8667133,
-"liq": 1460040.39,
+"ts": 1795367187.3343368,
+"liq": 1453912.02,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -35,10 +35,10 @@
 "verdict": "CAUTION"
 },
 "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": {
-"ts": 1795361969.8667226,
-"liq": 201012.13999999998,
+"ts": 1795367187.3343225,
+"liq": 204868.31,
 "holders": null,
-"risk": 41,
+"risk": 43,
 "verdict": "CAUTION"
 },
 "5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW": {
@@ -63,8 +63,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1795361969.8667192,
-"liq": 4223746.79,
+"ts": 1795367187.334331,
+"liq": 4232845.17,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -98,8 +98,8 @@
 "verdict": "SKIP"
 },
 "2wh7dPQV4w1tgVQzYzJB683fqxcTkU4A8WeaoNZJpump": {
-"ts": 1795361969.8667023,
-"liq": 100061.84,
+"ts": 1795367187.3343346,
+"liq": 101956.74,
 "holders": null,
 "risk": 64,
 "verdict": "SKIP"
@@ -112,11 +112,11 @@
 "verdict": "SKIP"
 },
 "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-"ts": 1795361969.8667097,
-"liq": 158540.91,
+"ts": 1795367187.334333,
+"liq": 149277.36000000002,
 "holders": null,
-"risk": 52,
-"verdict": "SKIP"
+"risk": 41,
+"verdict": "CAUTION"
 },
 "3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J": {
 "ts": 1795338502.3046062,
@@ -126,22 +126,22 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795361969.866721,
-"liq": 78801.62000000001,
+"ts": 1795367187.3343391,
+"liq": 80897.06,
 "holders": null,
-"risk": 38,
+"risk": 39,
 "verdict": "CAUTION"
 },
 "3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump": {
-"ts": 1795361969.8667157,
-"liq": 83394.7,
+"ts": 1795367187.3343277,
+"liq": 90752.65999999999,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
 },
 "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2": {
-"ts": 1795361969.866717,
-"liq": 1960860.61,
+"ts": 1795367187.334338,
+"liq": 1974838.5999999999,
 "holders": null,
 "risk": 54,
 "verdict": "SKIP"
