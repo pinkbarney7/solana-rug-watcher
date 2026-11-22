@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-22 22:29 UTC
+# Outcomes (DEX Screener, free) - 2026-11-22 23:16 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,16 +8,17 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 2 | 22.5% | 0 |
 | CAUTION | 24h | 1 | 19.6% | 0 |
 | SKIP | 1h | 9 | 0.2% | 2 |
-| SKIP | 6h | 8 | 0.2% | 2 |
+| SKIP | 6h | 9 | 0.2% | 2 |
 | SKIP | 24h | 1 | 53.8% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 49 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | - | - | - |
 | UCASH | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | SKIP | 59 | - | - | - |
 | XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | - | - | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | - | - | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.4% / liq $2,427,041 | - | - |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.4% / liq $2,427,041 | 0.4% / liq $2,425,303 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -0.9% / liq $1,428,866 | -1.9% / liq $1,417,679 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 3.5% / liq $1,830,079 | 3.5% / liq $1,830,079 | - |
 | PushCoin | `3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump` | SKIP | 60 | -17.2% / liq $84,270 | -17.2% / liq $84,270 | - |
