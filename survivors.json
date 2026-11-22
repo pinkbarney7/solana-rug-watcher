@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:55:46",
+ "updated": "2026-11-22T09:08:22",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -11,7 +11,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-21T09:20:08+00:00",
+   "scored_at": "2026-11-22T09:07:19+00:00",
    "path": "survivor"
   },
   {
@@ -27,18 +27,6 @@
    "path": "survivor"
   },
   {
-   "mint": "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump",
-   "ticker": "SHIT",
-   "risk": 46,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-20T21:00:51+00:00",
-   "path": "young"
-  },
-  {
    "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
    "ticker": "VINE",
    "risk": 51,
@@ -47,32 +35,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T01:55:45+00:00",
+   "scored_at": "2026-11-22T09:07:21+00:00",
    "path": "survivor"
   },
   {
    "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
    "ticker": "FIONA",
-   "risk": 67,
-   "verdict": "SKIP",
+   "risk": 41,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T01:55:46+00:00",
+   "scored_at": "2026-11-22T09:07:18+00:00",
    "path": "young"
-  },
-  {
-   "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-   "ticker": "CATE",
-   "risk": 50,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-20T21:00:50+00:00",
-   "path": "survivor"
   },
   {
    "mint": "5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW",
@@ -192,19 +168,67 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T01:55:44+00:00",
+   "scored_at": "2026-11-22T09:07:20+00:00",
    "path": "young"
   },
   {
    "mint": "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump",
    "ticker": "Singularity",
-   "risk": 45,
-   "verdict": "CAUTION",
+   "risk": 52,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T01:55:36+00:00",
+   "scored_at": "2026-11-22T09:07:19+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+   "ticker": "TROLL",
+   "risk": 54,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-22T09:08:22+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump",
+   "ticker": "ROCKET",
+   "risk": 54,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-22T09:07:20+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump",
+   "ticker": "PushCoin",
+   "risk": 60,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-22T09:07:21+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J",
+   "ticker": "GTACAT",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-22T09:07:10+00:00",
    "path": "young"
   }
  ]
