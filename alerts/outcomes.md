@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-22 09:08 UTC
+# Outcomes (DEX Screener, free) - 2026-11-22 15:39 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,16 +6,17 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 2 | 69.0% | 0 |
 | CAUTION | 6h | 2 | 22.5% | 0 |
-| SKIP | 1h | 10 | 7.7% | 3 |
-| SKIP | 6h | 10 | 13.6% | 3 |
+| SKIP | 1h | 12 | 0.2% | 3 |
+| SKIP | 6h | 12 | 0.2% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | - | - | - |
-| PushCoin | `3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump` | SKIP | 60 | - | - | - |
-| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | SKIP | 54 | - | - | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | - | - | - |
-| GTACAT | `3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J` | SKIP | 53 | - | - | - |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | - | - | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 3.5% / liq $1,830,079 | 3.5% / liq $1,830,079 | - |
+| PushCoin | `3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump` | SKIP | 60 | -17.2% / liq $84,270 | -17.2% / liq $84,270 | - |
+| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | SKIP | 54 | -9.7% / liq $77,739 | -9.7% / liq $77,739 | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.2% / liq $2,818,233 | 0.2% / liq $2,818,233 | - |
+| GTACAT | `3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J` | SKIP | 53 | -78.9% / liq $0 | -78.9% / liq $0 | - |
 | Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 45 | 14.2% / liq $64,304 | 14.2% / liq $64,304 | - |
 | Singularit | `8Q14yJbbwzK9NsvFTucUF38qBu51cutGJg6fmLXGkG8A` | SKIP | 56 | 13040.1% / liq $0 | 13040.1% / liq $0 | - |
 | FIONA | `B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump` | CAUTION | 43 | 69.0% / liq $145,334 | 22.5% / liq $123,640 | - |
@@ -25,6 +26,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUNANI | `2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump` | SKIP | 60 | -59.5% / liq $62,789 | -99.9% / liq $2,047 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 0.5% / liq $3,230,122 | 0.1% / liq $3,223,188 | - |
 | win | `9N6zGSBKeJMcDUt2sk9iQzoawqt2thg2KJv9K5gxDNJX` | SKIP | 53 | 10076.0% / liq $0 | 10076.0% / liq $0 | - |
-| JENSEN | `DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump` | SKIP | 59 | 11.7% / liq $84,352 | 11.7% / liq $84,352 | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.9% / liq $2,513,009 | 0.9% / liq $2,513,009 | - |
-| win | `5rDMySC3buoNTY6gE6sWzpFzvHfBpP5LGAVpjGCMaijV` | SKIP | 53 | 17660.0% / liq $0 | 17660.0% / liq $0 | - |
