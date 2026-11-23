@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 01:51 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 02:06 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,6 +6,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 2 | 30.8% | 0 |
 | CAUTION | 6h | 1 | 14.2% | 0 |
+| CAUTION | 24h | 1 | 10.0% | 0 |
 | SKIP | 1h | 11 | -2.1% | 2 |
 | SKIP | 6h | 7 | -1.9% | 1 |
 
@@ -23,4 +24,4 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | SKIP | 54 | -9.7% / liq $77,739 | -9.7% / liq $77,739 | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.2% / liq $2,818,233 | 0.2% / liq $2,818,233 | - |
 | GTACAT | `3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J` | SKIP | 53 | -78.9% / liq $0 | -78.9% / liq $0 | - |
-| Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 45 | 14.2% / liq $64,304 | 14.2% / liq $64,304 | - |
+| Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 45 | 14.2% / liq $64,304 | 14.2% / liq $64,304 | 10.0% / liq $65,738 |
