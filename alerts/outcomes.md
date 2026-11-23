@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 22:15 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 22:29 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,6 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 5 | 22.3% | 0 |
 | SKIP | 1h | 21 | -0.3% | 10 |
 | SKIP | 6h | 21 | -2.1% | 11 |
+| SKIP | 24h | 3 | -76.1% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -34,6 +35,6 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Fly | `AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn` | SKIP | 53 | -0.3% / liq $0 | -0.3% / liq $0 | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 49 | 30.8% / liq $122,656 | 22.3% / liq $119,115 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.2% / liq $1,325,116 | 3.0% / liq $1,349,929 | - |
-| UCASH | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | SKIP | 59 | -11.7% / liq $75,311 | 27.4% / liq $92,366 | - |
-| XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | -76.1% / liq $0 | - |
-| cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | -22.6% / liq $96,219 | - |
+| UCASH | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | SKIP | 59 | -11.7% / liq $75,311 | 27.4% / liq $92,366 | 7.1% / liq $94,071 |
+| XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | -76.1% / liq $0 | -76.1% / liq $0 |
+| cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | -22.6% / liq $96,219 | -79.2% / liq $50,220 |

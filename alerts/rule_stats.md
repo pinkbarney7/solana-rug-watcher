@@ -1,29 +1,29 @@
 # Rule stats - outcome learning (info/risk only, not advice)
-Updated 2026-11-23 22:15 UTC. Labeled coins: 171 (71 dead/pulled, 100 still alive). Base dead rate 41.5%. Forward 24h samples so far: 92.
+Updated 2026-11-23 22:29 UTC. Labeled coins: 173 (71 dead/pulled, 102 still alive). Base dead rate 41.0%. Forward 24h samples so far: 95.
 
 **Caveats:** history labels are 'dead now vs alive now' plus the liquidity-pull watch, which mostly watched SKIP coins, so precision is biased upward for SKIP-heavy rules. Clean 1h/6h/24h forward samples need ~a week before thresholds should move. Nothing here changes alerting automatically.
 
 | check # | flagged (FAIL/WARN) n | dead when flagged (precision) | false positives (flagged, alive) | dead when PASS | lift vs base |
 |---|---|---|---|---|---|
-| 1 | 156 | 45% | 86 (55%) | 0% of 13 | +3% |
-| 2 | 12 | 0% | 12 (100%) | 45% of 159 | -42% |
-| 3 | 71 | 37% | 45 (63%) | 45% of 100 | -5% |
-| 5 | 114 | 54% | 53 (46%) | 18% of 57 | +12% |
-| 6 | 28 | 11% | 25 (89%) | 48% of 142 | -31% |
-| 7 | 111 | 46% | 60 (54%) | 36% of 53 | +4% |
-| 8 | 127 | 55% | 57 (45%) | 2% of 44 | +14% |
-| 9 | 82 | 35% | 53 (65%) | 47% of 89 | -6% |
-| 10 | 92 | 65% | 32 (35%) | 14% of 79 | +24% |
-| 11 | 171 | 42% | 100 (58%) | n/a | +0% |
-| 12 | 171 | 42% | 100 (58%) | n/a | +0% |
-| 13 | 171 | 42% | 100 (58%) | n/a | +0% |
-| 14 | 171 | 42% | 100 (58%) | n/a | +0% |
-| 15 | 171 | 42% | 100 (58%) | n/a | +0% |
-| 16 | 42 | 36% | 27 (64%) | 43% of 129 | -6% |
-| 18 | 171 | 42% | 100 (58%) | n/a | +0% |
+| 1 | 158 | 44% | 88 (56%) | 0% of 13 | +3% |
+| 2 | 12 | 0% | 12 (100%) | 44% of 161 | -41% |
+| 3 | 73 | 36% | 47 (64%) | 45% of 100 | -5% |
+| 5 | 116 | 53% | 55 (47%) | 18% of 57 | +12% |
+| 6 | 28 | 11% | 25 (89%) | 47% of 144 | -30% |
+| 7 | 111 | 46% | 60 (54%) | 35% of 55 | +5% |
+| 8 | 129 | 54% | 59 (46%) | 2% of 44 | +13% |
+| 9 | 84 | 35% | 55 (65%) | 47% of 89 | -7% |
+| 10 | 92 | 65% | 32 (35%) | 14% of 81 | +24% |
+| 11 | 173 | 41% | 102 (59%) | n/a | +0% |
+| 12 | 173 | 41% | 102 (59%) | n/a | +0% |
+| 13 | 173 | 41% | 102 (59%) | n/a | +0% |
+| 14 | 173 | 41% | 102 (59%) | n/a | +0% |
+| 15 | 173 | 41% | 102 (59%) | n/a | +0% |
+| 16 | 42 | 36% | 27 (64%) | 43% of 131 | -5% |
+| 18 | 173 | 41% | 102 (59%) | n/a | +0% |
 
 ## Suggested bar changes (logged to bar_changes.jsonl, need Barney's yes; not applied)
-- check #3: lower weight: flagged coins die no more often than average (precision 37% vs base 42%, n=71)
-- check #9: lower weight: flagged coins die no more often than average (precision 35% vs base 42%, n=82)
-- check #10: consider treating WARN like FAIL: strong lift (precision 65% vs base 42%, n=92)
-- check #16: lower weight: flagged coins die no more often than average (precision 36% vs base 42%, n=42)
+- check #3: lower weight: flagged coins die no more often than average (precision 36% vs base 41%, n=73)
+- check #9: lower weight: flagged coins die no more often than average (precision 34% vs base 41%, n=84)
+- check #10: consider treating WARN like FAIL: strong lift (precision 65% vs base 41%, n=92)
+- check #16: lower weight: flagged coins die no more often than average (precision 36% vs base 41%, n=42)
