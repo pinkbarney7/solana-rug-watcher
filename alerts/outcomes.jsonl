@@ -14,3 +14,4 @@
 {"mint": "7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k", "ticker": "APPLE", "t0": 1795408719.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001253, "liq0": 191019.93, "mcap0": 125380.0}
 {"mint": "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump", "ticker": "Singularity", "t0": 1795408718.0, "verdict": "CAUTION", "risk": 41, "p0": 0.0005088, "liq0": 88403.42, "mcap0": 483608.0}
 {"mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump", "ticker": "MINELIUS", "t0": 1795409267.0, "verdict": "SKIP", "risk": 67, "p0": 0.008202, "liq0": 214647.61, "mcap0": 8171173.0}
+{"mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump", "ticker": "pippin", "t0": 1795410479.0, "verdict": "SKIP", "risk": 52, "p0": 0.01733, "liq0": 3333793.25, "mcap0": 17333663.0}
