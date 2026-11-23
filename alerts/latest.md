@@ -1,9 +1,9 @@
-# Last scan 2026-11-23T02:57:02Z - mode: free (box heartbeat 8 min old (fresh) - box covers Helius)
+# Last scan 2026-11-23T02:57:24Z - mode: free (box heartbeat 9 min old (fresh) - box covers Helius)
 
 ```
-[fast_scan] 121 candidate mints from 9 source tags; 118 with pair data; 25 >= $50,000 liq; 11 pass survivor pre-gates (10s)
+[fast_scan] 121 candidate mints from 9 source tags; 118 with pair data; 25 >= $50,000 liq; 11 pass survivor pre-gates (0s)
 [fast_scan] FREE-ONLY pass: 7 candidate(s) NOT scored (no Helius) - results UNVERIFIED
-# Market scan 2026-11-23 02:56 UTC
+# Market scan 2026-11-23 02:57 UTC
 
 **UNVERIFIED: free-API-only pass (no Helius scoring this run). Rows below are pre-rank red flags from DEX Screener/GeckoTerminal/pump.fun only.**
 
@@ -34,7 +34,7 @@ Must also pass: no rug-funder or same-operator-as-rug link, no coordinated launc
 |---|---|---|---|---|---|---|---|
 | [ZEC](https://dexscreener.com/solana/A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS) | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | $2.74M | $19.2k | -1% | +1% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.0%, round-trip loss 0.0%; $100 sell impact 0.0%, round-trip 0.0% / RugCheck 71, LP locked 0.16580631041766342%: Mint Authority still enabled (danger); Mutable metadata (warn) |
 | [VINE](https://pump.fun/coin/6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump) | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | $1.40M | $8.66M | -1% | -2% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.5%, round-trip loss 0.5%; $100 sell impact 0.5%, round-trip 0.5% / RugCheck 1, LP locked 98.17769572006856%: no risks listed |
-| [CATE](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | $1.34M | $18.42M | -3% | -2% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.4%, round-trip loss 0.4%; $100 sell impact 0.4%, round-trip 0.5% / RugCheck 1, LP locked 78.7377039596612%: no risks listed |
+| [CATE](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | $1.34M | $18.42M | -3% | -2% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.4%, round-trip loss 0.4%; $100 sell impact 0.4%, round-trip 0.5% / RugCheck 1, LP locked 78.72698137903438%: no risks listed |
 | [TROLL](https://dexscreener.com/solana/5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2) | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | $1.81M | $21.57M | -1% | +5% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.3%, round-trip loss 0.3%; $100 sell impact 0.3%, round-trip 0.4% / RugCheck 1, LP locked 93.83641221839189%: no risks listed |
 | [FLOAT](https://dexscreener.com/solana/Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr) | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | $333.3k | $3.74M | -9% | -6% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.6%, round-trip loss 0.9%; $100 sell impact 1.3%, round-trip 1.7% / RugCheck 1, LP locked 72.89674984049827%: no risks listed |
 | [DCTY](https://pump.fun/coin/9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump) | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | $257.4k | $2.94M | +29% | -12% | none flagged (UNVERIFIED) | Jupiter exit test PASS: $25 sell impact 0.5%, round-trip loss 0.7%; $100 sell impact 0.8%, round-trip 1.0% / RugCheck 1, LP locked 57.5159434523464%: no risks listed |
@@ -54,7 +54,7 @@ Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free 
 | [UCASH](https://pump.fun/coin/7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump) | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | $91.7k | $1.51M | -10% | +27% | +3074% | 23.7x | none flagged (still high risk) | not scored |
 | [BIRDMAGA](https://pump.fun/coin/J9AvtJRDreHG8B8PnW4tNMvH5c2c1jxfUfDvjrWtpump) | `J9AvtJRDreHG8B8PnW4tNMvH5c2c1jxfUfDvjrWtpump` | $32.0k | $208.0k | +110% | +635% | +635% | 7.7x | thin liq $32.0k; spike (+110% 1h, +635% 6h) | not scored |
 
-_Timing: total 25s (discovery 9.0s, screen 1.3s, GT prime 15.1s, scoring 0.0s for 0 coins, 0 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 0/18; Helius 429s 0; DEX Screener ok._
+_Timing: total 0s (discovery 0.0s, screen 0.1s, GT prime 0.3s, scoring 0.0s for 0 coins, 0 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 17/18; Helius 429s 0; DEX Screener ok._
 
 _Full reports: out/<mint>.md (+ .json)_
 ```
