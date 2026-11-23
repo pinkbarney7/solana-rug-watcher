@@ -21,3 +21,4 @@
 {"mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump", "ticker": "NOHR", "t0": 1795416642.0, "verdict": "SKIP", "risk": 51, "p0": 0.002235, "liq0": 110134.79, "mcap0": 2215252.0, "1h": {"price": 0.002465, "liq": 116082.73, "chg_pct": 10.3, "liq_chg_pct": 5.4, "late_min": 2}}
 {"mint": "M21c1r5EtGPsPFfQTg8vbzUCAyXcPZH4iEHGzzxoPwc", "ticker": "Fly", "t0": 1795419057.0, "verdict": "SKIP", "risk": 53, "p0": 8.694e-07, "liq0": 132839.01, "mcap0": 86949.0}
 {"mint": "CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK", "ticker": "KOOP", "t0": 1795421033.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001125, "liq0": 202726.99, "mcap0": 112552.0}
+{"mint": "GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj", "ticker": "cCAT", "t0": 1795422069.0, "verdict": "SKIP", "risk": 53, "p0": 8.514e-05, "liq0": 129032.62, "mcap0": 85144.0}
