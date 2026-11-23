@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 11:43 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 11:46 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 2 | 30.8% | 0 |
 | CAUTION | 6h | 2 | 22.3% | 0 |
 | SKIP | 1h | 18 | 0.2% | 7 |
-| SKIP | 6h | 10 | 0.4% | 3 |
+| SKIP | 6h | 11 | 0.4% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 51 | 10.3% / liq $116,083 | - | - |
 | AVA | `DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump` | SKIP | 45 | 2.3% / liq $946,215 | - | - |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | SKIP | 56 | 17.6% / liq $57,749 | - | - |
-| cCAT | `FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq` | SKIP | 53 | 16592.4% / liq $0 | - | - |
+| cCAT | `FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq` | SKIP | 53 | 16592.4% / liq $0 | 16592.4% / liq $0 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.8% / liq $3,264,868 | 6.3% / liq $3,403,799 | - |
 | MINELIUS | `E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump` | SKIP | 67 | 2.2% / liq $217,947 | 74.0% / liq $286,583 | - |
 | APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | -81.4% / liq $0 | -81.4% / liq $0 | - |
