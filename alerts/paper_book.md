@@ -1,13 +1,13 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-23 05:09 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-23 05:21 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 33 | Open: 2 | Not opened (failed sell gate): 0
 Win rate 27% | avg return -18.7% | expectancy $-4.68 per $25 trade | total $-154.34
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-22 23:16 UTC | open | +15.5% |
-| ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-22 15:39 UTC | open | +8.0% |
+| MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-22 23:16 UTC | open | +26.4% |
+| ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-22 15:39 UTC | open | +10.8% |
 | Singularity | [`7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump`](https://pump.fun/coin/7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump) | scored_fast_scan | CAUTION | 2026-11-22 01:55 UTC | closed (take profit +100%) | +157.5% |
 | CoT | [`5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW`](https://dexscreener.com/solana/5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW) | scored_fast_scan | CAUTION | 2026-11-21 02:01 UTC | closed (take profit +100%) | +133.1% |
 | FIONA | [`B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump`](https://pump.fun/coin/B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump) | scored_fast_scan | CAUTION | 2026-11-20 13:04 UTC | closed (stop -50%) | -54.9% |
