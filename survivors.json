@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:18:31",
+ "updated": "2026-11-23T11:31:31",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:29+00:00",
+   "scored_at": "2026-11-23T11:30:28+00:00",
    "path": "survivor"
   },
   {
@@ -35,7 +35,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:28+00:00",
+   "scored_at": "2026-11-23T11:30:29+00:00",
    "path": "survivor"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:28+00:00",
+   "scored_at": "2026-11-23T11:30:28+00:00",
    "path": "young"
   },
   {
@@ -144,7 +144,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:18:31+00:00",
+   "scored_at": "2026-11-23T11:31:31+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:27+00:00",
+   "scored_at": "2026-11-23T11:30:30+00:00",
    "path": "young"
   },
   {
@@ -228,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:19+00:00",
+   "scored_at": "2026-11-23T11:30:30+00:00",
    "path": "young"
   },
   {
@@ -258,13 +258,13 @@
   {
    "mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump",
    "ticker": "COPIUM",
-   "risk": 52,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:29+00:00",
+   "scored_at": "2026-11-23T11:30:19+00:00",
    "path": "young"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:17:28+00:00",
+   "scored_at": "2026-11-23T11:30:28+00:00",
    "path": "young"
   },
   {
@@ -349,6 +349,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-23T11:17:29+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ",
+   "ticker": "HOLD",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-23T11:30:30+00:00",
    "path": "young"
   }
  ]
