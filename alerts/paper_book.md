@@ -1,18 +1,18 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-23 11:31 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-23 11:36 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 33 | Open: 7 | Not opened (failed sell gate): 0
 Win rate 27% | avg return -18.7% | expectancy $-4.68 per $25 trade | total $-154.34
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| SIDOOR | [`zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor`](https://dexscreener.com/solana/zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor) | scored_fast_scan | CAUTION | 2026-11-23 11:01 UTC | open | -9.7% |
-| cateball | [`4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump`](https://pump.fun/coin/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump) | scored_fast_scan | CAUTION | 2026-11-23 09:56 UTC | open | +0.8% |
-| VINE | [`6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump`](https://pump.fun/coin/6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +0.6% |
+| SIDOOR | [`zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor`](https://dexscreener.com/solana/zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor) | scored_fast_scan | CAUTION | 2026-11-23 11:01 UTC | open | -10.1% |
+| cateball | [`4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump`](https://pump.fun/coin/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump) | scored_fast_scan | CAUTION | 2026-11-23 09:56 UTC | open | -2.6% |
+| VINE | [`6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump`](https://pump.fun/coin/6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +0.4% |
 | TROLL | [`5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2`](https://dexscreener.com/solana/5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +0.9% |
-| NOHR | [`Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump`](https://pump.fun/coin/Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump) | scored_fast_scan | CAUTION | 2026-11-23 07:14 UTC | open | -24.0% |
-| MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-22 23:16 UTC | open | -5.3% |
-| ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-22 15:39 UTC | open | -25.5% |
+| NOHR | [`Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump`](https://pump.fun/coin/Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump) | scored_fast_scan | CAUTION | 2026-11-23 07:14 UTC | open | -23.2% |
+| MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-22 23:16 UTC | open | -7.3% |
+| ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-22 15:39 UTC | open | -27.3% |
 | Singularity | [`7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump`](https://pump.fun/coin/7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump) | scored_fast_scan | CAUTION | 2026-11-22 01:55 UTC | closed (take profit +100%) | +157.5% |
 | CoT | [`5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW`](https://dexscreener.com/solana/5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW) | scored_fast_scan | CAUTION | 2026-11-21 02:01 UTC | closed (take profit +100%) | +133.1% |
 | FIONA | [`B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump`](https://pump.fun/coin/B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump) | scored_fast_scan | CAUTION | 2026-11-20 13:04 UTC | closed (stop -50%) | -54.9% |
