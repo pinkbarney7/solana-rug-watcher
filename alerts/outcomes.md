@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 17:21 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 17:32 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | 5.0% | 0 |
 | CAUTION | 6h | 4 | 22.3% | 0 |
 | SKIP | 1h | 23 | -0.3% | 10 |
-| SKIP | 6h | 18 | 0.4% | 8 |
+| SKIP | 6h | 19 | -0.3% | 9 |
 | SKIP | 24h | 2 | 4.5% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -17,7 +17,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | KOOP | `1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF` | SKIP | 67 | 0.2% / liq $0 | - | - |
 | PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | - | - |
 | KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | - | - |
-| HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | - | - |
+| HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | -1.6% / liq $0 | - |
 | ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | - |
 | SIDOOR | `zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor` | CAUTION | 43 | 5.0% / liq $51,014 | -10.1% / liq $47,943 | - |
 | AI | `UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9` | SKIP | 53 | -77.6% / liq $0 | -77.6% / liq $0 | - |
