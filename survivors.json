@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:17:46",
+ "updated": "2026-11-23T12:27:58",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:44+00:00",
+   "scored_at": "2026-11-23T12:26:53+00:00",
    "path": "survivor"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:43+00:00",
+   "scored_at": "2026-11-23T12:26:43+00:00",
    "path": "young"
   },
   {
@@ -144,7 +144,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:45+00:00",
+   "scored_at": "2026-11-23T12:26:52+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:44+00:00",
+   "scored_at": "2026-11-23T12:26:51+00:00",
    "path": "young"
   },
   {
@@ -228,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:43+00:00",
+   "scored_at": "2026-11-23T12:26:54+00:00",
    "path": "young"
   },
   {
@@ -264,7 +264,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:34+00:00",
+   "scored_at": "2026-11-23T12:26:54+00:00",
    "path": "young"
   },
   {
@@ -282,13 +282,13 @@
   {
    "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump",
    "ticker": "NOHR",
-   "risk": 43,
+   "risk": 42,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:16:42+00:00",
+   "scored_at": "2026-11-23T12:26:52+00:00",
    "path": "young"
   },
   {
@@ -348,7 +348,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:07:50+00:00",
+   "scored_at": "2026-11-23T12:26:53+00:00",
    "path": "young"
   },
   {
@@ -399,6 +399,18 @@
    ],
    "scored_at": "2026-11-23T12:07:49+00:00",
    "path": "young"
+  },
+  {
+   "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
+   "ticker": "CYBERLEEK",
+   "risk": 39,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-23T12:27:56+00:00",
+   "path": "survivor"
   }
  ]
 }

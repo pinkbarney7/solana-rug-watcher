@@ -25,3 +25,4 @@
 {"mint": "93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump", "ticker": "PumpMeme", "t0": 1795433703.0, "verdict": "SKIP", "risk": 60, "p0": 0.001905, "liq0": 100764.35, "mcap0": 1899990.0}
 {"mint": "1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF", "ticker": "KOOP", "t0": 1795435669.0, "verdict": "SKIP", "risk": 67, "p0": 0.0001632, "liq0": 256746.58, "mcap0": 163275.0}
 {"mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2", "ticker": "TROLL", "t0": 1795435732.0, "verdict": "SKIP", "risk": 54, "p0": 0.02242, "liq0": 2006911.21, "mcap0": 22397187.0}
+{"mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg", "ticker": "CYBERLEEK", "t0": 1795436876.0, "verdict": "CAUTION", "risk": 39, "p0": 0.001358, "liq0": 329962.66, "mcap0": 1358816.0}
