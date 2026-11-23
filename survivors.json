@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:06:09",
+ "updated": "2026-11-23T21:12:45",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -121,18 +121,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-22T17:06:23+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J",
-   "ticker": "GTACAT",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-22T09:07:10+00:00",
    "path": "young"
   },
   {
