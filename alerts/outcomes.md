@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 23:14 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 23:27 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,6 +6,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | 5.0% | 0 |
 | CAUTION | 6h | 5 | 22.3% | 0 |
+| CAUTION | 24h | 1 | -43.9% | 0 |
 | SKIP | 1h | 21 | -0.3% | 10 |
 | SKIP | 6h | 21 | -2.1% | 11 |
 | SKIP | 24h | 4 | -4.6% | 1 |
@@ -33,7 +34,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | -81.4% / liq $0 | -81.4% / liq $0 | - |
 | Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | -6.8% / liq $60,935 | -12.1% / liq $59,438 | - |
 | Fly | `AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn` | SKIP | 53 | -0.3% / liq $0 | -0.3% / liq $0 | - |
-| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 49 | 30.8% / liq $122,656 | 22.3% / liq $119,115 | - |
+| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 49 | 30.8% / liq $122,656 | 22.3% / liq $119,115 | -43.9% / liq $80,952 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.2% / liq $1,325,116 | 3.0% / liq $1,349,929 | -4.6% / liq $1,307,938 |
 | UCASH | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | SKIP | 59 | -11.7% / liq $75,311 | 27.4% / liq $92,366 | 7.1% / liq $94,071 |
 | XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | -76.1% / liq $0 | -76.1% / liq $0 |
