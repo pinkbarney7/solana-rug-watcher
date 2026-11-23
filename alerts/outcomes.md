@@ -1,18 +1,18 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 18:16 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 18:29 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | 5.0% | 0 |
-| CAUTION | 6h | 4 | 22.3% | 0 |
+| CAUTION | 6h | 5 | 22.3% | 0 |
 | SKIP | 1h | 22 | 0.2% | 10 |
 | SKIP | 6h | 22 | -1.6% | 11 |
 | SKIP | 24h | 1 | 4.5% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | - | - |
+| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | 22.3% / liq $363,723 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -0.4% / liq $1,873,059 | -2.1% / liq $1,873,750 | - |
 | KOOP | `1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF` | SKIP | 67 | 0.2% / liq $0 | -90.0% / liq $0 | - |
 | PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | -39.3% / liq $79,987 | - |
