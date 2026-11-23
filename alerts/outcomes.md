@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 17:32 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 17:42 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,17 +6,17 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | 5.0% | 0 |
 | CAUTION | 6h | 4 | 22.3% | 0 |
-| SKIP | 1h | 23 | -0.3% | 10 |
-| SKIP | 6h | 19 | -0.3% | 9 |
-| SKIP | 24h | 2 | 4.5% | 0 |
+| SKIP | 1h | 22 | 0.2% | 10 |
+| SKIP | 6h | 20 | -0.3% | 10 |
+| SKIP | 24h | 1 | 4.5% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -0.4% / liq $1,873,059 | - | - |
 | KOOP | `1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF` | SKIP | 67 | 0.2% / liq $0 | - | - |
-| PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | - | - |
-| KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | - | - |
+| PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | -39.3% / liq $79,987 | - |
+| KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | - |
 | HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | -1.6% / liq $0 | - |
 | ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | - |
 | SIDOOR | `zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor` | CAUTION | 43 | 5.0% / liq $51,014 | -10.1% / liq $47,943 | - |
@@ -39,4 +39,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | -76.1% / liq $0 | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | -22.6% / liq $96,219 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.4% / liq $2,427,041 | 0.4% / liq $2,425,303 | 4.5% / liq $2,310,204 |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -0.9% / liq $1,428,866 | -1.9% / liq $1,417,679 | 0.9% / liq $1,496,836 |
