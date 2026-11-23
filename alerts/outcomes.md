@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 21:51 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 22:04 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
