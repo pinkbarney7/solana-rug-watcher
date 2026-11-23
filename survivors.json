@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:50:06",
+ "updated": "2026-11-23T11:01:48",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:49:03+00:00",
+   "scored_at": "2026-11-23T11:00:45+00:00",
    "path": "survivor"
   },
   {
@@ -35,7 +35,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:49:02+00:00",
+   "scored_at": "2026-11-23T11:00:46+00:00",
    "path": "survivor"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:49:01+00:00",
+   "scored_at": "2026-11-23T11:00:44+00:00",
    "path": "young"
   },
   {
@@ -144,7 +144,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:50:06+00:00",
+   "scored_at": "2026-11-23T11:01:48+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:49:03+00:00",
+   "scored_at": "2026-11-23T11:00:45+00:00",
    "path": "young"
   },
   {
@@ -228,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:49:03+00:00",
+   "scored_at": "2026-11-23T11:00:43+00:00",
    "path": "young"
   },
   {
@@ -258,13 +258,13 @@
   {
    "mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump",
    "ticker": "COPIUM",
-   "risk": 57,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:49:01+00:00",
+   "scored_at": "2026-11-23T11:00:44+00:00",
    "path": "young"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T10:48:53+00:00",
+   "scored_at": "2026-11-23T11:00:45+00:00",
    "path": "young"
   },
   {
@@ -337,6 +337,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-23T10:09:01+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor",
+   "ticker": "SIDOOR",
+   "risk": 43,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-23T11:00:35+00:00",
    "path": "young"
   }
  ]
