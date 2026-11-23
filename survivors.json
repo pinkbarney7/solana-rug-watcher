@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:27:58",
+ "updated": "2026-11-23T12:43:01",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:26:53+00:00",
+   "scored_at": "2026-11-23T12:41:58+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:17:46+00:00",
+   "scored_at": "2026-11-23T12:43:01+00:00",
    "path": "survivor"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:26:43+00:00",
+   "scored_at": "2026-11-23T12:41:57+00:00",
    "path": "young"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:26:51+00:00",
+   "scored_at": "2026-11-23T12:41:47+00:00",
    "path": "young"
   },
   {
@@ -228,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:26:54+00:00",
+   "scored_at": "2026-11-23T12:41:55+00:00",
    "path": "young"
   },
   {
@@ -258,13 +258,13 @@
   {
    "mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump",
    "ticker": "COPIUM",
-   "risk": 57,
+   "risk": 52,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:26:54+00:00",
+   "scored_at": "2026-11-23T12:41:57+00:00",
    "path": "young"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:26:52+00:00",
+   "scored_at": "2026-11-23T12:41:56+00:00",
    "path": "young"
   },
   {
@@ -384,7 +384,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T11:54:44+00:00",
+   "scored_at": "2026-11-23T12:41:56+00:00",
    "path": "young"
   },
   {
@@ -409,7 +409,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-23T12:27:56+00:00",
+   "scored_at": "2026-11-23T12:41:57+00:00",
    "path": "survivor"
   }
  ]
