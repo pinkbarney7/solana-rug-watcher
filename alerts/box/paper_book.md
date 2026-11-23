@@ -1,12 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-22 21:03 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-22 21:24 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 38 | Open: 1 | Not opened (failed sell gate): 0
 Win rate 24% | avg return -36.5% | expectancy $-9.13 per $25 trade | total $-346.85
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Chud | [`6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6`](https://dexscreener.com/solana/6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6) | new_launch_scored | CAUTION | 2026-11-22 19:09 EST | open | +4.3% |
+| Chud | [`6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6`](https://dexscreener.com/solana/6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6) | new_launch_scored | CAUTION | 2026-11-22 19:09 EST | open | +4.2% |
 | HOGE | [`FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump`](https://pump.fun/coin/FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump) | scored_fast_scan | CAUTION | 2026-11-17 08:11 EST | closed (24h time exit) | +13.0% |
 | bul | [`Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv`](https://dexscreener.com/solana/Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv) | scored_fast_scan | CAUTION | 2026-11-17 08:11 EST | closed (stop -50%) | -94.7% |
 | neet | [`Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump`](https://pump.fun/coin/Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump) | new_launch_scored | CAUTION | 2026-11-17 03:01 EST | closed (24h time exit) | -20.5% |
