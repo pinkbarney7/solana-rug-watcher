@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 04:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 04:39 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,15 +6,18 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 1 | 30.8% | 0 |
 | SKIP | 1h | 11 | -2.1% | 2 |
-| SKIP | 6h | 7 | -1.9% | 1 |
+| SKIP | 6h | 11 | -1.9% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | - | - | - |
+| Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | - | - | - |
+| Fly | `AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn` | SKIP | 53 | - | - | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 49 | 30.8% / liq $122,656 | - | - |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.2% / liq $1,325,116 | - | - |
-| UCASH | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | SKIP | 59 | -11.7% / liq $75,311 | - | - |
-| XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | - | - |
-| cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | - | - |
+| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.2% / liq $1,325,116 | 3.0% / liq $1,349,929 | - |
+| UCASH | `7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump` | SKIP | 59 | -11.7% / liq $75,311 | 27.4% / liq $92,366 | - |
+| XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | -76.1% / liq $0 | - |
+| cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | -22.6% / liq $96,219 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.4% / liq $2,427,041 | 0.4% / liq $2,425,303 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -0.9% / liq $1,428,866 | -1.9% / liq $1,417,679 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 3.5% / liq $1,830,079 | 3.5% / liq $1,830,079 | - |

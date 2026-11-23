@@ -1,21 +1,21 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795389402.7289655,
-"liq": 1686095.84,
+"ts": 1795408781.6407998,
+"liq": 1723917.3699999999,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795389402.728955,
-"liq": 1446016.1400000001,
+"ts": 1795408781.6407895,
+"liq": 1441665.1199999999,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1795338502.3046103,
-"liq": 6189429.63,
+"ts": 1795408781.640797,
+"liq": 6192829.02,
 "holders": null,
 "risk": 73,
 "verdict": "SKIP"
@@ -105,8 +105,8 @@
 "verdict": "SKIP"
 },
 "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-"ts": 1795389402.7289646,
-"liq": 110943.89,
+"ts": 1795408781.6407986,
+"liq": 88403.42,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -119,10 +119,10 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795389402.7289593,
-"liq": 81381.5,
+"ts": 1795408781.6407816,
+"liq": 81136.27,
 "holders": null,
-"risk": 40,
+"risk": 42,
 "verdict": "CAUTION"
 },
 "3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump": {
@@ -147,10 +147,10 @@
 "verdict": "SKIP"
 },
 "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
-"ts": 1795389402.7289517,
-"liq": 107780.67000000001,
+"ts": 1795408781.6407933,
+"liq": 96021.14000000001,
 "holders": null,
-"risk": 66,
+"risk": 59,
 "verdict": "SKIP"
 },
 "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": {
@@ -161,10 +161,24 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795389402.7289476,
-"liq": 117317.42,
+"ts": 1795408781.6407917,
+"liq": 124377.8,
 "holders": null,
 "risk": 49,
 "verdict": "CAUTION"
+},
+"AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn": {
+"ts": 1795408781.6407862,
+"liq": 125881.09,
+"holders": null,
+"risk": 53,
+"verdict": "SKIP"
+},
+"7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k": {
+"ts": 1795408781.6407952,
+"liq": 191019.93,
+"holders": null,
+"risk": 53,
+"verdict": "SKIP"
 }
 }

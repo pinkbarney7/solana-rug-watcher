@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:20:25",
+ "updated": "2026-11-23T04:39:41",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -11,7 +11,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T09:07:19+00:00",
+   "scored_at": "2026-11-23T04:38:39+00:00",
    "path": "survivor"
   },
   {
@@ -35,7 +35,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T23:15:38+00:00",
+   "scored_at": "2026-11-23T04:38:38+00:00",
    "path": "survivor"
   },
   {
@@ -168,7 +168,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T23:15:39+00:00",
+   "scored_at": "2026-11-23T04:38:38+00:00",
    "path": "young"
   },
   {
@@ -186,13 +186,13 @@
   {
    "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump",
    "ticker": "ROCKET",
-   "risk": 40,
+   "risk": 42,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T23:15:38+00:00",
+   "scored_at": "2026-11-23T04:38:28+00:00",
    "path": "young"
   },
   {
@@ -228,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T23:16:42+00:00",
+   "scored_at": "2026-11-23T04:39:41+00:00",
    "path": "survivor"
   },
   {
@@ -258,13 +258,13 @@
   {
    "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump",
    "ticker": "cateball",
-   "risk": 66,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T23:15:37+00:00",
+   "scored_at": "2026-11-23T04:38:38+00:00",
    "path": "young"
   },
   {
@@ -276,7 +276,31 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-22T23:15:29+00:00",
+   "scored_at": "2026-11-23T04:38:37+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k",
+   "ticker": "APPLE",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-23T04:38:39+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn",
+   "ticker": "Fly",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-23T04:38:37+00:00",
    "path": "young"
   }
  ]
