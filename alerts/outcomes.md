@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 04:39 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 04:48 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -10,6 +10,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MINELIUS | `E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump` | SKIP | 67 | - | - | - |
 | APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | - | - | - |
 | Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | - | - | - |
 | Fly | `AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn` | SKIP | 53 | - | - | - |
