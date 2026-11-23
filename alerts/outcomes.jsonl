@@ -19,3 +19,4 @@
 {"mint": "GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj", "ticker": "cCAT", "t0": 1795422069.0, "verdict": "SKIP", "risk": 53, "p0": 8.514e-05, "liq0": 129032.62, "mcap0": 85144.0, "1h": {"price": 1.153e-07, "liq": 0, "chg_pct": -99.9, "liq_chg_pct": -100.0, "late_min": 9}}
 {"mint": "UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9", "ticker": "AI", "t0": 1795428541.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001034, "liq0": 159385.19, "mcap0": 103471.0, "1h": {"price": 2.32e-05, "liq": 0, "chg_pct": -77.6, "liq_chg_pct": -100.0, "late_min": 2}}
 {"mint": "zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor", "ticker": "SIDOOR", "t0": 1795431635.0, "verdict": "CAUTION", "risk": 43, "p0": 0.0004095, "liq0": 58058.43, "mcap0": 380030.0}
+{"mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "ticker": "ROCKET", "t0": 1795432648.0, "verdict": "CAUTION", "risk": 33, "p0": 0.0005828, "liq0": 66343.95, "mcap0": 563959.0}
