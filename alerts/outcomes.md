@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 09:06 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 09:15 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,6 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 1 | 22.3% | 0 |
 | SKIP | 1h | 21 | 0.2% | 6 |
 | SKIP | 6h | 11 | -1.9% | 2 |
+| SKIP | 24h | 5 | -32.3% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -30,8 +31,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | -22.6% / liq $96,219 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.4% / liq $2,427,041 | 0.4% / liq $2,425,303 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -0.9% / liq $1,428,866 | -1.9% / liq $1,417,679 | - |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 3.5% / liq $1,830,079 | 3.5% / liq $1,830,079 | - |
-| PushCoin | `3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump` | SKIP | 60 | -17.2% / liq $84,270 | -17.2% / liq $84,270 | - |
-| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | SKIP | 54 | -9.7% / liq $77,739 | -9.7% / liq $77,739 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.2% / liq $2,818,233 | 0.2% / liq $2,818,233 | - |
-| GTACAT | `3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J` | SKIP | 53 | -78.9% / liq $0 | -78.9% / liq $0 | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 3.5% / liq $1,830,079 | 3.5% / liq $1,830,079 | 5.2% / liq $1,875,388 |
+| PushCoin | `3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump` | SKIP | 60 | -17.2% / liq $84,270 | -17.2% / liq $84,270 | -99.9% / liq $1,701 |
+| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | SKIP | 54 | -9.7% / liq $77,739 | -9.7% / liq $77,739 | -32.3% / liq $66,500 |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.2% / liq $2,818,233 | 0.2% / liq $2,818,233 | 1.0% / liq $2,821,698 |
+| GTACAT | `3aoVzicyutREo1eJHexyQwa7ZjNnNy6EBNyqwEQo6p7J` | SKIP | 53 | -78.9% / liq $0 | -78.9% / liq $0 | -78.9% / liq $0 |

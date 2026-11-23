@@ -7,22 +7,22 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795424812.069781,
-"liq": 1464020.69,
+"ts": 1795425329.5043437,
+"liq": 1463064.2,
 "holders": null,
 "risk": 48,
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1795424812.0697896,
-"liq": 6282793.51,
+"ts": 1795425329.5043478,
+"liq": 6284684.43,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
 },
 "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
-"ts": 1795424812.0697944,
-"liq": 3405845.05,
+"ts": 1795425329.5043545,
+"liq": 3395725.92,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -105,8 +105,8 @@
 "verdict": "SKIP"
 },
 "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-"ts": 1795424812.0697863,
-"liq": 88463.78,
+"ts": 1795425329.504346,
+"liq": 88834.04000000001,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -119,8 +119,8 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795424812.069791,
-"liq": 65893.31,
+"ts": 1795425329.5043511,
+"liq": 65547.1,
 "holders": null,
 "risk": 33,
 "verdict": "CAUTION"
@@ -147,10 +147,10 @@
 "verdict": "SKIP"
 },
 "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
-"ts": 1795424812.069788,
-"liq": 78561.40000000001,
+"ts": 1795425329.504341,
+"liq": 78306.81000000001,
 "holders": null,
-"risk": 58,
+"risk": 55,
 "verdict": "SKIP"
 },
 "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": {
@@ -161,8 +161,8 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795424812.069793,
-"liq": 118247.07,
+"ts": 1795425329.504353,
+"liq": 120325.41,
 "holders": null,
 "risk": 49,
 "verdict": "CAUTION"
@@ -210,8 +210,8 @@
 "verdict": "SKIP"
 },
 "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
-"ts": 1795424812.0697765,
-"liq": 105218.15,
+"ts": 1795425329.5043497,
+"liq": 105108.32,
 "holders": null,
 "risk": 42,
 "verdict": "CAUTION"
@@ -224,8 +224,8 @@
 "verdict": "SKIP"
 },
 "CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK": {
-"ts": 1795421097.4366531,
-"liq": 202726.99,
+"ts": 1795425329.5043366,
+"liq": 232105.19,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
