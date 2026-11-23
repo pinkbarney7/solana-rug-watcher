@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 15:30 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 15:50 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,6 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 2 | 22.3% | 0 |
 | SKIP | 1h | 23 | -0.3% | 10 |
 | SKIP | 6h | 17 | 0.4% | 7 |
+| SKIP | 24h | 1 | 0.9% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -38,4 +39,4 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | XNR | `3PR537YCsjrDGfkaX8EfAYwLPSHa7FaX4MvH9kdDqMkh` | SKIP | 53 | -76.1% / liq $0 | -76.1% / liq $0 | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | SKIP | 66 | -2.1% / liq $107,555 | -22.6% / liq $96,219 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | 0.4% / liq $2,427,041 | 0.4% / liq $2,425,303 | - |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -0.9% / liq $1,428,866 | -1.9% / liq $1,417,679 | - |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | -0.9% / liq $1,428,866 | -1.9% / liq $1,417,679 | 0.9% / liq $1,496,836 |
