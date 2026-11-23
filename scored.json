@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795412766.5962255,
-"liq": 1482907.8299999998,
+"ts": 1795413560.4595265,
+"liq": 1475275.8800000001,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -21,8 +21,8 @@
 "verdict": "SKIP"
 },
 "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
-"ts": 1795412766.5962286,
-"liq": 3328391.74,
+"ts": 1795413560.4595315,
+"liq": 3311517.17,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -105,8 +105,8 @@
 "verdict": "SKIP"
 },
 "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-"ts": 1795412766.5962105,
-"liq": 88183.78,
+"ts": 1795413560.4595342,
+"liq": 84653.29000000001,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -119,8 +119,8 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795412766.5962312,
-"liq": 82847.1,
+"ts": 1795413560.459529,
+"liq": 81813.22,
 "holders": null,
 "risk": 40,
 "verdict": "CAUTION"
@@ -133,8 +133,8 @@
 "verdict": "SKIP"
 },
 "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2": {
-"ts": 1795389402.7289627,
-"liq": 1957181.92,
+"ts": 1795413560.4595382,
+"liq": 1980546.28,
 "holders": null,
 "risk": 54,
 "verdict": "SKIP"
@@ -147,8 +147,8 @@
 "verdict": "SKIP"
 },
 "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
-"ts": 1795412766.5962338,
-"liq": 93691.42000000001,
+"ts": 1795413560.459524,
+"liq": 92671.20000000001,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -161,8 +161,8 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795412766.5962358,
-"liq": 134340.57,
+"ts": 1795413560.4595363,
+"liq": 130352.96999999999,
 "holders": null,
 "risk": 49,
 "verdict": "CAUTION"
@@ -182,8 +182,8 @@
 "verdict": "SKIP"
 },
 "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump": {
-"ts": 1795412766.5962179,
-"liq": 207082.55000000002,
+"ts": 1795413560.459519,
+"liq": 211998.94,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
@@ -193,6 +193,13 @@
 "liq": 195264.76,
 "holders": null,
 "risk": 53,
+"verdict": "SKIP"
+},
+"BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump": {
+"ts": 1795413560.4595077,
+"liq": 52927.71,
+"holders": null,
+"risk": 56,
 "verdict": "SKIP"
 }
 }
