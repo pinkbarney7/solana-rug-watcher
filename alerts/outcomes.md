@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 06:12 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 06:16 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,14 +6,15 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 2 | 30.8% | 0 |
 | CAUTION | 6h | 1 | 22.3% | 0 |
-| SKIP | 1h | 15 | -1.7% | 4 |
+| SKIP | 1h | 15 | -1.8% | 4 |
 | SKIP | 6h | 11 | -1.9% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| AVA | `DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump` | SKIP | 45 | - | - | - |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | SKIP | 56 | - | - | - |
 | cCAT | `FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq` | SKIP | 53 | - | - | - |
-| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.7% / liq $3,267,334 | - | - |
+| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.8% / liq $3,264,868 | - | - |
 | MINELIUS | `E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump` | SKIP | 67 | 2.2% / liq $217,947 | - | - |
 | APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | -81.4% / liq $0 | - | - |
 | Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | -6.8% / liq $60,935 | - | - |

@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795414324.9819467,
-"liq": 1471581.73,
+"ts": 1795414582.5980377,
+"liq": 1475081.3800000001,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -105,8 +105,8 @@
 "verdict": "SKIP"
 },
 "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-"ts": 1795414324.9819577,
-"liq": 86584.67,
+"ts": 1795414582.5980456,
+"liq": 88649.21,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -119,8 +119,8 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795414324.981942,
-"liq": 82051.02,
+"ts": 1795414582.5980442,
+"liq": 82136.12,
 "holders": null,
 "risk": 40,
 "verdict": "CAUTION"
@@ -133,8 +133,8 @@
 "verdict": "SKIP"
 },
 "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2": {
-"ts": 1795414324.9819553,
-"liq": 1984870.97,
+"ts": 1795414582.598047,
+"liq": 1988124.79,
 "holders": null,
 "risk": 54,
 "verdict": "SKIP"
@@ -147,8 +147,8 @@
 "verdict": "SKIP"
 },
 "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
-"ts": 1795414324.9819498,
-"liq": 94152.56000000001,
+"ts": 1795414582.5980396,
+"liq": 93471.85,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -161,8 +161,8 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795414324.9819517,
-"liq": 129787.26000000001,
+"ts": 1795414582.5980299,
+"liq": 131382.47,
 "holders": null,
 "risk": 49,
 "verdict": "CAUTION"
@@ -182,8 +182,8 @@
 "verdict": "SKIP"
 },
 "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump": {
-"ts": 1795414324.9819567,
-"liq": 218838.0,
+"ts": 1795414582.5980344,
+"liq": 212083.84,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
@@ -196,10 +196,17 @@
 "verdict": "SKIP"
 },
 "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump": {
-"ts": 1795414324.9819536,
-"liq": 50146.96,
+"ts": 1795414582.598043,
+"liq": 52182.49,
 "holders": null,
 "risk": 52,
+"verdict": "SKIP"
+},
+"DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump": {
+"ts": 1795414582.5980413,
+"liq": 936914.3300000001,
+"holders": null,
+"risk": 45,
 "verdict": "SKIP"
 }
 }
