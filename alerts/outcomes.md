@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 05:41 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 05:46 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,11 +12,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | cCAT | `FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq` | SKIP | 53 | - | - | - |
-| Fly | `FezeBCmPs5DwyhpzcgP2tNULvqXBR1neBjVSfKAtQTc` | SKIP | 53 | - | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | - | - | - |
 | MINELIUS | `E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump` | SKIP | 67 | - | - | - |
 | APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | -81.4% / liq $0 | - | - |
-| Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | -3.8% / liq $61,908 | - | - |
+| Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | -6.8% / liq $60,935 | - | - |
 | Fly | `AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn` | SKIP | 53 | -0.3% / liq $0 | - | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 49 | 30.8% / liq $122,656 | 22.3% / liq $119,115 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.2% / liq $1,325,116 | 3.0% / liq $1,349,929 | - |
