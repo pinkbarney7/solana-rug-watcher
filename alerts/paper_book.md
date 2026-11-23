@@ -1,17 +1,17 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-23 16:12 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-23 16:25 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 35 | Open: 5 | Not opened (failed sell gate): 0
 Win rate 29% | avg return -19.2% | expectancy $-4.80 per $25 trade | total $-168.17
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| SIDOOR | [`zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor`](https://dexscreener.com/solana/zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor) | scored_fast_scan | CAUTION | 2026-11-23 11:01 UTC | open | -10.0% |
-| cateball | [`4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump`](https://pump.fun/coin/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump) | scored_fast_scan | CAUTION | 2026-11-23 09:56 UTC | open | -36.3% |
-| VINE | [`6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump`](https://pump.fun/coin/6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +5.0% |
-| TROLL | [`5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2`](https://dexscreener.com/solana/5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +2.8% |
+| SIDOOR | [`zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor`](https://dexscreener.com/solana/zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor) | scored_fast_scan | CAUTION | 2026-11-23 11:01 UTC | open | -10.3% |
+| cateball | [`4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump`](https://pump.fun/coin/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump) | scored_fast_scan | CAUTION | 2026-11-23 09:56 UTC | open | -38.5% |
+| VINE | [`6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump`](https://pump.fun/coin/6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +4.3% |
+| TROLL | [`5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2`](https://dexscreener.com/solana/5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2) | scored_fast_scan | CAUTION | 2026-11-23 07:20 UTC | open | +2.3% |
 | NOHR | [`Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump`](https://pump.fun/coin/Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump) | scored_fast_scan | CAUTION | 2026-11-23 07:14 UTC | closed (stop -50%) | -56.3% |
-| MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-22 23:16 UTC | open | -33.7% |
+| MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-22 23:16 UTC | open | -30.2% |
 | ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-22 15:39 UTC | closed (24h time exit) | +1.0% |
 | Singularity | [`7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump`](https://pump.fun/coin/7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump) | scored_fast_scan | CAUTION | 2026-11-22 01:55 UTC | closed (take profit +100%) | +157.5% |
 | CoT | [`5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW`](https://dexscreener.com/solana/5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW) | scored_fast_scan | CAUTION | 2026-11-21 02:01 UTC | closed (take profit +100%) | +133.1% |
