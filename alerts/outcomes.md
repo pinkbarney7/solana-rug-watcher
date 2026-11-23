@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 09:56 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 10:10 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| AI | `UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9` | SKIP | 53 | - | - | - |
 | cCAT | `GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj` | SKIP | 53 | -99.9% / liq $0 | - | - |
 | KOOP | `CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK` | SKIP | 53 | 15.2% / liq $230,146 | - | - |
 | Fly | `M21c1r5EtGPsPFfQTg8vbzUCAyXcPZH4iEHGzzxoPwc` | SKIP | 53 | 4.0% / liq $0 | - | - |

@@ -1,14 +1,14 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795427818.2670894,
-"liq": 1703492.97,
+"ts": 1795428605.5958912,
+"liq": 1706596.53,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795427818.2670844,
-"liq": 1461929.34,
+"ts": 1795428605.5958755,
+"liq": 1468651.04,
 "holders": null,
 "risk": 48,
 "verdict": "SKIP"
@@ -21,8 +21,8 @@
 "verdict": "SKIP"
 },
 "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
-"ts": 1795427818.267082,
-"liq": 3390155.48,
+"ts": 1795428605.5958843,
+"liq": 3398726.58,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -112,8 +112,8 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795427818.267088,
-"liq": 64689.94,
+"ts": 1795428605.595886,
+"liq": 65091.83,
 "holders": null,
 "risk": 33,
 "verdict": "CAUTION"
@@ -140,10 +140,10 @@
 "verdict": "SKIP"
 },
 "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
-"ts": 1795427818.2670858,
-"liq": 79229.43000000001,
+"ts": 1795428605.5958881,
+"liq": 79251.63,
 "holders": null,
-"risk": 49,
+"risk": 46,
 "verdict": "CAUTION"
 },
 "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": {
@@ -154,8 +154,8 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795427818.2670803,
-"liq": 119561.93000000001,
+"ts": 1795428605.5958896,
+"liq": 122434.41,
 "holders": null,
 "risk": 49,
 "verdict": "CAUTION"
@@ -175,10 +175,10 @@
 "verdict": "SKIP"
 },
 "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump": {
-"ts": 1795427818.2670748,
-"liq": 306350.0,
+"ts": 1795428605.5958817,
+"liq": 291402.68000000005,
 "holders": null,
-"risk": 68,
+"risk": 67,
 "verdict": "SKIP"
 },
 "FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq": {
@@ -203,8 +203,8 @@
 "verdict": "SKIP"
 },
 "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
-"ts": 1795427818.2670696,
-"liq": 102509.68,
+"ts": 1795428605.5958703,
+"liq": 102330.31,
 "holders": null,
 "risk": 42,
 "verdict": "CAUTION"
@@ -226,6 +226,13 @@
 "GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj": {
 "ts": 1795422134.0538247,
 "liq": 129032.62,
+"holders": null,
+"risk": 53,
+"verdict": "SKIP"
+},
+"UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9": {
+"ts": 1795428605.595879,
+"liq": 159385.19,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
