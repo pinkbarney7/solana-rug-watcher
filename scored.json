@@ -1,14 +1,14 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795428605.5958912,
-"liq": 1706596.53,
+"ts": 1795429116.2607603,
+"liq": 1704378.62,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795428605.5958755,
-"liq": 1468651.04,
+"ts": 1795429116.2607512,
+"liq": 1466913.63,
 "holders": null,
 "risk": 48,
 "verdict": "SKIP"
@@ -21,8 +21,8 @@
 "verdict": "SKIP"
 },
 "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
-"ts": 1795428605.5958843,
-"liq": 3398726.58,
+"ts": 1795429116.2607458,
+"liq": 3380994.9499999997,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -98,8 +98,8 @@
 "verdict": "SKIP"
 },
 "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-"ts": 1795427580.1439943,
-"liq": 87884.93,
+"ts": 1795429116.260753,
+"liq": 84158.84,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -112,8 +112,8 @@
 "verdict": "SKIP"
 },
 "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump": {
-"ts": 1795428605.595886,
-"liq": 65091.83,
+"ts": 1795429116.2607393,
+"liq": 65077.89,
 "holders": null,
 "risk": 33,
 "verdict": "CAUTION"
@@ -154,8 +154,8 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795428605.5958896,
-"liq": 122434.41,
+"ts": 1795429116.2607572,
+"liq": 121625.42,
 "holders": null,
 "risk": 49,
 "verdict": "CAUTION"
@@ -175,8 +175,8 @@
 "verdict": "SKIP"
 },
 "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump": {
-"ts": 1795428605.5958817,
-"liq": 291402.68000000005,
+"ts": 1795429116.2607553,
+"liq": 290954.87000000005,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
@@ -189,10 +189,10 @@
 "verdict": "SKIP"
 },
 "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump": {
-"ts": 1795427818.2670782,
-"liq": 52674.52,
+"ts": 1795429116.2607493,
+"liq": 58002.86,
 "holders": null,
-"risk": 52,
+"risk": 57,
 "verdict": "SKIP"
 },
 "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump": {
@@ -203,8 +203,8 @@
 "verdict": "SKIP"
 },
 "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
-"ts": 1795428605.5958703,
-"liq": 102330.31,
+"ts": 1795429116.260759,
+"liq": 102740.62,
 "holders": null,
 "risk": 42,
 "verdict": "CAUTION"
