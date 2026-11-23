@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-23 14:00 UTC
+# Outcomes (DEX Screener, free) - 2026-11-23 14:04 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | 5.0% | 0 |
 | CAUTION | 6h | 2 | 22.3% | 0 |
 | SKIP | 1h | 23 | -0.3% | 10 |
-| SKIP | 6h | 15 | 3.0% | 5 |
+| SKIP | 6h | 16 | 3.0% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SIDOOR | `zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor` | CAUTION | 43 | 5.0% / liq $51,014 | - | - |
 | AI | `UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9` | SKIP | 53 | -77.6% / liq $0 | - | - |
 | cCAT | `GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj` | SKIP | 53 | -99.9% / liq $0 | - | - |
-| KOOP | `CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK` | SKIP | 53 | 15.2% / liq $230,146 | - | - |
+| KOOP | `CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK` | SKIP | 53 | 15.2% / liq $230,146 | -75.6% / liq $0 | - |
 | Fly | `M21c1r5EtGPsPFfQTg8vbzUCAyXcPZH4iEHGzzxoPwc` | SKIP | 53 | 4.0% / liq $0 | 4.0% / liq $0 | - |
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 51 | 10.3% / liq $116,083 | -61.4% / liq $68,718 | - |
 | AVA | `DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump` | SKIP | 45 | 2.3% / liq $946,215 | 3.7% / liq $953,943 | - |
