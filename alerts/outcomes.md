@@ -1,15 +1,14 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 06:34 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 06:39 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 4 | 5.0% | 0 |
-| CAUTION | 6h | 4 | 22.3% | 0 |
-| CAUTION | 24h | 1 | -59.6% | 0 |
-| SKIP | 1h | 24 | -0.1% | 10 |
-| SKIP | 6h | 17 | -2.1% | 10 |
-| SKIP | 24h | 6 | 2.1% | 2 |
+| CAUTION | 1h | 3 | 5.0% | 0 |
+| CAUTION | 6h | 3 | 22.3% | 0 |
+| SKIP | 1h | 22 | 0.2% | 8 |
+| SKIP | 6h | 15 | -2.1% | 8 |
+| SKIP | 24h | 4 | 11.8% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -42,6 +41,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | cCAT | `FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq` | SKIP | 53 | 16592.4% / liq $0 | 16592.4% / liq $0 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.8% / liq $3,264,868 | 6.3% / liq $3,403,799 | 2.1% / liq $3,327,735 |
 | MINELIUS | `E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump` | SKIP | 67 | 2.2% / liq $217,947 | 74.0% / liq $286,583 | -99.9% / liq $3,919 |
-| APPLE | `7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k` | SKIP | 53 | -81.4% / liq $0 | -81.4% / liq $0 | -81.4% / liq $0 |
-| Singularity | `7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump` | CAUTION | 41 | -6.8% / liq $60,935 | -12.1% / liq $59,438 | -59.6% / liq $40,607 |
-| Fly | `AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn` | SKIP | 53 | -0.3% / liq $0 | -0.3% / liq $0 | -0.3% / liq $0 |
