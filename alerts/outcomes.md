@@ -1,12 +1,12 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 12:54 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 13:05 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 8 | 0.0% | 0 |
-| CAUTION | 6h | 3 | 22.3% | 0 |
-| CAUTION | 24h | 3 | -1.4% | 0 |
+| CAUTION | 1h | 7 | 0.0% | 0 |
+| CAUTION | 6h | 2 | 32.0% | 0 |
+| CAUTION | 24h | 2 | 29.1% | 0 |
 | SKIP | 1h | 31 | 0.0% | 8 |
 | SKIP | 6h | 16 | -4.5% | 7 |
 | SKIP | 24h | 5 | -75.8% | 3 |
@@ -55,4 +55,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | -75.8% / liq $0 |
 | HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | -1.6% / liq $0 | -1.6% / liq $0 |
 | ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | 29.1% / liq $77,930 |
-| SIDOOR | `zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor` | CAUTION | 43 | 5.0% / liq $51,014 | -10.1% / liq $47,943 | -18.0% / liq $44,549 |

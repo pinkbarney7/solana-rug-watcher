@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:54:29",
+ "updated": "2026-11-24T13:05:36",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -11,7 +11,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T04:57:14+00:00",
+   "scored_at": "2026-11-24T13:04:33+00:00",
    "path": "survivor"
   },
   {
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:53:10+00:00",
+   "scored_at": "2026-11-24T13:04:31+00:00",
    "path": "survivor"
   },
   {
@@ -48,7 +48,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:53:09+00:00",
+   "scored_at": "2026-11-24T13:05:36+00:00",
    "path": "survivor"
   },
   {
@@ -132,7 +132,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:53:10+00:00",
+   "scored_at": "2026-11-24T13:04:23+00:00",
    "path": "young"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:53:09+00:00",
+   "scored_at": "2026-11-24T13:04:33+00:00",
    "path": "young"
   },
   {
@@ -447,7 +447,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:53:11+00:00",
+   "scored_at": "2026-11-24T13:04:32+00:00",
    "path": "young"
   },
   {
@@ -513,13 +513,13 @@
   {
    "mint": "3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump",
    "ticker": "GROKIA",
-   "risk": 66,
+   "risk": 67,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:49:09+00:00",
+   "scored_at": "2026-11-24T13:04:31+00:00",
    "path": "young"
   },
   {
@@ -531,7 +531,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:35:42+00:00",
+   "scored_at": "2026-11-24T13:04:32+00:00",
    "path": "young"
   },
   {
@@ -679,7 +679,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T12:53:11+00:00",
+   "scored_at": "2026-11-24T13:04:33+00:00",
    "path": "young"
   },
   {

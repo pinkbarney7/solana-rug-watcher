@@ -14,15 +14,15 @@
 "verdict": "SKIP"
 },
 "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS": {
-"ts": 1795496235.0496216,
-"liq": 6091602.17,
+"ts": 1795525536.3492434,
+"liq": 6191728.01,
 "holders": null,
 "risk": 73,
 "verdict": "SKIP"
 },
 "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
-"ts": 1795524869.4445124,
-"liq": 3368461.0900000003,
+"ts": 1795525536.3492367,
+"liq": 3347384.33,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -35,8 +35,8 @@
 "verdict": "CAUTION"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1795524869.4445088,
-"liq": 4050440.62,
+"ts": 1795525536.3492472,
+"liq": 4091002.55,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -98,8 +98,8 @@
 "verdict": "SKIP"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795524869.44452,
-"liq": 76343.75,
+"ts": 1795525536.3492289,
+"liq": 74568.27,
 "holders": null,
 "risk": 41,
 "verdict": "CAUTION"
@@ -238,8 +238,8 @@
 "verdict": "CAUTION"
 },
 "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump": {
-"ts": 1795524869.444504,
-"liq": 88264.26,
+"ts": 1795525536.3492448,
+"liq": 84141.18000000001,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -273,8 +273,8 @@
 "verdict": "SKIP"
 },
 "cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb": {
-"ts": 1795524869.4445179,
-"liq": 154669.89,
+"ts": 1795525536.349241,
+"liq": 157695.42,
 "holders": null,
 "risk": 56,
 "verdict": "SKIP"
@@ -315,15 +315,15 @@
 "verdict": "SKIP"
 },
 "3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump": {
-"ts": 1795524612.4432285,
-"liq": 124338.69,
+"ts": 1795525536.3492339,
+"liq": 156377.21,
 "holders": null,
-"risk": 66,
+"risk": 67,
 "verdict": "SKIP"
 },
 "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump": {
-"ts": 1795523742.8116486,
-"liq": 106962.73,
+"ts": 1795525536.349239,
+"liq": 110001.18,
 "holders": null,
 "risk": 66,
 "verdict": "SKIP"
@@ -406,8 +406,8 @@
 "verdict": "SKIP"
 },
 "DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe": {
-"ts": 1795524869.4445148,
-"liq": 178374.85,
+"ts": 1795525536.3492465,
+"liq": 189307.89,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
