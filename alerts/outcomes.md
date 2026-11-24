@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 09:04 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 09:15 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 56 | - | - | - |
 | DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | - | - | - |
 | GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | - | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.0% / liq $3,349,093 | - | - |

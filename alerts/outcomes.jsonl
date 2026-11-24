@@ -28,3 +28,4 @@
 {"mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump", "ticker": "pippin", "t0": 1795507150.0, "verdict": "SKIP", "risk": 52, "p0": 0.01826, "liq0": 3433137.64, "mcap0": 18265079.0, "1h": {"price": 0.01807, "liq": 3349092.95, "chg_pct": -1.0, "liq_chg_pct": -2.4, "late_min": 6}}
 {"mint": "3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump", "ticker": "GROKIA", "t0": 1795510081.0, "verdict": "SKIP", "risk": 66, "p0": 0.00312, "liq0": 133223.7, "mcap0": 3110743.0}
 {"mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "ticker": "DONJENSEN", "t0": 1795510379.0, "verdict": "SKIP", "risk": 66, "p0": 0.002191, "liq0": 107381.3, "mcap0": 2182597.0}
+{"mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump", "ticker": "NOHR", "t0": 1795511630.0, "verdict": "SKIP", "risk": 56, "p0": 0.003517, "liq0": 142884.77, "mcap0": 3484729.0}
