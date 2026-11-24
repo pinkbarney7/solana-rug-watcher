@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 13:28 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 13:36 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,14 +7,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 6 | 0.0% | 0 |
 | CAUTION | 6h | 1 | 22.3% | 0 |
 | CAUTION | 24h | 1 | -1.4% | 0 |
-| SKIP | 1h | 33 | -0.1% | 9 |
-| SKIP | 6h | 18 | -4.5% | 8 |
-| SKIP | 24h | 5 | -75.8% | 3 |
+| SKIP | 1h | 31 | 0.0% | 8 |
+| SKIP | 6h | 15 | -4.5% | 6 |
+| SKIP | 24h | 2 | -11.2% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | - | - | - |
-| Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | - | - | - |
+| Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | - | - |
 | ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | - | - |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | - | - |
@@ -51,6 +51,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | 22.3% / liq $363,723 | -1.4% / liq $320,194 |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -0.4% / liq $1,873,059 | -2.1% / liq $1,873,750 | -11.2% / liq $1,750,375 |
 | KOOP | `1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF` | SKIP | 67 | 0.2% / liq $0 | -90.0% / liq $0 | -90.0% / liq $0 |
-| PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | -39.3% / liq $79,987 | -99.9% / liq $1,612 |
-| KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | -75.8% / liq $0 |
-| HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | -1.6% / liq $0 | -1.6% / liq $0 |
