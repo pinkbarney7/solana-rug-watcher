@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-24 22:11 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-24 22:28 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 44 | Open: 4 | Not opened (failed sell gate): 0
 Win rate 25% | avg return -19.4% | expectancy $-4.86 per $25 trade | total $-213.78
@@ -7,7 +7,7 @@ Win rate 25% | avg return -19.4% | expectancy $-4.86 per $25 trade | total $-213
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
 | Scamsem | [`5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat`](https://dexscreener.com/solana/5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | closed (stop -50%) | -52.7% |
-| CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | +4.4% |
+| CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | +5.2% |
 | COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-24 11:54 UTC | closed (stop -50%) | -66.7% |
 | TRON-USDT | [`JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L`](https://dexscreener.com/solana/JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L) | scored_fast_scan | CAUTION | 2026-11-24 11:42 UTC | open | +0.0% |
 | USDT-ERC20 | [`WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6`](https://dexscreener.com/solana/WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6) | scored_fast_scan | CAUTION | 2026-11-24 11:42 UTC | open | +0.0% |
