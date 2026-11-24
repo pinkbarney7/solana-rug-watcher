@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 16:21 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 16:30 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 6 | 0.0% | 0 |
 | CAUTION | 6h | 1 | -41.0% | 0 |
 | SKIP | 1h | 29 | 0.0% | 7 |
-| SKIP | 6h | 19 | -6.3% | 6 |
+| SKIP | 6h | 20 | -6.3% | 7 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | 0.2% / liq $6,084,117 | - | - |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | - | - |
 | TSLA | `TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S` | SKIP | 67 | 1.6% / liq $941,224 | - | - |
-| DOG | `HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg` | SKIP | 53 | -75.8% / liq $0 | - | - |
+| DOG | `HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 41 | -28.5% / liq $75,081 | -41.0% / liq $67,464 | - |
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 56 | 1.9% / liq $144,292 | -4.4% / liq $137,959 | - |
 | DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | 5.0% / liq $109,767 | -10.4% / liq $101,201 | - |
