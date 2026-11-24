@@ -1,22 +1,22 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-23 22:59 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-24 07:51 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 41 | Open: 9 | Not opened (failed sell gate): 0
-Win rate 27% | avg return -32.1% | expectancy $-8.03 per $25 trade | total $-329.10
+Closed: 42 | Open: 8 | Not opened (failed sell gate): 0
+Win rate 29% | avg return -24.0% | expectancy $-5.99 per $25 trade | total $-251.60
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | new_launch_scored | CAUTION | 2026-11-23 18:21 EST | open | -3.9% |
-| COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-23 18:11 EST | open | -12.9% |
-| mucron | [`3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump`](https://pump.fun/coin/3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -4.9% |
+| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | new_launch_scored | CAUTION | 2026-11-23 18:21 EST | open | -5.2% |
+| COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-23 18:11 EST | open | -38.7% |
+| mucron | [`3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump`](https://pump.fun/coin/3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -4.4% |
 | WEFT | [`HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8`](https://dexscreener.com/solana/HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -0.3% |
-| Mimi | [`8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump`](https://pump.fun/coin/8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -2.4% |
-| SUPERCORE | [`3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump`](https://pump.fun/coin/3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump) | scored_scorecard | CAUTION | 2026-11-23 08:38 EST | open | -0.5% |
-| ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | open | -7.4% |
-| NOHR | [`Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump`](https://pump.fun/coin/Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | open | +45.9% |
+| Mimi | [`8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump`](https://pump.fun/coin/8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -4.4% |
+| SUPERCORE | [`3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump`](https://pump.fun/coin/3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump) | scored_scorecard | CAUTION | 2026-11-23 08:38 EST | open | -0.1% |
+| ROCKET | [`6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump`](https://pump.fun/coin/6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | open | -2.2% |
+| NOHR | [`Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump`](https://pump.fun/coin/Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | closed (take profit +100%) | +310.0% |
 | MCAT | [`BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi`](https://dexscreener.com/solana/BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | closed (stop -50%) | -51.1% |
 | UCASH | [`7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump`](https://pump.fun/coin/7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | closed (take profit +100%) | +118.6% |
-| CYBERLEEK | [`ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | open | -5.3% |
+| CYBERLEEK | [`ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) | scored_fast_scan | CAUTION | 2026-11-23 08:08 EST | open | -4.6% |
 | Chud | [`6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6`](https://dexscreener.com/solana/6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6) | new_launch_scored | CAUTION | 2026-11-22 19:09 EST | closed (24h time exit) | +3.5% |
 | HOGE | [`FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump`](https://pump.fun/coin/FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump) | scored_fast_scan | CAUTION | 2026-11-17 08:11 EST | closed (24h time exit) | +13.0% |
 | bul | [`Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv`](https://dexscreener.com/solana/Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv) | scored_fast_scan | CAUTION | 2026-11-17 08:11 EST | closed (stop -50%) | -94.7% |
