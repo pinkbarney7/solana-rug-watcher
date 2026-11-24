@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 14:05 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 14:16 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,9 +7,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 7 | 0.0% | 0 |
 | CAUTION | 6h | 1 | 22.3% | 0 |
 | CAUTION | 24h | 1 | -1.4% | 0 |
-| SKIP | 1h | 31 | 0.0% | 8 |
-| SKIP | 6h | 18 | -4.5% | 7 |
-| SKIP | 24h | 2 | -11.2% | 1 |
+| SKIP | 1h | 29 | 0.0% | 7 |
+| SKIP | 6h | 16 | -4.5% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -49,5 +48,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | JENSEN | `HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump` | SKIP | 60 | -25.8% / liq $54,570 | -43.8% / liq $47,181 | - |
 | JINGWA | `ChZzab3vUf5WTkQm2Q13AB9YjY3oCa2JbY2QRVohn8K` | SKIP | 53 | -7.0% / liq $0 | -66.0% / liq $0 | - |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | 22.3% / liq $363,723 | -1.4% / liq $320,194 |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -0.4% / liq $1,873,059 | -2.1% / liq $1,873,750 | -11.2% / liq $1,750,375 |
-| KOOP | `1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF` | SKIP | 67 | 0.2% / liq $0 | -90.0% / liq $0 | -90.0% / liq $0 |
