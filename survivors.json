@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:16:05",
+ "updated": "2026-11-24T20:26:43",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -169,18 +169,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-23T09:14:17+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj",
-   "ticker": "cCAT",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T08:21:09+00:00",
    "path": "young"
   },
   {
