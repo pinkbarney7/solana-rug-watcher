@@ -1,18 +1,18 @@
-# Last scan 2026-11-24T05:30:05Z - mode: helius (box heartbeat stale (84 min); budget 30/3000)
+# Last scan 2026-11-24T05:32:53Z - mode: helius (box heartbeat stale (87 min); budget 30/3000)
 
 ```
-[fast_scan] 117 candidate mints from 10 source tags; 115 with pair data; 17 >= $50,000 liq; 7 pass survivor pre-gates (72s)
-[fast_scan] scored ROCKET in 70s
-[fast_scan] scored CATE in 77s
-[fast_scan] scored NVDA in 77s
-[fast_scan] scored TROLL in 78s
-[fast_scan] scored JENSEN in 78s
-# Market scan 2026-11-24 05:30 UTC
+[fast_scan] 116 candidate mints from 10 source tags; 114 with pair data; 17 >= $50,000 liq; 7 pass survivor pre-gates (72s)
+[fast_scan] scored TROLL in 74s
+[fast_scan] scored JENSEN in 74s
+[fast_scan] scored CATE in 75s
+[fast_scan] scored NVDA in 75s
+[fast_scan] scored ROCKET in 76s
+# Market scan 2026-11-24 05:32 UTC
 
 Info/risk only, not advice. Risk 0-100, higher = riskier; a low score = fewer red flags found, NOT safe. * = incomplete score.
 
 ## Market context
-- Majors: BTC $60,580 (-1.3% 24h), ETH $1,705 (-1.4% 24h), SOL $71.64 (+0.1% 24h)
+- Majors: BTC $60,579 (-1.3% 24h), ETH $1,705 (-1.5% 24h), SOL $71.60 (-0.0% 24h)
 - Fear & Greed: 11 (Extreme Fear)
 - Sector 24h (CoinGecko): solana-meme-coins +2.8% (mcap $1.91B, vol $364.33M), pump-fun +2.5% (mcap $815.85M, vol $117.89M)
 
@@ -38,14 +38,14 @@ Largest moves among coins with >= $10k liquidity. Pre-rank red flags only (free 
 
 | Ticker | Mint (full CA) | Liq | Mcap | 1h | 6h | 24h | Vol/liq | Red flags | Risk |
 |---|---|---|---|---|---|---|---|---|---|
-| [DONJENSEN](https://pump.fun/coin/5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump) | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | $102.8k | $2.01M | +5% | +5552% | +5552% | 9.4x | spike (+5% 1h, +5552% 6h) | not scored |
-| [GROKIA](https://pump.fun/coin/3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump) | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | $131.5k | $3.04M | +27% | +2672% | +2672% | 15.4x | liq/mcap 4.3%; spike (+27% 1h, +2672% 6h) | not scored |
-| [BTC](https://dexscreener.com/solana/47we9WnmawtzZvmzNQKyKCW1853LrErftXzdxaxhEzKs) | `47we9WnmawtzZvmzNQKyKCW1853LrErftXzdxaxhEzKs` | $28.7k | $33.2k | +295% | +669% | +669% | 56.6x | thin liq $28.7k; churn 57x vol/liq; spike (+295% 1h, +669% 6h) | not scored |
-| [JENSEN](https://pump.fun/coin/9scVbbC7HUwXaBmo8bnYfm2Pa5oouZpjy2NvrvwLpump) | `9scVbbC7HUwXaBmo8bnYfm2Pa5oouZpjy2NvrvwLpump` | $38.8k | $138.4k | +3% | +8% | +1717% | 111.6x | thin liq $38.8k; churn 112x vol/liq | not scored |
-| [JIMMY](https://pump.fun/coin/38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump) | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | $48.5k | $366.6k | +1% | -19% | +1187% | 41.5x | thin liq $48.5k; churn 42x vol/liq | not scored |
-| [Spidercow](https://pump.fun/coin/9oxUBRyk9EXfQHMchya45p3xsF2fbNzzDUNKzEfKpump) | `9oxUBRyk9EXfQHMchya45p3xsF2fbNzzDUNKzEfKpump` | $18.6k | $68.8k | +132% | +132% | +132% | 16.1x | thin liq $18.6k; spike (+132% 1h, +132% 6h); < 1h old | not scored |
+| [DONJENSEN](https://pump.fun/coin/5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump) | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | $104.4k | $2.07M | +11% | +5724% | +5724% | 9.2x | spike (+11% 1h, +5724% 6h) | not scored |
+| [GROKIA](https://pump.fun/coin/3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump) | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | $125.6k | $2.76M | +18% | +2419% | +2419% | 16.1x | liq/mcap 4.6%; spike (+18% 1h, +2419% 6h) | not scored |
+| [BTC](https://dexscreener.com/solana/47we9WnmawtzZvmzNQKyKCW1853LrErftXzdxaxhEzKs) | `47we9WnmawtzZvmzNQKyKCW1853LrErftXzdxaxhEzKs` | $25.8k | $26.2k | +315% | +508% | +508% | 66.1x | thin liq $25.8k; churn 66x vol/liq; spike (+315% 1h, +508% 6h) | not scored |
+| [JENSEN](https://pump.fun/coin/9scVbbC7HUwXaBmo8bnYfm2Pa5oouZpjy2NvrvwLpump) | `9scVbbC7HUwXaBmo8bnYfm2Pa5oouZpjy2NvrvwLpump` | $39.0k | $139.9k | +5% | +5% | +1736% | 110.9x | thin liq $39.0k; churn 111x vol/liq | not scored |
+| [JIMMY](https://pump.fun/coin/38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump) | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | $48.2k | $361.9k | -14% | -18% | +1170% | 41.8x | thin liq $48.2k; churn 42x vol/liq | not scored |
+| [JENSEN](https://pump.fun/coin/HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump) | `HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump` | $51.2k | $468.2k | -35% | -41% | +439% | 45.4x | churn 45x vol/liq | 59 |
 
-_Timing: total 151s (discovery 71.1s, screen 1.1s, GT prime 0.3s, scoring 78.0s for 5 coins, 5 newly scored). ~20 Helius credits (smart-money discovery 20). HTTP cache hits 5/110; Helius 429s 60; DEX Screener ok._
+_Timing: total 148s (discovery 70.8s, screen 1.2s, GT prime 0.2s, scoring 75.9s for 5 coins, 5 newly scored). ~0 Helius credits (smart-money discovery 0). HTTP cache hits 39/108; Helius 429s 60; DEX Screener ok._
 
 _Full reports: out/<mint>.md (+ .json)_
 ```
