@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 09:36 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 09:53 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,15 +6,16 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 5.0% | 0 |
 | CAUTION | 6h | 3 | 22.3% | 0 |
-| SKIP | 1h | 24 | -1.0% | 9 |
+| SKIP | 1h | 26 | -0.4% | 9 |
 | SKIP | 6h | 8 | -75.6% | 6 |
 | SKIP | 24h | 2 | -75.6% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 41 | - | - | - |
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 56 | - | - | - |
-| DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | - | - | - |
-| GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | - | - | - |
+| DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | 5.0% / liq $109,767 | - | - |
+| GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | -0.1% / liq $132,677 | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.0% / liq $3,349,093 | - | - |
 | SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | 16.5% / liq $220,123 | - | - |
 | DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | -2.9% / liq $5,233,289 | - | - |
