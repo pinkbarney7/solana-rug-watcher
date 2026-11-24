@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 05:32 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 05:44 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,19 +7,19 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | 5.0% | 0 |
 | CAUTION | 6h | 4 | 22.3% | 0 |
 | CAUTION | 24h | 1 | -59.6% | 0 |
-| SKIP | 1h | 17 | 0.2% | 9 |
+| SKIP | 1h | 23 | -0.3% | 10 |
 | SKIP | 6h | 17 | -2.1% | 10 |
 | SKIP | 24h | 4 | -0.3% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | - | - | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | - | - | - |
-| USPR | `2LXJm8BfdyJEX1hMPt3D618zheBKLrWe8rBKqQympump` | SKIP | 67 | - | - | - |
-| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | SKIP | 55 | - | - | - |
-| NVDA | `NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv` | SKIP | 68 | - | - | - |
-| JENSEN | `HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump` | SKIP | 60 | - | - | - |
-| JINGWA | `ChZzab3vUf5WTkQm2Q13AB9YjY3oCa2JbY2QRVohn8K` | SKIP | 53 | - | - | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.7% / liq $2,163,612 | - | - |
+| USPR | `2LXJm8BfdyJEX1hMPt3D618zheBKLrWe8rBKqQympump` | SKIP | 67 | -100.0% / liq $1,318 | - | - |
+| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | SKIP | 55 | -24.6% / liq $44,192 | - | - |
+| NVDA | `NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv` | SKIP | 68 | -0.1% / liq $722,087 | - | - |
+| JENSEN | `HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump` | SKIP | 60 | -25.8% / liq $54,570 | - | - |
+| JINGWA | `ChZzab3vUf5WTkQm2Q13AB9YjY3oCa2JbY2QRVohn8K` | SKIP | 53 | -7.0% / liq $0 | - | - |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | 22.3% / liq $363,723 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | -0.4% / liq $1,873,059 | -2.1% / liq $1,873,750 | - |
 | KOOP | `1324nw49dNWMiBCYL1pGJFo49m4xJqusxgjaVW367LGF` | SKIP | 67 | 0.2% / liq $0 | -90.0% / liq $0 | - |
