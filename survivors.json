@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:27:56",
+ "updated": "2026-11-24T23:38:26",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -169,18 +169,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-23T12:26:53+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ",
-   "ticker": "HOLD",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T11:30:30+00:00",
    "path": "young"
   },
   {
