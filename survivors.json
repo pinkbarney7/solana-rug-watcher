@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:15:49",
+ "updated": "2026-11-24T11:25:13",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -84,7 +84,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:14:30+00:00",
+   "scored_at": "2026-11-24T11:24:10+00:00",
    "path": "young"
   },
   {
@@ -228,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:14:56+00:00",
+   "scored_at": "2026-11-24T11:24:08+00:00",
    "path": "young"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:15:05+00:00",
+   "scored_at": "2026-11-24T11:24:11+00:00",
    "path": "young"
   },
   {
@@ -447,7 +447,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:14:32+00:00",
+   "scored_at": "2026-11-24T11:24:09+00:00",
    "path": "young"
   },
   {
@@ -519,7 +519,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:14:31+00:00",
+   "scored_at": "2026-11-24T11:24:10+00:00",
    "path": "young"
   },
   {
@@ -531,7 +531,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:15:25+00:00",
+   "scored_at": "2026-11-24T11:24:00+00:00",
    "path": "young"
   },
   {
@@ -594,6 +594,44 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T11:15:49+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7",
+   "ticker": "AIN",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-24T11:24:09+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia",
+   "ticker": "BEAT",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-24T11:24:10+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz",
+   "ticker": "IOST",
+   "risk": 38,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:25:12+00:00",
    "path": "survivor"
   }
  ]

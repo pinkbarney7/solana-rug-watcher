@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 11:15 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 11:25 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,12 +6,15 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 5.0% | 0 |
 | CAUTION | 6h | 3 | 22.3% | 0 |
-| CAUTION | 24h | 1 | -18.0% | 0 |
+| CAUTION | 24h | 2 | 29.1% | 0 |
 | SKIP | 1h | 25 | -0.4% | 8 |
 | SKIP | 6h | 13 | -39.3% | 5 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | - | - | - |
+| BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | - | - | - |
+| AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | - | - | - |
 | META | `METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd` | SKIP | 67 | - | - | - |
 | MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | - | - | - |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | - | - | - |
@@ -43,6 +46,6 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | -39.3% / liq $79,987 | - |
 | KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | - |
 | HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | -1.6% / liq $0 | - |
-| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | - |
+| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | 29.1% / liq $77,930 |
 | SIDOOR | `zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor` | CAUTION | 43 | 5.0% / liq $51,014 | -10.1% / liq $47,943 | -18.0% / liq $44,549 |
 | AI | `UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9` | SKIP | 53 | -77.6% / liq $0 | -77.6% / liq $0 | - |
