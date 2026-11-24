@@ -1,21 +1,21 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 13:13 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 13:28 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 7 | 0.0% | 0 |
-| CAUTION | 6h | 2 | 32.0% | 0 |
-| CAUTION | 24h | 2 | 29.1% | 0 |
-| SKIP | 1h | 32 | 0.0% | 9 |
-| SKIP | 6h | 17 | -4.5% | 8 |
+| CAUTION | 1h | 6 | 0.0% | 0 |
+| CAUTION | 6h | 1 | 22.3% | 0 |
+| CAUTION | 24h | 1 | -1.4% | 0 |
+| SKIP | 1h | 33 | -0.1% | 9 |
+| SKIP | 6h | 18 | -4.5% | 8 |
 | SKIP | 24h | 5 | -75.8% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | - | - | - |
 | Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | - | - | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | - | - |
 | ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | - | - |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | - | - |
 | USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | - | - |
@@ -35,7 +35,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.0% / liq $3,349,093 | - | - |
 | SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | 16.5% / liq $220,123 | - | - |
 | DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | -2.9% / liq $5,233,289 | - | - |
-| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $431,079 | - | - |
+| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $431,079 | -100.0% / liq $420,578 | - |
 | ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | 4.9% / liq $0 | 4.9% / liq $0 | - |
 | SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | 21406.2% / liq $0 | - |
 | ACHI | `cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb` | SKIP | 56 | -36.9% / liq $85,943 | 5.1% / liq $154,359 | - |
@@ -54,4 +54,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PumpMeme | `93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump` | SKIP | 60 | 2.9% / liq $102,398 | -39.3% / liq $79,987 | -99.9% / liq $1,612 |
 | KOOP | `739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | -75.8% / liq $0 |
 | HOLD | `Q2FAB4XMTnvriAzJdigjaEePp12BBmT1xTs6desUXyQ` | SKIP | 53 | -1.6% / liq $0 | -1.6% / liq $0 | -1.6% / liq $0 |
-| ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | 29.1% / liq $77,930 |

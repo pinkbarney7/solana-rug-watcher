@@ -1,14 +1,14 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-24 13:13 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-24 13:28 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 41 | Open: 7 | Not opened (failed sell gate): 0
-Win rate 24% | avg return -21.0% | expectancy $-5.25 per $25 trade | total $-215.34
+Closed: 42 | Open: 6 | Not opened (failed sell gate): 0
+Win rate 24% | avg return -22.1% | expectancy $-5.52 per $25 trade | total $-232.02
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Scamsem | [`5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat`](https://dexscreener.com/solana/5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | -11.3% |
-| CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | -0.6% |
-| COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-24 11:54 UTC | open | -36.6% |
+| Scamsem | [`5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat`](https://dexscreener.com/solana/5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | -33.0% |
+| CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | -2.1% |
+| COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-24 11:54 UTC | closed (stop -50%) | -66.7% |
 | TRON-USDT | [`JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L`](https://dexscreener.com/solana/JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L) | scored_fast_scan | CAUTION | 2026-11-24 11:42 UTC | open | +0.0% |
 | USDT-ERC20 | [`WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6`](https://dexscreener.com/solana/WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6) | scored_fast_scan | CAUTION | 2026-11-24 11:42 UTC | open | +0.0% |
 | IOST | [`3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz`](https://dexscreener.com/solana/3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz) | scored_fast_scan | CAUTION | 2026-11-24 11:25 UTC | open | +0.0% |
