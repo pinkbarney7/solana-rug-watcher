@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:25:13",
+ "updated": "2026-11-24T11:42:11",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:14:32+00:00",
+   "scored_at": "2026-11-24T11:42:11+00:00",
    "path": "survivor"
   },
   {
@@ -84,7 +84,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:24:10+00:00",
+   "scored_at": "2026-11-24T11:41:08+00:00",
    "path": "young"
   },
   {
@@ -132,7 +132,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T10:11:12+00:00",
+   "scored_at": "2026-11-24T11:41:10+00:00",
    "path": "young"
   },
   {
@@ -222,13 +222,13 @@
   {
    "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump",
    "ticker": "NOHR",
-   "risk": 53,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:24:08+00:00",
+   "scored_at": "2026-11-24T11:41:10+00:00",
    "path": "young"
   },
   {
@@ -447,7 +447,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:24:09+00:00",
+   "scored_at": "2026-11-24T11:41:00+00:00",
    "path": "young"
   },
   {
@@ -519,19 +519,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:24:10+00:00",
+   "scored_at": "2026-11-24T11:41:09+00:00",
    "path": "young"
   },
   {
    "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump",
    "ticker": "DONJENSEN",
-   "risk": 60,
+   "risk": 66,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:24:00+00:00",
+   "scored_at": "2026-11-24T11:41:09+00:00",
    "path": "young"
   },
   {
@@ -632,6 +632,30 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T11:25:12+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L",
+   "ticker": "TRON-USDT",
+   "risk": 38,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:41:08+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6",
+   "ticker": "USDT-ERC20",
+   "risk": 38,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:41:10+00:00",
    "path": "survivor"
   }
  ]
