@@ -28,3 +28,4 @@
 {"mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump", "ticker": "CATE", "t0": 1795495910.0, "verdict": "SKIP", "risk": 51, "p0": 0.01792, "liq0": 1674105.27, "mcap0": 17280329.0, "1h": {"price": 0.01801, "liq": 1316675.07, "chg_pct": 0.5, "liq_chg_pct": -21.4, "late_min": 7}}
 {"mint": "Gd1Ep22Hy5642CFoB4jWTzjzTeSa33U6w6x33SCxD3e", "ticker": "\u8682\u8681", "t0": 1795499943.0, "verdict": "SKIP", "risk": 53, "p0": 6.095e-05, "liq0": 105999.69, "mcap0": 60951.0}
 {"mint": "FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy", "ticker": "SuperELON", "t0": 1795500668.0, "verdict": "SKIP", "risk": 53, "p0": 0.000111, "liq0": 199053.05, "mcap0": 111057.0}
+{"mint": "cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb", "ticker": "ACHI", "t0": 1795501750.0, "verdict": "SKIP", "risk": 56, "p0": 0.0001385, "liq0": 98313.73, "mcap0": 138598.0}
