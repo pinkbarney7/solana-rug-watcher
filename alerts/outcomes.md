@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 07:34 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 07:50 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,14 +7,16 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 3 | 5.0% | 0 |
 | CAUTION | 6h | 3 | 22.3% | 0 |
 | SKIP | 1h | 23 | -0.1% | 9 |
-| SKIP | 6h | 13 | -39.3% | 8 |
+| SKIP | 6h | 12 | -39.3% | 7 |
 | SKIP | 24h | 4 | 11.8% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | - | - | - |
+| DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | - | - | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | - | - | - |
 | ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | - | - | - |
-| SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | - | - | - |
+| SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | - | - |
 | ACHI | `cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb` | SKIP | 56 | -36.9% / liq $85,943 | - | - |
 | SuperELON | `FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy` | SKIP | 53 | -75.9% / liq $0 | - | - |
 | 蚂蚁 | `Gd1Ep22Hy5642CFoB4jWTzjzTeSa33U6w6x33SCxD3e` | SKIP | 53 | 171.0% / liq $208,640 | - | - |
@@ -40,4 +42,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 51 | 10.3% / liq $116,083 | -61.4% / liq $68,718 | -65.4% / liq $66,271 |
 | AVA | `DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump` | SKIP | 45 | 2.3% / liq $946,215 | 3.7% / liq $953,943 | 11.8% / liq $986,925 |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | SKIP | 56 | 17.6% / liq $57,749 | 26.9% / liq $60,873 | 40.6% / liq $65,863 |
-| cCAT | `FeRt2FEYCEWBUnrgEKpmobdvgzsQRbiEu4zWPeNtbPHq` | SKIP | 53 | 16592.4% / liq $0 | 16592.4% / liq $0 | - |

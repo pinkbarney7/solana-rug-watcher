@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:34:10",
+ "updated": "2026-11-24T07:50:55",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:34:07+00:00",
+   "scored_at": "2026-11-24T07:50:44+00:00",
    "path": "young"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:34:09+00:00",
+   "scored_at": "2026-11-24T07:50:53+00:00",
    "path": "survivor"
   },
   {
@@ -386,7 +386,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:34:06+00:00",
+   "scored_at": "2026-11-24T07:50:54+00:00",
    "path": "survivor"
   },
   {
@@ -398,7 +398,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:34:08+00:00",
+   "scored_at": "2026-11-24T07:50:54+00:00",
    "path": "young"
   },
   {
@@ -435,7 +435,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:34:08+00:00",
+   "scored_at": "2026-11-24T07:50:52+00:00",
    "path": "young"
   },
   {
@@ -471,7 +471,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:34:08+00:00",
+   "scored_at": "2026-11-24T07:50:54+00:00",
    "path": "young"
   },
   {
@@ -509,6 +509,30 @@
    ],
    "scored_at": "2026-11-24T07:34:07+00:00",
    "path": "survivor"
+  },
+  {
+   "mint": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+   "ticker": "DBR",
+   "risk": 59,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T07:50:53+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB",
+   "ticker": "SuperELON",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T07:50:55+00:00",
+   "path": "young"
   }
  ]
 }
