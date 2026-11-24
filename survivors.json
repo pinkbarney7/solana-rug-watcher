@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:30:05",
+ "updated": "2026-11-24T16:40:34",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -133,18 +133,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T13:04:23+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "7CXf1gfyAC2HoHurBkNNs8dWkg3YLJEGMM5Y53rDN72k",
-   "ticker": "APPLE",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T04:38:39+00:00",
    "path": "young"
   },
   {
