@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 08:08 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 08:20 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 5.0% | 0 |
 | CAUTION | 6h | 3 | 22.3% | 0 |
-| SKIP | 1h | 22 | -0.1% | 9 |
-| SKIP | 6h | 11 | -61.4% | 7 |
-| SKIP | 24h | 4 | 4.0% | 2 |
+| SKIP | 1h | 22 | -0.1% | 10 |
+| SKIP | 6h | 10 | -61.4% | 7 |
+| SKIP | 24h | 3 | -65.4% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | - | - | - |
 | DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | - | - | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | - | - | - |
-| ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | - | - | - |
+| ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | 4.9% / liq $0 | - | - |
 | SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | - | - |
 | ACHI | `cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb` | SKIP | 56 | -36.9% / liq $85,943 | - | - |
 | SuperELON | `FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy` | SKIP | 53 | -75.9% / liq $0 | - | - |
@@ -41,4 +41,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | KOOP | `CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK` | SKIP | 53 | 15.2% / liq $230,146 | -75.6% / liq $0 | -75.6% / liq $0 |
 | Fly | `M21c1r5EtGPsPFfQTg8vbzUCAyXcPZH4iEHGzzxoPwc` | SKIP | 53 | 4.0% / liq $0 | 4.0% / liq $0 | 4.0% / liq $0 |
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 51 | 10.3% / liq $116,083 | -61.4% / liq $68,718 | -65.4% / liq $66,271 |
-| AVA | `DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump` | SKIP | 45 | 2.3% / liq $946,215 | 3.7% / liq $953,943 | 11.8% / liq $986,925 |
