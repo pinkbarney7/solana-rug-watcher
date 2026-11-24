@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:38:26",
+ "updated": "2026-11-24T23:46:51",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -50,18 +50,6 @@
    ],
    "scored_at": "2026-11-24T21:25:40+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump",
-   "ticker": "Singularity",
-   "risk": 41,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T11:45:56+00:00",
-   "path": "young"
   },
   {
    "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
