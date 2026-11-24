@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 05:59 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 06:11 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| SuperELON | `FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy` | SKIP | 53 | - | - | - |
 | 蚂蚁 | `Gd1Ep22Hy5642CFoB4jWTzjzTeSa33U6w6x33SCxD3e` | SKIP | 53 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.5% / liq $1,316,675 | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.7% / liq $2,163,612 | - | - |

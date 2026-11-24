@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:59:04",
+ "updated": "2026-11-24T06:11:18",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -84,7 +84,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T05:59:02+00:00",
+   "scored_at": "2026-11-24T06:11:16+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T05:58:53+00:00",
+   "scored_at": "2026-11-24T06:11:17+00:00",
    "path": "young"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T05:59:01+00:00",
+   "scored_at": "2026-11-24T06:11:16+00:00",
    "path": "survivor"
   },
   {
@@ -386,7 +386,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T05:59:02+00:00",
+   "scored_at": "2026-11-24T06:11:17+00:00",
    "path": "survivor"
   },
   {
@@ -448,6 +448,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T05:59:03+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy",
+   "ticker": "SuperELON",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T06:11:08+00:00",
    "path": "young"
   }
  ]
