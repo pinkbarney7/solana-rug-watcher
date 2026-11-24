@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:17:06",
+ "updated": "2026-11-24T17:25:31",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -98,18 +98,6 @@
    ],
    "scored_at": "2026-11-24T12:54:27+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump",
-   "ticker": "UCASH",
-   "risk": 59,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T05:24:13+00:00",
-   "path": "young"
   },
   {
    "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump",

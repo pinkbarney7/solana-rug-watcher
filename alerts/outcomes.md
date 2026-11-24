@@ -1,13 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 17:17 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 17:25 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 6 | 0.0% | 0 |
-| CAUTION | 6h | 1 | -41.0% | 0 |
+| CAUTION | 6h | 2 | 0.0% | 0 |
 | SKIP | 1h | 29 | 0.0% | 7 |
-| SKIP | 6h | 24 | -4.4% | 7 |
+| SKIP | 6h | 26 | -4.0% | 7 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -18,9 +18,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | - | - |
 | USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | - | - |
 | TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | - | - |
-| IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | - | - |
-| BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | - | - |
-| AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | - | - |
+| IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | - |
+| BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | 0.0% / liq $91,361,085 | - |
+| AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | 0.0% / liq $161,191,196 | - |
 | META | `METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd` | SKIP | 67 | 0.2% / liq $838,007 | 0.6% / liq $841,762 | - |
 | MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | 0.2% / liq $6,084,117 | -1.5% / liq $5,982,597 | - |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | - |
