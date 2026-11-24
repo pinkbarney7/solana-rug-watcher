@@ -37,3 +37,4 @@
 {"mint": "3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz", "ticker": "IOST", "t0": 1795519512.0, "verdict": "CAUTION", "risk": 38, "p0": 0.000785, "liq0": 78240285.07, "mcap0": 78509620.0}
 {"mint": "JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L", "ticker": "TRON-USDT", "t0": 1795520468.0, "verdict": "CAUTION", "risk": 38, "p0": 1.00031, "liq0": 209708826.34, "mcap0": 210065588.0}
 {"mint": "WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6", "ticker": "USDT-ERC20", "t0": 1795520470.0, "verdict": "CAUTION", "risk": 38, "p0": 1.00031, "liq0": 209708811.92, "mcap0": 210065574.0}
+{"mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump", "ticker": "COPIUM", "t0": 1795521239.0, "verdict": "CAUTION", "risk": 44, "p0": 0.0007969, "liq0": 68019.19, "mcap0": 788875.0}
