@@ -30,3 +30,5 @@
 {"mint": "HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg", "ticker": "DOG", "t0": 1795515987.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001075, "liq0": 193704.42, "mcap0": 107542.0}
 {"mint": "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S", "ticker": "TSLA", "t0": 1795518588.0, "verdict": "SKIP", "risk": 67, "p0": 380.059, "liq0": 1034682.3999999999, "mcap0": 1020459.0}
 {"mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump", "ticker": "Fartcoin ", "t0": 1795518653.0, "verdict": "SKIP", "risk": 56, "p0": 0.08026, "liq0": 5475220.989999999, "mcap0": 80260777.0}
+{"mint": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5", "ticker": "MEW", "t0": 1795518904.0, "verdict": "SKIP", "risk": 49, "p0": 0.0002878, "liq0": 6076111.39, "mcap0": 25583284.0}
+{"mint": "METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd", "ticker": "META", "t0": 1795518949.0, "verdict": "SKIP", "risk": 67, "p0": 588.15, "liq0": 906498.72, "mcap0": 826350.0}

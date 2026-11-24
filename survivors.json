@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:10:53",
+ "updated": "2026-11-24T11:15:49",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:09:50+00:00",
+   "scored_at": "2026-11-24T11:14:32+00:00",
    "path": "survivor"
   },
   {
@@ -50,18 +50,6 @@
    ],
    "scored_at": "2026-11-23T12:58:29+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "2wh7dPQV4w1tgVQzYzJB683fqxcTkU4A8WeaoNZJpump",
-   "ticker": "AODT",
-   "risk": 65,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-22T23:15:39+00:00",
-   "path": "young"
   },
   {
    "mint": "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump",
@@ -96,7 +84,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:09:40+00:00",
+   "scored_at": "2026-11-24T11:14:30+00:00",
    "path": "young"
   },
   {
@@ -240,7 +228,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:09:49+00:00",
+   "scored_at": "2026-11-24T11:14:56+00:00",
    "path": "young"
   },
   {
@@ -386,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:26+00:00",
+   "scored_at": "2026-11-24T11:15:05+00:00",
    "path": "young"
   },
   {
@@ -459,7 +447,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:09:50+00:00",
+   "scored_at": "2026-11-24T11:14:32+00:00",
    "path": "young"
   },
   {
@@ -531,7 +519,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:09:50+00:00",
+   "scored_at": "2026-11-24T11:14:31+00:00",
    "path": "young"
   },
   {
@@ -543,7 +531,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:09:48+00:00",
+   "scored_at": "2026-11-24T11:15:25+00:00",
    "path": "young"
   },
   {
@@ -581,6 +569,31 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T11:10:53+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+   "ticker": "MEW",
+   "risk": 49,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:15:04+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd",
+   "ticker": "META",
+   "risk": 67,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "authorities",
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:15:49+00:00",
    "path": "survivor"
   }
  ]
