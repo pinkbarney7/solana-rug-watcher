@@ -29,8 +29,8 @@
 {"mint": "HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg", "ticker": "DOG", "t0": 1795515987.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001075, "liq0": 193704.42, "mcap0": 107542.0, "1h": {"price": 2.601e-05, "liq": 0, "chg_pct": -75.8, "liq_chg_pct": -100.0, "late_min": 16}}
 {"mint": "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S", "ticker": "TSLA", "t0": 1795518588.0, "verdict": "SKIP", "risk": 67, "p0": 380.059, "liq0": 1034682.3999999999, "mcap0": 1020459.0, "1h": {"price": 385.98, "liq": 941223.5, "chg_pct": 1.6, "liq_chg_pct": -9.0, "late_min": 2}}
 {"mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump", "ticker": "Fartcoin ", "t0": 1795518653.0, "verdict": "SKIP", "risk": 56, "p0": 0.08026, "liq0": 5475220.989999999, "mcap0": 80260777.0, "1h": {"price": 0.08088, "liq": 4647687.84, "chg_pct": 0.8, "liq_chg_pct": -15.1, "late_min": 1}}
-{"mint": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5", "ticker": "MEW", "t0": 1795518904.0, "verdict": "SKIP", "risk": 49, "p0": 0.0002878, "liq0": 6076111.39, "mcap0": 25583284.0}
-{"mint": "METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd", "ticker": "META", "t0": 1795518949.0, "verdict": "SKIP", "risk": 67, "p0": 588.15, "liq0": 906498.72, "mcap0": 826350.0}
+{"mint": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5", "ticker": "MEW", "t0": 1795518904.0, "verdict": "SKIP", "risk": 49, "p0": 0.0002878, "liq0": 6076111.39, "mcap0": 25583284.0, "1h": {"price": 0.0002883, "liq": 6084117.43, "chg_pct": 0.2, "liq_chg_pct": 0.1, "late_min": 5}}
+{"mint": "METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd", "ticker": "META", "t0": 1795518949.0, "verdict": "SKIP", "risk": 67, "p0": 588.15, "liq0": 906498.72, "mcap0": 826350.0, "1h": {"price": 589.19, "liq": 838061.81, "chg_pct": 0.2, "liq_chg_pct": -7.5, "late_min": 4}}
 {"mint": "6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7", "ticker": "AIN", "t0": 1795519449.0, "verdict": "SKIP", "risk": 56, "p0": 0.1615, "liq0": 161191187.14, "mcap0": 161506669.0}
 {"mint": "FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia", "ticker": "BEAT", "t0": 1795519450.0, "verdict": "SKIP", "risk": 56, "p0": 0.09168, "liq0": 91361075.89, "mcap0": 91686464.0}
 {"mint": "3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz", "ticker": "IOST", "t0": 1795519512.0, "verdict": "CAUTION", "risk": 38, "p0": 0.000785, "liq0": 78240285.07, "mcap0": 78509620.0}
@@ -38,3 +38,4 @@
 {"mint": "WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6", "ticker": "USDT-ERC20", "t0": 1795520470.0, "verdict": "CAUTION", "risk": 38, "p0": 1.00031, "liq0": 209708811.92, "mcap0": 210065574.0}
 {"mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump", "ticker": "COPIUM", "t0": 1795521239.0, "verdict": "CAUTION", "risk": 44, "p0": 0.0007969, "liq0": 68019.19, "mcap0": 788875.0}
 {"mint": "3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ", "ticker": "ON", "t0": 1795522271.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001187, "liq0": 209988.99, "mcap0": 118712.0}
+{"mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb", "ticker": "SPCX", "t0": 1795522810.0, "verdict": "SKIP", "risk": 72, "p0": 130.87, "liq0": 4052844.17, "mcap0": 12968502.4800506}
