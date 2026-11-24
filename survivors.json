@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:34:40",
+ "updated": "2026-11-24T08:48:02",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T08:34:38+00:00",
+   "scored_at": "2026-11-24T08:48:01+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T08:34:30+00:00",
+   "scored_at": "2026-11-24T08:47:52+00:00",
    "path": "young"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:50:53+00:00",
+   "scored_at": "2026-11-24T08:48:02+00:00",
    "path": "survivor"
   },
   {
@@ -386,7 +386,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T08:34:40+00:00",
+   "scored_at": "2026-11-24T08:48:02+00:00",
    "path": "survivor"
   },
   {
@@ -398,7 +398,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T08:34:38+00:00",
+   "scored_at": "2026-11-24T08:48:02+00:00",
    "path": "young"
   },
   {
@@ -471,7 +471,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T08:34:39+00:00",
+   "scored_at": "2026-11-24T08:48:00+00:00",
    "path": "young"
   },
   {
@@ -532,6 +532,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T08:34:39+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump",
+   "ticker": "GROKIA",
+   "risk": 66,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T08:48:01+00:00",
    "path": "young"
   }
  ]

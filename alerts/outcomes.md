@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 08:34 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 08:48 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | - | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | - | - | - |
 | SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | - | - | - |
 | DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | - | - | - |
