@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 08:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 08:23 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,7 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 3 | 22.3% | 0 |
 | SKIP | 1h | 22 | -0.1% | 10 |
 | SKIP | 6h | 10 | -61.4% | 7 |
-| SKIP | 24h | 3 | -65.4% | 2 |
+| SKIP | 24h | 4 | -65.4% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ROCKET | `6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump` | CAUTION | 33 | 0.7% / liq $66,677 | 32.0% / liq $77,825 | - |
 | SIDOOR | `zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor` | CAUTION | 43 | 5.0% / liq $51,014 | -10.1% / liq $47,943 | - |
 | AI | `UTwVaeanPSQGEbwQ7c36Zi3WcZz4vgG1nePwodiSoU9` | SKIP | 53 | -77.6% / liq $0 | -77.6% / liq $0 | - |
-| cCAT | `GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj` | SKIP | 53 | -99.9% / liq $0 | -99.9% / liq $0 | - |
+| cCAT | `GV9KAJn6xkTvxYP8snyU13Dw7NNWakVddnzmRqd8Lrj` | SKIP | 53 | -99.9% / liq $0 | -99.9% / liq $0 | -99.9% / liq $0 |
 | KOOP | `CyQeKLdAUTmuWwsY8bzq2KeWxv8Rrswu2W4EuKGcvFhK` | SKIP | 53 | 15.2% / liq $230,146 | -75.6% / liq $0 | -75.6% / liq $0 |
 | Fly | `M21c1r5EtGPsPFfQTg8vbzUCAyXcPZH4iEHGzzxoPwc` | SKIP | 53 | 4.0% / liq $0 | 4.0% / liq $0 | 4.0% / liq $0 |
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 51 | 10.3% / liq $116,083 | -61.4% / liq $68,718 | -65.4% / liq $66,271 |
