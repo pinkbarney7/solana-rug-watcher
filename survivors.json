@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:24:24",
+ "updated": "2026-11-24T07:34:10",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:24:14+00:00",
+   "scored_at": "2026-11-24T07:34:07+00:00",
    "path": "young"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:24:23+00:00",
+   "scored_at": "2026-11-24T07:34:09+00:00",
    "path": "survivor"
   },
   {
@@ -386,7 +386,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:24:24+00:00",
+   "scored_at": "2026-11-24T07:34:06+00:00",
    "path": "survivor"
   },
   {
@@ -398,7 +398,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T05:17:13+00:00",
+   "scored_at": "2026-11-24T07:34:08+00:00",
    "path": "young"
   },
   {
@@ -435,7 +435,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:17:24+00:00",
+   "scored_at": "2026-11-24T07:34:08+00:00",
    "path": "young"
   },
   {
@@ -471,19 +471,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:24:24+00:00",
+   "scored_at": "2026-11-24T07:34:08+00:00",
    "path": "young"
   },
   {
    "mint": "2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J",
    "ticker": "SuperJense",
-   "risk": 53,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:24:22+00:00",
+   "scored_at": "2026-11-24T07:33:58+00:00",
    "path": "young"
   },
   {
@@ -507,7 +507,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:24:23+00:00",
+   "scored_at": "2026-11-24T07:34:07+00:00",
    "path": "survivor"
   }
  ]
