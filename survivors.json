@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:54:58",
+ "updated": "2026-11-24T20:07:03",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -146,18 +146,6 @@
    ],
    "scored_at": "2026-11-24T12:53:11+00:00",
    "path": "young"
-  },
-  {
-   "mint": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
-   "ticker": "AVA",
-   "risk": 45,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T08:04:57+00:00",
-   "path": "survivor"
   },
   {
    "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump",
