@@ -1,12 +1,14 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-24 12:50 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-24 13:01 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 49 | Open: 1 | Not opened (failed sell gate): 0
+Closed: 49 | Open: 3 | Not opened (failed sell gate): 0
 Win rate 24% | avg return -22.5% | expectancy $-5.62 per $25 trade | total $-275.30
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | new_launch_scored | CAUTION | 2026-11-23 18:21 EST | open | -17.7% |
+| cateball | [`4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump`](https://pump.fun/coin/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump) | scored_fast_scan | CAUTION | 2026-11-24 13:01 EST | open | +0.0% |
+| JIMMY | [`38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump`](https://pump.fun/coin/38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump) | scored_fast_scan | CAUTION | 2026-11-24 13:01 EST | open | +0.0% |
+| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | new_launch_scored | CAUTION | 2026-11-23 18:21 EST | open | -18.7% |
 | COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-23 18:11 EST | closed (stop -50%) | -67.9% |
 | mucron | [`3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump`](https://pump.fun/coin/3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | closed (24h time exit) | -4.4% |
 | WEFT | [`HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8`](https://dexscreener.com/solana/HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | closed (24h time exit) | -0.3% |
@@ -54,5 +56,3 @@ Win rate 24% | avg return -22.5% | expectancy $-5.62 per $25 trade | total $-275
 | XRP | [`rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump`](https://pump.fun/coin/rmZkxbvhEFW5Nn76ZvCUyuhAkV7ouy4JRq6FT3Zpump) | scored_scorecard | CAUTION | 2026-10-31 08:30 EDT | closed (pool dead/delisted (-100%)) | -100.0% |
 | chud | [`Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump`](https://pump.fun/coin/Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump) | scored_scorecard | CAUTION | 2026-10-31 08:30 EDT | closed (24h time exit) | -2.1% |
 | VEIL | [`BQ9j4y8V9WkGAS5KobJ4eY8MZmfr8THmcCjRZfCpump`](https://pump.fun/coin/BQ9j4y8V9WkGAS5KobJ4eY8MZmfr8THmcCjRZfCpump) | scored_scorecard | CAUTION | 2026-10-31 08:20 EDT | closed (pool dead/delisted (-100%)) | -100.0% |
-| ECTF | [`CbAQ7GizytfgvtiqCo2Dg8mg2jW7tS5pBd51w4dpump`](https://pump.fun/coin/CbAQ7GizytfgvtiqCo2Dg8mg2jW7tS5pBd51w4dpump) | scored_scorecard | CAUTION | 2026-10-31 08:20 EDT | closed (pool dead/delisted (-100%)) | -100.0% |
-| ANTFUN | [`CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt`](https://dexscreener.com/solana/CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt) | scored_fast_scan | CAUTION | 2026-10-31 08:00 EDT | closed (24h time exit) | +1.3% |
