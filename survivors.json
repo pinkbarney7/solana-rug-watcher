@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:40:34",
+ "updated": "2026-11-24T16:50:51",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -133,18 +133,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T13:04:23+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "AUXPnwxp24ZpjLjCi1163XYT4aes9WEZSZA1zFQ3wnn",
-   "ticker": "Fly",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T04:47:56+00:00",
    "path": "young"
   },
   {
