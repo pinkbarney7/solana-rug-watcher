@@ -1,11 +1,11 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 17:39 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 17:44 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 6 | 0.0% | 0 |
-| CAUTION | 6h | 2 | 0.0% | 0 |
+| CAUTION | 6h | 4 | 0.0% | 0 |
 | SKIP | 1h | 29 | 0.0% | 7 |
 | SKIP | 6h | 26 | -4.0% | 7 |
 
@@ -16,8 +16,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | - | - |
 | ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | - | - |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | - | - |
-| USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | - | - |
-| TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | - | - |
+| USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | 0.0% / liq $209,708,821 | - |
+| TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | 0.0% / liq $209,708,835 | - |
 | IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | - |
 | BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | 0.0% / liq $91,361,085 | - |
 | AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | 0.0% / liq $161,191,196 | - |
