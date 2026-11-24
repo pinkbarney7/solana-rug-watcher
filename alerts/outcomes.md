@@ -1,12 +1,10 @@
-# Outcomes (DEX Screener, free) - 2026-11-24 14:22 UTC
+# Outcomes (DEX Screener, free) - 2026-11-24 14:32 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 7 | 0.0% | 0 |
-| CAUTION | 6h | 1 | 22.3% | 0 |
-| CAUTION | 24h | 1 | -1.4% | 0 |
+| CAUTION | 1h | 6 | 0.0% | 0 |
 | SKIP | 1h | 29 | 0.0% | 7 |
 | SKIP | 6h | 16 | -4.5% | 6 |
 
@@ -47,4 +45,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NVDA | `NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv` | SKIP | 68 | -0.1% / liq $722,087 | -4.5% / liq $700,167 | - |
 | JENSEN | `HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump` | SKIP | 60 | -25.8% / liq $54,570 | -43.8% / liq $47,181 | - |
 | JINGWA | `ChZzab3vUf5WTkQm2Q13AB9YjY3oCa2JbY2QRVohn8K` | SKIP | 53 | -7.0% / liq $0 | -66.0% / liq $0 | - |
-| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 6.3% / liq $335,392 | 22.3% / liq $363,723 | -1.4% / liq $320,194 |
