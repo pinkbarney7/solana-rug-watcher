@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:01:27",
+ "updated": "2026-11-24T11:10:53",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:25+00:00",
+   "scored_at": "2026-11-24T11:09:50+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:26+00:00",
+   "scored_at": "2026-11-24T11:09:40+00:00",
    "path": "young"
   },
   {
@@ -240,7 +240,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:25+00:00",
+   "scored_at": "2026-11-24T11:09:49+00:00",
    "path": "young"
   },
   {
@@ -417,13 +417,13 @@
   {
    "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump",
    "ticker": "JENSEN",
-   "risk": 54,
-   "verdict": "SKIP",
+   "risk": 48,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:59:12+00:00",
+   "scored_at": "2026-11-24T11:09:49+00:00",
    "path": "young"
   },
   {
@@ -459,7 +459,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:25+00:00",
+   "scored_at": "2026-11-24T11:09:50+00:00",
    "path": "young"
   },
   {
@@ -531,7 +531,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:16+00:00",
+   "scored_at": "2026-11-24T11:09:50+00:00",
    "path": "young"
   },
   {
@@ -543,7 +543,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T11:00:24+00:00",
+   "scored_at": "2026-11-24T11:09:48+00:00",
    "path": "young"
   },
   {
@@ -557,6 +557,31 @@
    ],
    "scored_at": "2026-11-24T10:26:27+00:00",
    "path": "young"
+  },
+  {
+   "mint": "TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S",
+   "ticker": "TSLA",
+   "risk": 67,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "authorities",
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:09:48+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "ticker": "Fartcoin ",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-24T11:10:53+00:00",
+   "path": "survivor"
   }
  ]
 }
