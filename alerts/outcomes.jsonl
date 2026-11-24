@@ -27,3 +27,4 @@
 {"mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "ticker": "DONJENSEN", "t0": 1795510379.0, "verdict": "SKIP", "risk": 66, "p0": 0.002191, "liq0": 107381.3, "mcap0": 2182597.0, "1h": {"price": 0.002301, "liq": 109766.67, "chg_pct": 5.0, "liq_chg_pct": 2.2, "late_min": 0}}
 {"mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump", "ticker": "NOHR", "t0": 1795511630.0, "verdict": "SKIP", "risk": 56, "p0": 0.003517, "liq0": 142884.77, "mcap0": 3484729.0, "1h": {"price": 0.003583, "liq": 144292.3, "chg_pct": 1.9, "liq_chg_pct": 1.0, "late_min": 8}}
 {"mint": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi", "ticker": "MCAT", "t0": 1795513896.0, "verdict": "CAUTION", "risk": 41, "p0": 0.0002642, "liq0": 90540.39, "mcap0": 264204.0}
+{"mint": "HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg", "ticker": "DOG", "t0": 1795515987.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001075, "liq0": 193704.42, "mcap0": 107542.0}
