@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-24T14:38:11+00:00",
- "ts_epoch": 1795531091,
+ "ts": "2026-11-24T14:57:02+00:00",
+ "ts_epoch": 1795532222,
  "source": "box",
  "realtime_running": true,
- "realtime_status_age_s": 72,
+ "realtime_status_age_s": 18,
  "credits_today": 0.0,
  "credit_cap": 16000,
  "paused_helius": false
