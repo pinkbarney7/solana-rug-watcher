@@ -1,12 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-24 08:27 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-24 08:37 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 45 | Open: 5 | Not opened (failed sell gate): 0
 Win rate 27% | avg return -24.1% | expectancy $-6.02 per $25 trade | total $-270.93
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | new_launch_scored | CAUTION | 2026-11-23 18:21 EST | open | -5.7% |
+| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | new_launch_scored | CAUTION | 2026-11-23 18:21 EST | open | -5.9% |
 | COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-23 18:11 EST | closed (stop -50%) | -67.9% |
 | mucron | [`3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump`](https://pump.fun/coin/3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -4.4% |
 | WEFT | [`HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8`](https://dexscreener.com/solana/HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8) | scored_scorecard | CAUTION | 2026-11-23 08:50 EST | open | -0.3% |
