@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:08:49",
+ "updated": "2026-11-24T07:17:27",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -84,7 +84,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:47+00:00",
+   "scored_at": "2026-11-24T07:17:23+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:48+00:00",
+   "scored_at": "2026-11-24T07:17:23+00:00",
    "path": "young"
   },
   {
@@ -108,7 +108,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:47+00:00",
+   "scored_at": "2026-11-24T07:17:24+00:00",
    "path": "survivor"
   },
   {
@@ -386,7 +386,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:46+00:00",
+   "scored_at": "2026-11-24T07:17:22+00:00",
    "path": "survivor"
   },
   {
@@ -435,7 +435,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T06:58:49+00:00",
+   "scored_at": "2026-11-24T07:17:24+00:00",
    "path": "young"
   },
   {
@@ -471,7 +471,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:46+00:00",
+   "scored_at": "2026-11-24T07:17:13+00:00",
    "path": "young"
   },
   {
@@ -483,7 +483,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:48+00:00",
+   "scored_at": "2026-11-24T07:17:21+00:00",
    "path": "young"
   },
   {
@@ -495,7 +495,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T07:08:48+00:00",
+   "scored_at": "2026-11-24T07:17:22+00:00",
    "path": "young"
   }
  ]
