@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 09:43 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 09:59 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 9 | -1.5% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
-| SKIP | 1h | 26 | 0.8% | 3 |
-| SKIP | 6h | 16 | -2.0% | 4 |
-| SKIP | 24h | 6 | -13.4% | 1 |
+| CAUTION | 24h | 1 | -62.2% | 0 |
+| SKIP | 1h | 24 | 0.8% | 3 |
+| SKIP | 6h | 14 | -1.9% | 3 |
+| SKIP | 24h | 4 | 5.4% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -43,10 +44,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | - |
 | TSLA | `TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S` | SKIP | 67 | 1.6% / liq $941,224 | 0.5% / liq $936,103 | - |
 | DOG | `HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | - |
-| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 41 | -28.5% / liq $75,081 | -41.0% / liq $67,464 | - |
+| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 41 | -28.5% / liq $75,081 | -41.0% / liq $67,464 | -62.2% / liq $53,428 |
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 56 | 1.9% / liq $144,292 | -4.4% / liq $137,959 | 10.0% / liq $146,966 |
 | DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | 5.0% / liq $109,767 | -10.4% / liq $101,201 | -99.9% / liq $1,769 |
 | GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | -0.1% / liq $132,677 | -22.5% / liq $116,491 | -85.0% / liq $51,036 |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.0% / liq $3,349,093 | -2.0% / liq $3,300,501 | 5.4% / liq $3,379,157 |
-| SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | 16.5% / liq $220,123 | -74.8% / liq $0 | -74.8% / liq $0 |
-| DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | -2.9% / liq $5,233,289 | -6.3% / liq $5,143,389 | -13.4% / liq $4,943,976 |
