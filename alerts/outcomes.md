@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 12:11 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 12:15 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,10 +9,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 24h | 4 | 0.0% | 0 |
 | SKIP | 1h | 24 | 0.8% | 5 |
 | SKIP | 6h | 15 | -1.5% | 5 |
-| SKIP | 24h | 7 | -1.1% | 1 |
+| SKIP | 24h | 8 | -1.1% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | SKIP | 55 | - | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.5% / liq $3,452,363 | - | - |
 | JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | -80.0% / liq $0 | - | - |
 | BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | 15.3% / liq $295,368 | - | - |
@@ -34,7 +35,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | -60.2% / liq $32,559 | -84.1% / liq $20,493 | - |
 | Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | -2.8% / liq $2,517,612 | - |
-| ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | -77.7% / liq $0 | - |
+| ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | -77.7% / liq $0 | -77.7% / liq $0 |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | -99.8% / liq $2,177 |
 | USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | 0.0% / liq $209,708,821 | 0.0% / liq $209,708,843 |
 | TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | 0.0% / liq $209,708,835 | 0.0% / liq $209,708,858 |
