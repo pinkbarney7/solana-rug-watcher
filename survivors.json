@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:27:28",
+ "updated": "2026-11-25T06:37:30",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -17,13 +17,13 @@
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
    "ticker": "pippin",
-   "risk": 42,
-   "verdict": "CAUTION",
+   "risk": 52,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:27:26+00:00",
+   "scored_at": "2026-11-25T06:37:28+00:00",
    "path": "survivor"
   },
   {
@@ -36,7 +36,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:55+00:00",
+   "scored_at": "2026-11-25T06:37:28+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:45+00:00",
+   "scored_at": "2026-11-25T06:37:28+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:55+00:00",
+   "scored_at": "2026-11-25T06:37:27+00:00",
    "path": "young"
   },
   {
@@ -499,7 +499,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:53+00:00",
+   "scored_at": "2026-11-25T06:37:27+00:00",
    "path": "young"
   },
   {
@@ -523,19 +523,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:55+00:00",
+   "scored_at": "2026-11-25T06:37:18+00:00",
    "path": "young"
   },
   {
    "mint": "F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW",
    "ticker": "CHUCK",
-   "risk": 53,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:54+00:00",
+   "scored_at": "2026-11-25T06:37:26+00:00",
    "path": "young"
   },
   {
@@ -547,7 +547,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:26:54+00:00",
+   "scored_at": "2026-11-25T06:37:26+00:00",
    "path": "survivor"
   }
  ]
