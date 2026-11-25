@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:20:56",
+ "updated": "2026-11-25T21:34:43",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -170,18 +170,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-25T05:02:38+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
-   "ticker": "DBR",
-   "risk": 59,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T09:29:29+00:00",
    "path": "survivor"
   },
   {
