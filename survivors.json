@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:49:46",
+ "updated": "2026-11-25T04:56:29",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T04:49:44+00:00",
+   "scored_at": "2026-11-25T04:56:25+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T04:49:34+00:00",
+   "scored_at": "2026-11-25T04:56:17+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T04:49:42+00:00",
+   "scored_at": "2026-11-25T04:56:26+00:00",
    "path": "young"
   },
   {
@@ -254,7 +254,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T04:49:43+00:00",
+   "scored_at": "2026-11-25T04:56:25+00:00",
    "path": "survivor"
   },
   {
@@ -464,6 +464,18 @@
    ],
    "scored_at": "2026-11-24T12:53:01+00:00",
    "path": "young"
+  },
+  {
+   "mint": "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump",
+   "ticker": "DCTY",
+   "risk": 38,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-25T04:56:26+00:00",
+   "path": "survivor"
   }
  ]
 }
