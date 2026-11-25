@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 08:21 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 08:29 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 9 | -1.5% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
-| SKIP | 1h | 29 | 0.2% | 5 |
-| SKIP | 6h | 20 | -1.9% | 6 |
-| SKIP | 24h | 7 | 4.9% | 4 |
+| SKIP | 1h | 28 | 0.8% | 5 |
+| SKIP | 6h | 19 | -2.0% | 6 |
+| SKIP | 24h | 6 | 4.9% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -50,4 +50,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $431,079 | -100.0% / liq $420,578 | -100.0% / liq $395,944 |
 | ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | 4.9% / liq $0 | 4.9% / liq $0 | 4.9% / liq $0 |
 | SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | 21406.2% / liq $0 | 21406.2% / liq $0 |
-| ACHI | `cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb` | SKIP | 56 | -36.9% / liq $85,943 | 5.1% / liq $154,359 | 830224.9% / liq $0 |
