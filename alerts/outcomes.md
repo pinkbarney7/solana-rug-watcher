@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 11:56 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 12:11 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,7 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 7 | 0.0% | 0 |
 | CAUTION | 24h | 4 | 0.0% | 0 |
 | SKIP | 1h | 24 | 0.8% | 5 |
-| SKIP | 6h | 14 | 0.0% | 4 |
+| SKIP | 6h | 15 | -1.5% | 5 |
 | SKIP | 24h | 7 | -1.1% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -24,7 +24,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | - | - |
 | BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | - | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | - | - |
-| CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | - | - |
+| CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | -63.7% / liq $0 | - |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | -57.0% / liq $45,392 | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | 4.7% / liq $1,794,669 | - |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | - |
