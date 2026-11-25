@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 08:58 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 09:03 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Friend | `9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ` | SKIP | 53 | - | - | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -3.0% / liq $1,229,070 | - | - |
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | 16.9% / liq $79,600 | - | - |
