@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:43:08",
+ "updated": "2026-11-25T08:50:22",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:36:54+00:00",
+   "scored_at": "2026-11-25T08:50:17+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:36:55+00:00",
+   "scored_at": "2026-11-25T08:50:18+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:36:55+00:00",
+   "scored_at": "2026-11-25T08:50:19+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:37:24+00:00",
+   "scored_at": "2026-11-25T08:50:19+00:00",
    "path": "young"
   },
   {
@@ -548,19 +548,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:37:40+00:00",
+   "scored_at": "2026-11-25T08:50:18+00:00",
    "path": "survivor"
   },
   {
    "mint": "E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump",
    "ticker": "BOOBS",
-   "risk": 62,
+   "risk": 60,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:43:08+00:00",
+   "scored_at": "2026-11-25T08:50:09+00:00",
    "path": "young"
   },
   {
@@ -572,7 +572,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T08:36:55+00:00",
+   "scored_at": "2026-11-25T08:50:17+00:00",
    "path": "young"
   },
   {
