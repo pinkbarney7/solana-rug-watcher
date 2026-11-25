@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:09:34",
+ "updated": "2026-11-25T10:18:51",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:59:05+00:00",
+   "scored_at": "2026-11-25T10:17:49+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:35:46+00:00",
+   "scored_at": "2026-11-25T10:17:50+00:00",
    "path": "young"
   },
   {
@@ -139,13 +139,13 @@
   {
    "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
    "ticker": "JIMMY",
-   "risk": 41,
+   "risk": 45,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:31+00:00",
+   "scored_at": "2026-11-25T10:17:48+00:00",
    "path": "young"
   },
   {
@@ -511,7 +511,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:29+00:00",
+   "scored_at": "2026-11-25T10:18:51+00:00",
    "path": "survivor"
   },
   {
@@ -548,19 +548,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:30+00:00",
+   "scored_at": "2026-11-25T10:17:48+00:00",
    "path": "survivor"
   },
   {
    "mint": "E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump",
    "ticker": "BOOBS",
-   "risk": 59,
+   "risk": 58,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:30+00:00",
+   "scored_at": "2026-11-25T10:17:49+00:00",
    "path": "young"
   },
   {
@@ -572,7 +572,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:29+00:00",
+   "scored_at": "2026-11-25T10:17:50+00:00",
    "path": "young"
   },
   {
@@ -620,19 +620,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:28+00:00",
+   "scored_at": "2026-11-25T10:17:39+00:00",
    "path": "young"
   },
   {
    "mint": "3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W",
    "ticker": "JaoJiu",
-   "risk": 53,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T10:09:20+00:00",
+   "scored_at": "2026-11-25T10:17:47+00:00",
    "path": "young"
   }
  ]
