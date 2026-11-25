@@ -1,12 +1,12 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 13:46 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 13:56 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 7 | -4.0% | 0 |
-| CAUTION | 6h | 5 | -5.9% | 0 |
-| CAUTION | 24h | 2 | -88.0% | 0 |
+| CAUTION | 1h | 6 | -1.5% | 0 |
+| CAUTION | 6h | 4 | 5.1% | 0 |
+| CAUTION | 24h | 1 | -88.0% | 0 |
 | SKIP | 1h | 19 | 0.9% | 5 |
 | SKIP | 6h | 13 | -2.8% | 4 |
 | SKIP | 24h | 3 | -6.5% | 2 |
@@ -38,4 +38,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | 21366.3% / liq $0 |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | -2.8% / liq $2,517,612 | -6.5% / liq $2,412,899 |
 | ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | -77.7% / liq $0 | -77.7% / liq $0 |
-| COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | -99.8% / liq $2,177 |
