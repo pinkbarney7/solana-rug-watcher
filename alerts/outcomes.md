@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 11:07 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 11:18 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,14 +7,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 10 | 0.0% | 0 |
 | CAUTION | 6h | 8 | 0.0% | 0 |
 | CAUTION | 24h | 1 | -62.2% | 0 |
-| SKIP | 1h | 23 | 0.8% | 4 |
-| SKIP | 6h | 11 | -1.5% | 3 |
-| SKIP | 24h | 2 | 10.0% | 1 |
+| SKIP | 1h | 24 | 0.8% | 5 |
+| SKIP | 6h | 12 | 0.0% | 4 |
+| SKIP | 24h | 5 | -1.4% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | - | - | - |
-| JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | - | - | - |
+| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.5% / liq $3,452,363 | - | - |
+| JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | -80.0% / liq $0 | - | - |
 | BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | 15.3% / liq $295,368 | - | - |
 | MANIFEST | `BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump` | CAUTION | 38 | 5.7% / liq $194,328 | - | - |
 | Friend | `9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ` | SKIP | 53 | -78.6% / liq $0 | - | - |
@@ -27,8 +27,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | - | - |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | - | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | - | - |
-| INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | - | - |
-| KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | 17.2% / liq $217,007 | - | - |
+| INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | - |
+| KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | 17.2% / liq $217,007 | -74.1% / liq $0 | - |
 | DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | CAUTION | 41 | 3.1% / liq $67,627 | -5.9% / liq $64,599 | - |
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | -60.2% / liq $32,559 | -84.1% / liq $20,493 | - |
@@ -41,10 +41,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | - |
 | BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | 0.0% / liq $91,361,085 | - |
 | AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | 0.0% / liq $161,191,196 | - |
-| META | `METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd` | SKIP | 67 | 0.2% / liq $838,007 | 0.6% / liq $841,762 | - |
-| MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | 0.2% / liq $6,084,117 | -1.5% / liq $5,982,597 | - |
-| Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | - |
-| TSLA | `TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S` | SKIP | 67 | 1.6% / liq $941,224 | 0.5% / liq $936,103 | - |
+| META | `METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd` | SKIP | 67 | 0.2% / liq $838,007 | 0.6% / liq $841,762 | -1.4% / liq $813,133 |
+| MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | 0.2% / liq $6,084,117 | -1.5% / liq $5,982,597 | -1.1% / liq $5,923,428 |
+| Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | -3.6% / liq $4,447,041 |
+| TSLA | `TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S` | SKIP | 67 | 1.6% / liq $941,224 | 0.5% / liq $936,103 | -1.1% / liq $911,313 |
 | DOG | `HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | -75.8% / liq $0 |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 41 | -28.5% / liq $75,081 | -41.0% / liq $67,464 | -62.2% / liq $53,428 |
-| NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 56 | 1.9% / liq $144,292 | -4.4% / liq $137,959 | 10.0% / liq $146,966 |
