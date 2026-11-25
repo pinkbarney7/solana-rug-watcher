@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:53:41",
+ "updated": "2026-11-25T01:01:45",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -158,18 +158,6 @@
    ],
    "scored_at": "2026-11-23T13:10:13+00:00",
    "path": "young"
-  },
-  {
-   "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
-   "ticker": "CYBERLEEK",
-   "risk": 39,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T12:59:33+00:00",
-   "path": "survivor"
   },
   {
    "mint": "NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv",
