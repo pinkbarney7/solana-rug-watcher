@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:52:51",
+ "updated": "2026-11-25T20:01:43",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -37,18 +37,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-25T14:55:41+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
-   "ticker": "TROLL",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T07:59:11+00:00",
    "path": "survivor"
   },
   {
