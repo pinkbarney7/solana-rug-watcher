@@ -35,3 +35,4 @@
 {"mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump", "ticker": "ACT", "t0": 1795592463.0, "verdict": "SKIP", "risk": 52, "p0": 0.008851, "liq0": 1109659.96, "mcap0": 8393799.0, "1h": {"price": 0.008929, "liq": 1111266.6, "chg_pct": 0.9, "liq_chg_pct": 0.1, "late_min": 2}}
 {"mint": "9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ", "ticker": "Friend", "t0": 1795597397.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001094, "liq0": 168381.54, "mcap0": 109424.0}
 {"mint": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump", "ticker": "MANIFEST", "t0": 1795598321.0, "verdict": "CAUTION", "risk": 38, "p0": 0.002011, "liq0": 206039.43000000002, "mcap0": 1810603.0}
+{"mint": "Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp", "ticker": "BASKET", "t0": 1795599337.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001493, "liq0": 263501.47, "mcap0": 149391.0}
