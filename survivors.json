@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:13:02",
+ "updated": "2026-11-25T19:22:07",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -182,18 +182,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T07:33:58+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC",
-   "ticker": "ACHI",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T07:17:22+00:00",
    "path": "young"
   },
   {
