@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 12:25 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 12:37 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,9 +7,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 9 | 0.0% | 0 |
 | CAUTION | 6h | 7 | 0.0% | 0 |
 | CAUTION | 24h | 4 | 0.0% | 0 |
-| SKIP | 1h | 24 | 0.8% | 5 |
-| SKIP | 6h | 15 | -1.5% | 5 |
-| SKIP | 24h | 9 | -1.4% | 2 |
+| SKIP | 1h | 23 | 0.8% | 4 |
+| SKIP | 6h | 15 | 0.0% | 4 |
+| SKIP | 24h | 9 | -1.1% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -26,7 +26,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | 16.9% / liq $79,600 | - | - |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | - | - |
 | BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | - | - |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | - | - |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | 4.6% / liq $1,447,817 | - |
 | CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | -63.7% / liq $0 | - |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | -57.0% / liq $45,392 | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | 4.7% / liq $1,794,669 | - |
@@ -35,7 +35,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | CAUTION | 41 | 3.1% / liq $67,627 | -5.9% / liq $64,599 | - |
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | -60.2% / liq $32,559 | -84.1% / liq $20,493 | - |
-| Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | - |
+| Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | 21366.3% / liq $0 |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | -2.8% / liq $2,517,612 | -6.5% / liq $2,412,899 |
 | ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | -77.7% / liq $0 | -77.7% / liq $0 |
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | -99.8% / liq $2,177 |
@@ -48,4 +48,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | 0.2% / liq $6,084,117 | -1.5% / liq $5,982,597 | -1.1% / liq $5,923,428 |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | -3.6% / liq $4,447,041 |
 | TSLA | `TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S` | SKIP | 67 | 1.6% / liq $941,224 | 0.5% / liq $936,103 | -1.1% / liq $911,313 |
-| DOG | `HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | -75.8% / liq $0 |
