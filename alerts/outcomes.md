@@ -1,20 +1,20 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 13:23 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 13:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 9 | 0.0% | 0 |
-| CAUTION | 6h | 8 | 0.0% | 0 |
-| CAUTION | 24h | 5 | 0.0% | 0 |
-| SKIP | 1h | 20 | 0.9% | 4 |
-| SKIP | 6h | 14 | 0.0% | 4 |
-| SKIP | 24h | 5 | 0.0% | 2 |
+| CAUTION | 1h | 9 | -1.5% | 0 |
+| CAUTION | 6h | 7 | 0.0% | 0 |
+| CAUTION | 24h | 4 | 0.0% | 0 |
+| SKIP | 1h | 19 | 0.9% | 5 |
+| SKIP | 6h | 12 | -2.8% | 4 |
+| SKIP | 24h | 3 | -6.5% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 38 | - | - | - |
-| BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | - | - | - |
+| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 38 | -31.8% / liq $42,435 | - | - |
+| BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | -76.2% / liq $0 | - | - |
 | BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | SKIP | 55 | -15.9% / liq $155,147 | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.5% / liq $3,452,363 | - | - |
 | JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | -80.0% / liq $0 | - | - |
@@ -41,6 +41,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | -99.8% / liq $2,177 |
 | USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | 0.0% / liq $209,708,821 | 0.0% / liq $209,708,843 |
 | TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | 0.0% / liq $209,708,835 | 0.0% / liq $209,708,858 |
-| IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | 0.0% / liq $78,240,324 |
-| BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | 0.0% / liq $91,361,085 | 0.0% / liq $91,361,107 |
-| AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | 0.0% / liq $161,191,196 | 0.0% / liq $161,191,219 |
