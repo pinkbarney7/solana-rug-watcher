@@ -1,17 +1,17 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-25 12:15 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-25 12:25 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 48 | Open: 4 | Not opened (failed sell gate): 0
 Win rate 23% | avg return -18.9% | expectancy $-4.72 per $25 trade | total $-226.36
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| MANIFEST | [`BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump`](https://pump.fun/coin/BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump) | scored_fast_scan | CAUTION | 2026-11-25 09:18 UTC | open | +20.5% |
-| pippin | [`Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump`](https://pump.fun/coin/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump) | scored_fast_scan | CAUTION | 2026-11-25 06:27 UTC | open | +4.3% |
-| DCTY | [`9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`](https://pump.fun/coin/9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump) | scored_fast_scan | CAUTION | 2026-11-25 04:56 UTC | open | -0.3% |
+| MANIFEST | [`BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump`](https://pump.fun/coin/BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump) | scored_fast_scan | CAUTION | 2026-11-25 09:18 UTC | open | +20.6% |
+| pippin | [`Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump`](https://pump.fun/coin/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump) | scored_fast_scan | CAUTION | 2026-11-25 06:27 UTC | open | +3.6% |
+| DCTY | [`9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`](https://pump.fun/coin/9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump) | scored_fast_scan | CAUTION | 2026-11-25 04:56 UTC | open | -3.8% |
 | GROKIA | [`3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump`](https://pump.fun/coin/3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump) | scored_fast_scan | CAUTION | 2026-11-25 04:49 UTC | closed (stop -50%) | -50.3% |
 | Scamsem | [`5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat`](https://dexscreener.com/solana/5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | closed (stop -50%) | -52.7% |
-| CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | -6.4% |
+| CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | -6.1% |
 | COPIUM | [`BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump`](https://pump.fun/coin/BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump) | scored_fast_scan | CAUTION | 2026-11-24 11:54 UTC | closed (stop -50%) | -66.7% |
 | TRON-USDT | [`JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L`](https://dexscreener.com/solana/JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L) | scored_fast_scan | CAUTION | 2026-11-24 11:42 UTC | closed (24h time exit) | +0.0% |
 | USDT-ERC20 | [`WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6`](https://dexscreener.com/solana/WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6) | scored_fast_scan | CAUTION | 2026-11-24 11:42 UTC | closed (24h time exit) | +0.0% |
