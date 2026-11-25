@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:09:04",
+ "updated": "2026-11-25T04:21:16",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,20 +23,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T21:25:42+00:00",
+   "scored_at": "2026-11-25T04:21:14+00:00",
    "path": "survivor"
   },
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 72,
+   "risk": 70,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T21:25:40+00:00",
+   "scored_at": "2026-11-25T04:21:12+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T21:25:41+00:00",
+   "scored_at": "2026-11-25T04:21:14+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T21:25:31+00:00",
+   "scored_at": "2026-11-25T04:21:13+00:00",
    "path": "young"
   },
   {
@@ -248,13 +248,13 @@
   {
    "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
    "ticker": "CLAUDIA",
-   "risk": 67,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T10:27:30+00:00",
+   "scored_at": "2026-11-25T04:21:13+00:00",
    "path": "survivor"
   },
   {
@@ -284,13 +284,13 @@
   {
    "mint": "3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump",
    "ticker": "GROKIA",
-   "risk": 60,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-24T21:25:40+00:00",
+   "scored_at": "2026-11-25T04:21:04+00:00",
    "path": "young"
   },
   {
