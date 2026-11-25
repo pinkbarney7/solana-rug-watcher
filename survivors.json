@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:01:45",
+ "updated": "2026-11-25T01:12:47",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -24,18 +24,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T21:25:42+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
-   "ticker": "VINE",
-   "risk": 48,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T13:10:12+00:00",
    "path": "survivor"
   },
   {
@@ -112,18 +100,6 @@
    "path": "young"
   },
   {
-   "mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump",
-   "ticker": "MINELIUS",
-   "risk": 68,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T13:10:13+00:00",
-   "path": "young"
-  },
-  {
    "mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump",
    "ticker": "COPIUM",
    "risk": 37,
@@ -145,18 +121,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T11:45:44+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump",
-   "ticker": "PumpMeme",
-   "risk": 60,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T13:10:13+00:00",
    "path": "young"
   },
   {
