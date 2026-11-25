@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:18:44",
+ "updated": "2026-11-25T09:28:04",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:31+00:00",
+   "scored_at": "2026-11-25T09:28:00+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:41+00:00",
+   "scored_at": "2026-11-25T09:27:59+00:00",
    "path": "young"
   },
   {
@@ -505,13 +505,13 @@
   {
    "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
    "ticker": "MOODENG",
-   "risk": 59,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:40+00:00",
+   "scored_at": "2026-11-25T09:27:59+00:00",
    "path": "survivor"
   },
   {
@@ -548,7 +548,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:41+00:00",
+   "scored_at": "2026-11-25T09:28:00+00:00",
    "path": "survivor"
   },
   {
@@ -560,7 +560,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:40+00:00",
+   "scored_at": "2026-11-25T09:27:58+00:00",
    "path": "young"
   },
   {
@@ -572,7 +572,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:39+00:00",
+   "scored_at": "2026-11-25T09:27:50+00:00",
    "path": "young"
   },
   {
@@ -608,7 +608,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:18:41+00:00",
+   "scored_at": "2026-11-25T09:28:00+00:00",
    "path": "survivor"
   }
  ]
