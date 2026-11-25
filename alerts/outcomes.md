@@ -1,22 +1,24 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 05:44 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 06:02 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 7 | 0.0% | 0 |
+| CAUTION | 1h | 8 | 0.0% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
 | SKIP | 1h | 29 | 0.0% | 7 |
 | SKIP | 6h | 29 | -4.0% | 9 |
-| SKIP | 24h | 7 | -7.2% | 1 |
+| SKIP | 24h | 8 | -7.2% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 49 | - | - | - |
+| CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | - | - | - |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | - | - | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | - | - | - |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | - | - | - |
 | KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | - | - | - |
-| DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | - | - | - |
+| DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -5.3% / liq $151,345 | - | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | CAUTION | 41 | 3.1% / liq $67,627 | -5.9% / liq $64,599 | - |
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | -60.2% / liq $32,559 | -84.1% / liq $20,493 | - |
 | Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | - |
@@ -45,7 +47,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | 21406.2% / liq $0 | - |
 | ACHI | `cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb` | SKIP | 56 | -36.9% / liq $85,943 | 5.1% / liq $154,359 | - |
 | SuperELON | `FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy` | SKIP | 53 | -75.9% / liq $0 | -75.9% / liq $0 | - |
-| 蚂蚁 | `Gd1Ep22Hy5642CFoB4jWTzjzTeSa33U6w6x33SCxD3e` | SKIP | 53 | 171.0% / liq $208,640 | -81.6% / liq $0 | - |
+| 蚂蚁 | `Gd1Ep22Hy5642CFoB4jWTzjzTeSa33U6w6x33SCxD3e` | SKIP | 53 | 171.0% / liq $208,640 | -81.6% / liq $0 | -81.6% / liq $0 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | 0.5% / liq $1,316,675 | -4.0% / liq $1,274,119 | -3.7% / liq $1,259,237 |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | 0.7% / liq $2,163,612 | -3.3% / liq $1,983,702 | -4.3% / liq $2,063,328 |
 | USPR | `2LXJm8BfdyJEX1hMPt3D618zheBKLrWe8rBKqQympump` | SKIP | 67 | -100.0% / liq $1,318 | -100.0% / liq $1,338 | -100.0% / liq $1,315 |
