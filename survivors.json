@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:38:35",
+ "updated": "2026-11-25T16:47:59",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -159,18 +159,6 @@
     "exit test"
    ],
    "scored_at": "2026-11-24T05:17:12+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "2LXJm8BfdyJEX1hMPt3D618zheBKLrWe8rBKqQympump",
-   "ticker": "USPR",
-   "risk": 67,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T04:39:26+00:00",
    "path": "young"
   },
   {
