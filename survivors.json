@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:12:40",
+ "updated": "2026-11-25T00:20:03",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -157,18 +157,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-23T12:26:53+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "739arFBhh8snVef1UJzaVgmvQaDPm9YtFzQvjgMkY4uj",
-   "ticker": "KOOP",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T12:16:44+00:00",
    "path": "young"
   },
   {
