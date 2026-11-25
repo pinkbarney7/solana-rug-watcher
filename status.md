@@ -1,5 +1,5 @@
-# Watcher status (2026-11-25 07:41 UTC)
+# Watcher status (2026-11-25 07:44 UTC)
 
-- Box heartbeat age: 230 min (realtime running: False, box Helius 33.0/16000)
+- Box heartbeat age: 234 min (realtime running: False, box Helius 33.0/16000)
 - Actions heartbeat age: 0 min (last mode: helius, GeckoTerminal down: False)
-- Actions Helius today: 80/3000 credits over 15 runs (15 used Helius)
+- Actions Helius today: 90/3000 credits over 16 runs (16 used Helius)
