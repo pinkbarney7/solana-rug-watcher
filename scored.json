@@ -7,8 +7,8 @@
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795610240.7365775,
-"liq": 1471952.6400000001,
+"ts": 1795610787.683948,
+"liq": 1456407.34,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -21,8 +21,8 @@
 "verdict": "SKIP"
 },
 "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
-"ts": 1795610240.7365813,
-"liq": 3497857.9299999997,
+"ts": 1795610787.6839447,
+"liq": 3478665.89,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -56,8 +56,8 @@
 "verdict": "CAUTION"
 },
 "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
-"ts": 1795610240.736566,
-"liq": 52892.76,
+"ts": 1795610787.683954,
+"liq": 52484.11,
 "holders": null,
 "risk": 38,
 "verdict": "CAUTION"
@@ -112,8 +112,8 @@
 "verdict": "CAUTION"
 },
 "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump": {
-"ts": 1795610240.7365794,
-"liq": 194590.18,
+"ts": 1795610787.6839554,
+"liq": 197250.72,
 "holders": null,
 "risk": 44,
 "verdict": "CAUTION"
@@ -315,8 +315,8 @@
 "verdict": "SKIP"
 },
 "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY": {
-"ts": 1795610240.7365825,
-"liq": 1779557.16,
+"ts": 1795610787.6839576,
+"liq": 1772863.51,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -343,8 +343,8 @@
 "verdict": "SKIP"
 },
 "GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump": {
-"ts": 1795610240.736571,
-"liq": 87950.48,
+"ts": 1795610787.6839504,
+"liq": 87739.24,
 "holders": null,
 "risk": 59,
 "verdict": "SKIP"
@@ -371,7 +371,7 @@
 "verdict": "CAUTION"
 },
 "Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp": {
-"ts": 1795610240.7365746,
+"ts": 1795610787.6839566,
 "liq": 314566.85,
 "holders": null,
 "risk": 53,
@@ -385,15 +385,15 @@
 "verdict": "SKIP"
 },
 "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f": {
-"ts": 1795610240.7365835,
-"liq": 350378.99,
+"ts": 1795610787.68394,
+"liq": 339699.27,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
 },
 "FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA": {
-"ts": 1795609542.433774,
-"liq": 190911.88,
+"ts": 1795610787.6839523,
+"liq": 198636.11,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
