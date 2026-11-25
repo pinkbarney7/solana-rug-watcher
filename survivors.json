@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:11:42",
+ "updated": "2026-11-25T17:29:07",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -146,19 +146,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-25T14:55:38+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "ChZzab3vUf5WTkQm2Q13AB9YjY3oCa2JbY2QRVohn8K",
-   "ticker": "JINGWA",
-   "risk": 67,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-24T05:17:12+00:00",
    "path": "young"
   },
   {
