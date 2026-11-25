@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:33:49",
+ "updated": "2026-11-25T19:41:59",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -170,18 +170,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T13:04:32+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J",
-   "ticker": "SuperJense",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T07:33:58+00:00",
    "path": "young"
   },
   {
