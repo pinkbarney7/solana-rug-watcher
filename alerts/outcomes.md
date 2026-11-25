@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 11:18 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 11:31 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,10 +6,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 10 | 0.0% | 0 |
 | CAUTION | 6h | 8 | 0.0% | 0 |
-| CAUTION | 24h | 1 | -62.2% | 0 |
+| CAUTION | 24h | 2 | 0.0% | 0 |
 | SKIP | 1h | 24 | 0.8% | 5 |
-| SKIP | 6h | 12 | 0.0% | 4 |
-| SKIP | 24h | 5 | -1.4% | 1 |
+| SKIP | 6h | 13 | 0.0% | 4 |
+| SKIP | 24h | 7 | -1.1% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -26,7 +26,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | - | - |
 | CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | - | - |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | - | - |
-| MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | - | - |
+| MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | 4.7% / liq $1,794,669 | - |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | - |
 | KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | 17.2% / liq $217,007 | -74.1% / liq $0 | - |
 | DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | - |
@@ -38,9 +38,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | - |
 | USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | 0.0% / liq $209,708,821 | - |
 | TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | 0.0% / liq $209,708,835 | - |
-| IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | - |
-| BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | 0.0% / liq $91,361,085 | - |
-| AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | 0.0% / liq $161,191,196 | - |
+| IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | 0.0% / liq $78,240,324 |
+| BEAT | `FQgtUFvECKioDkaKj5cqTQTmDywtMVo1LLewtwTm18ia` | SKIP | 56 | 0.0% / liq $91,361,076 | 0.0% / liq $91,361,085 | 0.0% / liq $91,361,107 |
+| AIN | `6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7` | SKIP | 56 | 0.0% / liq $161,191,187 | 0.0% / liq $161,191,196 | 0.0% / liq $161,191,219 |
 | META | `METAaH6MMZZgy2CTEJq3QdNi7AFVTV3NxHFBfFgLEDd` | SKIP | 67 | 0.2% / liq $838,007 | 0.6% / liq $841,762 | -1.4% / liq $813,133 |
 | MEW | `MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5` | SKIP | 49 | 0.2% / liq $6,084,117 | -1.5% / liq $5,982,597 | -1.1% / liq $5,923,428 |
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | -3.6% / liq $4,447,041 |
