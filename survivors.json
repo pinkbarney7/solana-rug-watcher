@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:20:03",
+ "updated": "2026-11-25T00:32:06",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -145,18 +145,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T11:45:44+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor",
-   "ticker": "SIDOOR",
-   "risk": 43,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-23T12:26:53+00:00",
    "path": "young"
   },
   {
