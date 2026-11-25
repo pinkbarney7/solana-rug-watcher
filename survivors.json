@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:59:07",
+ "updated": "2026-11-25T10:09:34",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:59:04+00:00",
+   "scored_at": "2026-11-25T10:09:31+00:00",
    "path": "young"
   },
   {
@@ -505,13 +505,13 @@
   {
    "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
    "ticker": "MOODENG",
-   "risk": 56,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:43:20+00:00",
+   "scored_at": "2026-11-25T10:09:29+00:00",
    "path": "survivor"
   },
   {
@@ -548,19 +548,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:59:05+00:00",
+   "scored_at": "2026-11-25T10:09:30+00:00",
    "path": "survivor"
   },
   {
    "mint": "E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump",
    "ticker": "BOOBS",
-   "risk": 60,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:59:04+00:00",
+   "scored_at": "2026-11-25T10:09:30+00:00",
    "path": "young"
   },
   {
@@ -572,7 +572,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:58:55+00:00",
+   "scored_at": "2026-11-25T10:09:29+00:00",
    "path": "young"
   },
   {
@@ -608,7 +608,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:59:06+00:00",
+   "scored_at": "2026-11-25T10:09:31+00:00",
    "path": "survivor"
   },
   {
@@ -620,7 +620,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T09:59:05+00:00",
+   "scored_at": "2026-11-25T10:09:28+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W",
+   "ticker": "JaoJiu",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-25T10:09:20+00:00",
    "path": "young"
   }
  ]

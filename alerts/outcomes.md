@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 09:59 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 10:09 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,15 +7,16 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 9 | -1.5% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
 | CAUTION | 24h | 1 | -62.2% | 0 |
-| SKIP | 1h | 24 | 0.8% | 3 |
-| SKIP | 6h | 14 | -1.9% | 3 |
-| SKIP | 24h | 4 | 5.4% | 0 |
+| SKIP | 1h | 24 | 0.8% | 4 |
+| SKIP | 6h | 13 | -1.9% | 3 |
+| SKIP | 24h | 3 | -85.0% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | - | - | - |
 | BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | - | - | - |
 | MANIFEST | `BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump` | CAUTION | 38 | - | - | - |
-| Friend | `9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ` | SKIP | 53 | - | - | - |
+| Friend | `9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ` | SKIP | 53 | -78.6% / liq $0 | - | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -3.0% / liq $1,229,070 | - | - |
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | 16.9% / liq $79,600 | - | - |
@@ -48,4 +49,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NOHR | `Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump` | SKIP | 56 | 1.9% / liq $144,292 | -4.4% / liq $137,959 | 10.0% / liq $146,966 |
 | DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | 5.0% / liq $109,767 | -10.4% / liq $101,201 | -99.9% / liq $1,769 |
 | GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | -0.1% / liq $132,677 | -22.5% / liq $116,491 | -85.0% / liq $51,036 |
-| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.0% / liq $3,349,093 | -2.0% / liq $3,300,501 | 5.4% / liq $3,379,157 |
