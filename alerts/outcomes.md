@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 05:39 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 05:44 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | - | - | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | - | - | - |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | - | - | - |
 | KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | - | - | - |
