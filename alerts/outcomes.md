@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 10:26 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 10:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 10 | 0.0% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
 | CAUTION | 24h | 1 | -62.2% | 0 |
-| SKIP | 1h | 24 | 0.8% | 4 |
+| SKIP | 1h | 25 | 0.8% | 4 |
 | SKIP | 6h | 13 | -1.9% | 3 |
 | SKIP | 24h | 4 | -75.8% | 1 |
 
@@ -15,7 +15,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|---|---|
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | - | - | - |
 | JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | - | - | - |
-| BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | - | - | - |
+| BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | 15.3% / liq $295,368 | - | - |
 | MANIFEST | `BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump` | CAUTION | 38 | 5.7% / liq $194,328 | - | - |
 | Friend | `9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ` | SKIP | 53 | -78.6% / liq $0 | - | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | - | - |
