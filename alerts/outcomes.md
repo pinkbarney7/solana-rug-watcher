@@ -1,11 +1,11 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 11:49 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 11:56 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 10 | 0.0% | 0 |
-| CAUTION | 6h | 8 | 0.0% | 0 |
+| CAUTION | 1h | 9 | 0.0% | 0 |
+| CAUTION | 6h | 7 | 0.0% | 0 |
 | CAUTION | 24h | 4 | 0.0% | 0 |
 | SKIP | 1h | 24 | 0.8% | 5 |
 | SKIP | 6h | 14 | 0.0% | 4 |
@@ -35,7 +35,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.1% / liq $2,325,531 | -2.8% / liq $2,517,612 | - |
 | ON | `3oQ4NUo8Gk7dFgo4nZUT6tNTCf6aHG3b7LfdNzrEbkNZ` | SKIP | 53 | -77.7% / liq $0 | -77.7% / liq $0 | - |
-| COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | - |
+| COPIUM | `BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump` | CAUTION | 44 | -37.9% / liq $53,442 | -99.8% / liq $2,210 | -99.8% / liq $2,177 |
 | USDT-ERC20 | `WXxZMqHEPsbA91HYuAvtGM4eh5d2LC5tjqEktXVjbs6` | CAUTION | 38 | 0.0% / liq $209,708,812 | 0.0% / liq $209,708,821 | 0.0% / liq $209,708,843 |
 | TRON-USDT | `JEJBCQ451WSHS73vzVH843qSvWySWudXfuC3hANnbr6L` | CAUTION | 38 | 0.0% / liq $209,708,826 | 0.0% / liq $209,708,835 | 0.0% / liq $209,708,858 |
 | IOST | `3qdTp8k7HJBivFFQdGXzfV9fBLLHGNXsWqznVyKQwytz` | CAUTION | 38 | 0.0% / liq $78,240,285 | 0.0% / liq $78,240,288 | 0.0% / liq $78,240,324 |
@@ -46,4 +46,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Fartcoin  | `9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump` | SKIP | 56 | 0.8% / liq $4,647,688 | -1.9% / liq $4,537,947 | -3.6% / liq $4,447,041 |
 | TSLA | `TSLAqBbv4CNCnzWFeB7LmydAyEiNMJtve7DYKLpdK4S` | SKIP | 67 | 1.6% / liq $941,224 | 0.5% / liq $936,103 | -1.1% / liq $911,313 |
 | DOG | `HHHBrDuje8KVMrw3G9PHrh3P5HN2Pvj2akykhdSRBRAg` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | -75.8% / liq $0 |
-| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 41 | -28.5% / liq $75,081 | -41.0% / liq $67,464 | -62.2% / liq $53,428 |
