@@ -1,22 +1,22 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 07:44 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 07:57 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 8 | 0.0% | 0 |
+| CAUTION | 1h | 9 | -1.5% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
-| SKIP | 1h | 28 | 0.2% | 6 |
+| SKIP | 1h | 29 | 0.2% | 6 |
 | SKIP | 6h | 22 | -2.0% | 8 |
-| SKIP | 24h | 6 | 4.9% | 5 |
+| SKIP | 24h | 8 | -13.4% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | - | - | - |
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | - | - | - |
-| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | - | - | - |
-| BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | - | - | - |
+| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | - | - |
+| BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | - | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | - | - |
 | CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | - | - |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | - | - |
@@ -45,8 +45,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | DONJENSEN | `5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump` | SKIP | 66 | 5.0% / liq $109,767 | -10.4% / liq $101,201 | - |
 | GROKIA | `3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump` | SKIP | 66 | -0.1% / liq $132,677 | -22.5% / liq $116,491 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -1.0% / liq $3,349,093 | -2.0% / liq $3,300,501 | - |
-| SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | 16.5% / liq $220,123 | -74.8% / liq $0 | - |
-| DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | -2.9% / liq $5,233,289 | -6.3% / liq $5,143,389 | - |
+| SuperELON | `BjnedHtjNn2MeXopH5RHckbkoHyRaRMQrd7qMw93FZB` | SKIP | 53 | 16.5% / liq $220,123 | -74.8% / liq $0 | -74.8% / liq $0 |
+| DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | -2.9% / liq $5,233,289 | -6.3% / liq $5,143,389 | -13.4% / liq $4,943,976 |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $431,079 | -100.0% / liq $420,578 | -100.0% / liq $395,944 |
 | ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | 4.9% / liq $0 | 4.9% / liq $0 | 4.9% / liq $0 |
 | SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | 21406.2% / liq $0 | 21406.2% / liq $0 |

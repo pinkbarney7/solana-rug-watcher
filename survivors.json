@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:44:34",
+ "updated": "2026-11-25T07:57:45",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:31+00:00",
+   "scored_at": "2026-11-25T07:57:40+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:31+00:00",
+   "scored_at": "2026-11-25T07:57:40+00:00",
    "path": "young"
   },
   {
@@ -139,13 +139,13 @@
   {
    "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
    "ticker": "JIMMY",
-   "risk": 39,
+   "risk": 41,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:31+00:00",
+   "scored_at": "2026-11-25T07:57:41+00:00",
    "path": "young"
   },
   {
@@ -474,7 +474,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T04:56:26+00:00",
+   "scored_at": "2026-11-25T07:57:41+00:00",
    "path": "survivor"
   },
   {
@@ -499,7 +499,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:29+00:00",
+   "scored_at": "2026-11-25T07:57:42+00:00",
    "path": "young"
   },
   {
@@ -548,7 +548,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:30+00:00",
+   "scored_at": "2026-11-25T07:57:42+00:00",
    "path": "survivor"
   },
   {
@@ -560,7 +560,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:31+00:00",
+   "scored_at": "2026-11-25T07:57:32+00:00",
    "path": "young"
   },
   {
@@ -572,7 +572,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T07:44:21+00:00",
+   "scored_at": "2026-11-25T07:57:42+00:00",
    "path": "young"
   },
   {
