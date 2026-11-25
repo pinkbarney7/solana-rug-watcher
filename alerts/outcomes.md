@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 14:25 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 14:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,9 +7,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 6 | -1.5% | 0 |
 | CAUTION | 6h | 4 | 5.1% | 0 |
 | CAUTION | 24h | 1 | -88.0% | 0 |
-| SKIP | 1h | 17 | 1.3% | 4 |
-| SKIP | 6h | 11 | -2.8% | 3 |
-| SKIP | 24h | 1 | 21366.3% | 1 |
+| SKIP | 1h | 16 | 1.3% | 3 |
+| SKIP | 6h | 10 | -2.8% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -35,4 +34,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | - |
 | cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | CAUTION | 41 | 3.1% / liq $67,627 | -5.9% / liq $64,599 | - |
 | Scamsem | `5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat` | CAUTION | 41 | -60.2% / liq $32,559 | -84.1% / liq $20,493 | -88.0% / liq $17,615 |
-| Bullseye | `DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe` | SKIP | 53 | 21366.3% / liq $0 | 21366.3% / liq $0 | 21366.3% / liq $0 |
