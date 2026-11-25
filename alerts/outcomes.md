@@ -1,12 +1,11 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 23:12 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 23:27 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | -1.5% | 0 |
-| CAUTION | 6h | 5 | 5.1% | 0 |
-| CAUTION | 24h | 1 | -91.1% | 0 |
+| CAUTION | 1h | 4 | -1.5% | 0 |
+| CAUTION | 6h | 4 | 19.4% | 0 |
 | SKIP | 1h | 17 | 1.3% | 3 |
 | SKIP | 6h | 17 | -6.7% | 5 |
 
@@ -33,4 +32,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | - |
 | KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | 17.2% / liq $217,007 | -74.1% / liq $0 | - |
 | DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | - |
-| cateball | `4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump` | CAUTION | 41 | 3.1% / liq $67,627 | -5.9% / liq $64,599 | -91.1% / liq $19,589 |
