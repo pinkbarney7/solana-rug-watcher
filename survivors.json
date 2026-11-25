@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:37:30",
+ "updated": "2026-11-25T06:46:42",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -23,7 +23,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:37:28+00:00",
+   "scored_at": "2026-11-25T06:46:38+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:02:48+00:00",
+   "scored_at": "2026-11-25T06:46:39+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:37:28+00:00",
+   "scored_at": "2026-11-25T06:46:40+00:00",
    "path": "young"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:37:27+00:00",
+   "scored_at": "2026-11-25T06:46:39+00:00",
    "path": "young"
   },
   {
@@ -499,7 +499,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:37:27+00:00",
+   "scored_at": "2026-11-25T06:46:40+00:00",
    "path": "young"
   },
   {
@@ -517,13 +517,14 @@
   {
    "mint": "DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump",
    "ticker": "4CHAN",
-   "risk": 56,
+   "risk": 69,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-25T06:37:18+00:00",
+   "scored_at": "2026-11-25T06:46:30+00:00",
    "path": "young"
   },
   {
@@ -535,7 +536,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:37:26+00:00",
+   "scored_at": "2026-11-25T06:46:40+00:00",
    "path": "young"
   },
   {
@@ -547,7 +548,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T06:37:26+00:00",
+   "scored_at": "2026-11-25T06:46:40+00:00",
    "path": "survivor"
   }
  ]
