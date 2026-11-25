@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-25 08:29 UTC
+# Outcomes (DEX Screener, free) - 2026-11-25 08:43 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,13 +6,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 9 | -1.5% | 0 |
 | CAUTION | 6h | 7 | -5.9% | 0 |
-| SKIP | 1h | 28 | 0.8% | 5 |
-| SKIP | 6h | 19 | -2.0% | 6 |
-| SKIP | 24h | 6 | 4.9% | 3 |
+| SKIP | 1h | 28 | 0.8% | 4 |
+| SKIP | 6h | 18 | -2.0% | 5 |
+| SKIP | 24h | 5 | -13.4% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | - | - | - |
+| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -3.0% / liq $1,229,070 | - | - |
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | 16.9% / liq $79,600 | - | - |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | - | - |
@@ -49,4 +49,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | DBR | `DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5` | SKIP | 59 | -2.9% / liq $5,233,289 | -6.3% / liq $5,143,389 | -13.4% / liq $4,943,976 |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $431,079 | -100.0% / liq $420,578 | -100.0% / liq $395,944 |
 | ACHI | `CTBuzBkKqjyXthSHNWcN9tKTsJ1PY15HnT7pZfTpwfC` | SKIP | 53 | 4.9% / liq $0 | 4.9% / liq $0 | 4.9% / liq $0 |
-| SuperJense | `2eRz2GUQozCxFdmjdjYG7FUY3U3WSB2FfPrxJWR4Lu8J` | SKIP | 53 | 21406.2% / liq $0 | 21406.2% / liq $0 | 21406.2% / liq $0 |
