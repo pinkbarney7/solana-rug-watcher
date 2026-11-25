@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:26:35",
+ "updated": "2026-11-25T18:30:19",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -170,18 +170,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T07:08:38+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "FSZNDcPapEDDLgCbYyMMXh8e5CQTuSbg74kY41Tdc2Qy",
-   "ticker": "SuperELON",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T06:29:11+00:00",
    "path": "young"
   },
   {
