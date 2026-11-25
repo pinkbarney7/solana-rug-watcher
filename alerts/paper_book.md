@@ -1,13 +1,13 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-25 06:46 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-25 06:57 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 45 | Open: 6 | Not opened (failed sell gate): 0
 Win rate 24% | avg return -20.1% | expectancy $-5.03 per $25 trade | total $-226.36
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| pippin | [`Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump`](https://pump.fun/coin/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump) | scored_fast_scan | CAUTION | 2026-11-25 06:27 UTC | open | -0.6% |
-| DCTY | [`9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`](https://pump.fun/coin/9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump) | scored_fast_scan | CAUTION | 2026-11-25 04:56 UTC | open | -4.7% |
+| pippin | [`Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump`](https://pump.fun/coin/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump) | scored_fast_scan | CAUTION | 2026-11-25 06:27 UTC | open | -0.1% |
+| DCTY | [`9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`](https://pump.fun/coin/9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump) | scored_fast_scan | CAUTION | 2026-11-25 04:56 UTC | open | -6.1% |
 | GROKIA | [`3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump`](https://pump.fun/coin/3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump) | scored_fast_scan | CAUTION | 2026-11-25 04:49 UTC | closed (stop -50%) | -50.3% |
 | Scamsem | [`5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat`](https://dexscreener.com/solana/5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | closed (stop -50%) | -52.7% |
 | CATE | [`Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump`](https://pump.fun/coin/Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump) | scored_fast_scan | CAUTION | 2026-11-24 12:54 UTC | open | +0.2% |
