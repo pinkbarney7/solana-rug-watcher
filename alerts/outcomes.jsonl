@@ -23,3 +23,4 @@
 {"mint": "8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA", "ticker": "Anthropic", "t0": 1795689421.0, "verdict": "SKIP", "risk": 53, "p0": 0.000122, "liq0": 173329.55, "mcap0": 122043.0, "1h": {"price": 2.836e-05, "liq": 0, "chg_pct": -76.8, "liq_chg_pct": -100.0, "late_min": 9}}
 {"mint": "BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm", "ticker": "FSD V15", "t0": 1795694024.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001167, "liq0": 185971.78, "mcap0": 116733.0}
 {"mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump", "ticker": "pippin", "t0": 1795696527.0, "verdict": "SKIP", "risk": 52, "p0": 0.01778, "liq0": 3371383.54, "mcap0": 17781698.0}
+{"mint": "9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M", "ticker": "NUBU", "t0": 1795697377.0, "verdict": "SKIP", "risk": 67, "p0": 0.0001188, "liq0": 171542.59, "mcap0": 118814.0}

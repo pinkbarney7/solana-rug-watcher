@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 12:35 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 12:49 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | - | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | - | - | - |
 | FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | - | - | - |
 | Anthropic | `8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA` | SKIP | 53 | -76.8% / liq $0 | - | - |
