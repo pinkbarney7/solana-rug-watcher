@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:13:01",
+ "updated": "2026-11-26T17:22:06",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -84,19 +84,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-25T14:25:38+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv",
-   "ticker": "INJ",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-25T05:15:50+00:00",
    "path": "survivor"
   },
   {
