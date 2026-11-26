@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:04:43",
+ "updated": "2026-11-26T05:12:09",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T05:04:40+00:00",
+   "scored_at": "2026-11-26T05:12:08+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T05:04:41+00:00",
+   "scored_at": "2026-11-26T05:12:08+00:00",
    "path": "survivor"
   },
   {
@@ -282,13 +282,13 @@
   {
    "mint": "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f",
    "ticker": "BASKET",
-   "risk": 41,
+   "risk": 45,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T05:04:41+00:00",
+   "scored_at": "2026-11-26T05:11:59+00:00",
    "path": "young"
   },
   {
@@ -312,7 +312,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T05:04:41+00:00",
+   "scored_at": "2026-11-26T05:12:08+00:00",
    "path": "young"
   },
   {
@@ -324,7 +324,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T05:04:39+00:00",
+   "scored_at": "2026-11-26T05:12:07+00:00",
    "path": "young"
   },
   {
@@ -336,7 +336,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T05:04:40+00:00",
+   "scored_at": "2026-11-26T05:12:07+00:00",
    "path": "survivor"
   }
  ]
