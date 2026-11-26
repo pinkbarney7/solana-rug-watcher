@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 07:06 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 07:12 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | -2.1% | 0 |
 | CAUTION | 6h | 3 | 19.4% | 0 |
 | CAUTION | 24h | 1 | -42.4% | 0 |
-| SKIP | 1h | 19 | 1.2% | 3 |
+| SKIP | 1h | 20 | 1.2% | 4 |
 | SKIP | 6h | 17 | -6.7% | 5 |
 | SKIP | 24h | 7 | -63.7% | 2 |
 
@@ -16,7 +16,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | - | - | - |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | - | - | - |
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | - | - | - |
-| DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | - | - | - |
+| DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | -78.7% / liq $0 | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | - | - |
 | Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | - | - |
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | - | - |
