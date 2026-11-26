@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:19:49",
+ "updated": "2026-11-26T10:24:28",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:18:38+00:00",
+   "scored_at": "2026-11-26T10:24:12+00:00",
    "path": "survivor"
   },
   {
@@ -59,7 +59,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:18:48+00:00",
+   "scored_at": "2026-11-26T10:23:58+00:00",
    "path": "young"
   },
   {
@@ -132,7 +132,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:19:49+00:00",
+   "scored_at": "2026-11-26T10:24:12+00:00",
    "path": "survivor"
   },
   {
@@ -168,7 +168,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:18:46+00:00",
+   "scored_at": "2026-11-26T10:24:08+00:00",
    "path": "survivor"
   },
   {
@@ -331,13 +331,13 @@
   {
    "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump",
    "ticker": "UHI",
-   "risk": 59,
+   "risk": 62,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:18:47+00:00",
+   "scored_at": "2026-11-26T10:24:28+00:00",
    "path": "young"
   },
   {
@@ -421,7 +421,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:18:48+00:00",
+   "scored_at": "2026-11-26T10:24:20+00:00",
    "path": "young"
   },
   {
@@ -433,7 +433,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T10:18:46+00:00",
+   "scored_at": "2026-11-26T10:24:04+00:00",
    "path": "young"
   },
   {
