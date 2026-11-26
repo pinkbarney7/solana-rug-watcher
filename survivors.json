@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:42:27",
+ "updated": "2026-11-26T16:50:05",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -73,18 +73,6 @@
    ],
    "scored_at": "2026-11-26T01:54:44+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump",
-   "ticker": "GROKIA",
-   "risk": 47,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T04:49:43+00:00",
-   "path": "young"
   },
   {
    "mint": "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump",
