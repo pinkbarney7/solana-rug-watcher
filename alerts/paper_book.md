@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-26 19:08 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-26 19:09 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 52 | Open: 2 | Not opened (failed sell gate): 0
 Win rate 25% | avg return -16.7% | expectancy $-4.17 per $25 trade | total $-216.59
