@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:42:57",
+ "updated": "2026-11-25T23:59:35",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -85,18 +85,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T12:53:11+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump",
-   "ticker": "NOHR",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T11:45:44+00:00",
    "path": "young"
   },
   {
