@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 05:58 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 06:11 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,10 +9,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 24h | 1 | 10.6% | 0 |
 | SKIP | 1h | 19 | 1.2% | 3 |
 | SKIP | 6h | 17 | -6.7% | 5 |
-| SKIP | 24h | 4 | 0.0% | 1 |
+| SKIP | 24h | 5 | -63.7% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | - | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | - | - |
 | Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | - | - |
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | - | - |
@@ -32,7 +33,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | 21.7% / liq $102,248 | - |
 | BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | -99.9% / liq $2,166 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | 4.6% / liq $1,447,817 | - |
-| CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | -63.7% / liq $0 | - |
+| CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | -63.7% / liq $0 | -63.7% / liq $0 |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | -57.0% / liq $45,392 | -83.1% / liq $29,968 |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | 4.7% / liq $1,794,669 | 10.7% / liq $1,897,469 |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | 0.0% / liq $187,163,543 |
