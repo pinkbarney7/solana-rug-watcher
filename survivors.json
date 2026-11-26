@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:35:06",
+ "updated": "2026-11-26T19:45:04",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -157,18 +157,6 @@
    ],
    "scored_at": "2026-11-25T14:55:41+00:00",
    "path": "young"
-  },
-  {
-   "mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
-   "ticker": "ACT",
-   "risk": 52,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T07:44:30+00:00",
-   "path": "survivor"
   },
   {
    "mint": "9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ",
