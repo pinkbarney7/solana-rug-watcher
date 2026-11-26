@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 12:07 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 12:14 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | -2.1% | 0 |
 | CAUTION | 6h | 3 | -24.1% | 0 |
-| SKIP | 1h | 21 | -74.6% | 11 |
+| SKIP | 1h | 20 | -16.0% | 10 |
 | SKIP | 6h | 7 | -43.2% | 2 |
-| SKIP | 24h | 2 | -7.5% | 1 |
+| SKIP | 24h | 1 | -7.5% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | - | - |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | - | - |
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | - | - |
-| DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | -78.7% / liq $0 | - | - |
+| DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | -78.7% / liq $0 | -78.7% / liq $0 | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | -12.7% / liq $290,752 | - |
 | Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | -60.9% / liq $48,843 | - |
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | -9.8% / liq $53,918 | - |
@@ -37,4 +37,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | -76.2% / liq $0 | -76.2% / liq $0 | - |
 | BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | SKIP | 55 | -15.9% / liq $155,147 | -43.2% / liq $129,602 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.5% / liq $3,452,363 | -6.7% / liq $3,295,123 | -7.5% / liq $3,361,541 |
-| JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | -80.0% / liq $0 | -80.0% / liq $0 | -80.0% / liq $0 |
