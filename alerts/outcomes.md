@@ -1,15 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 14:22 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 14:32 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 4 | -2.1% | 0 |
-| CAUTION | 6h | 3 | -24.1% | 0 |
-| CAUTION | 24h | 1 | -62.2% | 0 |
-| SKIP | 1h | 22 | -74.6% | 12 |
-| SKIP | 6h | 12 | -76.2% | 7 |
-| SKIP | 24h | 1 | -76.2% | 1 |
+| CAUTION | 1h | 3 | -2.1% | 0 |
+| CAUTION | 6h | 2 | -12.7% | 0 |
+| SKIP | 1h | 21 | -74.6% | 11 |
+| SKIP | 6h | 11 | -76.5% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -37,5 +35,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | -9.8% / liq $53,918 | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 38 | -54.7% / liq $415,566 | -49.6% / liq $437,603 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 1.3% / liq $2,300,786 | 10.6% / liq $2,337,450 | - |
-| MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 38 | -31.8% / liq $42,435 | -24.1% / liq $45,596 | -62.2% / liq $32,371 |
-| BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | -76.2% / liq $0 | -76.2% / liq $0 | -76.2% / liq $0 |
