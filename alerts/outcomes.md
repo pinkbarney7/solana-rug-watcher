@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 17:41 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 17:56 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 3 | -2.1% | 0 |
 | CAUTION | 6h | 3 | -12.7% | 0 |
 | SKIP | 1h | 22 | -16.0% | 11 |
-| SKIP | 6h | 16 | -76.0% | 10 |
+| SKIP | 6h | 17 | -76.2% | 11 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | - | - |
 | NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | 132.5% / liq $0 | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.0% / liq $3,354,647 | - | - |
-| FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | -78.5% / liq $0 | - | - |
+| FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | -78.5% / liq $0 | -78.5% / liq $0 | - |
 | Anthropic | `8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA` | SKIP | 53 | -76.8% / liq $0 | -76.8% / liq $0 | - |
 | DOG | `3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe` | SKIP | 53 | 17.6% / liq $228,094 | -76.2% / liq $0 | - |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 52 | -74.6% / liq $0 | -74.6% / liq $0 | - |
