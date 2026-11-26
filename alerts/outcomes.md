@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 16:50 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 17:06 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | -2.1% | 0 |
 | CAUTION | 6h | 3 | -12.7% | 0 |
-| SKIP | 1h | 23 | -16.0% | 11 |
-| SKIP | 6h | 17 | -76.0% | 10 |
-| SKIP | 24h | 1 | 12.1% | 0 |
+| SKIP | 1h | 22 | -16.0% | 11 |
+| SKIP | 6h | 16 | -76.0% | 10 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -37,4 +36,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | -60.9% / liq $48,843 | - |
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | -9.8% / liq $53,918 | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 38 | -54.7% / liq $415,566 | -49.6% / liq $437,603 | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 1.3% / liq $2,300,786 | 10.6% / liq $2,337,450 | 12.1% / liq $2,461,160 |
