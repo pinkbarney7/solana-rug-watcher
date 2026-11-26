@@ -24,3 +24,5 @@
 {"mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump", "ticker": "Grodia", "t0": 1795667748.0, "verdict": "SKIP", "risk": 59, "p0": 0.001132, "liq0": 78122.14, "mcap0": 1132247.0, "1h": {"price": 0.0009506, "liq": 71580.87, "chg_pct": -16.0, "liq_chg_pct": -8.4, "late_min": 4}}
 {"mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr", "ticker": "FLOAT", "t0": 1795668660.0, "verdict": "CAUTION", "risk": 38, "p0": 0.003107, "liq0": 456125.12000000005, "mcap0": 3104457.0, "1h": {"price": 0.003042, "liq": 308284.1, "chg_pct": -2.1, "liq_chg_pct": -32.4, "late_min": 8}}
 {"mint": "FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6", "ticker": "DOG", "t0": 1795673490.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001264, "liq0": 222102.57, "mcap0": 126453.0}
+{"mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump", "ticker": "UHI", "t0": 1795674103.0, "verdict": "SKIP", "risk": 58, "p0": 0.001023, "liq0": 72609.97, "mcap0": 1022713.0}
+{"mint": "JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew", "ticker": "miuu", "t0": 1795674112.0, "verdict": "SKIP", "risk": 56, "p0": 0.0001354, "liq0": 166337.13, "mcap0": 135417.0}
