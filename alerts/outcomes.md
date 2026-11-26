@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 07:36 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 07:47 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,12 +7,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | -2.1% | 0 |
 | CAUTION | 6h | 3 | 19.4% | 0 |
 | CAUTION | 24h | 1 | -42.4% | 0 |
-| SKIP | 1h | 19 | 0.9% | 5 |
-| SKIP | 6h | 14 | -6.7% | 4 |
-| SKIP | 24h | 6 | -63.7% | 1 |
+| SKIP | 1h | 18 | 1.2% | 5 |
+| SKIP | 6h | 13 | -6.7% | 4 |
+| SKIP | 24h | 6 | 1.2% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | - | - | - |
 | Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | - | - | - |
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | - | - | - |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | - | - |
@@ -31,11 +32,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | 15.3% / liq $295,368 | 26.3% / liq $310,543 | - |
 | MANIFEST | `BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump` | CAUTION | 38 | 5.7% / liq $194,328 | 19.4% / liq $205,594 | - |
 | Friend | `9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ` | SKIP | 53 | -78.6% / liq $0 | -78.6% / liq $0 | - |
-| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | -2.8% / liq $1,080,310 | - |
+| ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | -2.8% / liq $1,080,310 | 2.6% / liq $1,142,404 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -3.0% / liq $1,229,070 | -5.2% / liq $1,213,417 | 3.2% / liq $1,297,515 |
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | 16.9% / liq $79,600 | 37.8% / liq $86,704 | -99.8% / liq $1,765 |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | 21.7% / liq $102,248 | -42.4% / liq $74,416 |
 | BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | -99.9% / liq $2,166 | -99.9% / liq $2,023 |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | 4.6% / liq $1,447,817 | 1.2% / liq $1,454,434 |
 | CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | -63.7% / liq $0 | -63.7% / liq $0 |
-| 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | -57.0% / liq $45,392 | -83.1% / liq $29,968 |

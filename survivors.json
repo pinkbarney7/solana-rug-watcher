@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:36:47",
+ "updated": "2026-11-26T07:47:47",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -16,14 +16,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 66,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:36:02+00:00",
+   "scored_at": "2026-11-26T07:47:14+00:00",
    "path": "survivor"
   },
   {
@@ -71,7 +71,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:35:29+00:00",
+   "scored_at": "2026-11-26T07:46:56+00:00",
    "path": "young"
   },
   {
@@ -156,7 +156,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:18+00:00",
+   "scored_at": "2026-11-26T07:47:06+00:00",
    "path": "survivor"
   },
   {
@@ -186,13 +186,13 @@
   {
    "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
    "ticker": "VINE",
-   "risk": 48,
-   "verdict": "SKIP",
+   "risk": 38,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:36:47+00:00",
+   "scored_at": "2026-11-26T07:47:46+00:00",
    "path": "survivor"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:35:20+00:00",
+   "scored_at": "2026-11-26T07:47:05+00:00",
    "path": "young"
   },
   {
@@ -324,7 +324,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:35:29+00:00",
+   "scored_at": "2026-11-26T07:47:05+00:00",
    "path": "young"
   },
   {
@@ -354,13 +354,13 @@
   {
    "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump",
    "ticker": "UHI",
-   "risk": 57,
+   "risk": 59,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:35:30+00:00",
+   "scored_at": "2026-11-26T07:47:06+00:00",
    "path": "young"
   },
   {
