@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:39:38",
+ "updated": "2026-11-26T00:55:48",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -76,18 +76,6 @@
    "path": "young"
   },
   {
-   "mint": "BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump",
-   "ticker": "COPIUM",
-   "risk": 37,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T12:53:11+00:00",
-   "path": "young"
-  },
-  {
    "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
    "ticker": "JIMMY",
    "risk": 41,
@@ -157,18 +145,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T13:04:33+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat",
-   "ticker": "Scamsem",
-   "risk": 41,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T12:53:01+00:00",
    "path": "young"
   },
   {
