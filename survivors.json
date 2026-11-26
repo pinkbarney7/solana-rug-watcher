@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:04:00",
+ "updated": "2026-11-26T22:11:02",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -145,18 +145,6 @@
    ],
    "scored_at": "2026-11-25T14:55:41+00:00",
    "path": "young"
-  },
-  {
-   "mint": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump",
-   "ticker": "MANIFEST",
-   "risk": 38,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T10:09:31+00:00",
-   "path": "survivor"
   },
   {
    "mint": "Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp",
