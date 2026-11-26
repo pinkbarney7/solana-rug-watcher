@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 07:56 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 08:05 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| philanthro | `8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB` | SKIP | 53 | - | - | - |
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | - | - | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | - | - | - |
 | Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | - | - | - |
