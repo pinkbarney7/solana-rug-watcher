@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 12:14 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 12:17 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,7 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 3 | -24.1% | 0 |
 | SKIP | 1h | 20 | -16.0% | 10 |
 | SKIP | 6h | 7 | -43.2% | 2 |
-| SKIP | 24h | 1 | -7.5% | 0 |
+| SKIP | 24h | 2 | -7.5% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -35,5 +35,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 1.3% / liq $2,300,786 | 10.6% / liq $2,337,450 | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 38 | -31.8% / liq $42,435 | -24.1% / liq $45,596 | - |
 | BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | -76.2% / liq $0 | -76.2% / liq $0 | - |
-| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | SKIP | 55 | -15.9% / liq $155,147 | -43.2% / liq $129,602 | - |
+| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | SKIP | 55 | -15.9% / liq $155,147 | -43.2% / liq $129,602 | -47.4% / liq $125,529 |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.5% / liq $3,452,363 | -6.7% / liq $3,295,123 | -7.5% / liq $3,361,541 |
