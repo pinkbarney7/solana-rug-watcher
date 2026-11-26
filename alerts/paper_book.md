@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-26 11:15 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-26 11:24 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 52 | Open: 2 | Not opened (failed sell gate): 0
 Win rate 25% | avg return -16.7% | expectancy $-4.17 per $25 trade | total $-216.59
@@ -7,7 +7,7 @@ Win rate 25% | avg return -16.7% | expectancy $-4.17 per $25 trade | total $-216
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
 | MOODENG | [`ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY`](https://dexscreener.com/solana/ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY) | scored_fast_scan | CAUTION | 2026-11-26 05:40 UTC | open | +3.0% |
-| BASKET | [`3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f`](https://dexscreener.com/solana/3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f) | scored_fast_scan | CAUTION | 2026-11-26 04:51 UTC | open | +22.6% |
+| BASKET | [`3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f`](https://dexscreener.com/solana/3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f) | scored_fast_scan | CAUTION | 2026-11-26 04:51 UTC | open | +19.9% |
 | MANIFEST | [`BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump`](https://pump.fun/coin/BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump) | scored_fast_scan | CAUTION | 2026-11-25 09:18 UTC | closed (24h time exit) | +35.0% |
 | pippin | [`Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump`](https://pump.fun/coin/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump) | scored_fast_scan | CAUTION | 2026-11-25 06:27 UTC | closed (24h time exit) | -0.9% |
 | DCTY | [`9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`](https://pump.fun/coin/9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump) | scored_fast_scan | CAUTION | 2026-11-25 04:56 UTC | closed (24h time exit) | +10.6% |

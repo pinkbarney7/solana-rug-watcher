@@ -1,12 +1,11 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 11:15 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 11:24 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | -2.1% | 0 |
-| CAUTION | 6h | 4 | -12.7% | 0 |
-| CAUTION | 24h | 1 | 34.6% | 0 |
+| CAUTION | 1h | 4 | -2.1% | 0 |
+| CAUTION | 6h | 3 | -24.1% | 0 |
 | SKIP | 1h | 21 | -16.0% | 10 |
 | SKIP | 6h | 8 | -9.8% | 2 |
 | SKIP | 24h | 3 | -7.5% | 2 |
@@ -39,4 +38,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.5% / liq $3,452,363 | -6.7% / liq $3,295,123 | -7.5% / liq $3,361,541 |
 | JaoJiu | `3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W` | SKIP | 53 | -80.0% / liq $0 | -80.0% / liq $0 | -80.0% / liq $0 |
 | BASKET | `Gs7MYTzyrKFktBQyiXriRcyFC4gxsR8C7W9E64Fatyp` | SKIP | 53 | 15.3% / liq $295,368 | 26.3% / liq $310,543 | 27.5% / liq $0 |
-| MANIFEST | `BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump` | CAUTION | 38 | 5.7% / liq $194,328 | 19.4% / liq $205,594 | 34.6% / liq $224,749 |
