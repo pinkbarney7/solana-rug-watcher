@@ -1,15 +1,15 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 06:53 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 07:06 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 6 | -2.1% | 0 |
-| CAUTION | 6h | 4 | 19.4% | 0 |
-| CAUTION | 24h | 1 | 10.6% | 0 |
+| CAUTION | 1h | 5 | -2.1% | 0 |
+| CAUTION | 6h | 3 | 19.4% | 0 |
+| CAUTION | 24h | 1 | -42.4% | 0 |
 | SKIP | 1h | 19 | 1.2% | 3 |
 | SKIP | 6h | 17 | -6.7% | 5 |
-| SKIP | 24h | 6 | 0.0% | 2 |
+| SKIP | 24h | 7 | -63.7% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -33,12 +33,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | 0.9% / liq $1,111,267 | -2.8% / liq $1,080,310 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 51 | -3.0% / liq $1,229,070 | -5.2% / liq $1,213,417 | - |
 | Jimmies | `GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump` | SKIP | 59 | 16.9% / liq $79,600 | 37.8% / liq $86,704 | - |
-| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | 21.7% / liq $102,248 | - |
-| BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | -99.9% / liq $2,166 | - |
+| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 45 | -1.5% / liq $91,249 | 21.7% / liq $102,248 | -42.4% / liq $74,416 |
+| BOOBS | `E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump` | SKIP | 60 | 5.6% / liq $100,558 | -99.9% / liq $2,166 | -99.9% / liq $2,023 |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 51 | 5.0% / liq $1,455,645 | 4.6% / liq $1,447,817 | 1.2% / liq $1,454,434 |
 | CHUCK | `F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW` | SKIP | 53 | 93.2% / liq $108,069 | -63.7% / liq $0 | -63.7% / liq $0 |
 | 4CHAN | `DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump` | SKIP | 56 | -52.2% / liq $48,262 | -57.0% / liq $45,392 | -83.1% / liq $29,968 |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | 4.7% / liq $1,794,669 | 10.7% / liq $1,897,469 |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | 0.0% / liq $187,163,543 |
 | KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | 17.2% / liq $217,007 | -74.1% / liq $0 | -74.1% / liq $0 |
-| DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | 10.6% / liq $167,451 |
