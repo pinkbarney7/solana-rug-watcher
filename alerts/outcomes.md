@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 14:32 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 14:45 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,10 +7,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 3 | -2.1% | 0 |
 | CAUTION | 6h | 2 | -12.7% | 0 |
 | SKIP | 1h | 21 | -74.6% | 11 |
-| SKIP | 6h | 11 | -76.5% | 6 |
+| SKIP | 6h | 12 | -60.9% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | - | - | - |
+| DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | - | - | - |
 | HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | - | - |
 | NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | 132.5% / liq $0 | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.0% / liq $3,354,647 | - | - |
@@ -21,7 +23,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | - | - |
 | Sol | `8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr` | SKIP | 53 | -76.0% / liq $0 | - | - |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 41 | 3.7% / liq $82,045 | - | - |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | - | - |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | -0.7% / liq $1,461,649 | - |
 | philanthro | `8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | -2.9% / liq $1,874,183 | - |
