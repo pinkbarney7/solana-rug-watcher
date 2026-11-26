@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:52:44",
+ "updated": "2026-11-26T08:57:43",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:52:08+00:00",
+   "scored_at": "2026-11-26T08:57:42+00:00",
    "path": "survivor"
   },
   {
@@ -71,7 +71,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:51:35+00:00",
+   "scored_at": "2026-11-26T08:57:40+00:00",
    "path": "young"
   },
   {
@@ -156,7 +156,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:50:24+00:00",
+   "scored_at": "2026-11-26T08:57:42+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:52:44+00:00",
+   "scored_at": "2026-11-26T08:57:42+00:00",
    "path": "survivor"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:50:33+00:00",
+   "scored_at": "2026-11-26T08:57:41+00:00",
    "path": "young"
   },
   {
@@ -318,13 +318,13 @@
   {
    "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
    "ticker": "Grodia",
-   "risk": 57,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:51:43+00:00",
+   "scored_at": "2026-11-26T08:57:32+00:00",
    "path": "young"
   },
   {
@@ -360,7 +360,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:50:59+00:00",
+   "scored_at": "2026-11-26T08:57:41+00:00",
    "path": "young"
   },
   {
