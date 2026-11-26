@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 15:51 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 16:04 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 3 | -2.1% | 0 |
 | CAUTION | 6h | 3 | -12.7% | 0 |
 | SKIP | 1h | 23 | -16.0% | 11 |
-| SKIP | 6h | 13 | -76.0% | 7 |
+| SKIP | 6h | 16 | -74.6% | 9 |
 | SKIP | 24h | 1 | 12.1% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -19,9 +19,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.0% / liq $3,354,647 | - | - |
 | FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | -78.5% / liq $0 | - | - |
 | Anthropic | `8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA` | SKIP | 53 | -76.8% / liq $0 | - | - |
-| DOG | `3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe` | SKIP | 53 | 17.6% / liq $228,094 | - | - |
-| FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 52 | -74.6% / liq $0 | - | - |
-| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | - | - |
+| DOG | `3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe` | SKIP | 53 | 17.6% / liq $228,094 | -76.2% / liq $0 | - |
+| FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 52 | -74.6% / liq $0 | -74.6% / liq $0 | - |
+| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | 88.6% / liq $231,289 | - |
 | Sol | `8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr` | SKIP | 53 | -76.0% / liq $0 | -76.0% / liq $0 | - |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 41 | 3.7% / liq $82,045 | 51.7% / liq $99,713 | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | -0.7% / liq $1,461,649 | - |
