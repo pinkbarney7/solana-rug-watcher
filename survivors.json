@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:54:55",
+ "updated": "2026-11-26T10:04:34",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T09:54:52+00:00",
+   "scored_at": "2026-11-26T10:03:16+00:00",
    "path": "survivor"
   },
   {
@@ -59,7 +59,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T09:54:43+00:00",
+   "scored_at": "2026-11-26T10:03:07+00:00",
    "path": "young"
   },
   {
@@ -132,7 +132,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T09:54:53+00:00",
+   "scored_at": "2026-11-26T10:04:34+00:00",
    "path": "survivor"
   },
   {
@@ -168,7 +168,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T09:54:54+00:00",
+   "scored_at": "2026-11-26T10:03:49+00:00",
    "path": "survivor"
   },
   {
@@ -264,7 +264,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T09:54:53+00:00",
+   "scored_at": "2026-11-26T10:03:16+00:00",
    "path": "young"
   },
   {
@@ -337,7 +337,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T09:54:52+00:00",
+   "scored_at": "2026-11-26T10:03:18+00:00",
    "path": "young"
   },
   {
@@ -410,6 +410,42 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T09:37:58+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe",
+   "ticker": "DOG",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-26T10:03:18+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3",
+   "ticker": "FSD V15",
+   "risk": 52,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-26T10:03:17+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump",
+   "ticker": "PUMPCHAN",
+   "risk": 69,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-26T10:03:17+00:00",
    "path": "young"
   }
  ]
