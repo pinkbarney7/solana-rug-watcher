@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 08:38 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 08:52 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | -2.1% | 0 |
 | CAUTION | 6h | 4 | 19.4% | 0 |
 | CAUTION | 24h | 1 | -42.4% | 0 |
-| SKIP | 1h | 18 | -3.0% | 7 |
+| SKIP | 1h | 19 | -5.2% | 7 |
 | SKIP | 6h | 11 | -6.7% | 3 |
 | SKIP | 24h | 4 | 2.6% | 0 |
 
@@ -16,7 +16,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | - | - | - |
 | philanthro | `8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB` | SKIP | 53 | - | - | - |
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | - | - | - |
-| MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | - | - | - |
+| MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | - | - |
 | Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | -100.0% / liq $0 | - | - |
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | - | - |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | - | - |
