@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:48:05",
+ "updated": "2026-11-26T01:54:44",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T01:48:03+00:00",
+   "scored_at": "2026-11-26T01:54:43+00:00",
    "path": "survivor"
   },
   {
@@ -77,13 +77,13 @@
   {
    "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
    "ticker": "CLAUDIA",
-   "risk": 38,
-   "verdict": "CAUTION",
+   "risk": 59,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T01:48:04+00:00",
+   "scored_at": "2026-11-26T01:54:44+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T01:48:04+00:00",
+   "scored_at": "2026-11-26T01:54:35+00:00",
    "path": "survivor"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T01:47:55+00:00",
+   "scored_at": "2026-11-26T01:54:44+00:00",
    "path": "young"
   },
   {
