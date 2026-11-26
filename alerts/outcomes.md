@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 05:01 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 05:04 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,7 +6,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | -4.0% | 0 |
 | CAUTION | 6h | 4 | 19.4% | 0 |
-| CAUTION | 24h | 1 | 11.1% | 0 |
+| CAUTION | 24h | 1 | 10.6% | 0 |
 | SKIP | 1h | 17 | 1.3% | 3 |
 | SKIP | 6h | 17 | -6.7% | 5 |
 
@@ -36,4 +36,4 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 56 | 1.3% / liq $1,774,880 | 4.7% / liq $1,794,669 | - |
 | INJ | `DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv` | SKIP | 56 | 0.0% / liq $187,163,513 | 0.0% / liq $187,163,521 | - |
 | KOOP | `6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS` | SKIP | 53 | 17.2% / liq $217,007 | -74.1% / liq $0 | - |
-| DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | 11.1% / liq $167,863 |
+| DCTY | `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump` | CAUTION | 38 | -4.0% / liq $152,364 | 5.1% / liq $159,472 | 10.6% / liq $167,451 |
