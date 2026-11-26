@@ -1,19 +1,6 @@
 {
- "updated": "2026-11-26T01:04:04",
+ "updated": "2026-11-26T01:12:54",
  "coins": [
-  {
-   "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
-   "ticker": "ZEC",
-   "risk": 73,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T13:04:33+00:00",
-   "path": "survivor"
-  },
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
    "ticker": "pippin",
@@ -88,18 +75,6 @@
    "path": "young"
   },
   {
-   "mint": "cZ9FE2JtR2XCmYu9hPpFpmxs6ciX6bpBmsVjMn2NUsb",
-   "ticker": "ACHI",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T13:04:32+00:00",
-   "path": "young"
-  },
-  {
    "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
    "ticker": "CLAUDIA",
    "risk": 59,
@@ -133,18 +108,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-24T21:25:42+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "DtrArWGJHq6cqqRjKo1W19obXQbW5QN6HdNgyByYHGEe",
-   "ticker": "Bullseye",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T13:04:33+00:00",
    "path": "young"
   },
   {
