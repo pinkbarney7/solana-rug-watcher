@@ -1,17 +1,17 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 02:31 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 02:49 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 4 | -1.5% | 0 |
+| CAUTION | 1h | 5 | -4.0% | 0 |
 | CAUTION | 6h | 4 | 19.4% | 0 |
 | SKIP | 1h | 17 | 1.3% | 3 |
 | SKIP | 6h | 17 | -6.7% | 5 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 38 | - | - | - |
+| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 38 | -54.7% / liq $415,566 | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 1.3% / liq $2,300,786 | 10.6% / liq $2,337,450 | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 38 | -31.8% / liq $42,435 | -24.1% / liq $45,596 | - |
 | BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | -76.2% / liq $0 | -76.2% / liq $0 | - |
