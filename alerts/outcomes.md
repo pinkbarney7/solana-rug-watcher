@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 06:45 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 06:53 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | - | - | - |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | - | - | - |
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | - | - | - |
 | DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | - | - | - |
