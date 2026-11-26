@@ -23,3 +23,4 @@
 {"mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump", "ticker": "UHI", "t0": 1795674282.0, "verdict": "SKIP", "risk": 58, "p0": 0.001023, "liq0": 72609.97, "mcap0": 1022713.0, "1h": {"price": 0.001254, "liq": 80796.98, "chg_pct": 22.6, "liq_chg_pct": 11.3, "late_min": 6}}
 {"mint": "JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew", "ticker": "miuu", "t0": 1795674283.0, "verdict": "SKIP", "risk": 56, "p0": 0.0001354, "liq0": 166337.13, "mcap0": 135417.0, "1h": {"price": 2.735e-05, "liq": 0, "chg_pct": -79.8, "liq_chg_pct": -100.0, "late_min": 6}}
 {"mint": "BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva", "ticker": "Santa Clau", "t0": 1795676030.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001169, "liq0": 173474.35, "mcap0": 116908.0}
+{"mint": "8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy", "ticker": "Jensenmas", "t0": 1795678530.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001141, "liq0": 166468.46, "mcap0": 114177.0}

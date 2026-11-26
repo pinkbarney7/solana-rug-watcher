@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:30:20",
+ "updated": "2026-11-26T07:36:47",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -10,20 +10,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T06:44:50+00:00",
+   "scored_at": "2026-11-26T07:35:31+00:00",
    "path": "survivor"
   },
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 72,
+   "risk": 66,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:18+00:00",
+   "scored_at": "2026-11-26T07:36:02+00:00",
    "path": "survivor"
   },
   {
@@ -71,7 +71,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:16+00:00",
+   "scored_at": "2026-11-26T07:35:29+00:00",
    "path": "young"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:17+00:00",
+   "scored_at": "2026-11-26T07:36:47+00:00",
    "path": "survivor"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:16+00:00",
+   "scored_at": "2026-11-26T07:35:20+00:00",
    "path": "young"
   },
   {
@@ -312,7 +312,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:08+00:00",
+   "scored_at": "2026-11-26T07:35:31+00:00",
    "path": "young"
   },
   {
@@ -324,7 +324,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:17+00:00",
+   "scored_at": "2026-11-26T07:35:29+00:00",
    "path": "young"
   },
   {
@@ -354,13 +354,13 @@
   {
    "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump",
    "ticker": "UHI",
-   "risk": 56,
+   "risk": 57,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:30:17+00:00",
+   "scored_at": "2026-11-26T07:35:30+00:00",
    "path": "young"
   },
   {
@@ -385,6 +385,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T06:53:50+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy",
+   "ticker": "Jensenmas",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-26T07:35:30+00:00",
    "path": "young"
   }
  ]

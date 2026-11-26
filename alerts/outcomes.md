@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 07:30 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 07:36 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | - | - | - |
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | - | - | - |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | - | - |
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | - | - |
