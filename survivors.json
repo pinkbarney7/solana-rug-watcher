@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:32:01",
+ "updated": "2026-11-26T01:48:05",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -16,14 +16,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 70,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T14:55:41+00:00",
+   "scored_at": "2026-11-26T01:48:03+00:00",
    "path": "survivor"
   },
   {
@@ -77,13 +77,13 @@
   {
    "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
    "ticker": "CLAUDIA",
-   "risk": 59,
-   "verdict": "SKIP",
+   "risk": 38,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T05:02:38+00:00",
+   "scored_at": "2026-11-26T01:48:04+00:00",
    "path": "survivor"
   },
   {
@@ -186,13 +186,13 @@
   {
    "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
    "ticker": "VINE",
-   "risk": 51,
+   "risk": 48,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T13:23:52+00:00",
+   "scored_at": "2026-11-26T01:48:04+00:00",
    "path": "survivor"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-25T14:55:29+00:00",
+   "scored_at": "2026-11-26T01:47:55+00:00",
    "path": "young"
   },
   {
