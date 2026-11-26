@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:28:06",
+ "updated": "2026-11-26T00:38:36",
  "coins": [
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
@@ -86,19 +86,6 @@
    ],
    "scored_at": "2026-11-24T12:53:11+00:00",
    "path": "young"
-  },
-  {
-   "mint": "NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv",
-   "ticker": "NVDA",
-   "risk": 66,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "authorities",
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-24T12:35:42+00:00",
-   "path": "survivor"
   },
   {
    "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
