@@ -3,8 +3,8 @@
  "ts_epoch": 1795656302,
  "source": "box",
  "realtime_running": false,
- "realtime_status_age_s": 256,
- "credits_today": 26.0,
+ "realtime_status_age_s": 424,
+ "credits_today": 37.0,
  "credit_cap": 16000,
  "paused_helius": false
 }
