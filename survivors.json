@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:01:31",
+ "updated": "2026-11-26T21:18:57",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -144,18 +144,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-25T14:55:41+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "9HKjUJkF8APSnaB8dzAT7EUfHzrjVyoxByBdBKGddybZ",
-   "ticker": "Friend",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T09:03:17+00:00",
    "path": "young"
   },
   {
