@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-26 14:10 UTC
+# Outcomes (DEX Screener, free) - 2026-11-26 14:17 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,13 +7,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | -2.1% | 0 |
 | CAUTION | 6h | 3 | -24.1% | 0 |
 | CAUTION | 24h | 1 | -62.2% | 0 |
-| SKIP | 1h | 22 | -16.0% | 12 |
-| SKIP | 6h | 13 | -76.2% | 7 |
-| SKIP | 24h | 2 | -47.4% | 1 |
+| SKIP | 1h | 22 | -74.6% | 12 |
+| SKIP | 6h | 12 | -76.2% | 7 |
+| SKIP | 24h | 1 | -76.2% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | - | - | - |
+| HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | - | - |
 | NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | 132.5% / liq $0 | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.0% / liq $3,354,647 | - | - |
 | FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | -78.5% / liq $0 | - | - |
@@ -39,4 +39,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 70 | 1.3% / liq $2,300,786 | 10.6% / liq $2,337,450 | - |
 | MCAT | `BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi` | CAUTION | 38 | -31.8% / liq $42,435 | -24.1% / liq $45,596 | -62.2% / liq $32,371 |
 | BossJensen | `FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA` | SKIP | 53 | -76.2% / liq $0 | -76.2% / liq $0 | -76.2% / liq $0 |
-| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | SKIP | 55 | -15.9% / liq $155,147 | -43.2% / liq $129,602 | -47.4% / liq $125,529 |
