@@ -24,3 +24,4 @@
 {"mint": "BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm", "ticker": "FSD V15", "t0": 1795694024.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001167, "liq0": 185971.78, "mcap0": 116733.0, "1h": {"price": 2.512e-05, "liq": 0, "chg_pct": -78.5, "liq_chg_pct": -100.0, "late_min": 1}}
 {"mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump", "ticker": "pippin", "t0": 1795696527.0, "verdict": "SKIP", "risk": 52, "p0": 0.01778, "liq0": 3371383.54, "mcap0": 17781698.0}
 {"mint": "9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M", "ticker": "NUBU", "t0": 1795697377.0, "verdict": "SKIP", "risk": 67, "p0": 0.0001188, "liq0": 171542.59, "mcap0": 118814.0}
+{"mint": "DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi", "ticker": "HYPER", "t0": 1795698715.0, "verdict": "SKIP", "risk": 80, "p0": 0.009719, "liq0": 84119.74, "mcap0": 204107284.0}
