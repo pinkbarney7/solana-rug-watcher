@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:24:58",
+ "updated": "2026-11-26T22:37:44",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -156,18 +156,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-25T14:55:38+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "3znsVKBg8GKYsweiRUjb1JFWhn72GpJUNb2etVxstg3W",
-   "ticker": "JaoJiu",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T10:25:35+00:00",
    "path": "young"
   },
   {
