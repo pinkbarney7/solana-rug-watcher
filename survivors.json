@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:03:38",
+ "updated": "2026-11-26T23:17:56",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -121,18 +121,6 @@
    ],
    "scored_at": "2026-11-26T13:11:55+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "E35iEA2yLLHc1tjm6et1Z3YuH8DhxJYWtWezPHgSpump",
-   "ticker": "BOOBS",
-   "risk": 58,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T11:07:17+00:00",
-   "path": "young"
   },
   {
    "mint": "GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump",
