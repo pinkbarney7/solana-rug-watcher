@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:05:24",
+ "updated": "2026-11-26T08:16:31",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:21+00:00",
+   "scored_at": "2026-11-26T08:15:12+00:00",
    "path": "survivor"
   },
   {
@@ -71,7 +71,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:22+00:00",
+   "scored_at": "2026-11-26T08:15:12+00:00",
    "path": "young"
   },
   {
@@ -150,13 +150,13 @@
   {
    "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
    "ticker": "MOODENG",
-   "risk": 59,
-   "verdict": "SKIP",
+   "risk": 50,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:05:24+00:00",
+   "scored_at": "2026-11-26T08:16:29+00:00",
    "path": "survivor"
   },
   {
@@ -192,7 +192,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:22+00:00",
+   "scored_at": "2026-11-26T08:15:11+00:00",
    "path": "survivor"
   },
   {
@@ -288,7 +288,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:12+00:00",
+   "scored_at": "2026-11-26T08:15:12+00:00",
    "path": "young"
   },
   {
@@ -306,25 +306,25 @@
   {
    "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump",
    "ticker": "NORFEATH",
-   "risk": 52,
+   "risk": 60,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:21+00:00",
+   "scored_at": "2026-11-26T08:15:35+00:00",
    "path": "young"
   },
   {
    "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
    "ticker": "Grodia",
-   "risk": 58,
+   "risk": 57,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T07:55:59+00:00",
+   "scored_at": "2026-11-26T08:15:10+00:00",
    "path": "young"
   },
   {
@@ -360,7 +360,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:20+00:00",
+   "scored_at": "2026-11-26T08:15:02+00:00",
    "path": "young"
   },
   {
@@ -402,13 +402,13 @@
   {
    "mint": "25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru",
    "ticker": "Elonmas",
-   "risk": 53,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T08:04:21+00:00",
+   "scored_at": "2026-11-26T08:15:11+00:00",
    "path": "young"
   },
   {
