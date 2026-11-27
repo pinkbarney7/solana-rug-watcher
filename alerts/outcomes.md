@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 11:24 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 11:34 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 3 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
 | SKIP | 1h | 32 | -1.9% | 15 |
-| SKIP | 6h | 20 | -76.0% | 10 |
+| SKIP | 6h | 21 | -76.0% | 11 |
 | SKIP | 24h | 5 | -76.0% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -26,7 +26,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | 15.0% / liq $237,329 | - | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | - | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | - | - |
-| SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | - | - |
+| SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | - |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | - |
 | CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | - |

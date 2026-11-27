@@ -1,7 +1,7 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795778657.4439113,
-"liq": 1692288.5999999999,
+"ts": 1795779270.6384537,
+"liq": 1678773.6500000001,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -42,11 +42,11 @@
 "verdict": "CAUTION"
 },
 "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
-"ts": 1795778657.443904,
-"liq": 14381655.74,
+"ts": 1795779270.6384568,
+"liq": 5008201.42,
 "holders": null,
-"risk": 61,
-"verdict": "SKIP"
+"risk": 38,
+"verdict": "CAUTION"
 },
 "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump": {
 "ts": 1795616739.5583646,
@@ -84,8 +84,8 @@
 "verdict": "SKIP"
 },
 "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f": {
-"ts": 1795778657.4438953,
-"liq": 128041.21,
+"ts": 1795779270.6384416,
+"liq": 128219.49,
 "holders": null,
 "risk": 38,
 "verdict": "CAUTION"
@@ -175,17 +175,17 @@
 "verdict": "SKIP"
 },
 "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3": {
-"ts": 1795778657.4439144,
+"ts": 1795779270.6384556,
 "liq": 221651.2765,
 "holders": null,
-"risk": 59,
+"risk": 63,
 "verdict": "SKIP"
 },
 "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": {
-"ts": 1795778657.443913,
-"liq": 250425.18,
+"ts": 1795779270.638446,
+"liq": 260524.88,
 "holders": null,
-"risk": 59,
+"risk": 55,
 "verdict": "SKIP"
 },
 "3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe": {
@@ -238,8 +238,8 @@
 "verdict": "SKIP"
 },
 "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump": {
-"ts": 1795778657.4439096,
-"liq": 138990.31,
+"ts": 1795779270.6384494,
+"liq": 133201.27,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -259,8 +259,8 @@
 "verdict": "SKIP"
 },
 "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg": {
-"ts": 1795778363.67051,
-"liq": 220383.41999999998,
+"ts": 1795779270.6384587,
+"liq": 218871.06,
 "holders": null,
 "risk": 39,
 "verdict": "CAUTION"
@@ -371,11 +371,11 @@
 "verdict": "SKIP"
 },
 "4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG": {
-"ts": 1795778657.443916,
-"liq": 235376.89,
+"ts": 1795779270.6384518,
+"liq": 238388.07,
 "holders": null,
-"risk": 47,
-"verdict": "CAUTION"
+"risk": 53,
+"verdict": "SKIP"
 },
 "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo": {
 "ts": 1795777946.3305213,

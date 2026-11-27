@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:24:17",
+ "updated": "2026-11-27T11:34:30",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -41,13 +41,13 @@
   {
    "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
    "ticker": "CLAUDIA",
-   "risk": 61,
-   "verdict": "SKIP",
+   "risk": 38,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:23:11+00:00",
+   "scored_at": "2026-11-27T11:34:27+00:00",
    "path": "survivor"
   },
   {
@@ -83,7 +83,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:23:02+00:00",
+   "scored_at": "2026-11-27T11:34:18+00:00",
    "path": "young"
   },
   {
@@ -233,26 +233,26 @@
   {
    "mint": "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3",
    "ticker": "FSD V15",
-   "risk": 59,
+   "risk": 63,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-27T11:23:12+00:00",
+   "scored_at": "2026-11-27T11:34:28+00:00",
    "path": "young"
   },
   {
    "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump",
    "ticker": "PUMPCHAN",
-   "risk": 59,
+   "risk": 55,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:23:12+00:00",
+   "scored_at": "2026-11-27T11:34:26+00:00",
    "path": "young"
   },
   {
@@ -339,7 +339,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:18:20+00:00",
+   "scored_at": "2026-11-27T11:34:27+00:00",
    "path": "survivor"
   },
   {
@@ -375,7 +375,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:23:11+00:00",
+   "scored_at": "2026-11-27T11:34:26+00:00",
    "path": "young"
   },
   {
@@ -387,7 +387,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:23:12+00:00",
+   "scored_at": "2026-11-27T11:34:28+00:00",
    "path": "survivor"
   },
   {
@@ -578,13 +578,13 @@
   {
    "mint": "4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG",
    "ticker": "SuperFIONA",
-   "risk": 47,
-   "verdict": "CAUTION",
+   "risk": 53,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:23:11+00:00",
+   "scored_at": "2026-11-27T11:34:28+00:00",
    "path": "young"
   },
   {
