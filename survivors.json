@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:56:45",
+ "updated": "2026-11-27T23:02:55",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -157,18 +157,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T16:36:20+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA",
-   "ticker": "Anthropic",
-   "risk": 47,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T11:00:58+00:00",
    "path": "young"
   },
   {
