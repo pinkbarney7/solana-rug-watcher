@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:29:08",
+ "updated": "2026-11-27T19:37:54",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -120,18 +120,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T14:44:50+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy",
-   "ticker": "Jensenmas",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T07:35:30+00:00",
    "path": "young"
   },
   {
