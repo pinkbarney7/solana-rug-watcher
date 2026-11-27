@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 04:29 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 04:32 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | - | - | - |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | - | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |

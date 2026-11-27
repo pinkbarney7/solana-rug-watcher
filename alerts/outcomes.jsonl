@@ -30,3 +30,4 @@
 {"mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "ticker": "Rizzmas", "t0": 1795750609.0, "verdict": "CAUTION", "risk": 39, "p0": 1.415e-06, "liq0": 233746.18, "mcap0": 703066.0}
 {"mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump", "ticker": "CATE", "t0": 1795753748.0, "verdict": "SKIP", "risk": 64, "p0": 177.67, "liq0": 11377789.540000001, "mcap0": 171305861606.0}
 {"mint": "4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp", "ticker": "Thanksgivi", "t0": 1795753749.0, "verdict": "SKIP", "risk": 56, "p0": 0.0001634, "liq0": 216107.73, "mcap0": 163455.0}
+{"mint": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m", "ticker": "MPLX", "t0": 1795753942.0, "verdict": "SKIP", "risk": 71, "p0": 0.05959, "liq0": 3016503.81, "mcap0": 27937217.0}
