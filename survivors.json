@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:13:21",
+ "updated": "2026-11-27T12:17:44",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -77,13 +77,13 @@
   {
    "mint": "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f",
    "ticker": "BASKET",
-   "risk": 41,
+   "risk": 38,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T12:08:21+00:00",
+   "scored_at": "2026-11-27T12:17:33+00:00",
    "path": "young"
   },
   {
@@ -233,14 +233,14 @@
   {
    "mint": "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3",
    "ticker": "FSD V15",
-   "risk": 60,
+   "risk": 63,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link",
     "exit test"
    ],
-   "scored_at": "2026-11-27T12:10:39+00:00",
+   "scored_at": "2026-11-27T12:17:44+00:00",
    "path": "young"
   },
   {
@@ -252,7 +252,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T12:09:05+00:00",
+   "scored_at": "2026-11-27T12:17:42+00:00",
    "path": "young"
   },
   {
@@ -339,7 +339,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T11:34:27+00:00",
+   "scored_at": "2026-11-27T12:17:43+00:00",
    "path": "survivor"
   },
   {
@@ -375,7 +375,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T12:07:39+00:00",
+   "scored_at": "2026-11-27T12:17:43+00:00",
    "path": "young"
   },
   {
@@ -635,6 +635,44 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T12:07:55+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22",
+   "ticker": "PAXG",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-27T12:17:43+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R",
+   "ticker": "UATF",
+   "risk": 56,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link",
+    "exit test"
+   ],
+   "scored_at": "2026-11-27T12:17:41+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump",
+   "ticker": "UGOS",
+   "risk": 75,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-27T12:17:42+00:00",
    "path": "young"
   }
  ]

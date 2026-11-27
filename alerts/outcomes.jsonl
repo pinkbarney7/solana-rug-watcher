@@ -33,3 +33,8 @@
 {"mint": "A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg", "ticker": "Suki", "t0": 1795778291.0, "verdict": "SKIP", "risk": 53, "p0": 0.0001283, "liq0": 181689.06, "mcap0": 128312.0}
 {"mint": "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump", "ticker": "baton", "t0": 1795778656.0, "verdict": "CAUTION", "risk": 38, "p0": 0.004672, "liq0": 471387.96, "mcap0": 4666581.0}
 {"mint": "BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy", "ticker": "GAIB", "t0": 1795780139.0, "verdict": "SKIP", "risk": 52, "p0": 0.000107, "liq0": 193365.54, "mcap0": 107083.0}
+{"mint": "A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R", "ticker": "UATF", "t0": 1795781861.0, "verdict": "SKIP", "risk": 56, "p0": 0.001189, "liq0": 11700991.51, "mcap0": 11899271.0}
+{"mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump", "ticker": "PUMPCHAN", "t0": 1795781862.0, "verdict": "SKIP", "risk": 55, "p0": 0.01187, "liq0": 266054.08, "mcap0": 11871755.0}
+{"mint": "FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump", "ticker": "UGOS", "t0": 1795781862.0, "verdict": "SKIP", "risk": 75, "p0": 0.1225, "liq0": 794201.75, "mcap0": 122588303.0}
+{"mint": "CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22", "ticker": "PAXG", "t0": 1795781863.0, "verdict": "SKIP", "risk": 56, "p0": 4537.26, "liq0": 45249927.17, "mcap0": 45372621.0}
+{"mint": "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3", "ticker": "FSD V15", "t0": 1795781864.0, "verdict": "SKIP", "risk": 63, "p0": 0.00014301358631140814, "liq0": 221651.2765, "mcap0": 143013.5863}
