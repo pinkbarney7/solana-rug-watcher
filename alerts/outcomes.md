@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 16:36 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 16:48 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
-| SKIP | 1h | 31 | -0.3% | 13 |
-| SKIP | 6h | 23 | -75.4% | 13 |
-| SKIP | 24h | 2 | 2.8% | 1 |
+| SKIP | 1h | 29 | -0.3% | 13 |
+| SKIP | 6h | 21 | -75.4% | 12 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -47,5 +46,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | 6.0% / liq $92,904 | 8.4% / liq $94,498 | - |
 | SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | -78.3% / liq $0 | -78.3% / liq $0 | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | 21.6% / liq $73,975 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -1.9% / liq $1,973,012 | 2.3% / liq $2,054,544 | 2.8% / liq $1,880,315 |
-| DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | 15.4% / liq $228,404 | -76.3% / liq $0 | -76.3% / liq $0 |
