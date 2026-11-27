@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 15:26 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 15:39 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
 | SKIP | 1h | 30 | -0.3% | 12 |
-| SKIP | 6h | 19 | -74.7% | 10 |
+| SKIP | 6h | 20 | -74.7% | 11 |
 | SKIP | 24h | 2 | 2.8% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -24,7 +24,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | 16.6% / liq $234,709 | - | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $440,938 | - | - |
 | Snowball | `BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe` | SKIP | 53 | 18.9% / liq $0 | - | - |
-| PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | - | - |
+| PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
 | MOSTO | `3UPbAqDetbPp8dVbBm8qXtV27zvVnedZryterN8rGtAo` | SKIP | 53 | -74.7% / liq $0 | -74.7% / liq $0 | - |
 | ALCH | `HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump` | SKIP | 51 | 2.0% / liq $2,180,517 | -3.1% / liq $2,083,294 | - |
 | future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
