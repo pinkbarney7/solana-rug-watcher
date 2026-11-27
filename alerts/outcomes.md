@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 11:19 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 11:24 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | - | - | - |
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | - | - | - |
 | TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | - | - | - |
 | SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | 16.6% / liq $234,709 | - | - |
