@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:10:43",
+ "updated": "2026-11-27T23:22:30",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -96,18 +96,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T13:11:56+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
-   "ticker": "Grodia",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T11:15:55+00:00",
    "path": "young"
   },
   {
