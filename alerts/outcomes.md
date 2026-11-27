@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 07:32 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 07:42 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,10 +8,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 1 | 51.7% | 0 |
 | SKIP | 1h | 30 | -22.4% | 15 |
 | SKIP | 6h | 20 | -76.2% | 13 |
-| SKIP | 24h | 4 | -78.7% | 3 |
+| SKIP | 24h | 5 | -79.8% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | - | - | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | - | - | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | - | - | - |
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | - | - |
@@ -43,7 +44,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | philanthro | `8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | -2.9% / liq $1,874,183 | - |
-| Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
+| Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | -78.4% / liq $0 | -78.4% / liq $0 |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | -79.8% / liq $0 | -79.8% / liq $0 |
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | 64.9% / liq $94,183 | -99.9% / liq $1,616 |

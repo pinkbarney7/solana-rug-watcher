@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:32:56",
+ "updated": "2026-11-27T07:42:28",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:32:46+00:00",
+   "scored_at": "2026-11-27T07:42:28+00:00",
    "path": "survivor"
   },
   {
@@ -245,13 +245,13 @@
   {
    "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump",
    "ticker": "PUMPCHAN",
-   "risk": 60,
+   "risk": 57,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:32:55+00:00",
+   "scored_at": "2026-11-27T07:42:18+00:00",
    "path": "young"
   },
   {
@@ -314,7 +314,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:32:55+00:00",
+   "scored_at": "2026-11-27T07:42:28+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:32:54+00:00",
+   "scored_at": "2026-11-27T07:42:27+00:00",
    "path": "young"
   },
   {
@@ -386,7 +386,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:12:32+00:00",
+   "scored_at": "2026-11-27T07:42:26+00:00",
    "path": "survivor"
   },
   {
@@ -472,7 +472,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:32:54+00:00",
+   "scored_at": "2026-11-27T07:42:27+00:00",
    "path": "young"
   },
   {
@@ -485,6 +485,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T07:23:11+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7",
+   "ticker": "SuperFIONA",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-27T07:42:26+00:00",
    "path": "young"
   }
  ]
