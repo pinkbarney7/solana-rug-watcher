@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 09:13 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 09:28 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,12 +6,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 3.7% | 0 |
 | CAUTION | 6h | 1 | 51.7% | 0 |
+| CAUTION | 24h | 1 | -27.8% | 0 |
 | SKIP | 1h | 29 | -7.8% | 13 |
 | SKIP | 6h | 16 | -76.0% | 10 |
 | SKIP | 24h | 4 | -4.3% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | - | - | - |
 | MOSTO | `3UPbAqDetbPp8dVbBm8qXtV27zvVnedZryterN8rGtAo` | SKIP | 53 | - | - | - |
 | ALCH | `HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump` | SKIP | 51 | - | - | - |
 | future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | - | - | - |
@@ -43,7 +45,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 52 | -74.6% / liq $0 | -74.6% / liq $0 | - |
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | 88.6% / liq $231,289 | - |
 | Sol | `8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr` | SKIP | 53 | -76.0% / liq $0 | -76.0% / liq $0 | - |
-| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 41 | 3.7% / liq $82,045 | 51.7% / liq $99,713 | - |
+| JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 41 | 3.7% / liq $82,045 | 51.7% / liq $99,713 | -27.8% / liq $71,238 |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | -0.7% / liq $1,461,649 | -4.3% / liq $1,456,276 |
 | philanthro | `8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | -96.7% / liq $0 |

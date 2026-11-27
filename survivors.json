@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:13:18",
+ "updated": "2026-11-27T09:28:16",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:13:16+00:00",
+   "scored_at": "2026-11-27T09:28:15+00:00",
    "path": "survivor"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:13:08+00:00",
+   "scored_at": "2026-11-27T09:28:04+00:00",
    "path": "young"
   },
   {
@@ -338,7 +338,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T08:57:38+00:00",
+   "scored_at": "2026-11-27T09:28:14+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:13:18+00:00",
+   "scored_at": "2026-11-27T09:28:13+00:00",
    "path": "young"
   },
   {
@@ -386,7 +386,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T08:57:36+00:00",
+   "scored_at": "2026-11-27T09:28:13+00:00",
    "path": "survivor"
   },
   {
@@ -472,7 +472,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:13:18+00:00",
+   "scored_at": "2026-11-27T09:28:13+00:00",
    "path": "young"
   },
   {
@@ -515,13 +515,13 @@
   {
    "mint": "6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym",
    "ticker": "future",
-   "risk": 53,
+   "risk": 56,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:13:18+00:00",
+   "scored_at": "2026-11-27T09:28:15+00:00",
    "path": "young"
   },
   {
@@ -546,6 +546,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T09:13:17+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze",
+   "ticker": "PETER",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-27T09:28:15+00:00",
    "path": "young"
   }
  ]
