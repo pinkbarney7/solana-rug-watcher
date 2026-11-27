@@ -1,15 +1,14 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 06:50 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 06:55 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | 0.5% | 0 |
-| CAUTION | 6h | 2 | 51.7% | 0 |
-| CAUTION | 24h | 1 | 11.5% | 0 |
+| CAUTION | 1h | 4 | 3.7% | 0 |
+| CAUTION | 6h | 1 | 51.7% | 0 |
 | SKIP | 1h | 30 | -22.4% | 15 |
 | SKIP | 6h | 20 | -76.2% | 13 |
-| SKIP | 24h | 3 | -79.8% | 2 |
+| SKIP | 24h | 4 | -78.7% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -43,8 +42,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | -2.9% / liq $1,874,183 | - |
 | Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
-| Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | -78.4% / liq $0 | - |
+| Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | -78.4% / liq $0 | -78.4% / liq $0 |
 | miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | -79.8% / liq $0 | -79.8% / liq $0 |
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | 64.9% / liq $94,183 | -99.9% / liq $1,616 |
 | DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | -78.7% / liq $0 | -78.7% / liq $0 | -78.7% / liq $0 |
-| FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | -12.7% / liq $290,752 | 11.5% / liq $325,921 |
