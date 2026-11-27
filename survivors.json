@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:42:45",
+ "updated": "2026-11-27T23:56:32",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -111,18 +111,6 @@
    "path": "young"
   },
   {
-   "mint": "3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe",
-   "ticker": "DOG",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T11:53:46+00:00",
-   "path": "young"
-  },
-  {
    "mint": "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3",
    "ticker": "FSD V15",
    "risk": 63,
@@ -145,18 +133,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T16:36:20+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm",
-   "ticker": "FSD V15",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T11:53:44+00:00",
    "path": "young"
   },
   {
