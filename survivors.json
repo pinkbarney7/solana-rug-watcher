@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:28:16",
+ "updated": "2026-11-27T09:38:37",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:15+00:00",
+   "scored_at": "2026-11-27T09:38:36+00:00",
    "path": "survivor"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:04+00:00",
+   "scored_at": "2026-11-27T09:38:36+00:00",
    "path": "young"
   },
   {
@@ -338,7 +338,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:14+00:00",
+   "scored_at": "2026-11-27T09:38:35+00:00",
    "path": "survivor"
   },
   {
@@ -368,13 +368,13 @@
   {
    "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
    "ticker": "Snowball",
-   "risk": 52,
-   "verdict": "SKIP",
+   "risk": 45,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:13+00:00",
+   "scored_at": "2026-11-27T09:38:34+00:00",
    "path": "young"
   },
   {
@@ -386,7 +386,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:13+00:00",
+   "scored_at": "2026-11-27T09:38:34+00:00",
    "path": "survivor"
   },
   {
@@ -466,13 +466,13 @@
   {
    "mint": "G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump",
    "ticker": "KAI",
-   "risk": 66,
+   "risk": 60,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:13+00:00",
+   "scored_at": "2026-11-27T09:38:34+00:00",
    "path": "young"
   },
   {
@@ -521,7 +521,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:15+00:00",
+   "scored_at": "2026-11-27T09:38:25+00:00",
    "path": "young"
   },
   {
@@ -557,7 +557,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:28:15+00:00",
+   "scored_at": "2026-11-27T09:38:36+00:00",
    "path": "young"
   }
  ]
