@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:33:58",
+ "updated": "2026-11-27T20:43:35",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -120,18 +120,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T14:44:50+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru",
-   "ticker": "Elonmas",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T08:37:05+00:00",
    "path": "young"
   },
   {
