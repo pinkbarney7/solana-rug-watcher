@@ -1,5 +1,5 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-27 20:01 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-27 20:16 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
 Closed: 55 | Open: 3 | Not opened (failed sell gate): 0
 Win rate 24% | avg return -18.4% | expectancy $-4.59 per $25 trade | total $-252.69
@@ -7,9 +7,9 @@ Win rate 24% | avg return -18.4% | expectancy $-4.59 per $25 trade | total $-252
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
 | SuperFIONA | [`4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG`](https://dexscreener.com/solana/4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG) | scored_fast_scan | CAUTION | 2026-11-27 11:24 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
-| baton | [`Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`](https://pump.fun/coin/Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump) | scored_fast_scan | CAUTION | 2026-11-27 11:24 UTC | open | +3.0% |
-| Snowball | [`9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump`](https://pump.fun/coin/9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump) | scored_fast_scan | CAUTION | 2026-11-27 09:38 UTC | open | -25.6% |
-| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | scored_fast_scan | CAUTION | 2026-11-27 03:36 UTC | open | -3.3% |
+| baton | [`Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`](https://pump.fun/coin/Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump) | scored_fast_scan | CAUTION | 2026-11-27 11:24 UTC | open | +1.6% |
+| Snowball | [`9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump`](https://pump.fun/coin/9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump) | scored_fast_scan | CAUTION | 2026-11-27 09:38 UTC | open | -21.4% |
+| Rizzmas | [`85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg`](https://dexscreener.com/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg) | scored_fast_scan | CAUTION | 2026-11-27 03:36 UTC | open | -3.6% |
 | MOODENG | [`ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY`](https://dexscreener.com/solana/ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY) | scored_fast_scan | CAUTION | 2026-11-26 05:40 UTC | closed (24h time exit) | -1.8% |
 | BASKET | [`3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f`](https://dexscreener.com/solana/3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f) | scored_fast_scan | CAUTION | 2026-11-26 04:51 UTC | closed (24h time exit) | -42.6% |
 | MANIFEST | [`BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump`](https://pump.fun/coin/BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump) | scored_fast_scan | CAUTION | 2026-11-25 09:18 UTC | closed (24h time exit) | +35.0% |

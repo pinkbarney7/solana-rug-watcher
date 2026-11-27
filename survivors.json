@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:00:48",
+ "updated": "2026-11-27T20:16:04",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -132,18 +132,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T08:37:05+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB",
-   "ticker": "philanthro",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T08:04:20+00:00",
    "path": "young"
   },
   {
