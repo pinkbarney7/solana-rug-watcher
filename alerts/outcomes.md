@@ -1,26 +1,26 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 04:32 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 04:47 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 2 | 3.7% | 0 |
+| CAUTION | 1h | 4 | 3.7% | 0 |
 | CAUTION | 6h | 2 | 51.7% | 0 |
-| SKIP | 1h | 22 | -16.0% | 11 |
+| SKIP | 1h | 26 | -16.0% | 13 |
 | SKIP | 6h | 22 | -76.0% | 13 |
-| SKIP | 24h | 1 | -99.7% | 0 |
+| SKIP | 24h | 2 | -99.7% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | - | - | - |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | - | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | - | - | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |
-| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | - | - | - |
-| TOGI | `6aHvrZ99fXBDRiVNYsuVERXzCeeMdzF9fjvefx1UjR83` | SKIP | 53 | - | - | - |
-| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | - | - | - |
-| SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | - | - | - |
-| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | - | - | - |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.3% / liq $2,369,504 | - | - |
+| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -3.3% / liq $229,113 | - | - |
+| TOGI | `6aHvrZ99fXBDRiVNYsuVERXzCeeMdzF9fjvefx1UjR83` | SKIP | 53 | -78.6% / liq $0 | - | - |
+| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | 6.0% / liq $92,904 | - | - |
+| SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | -78.3% / liq $0 | - | - |
+| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -1.9% / liq $1,973,012 | 2.3% / liq $2,054,544 | - |
 | DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | 15.4% / liq $228,404 | -76.3% / liq $0 | - |
 | HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | -95.0% / liq $18,919 | - |
@@ -43,5 +43,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | 64.9% / liq $94,183 | - |
 | DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | -78.7% / liq $0 | -78.7% / liq $0 | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | -12.7% / liq $290,752 | - |
-| Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | -60.9% / liq $48,843 | - |
+| Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | -60.9% / liq $48,843 | -99.9% / liq $1,763 |
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | -9.8% / liq $53,918 | -99.7% / liq $1,959 |
