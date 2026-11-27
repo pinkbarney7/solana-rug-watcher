@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:18:02",
+ "updated": "2026-11-27T10:27:19",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -47,7 +47,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:18:01+00:00",
+   "scored_at": "2026-11-27T10:27:18+00:00",
    "path": "survivor"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:18:00+00:00",
+   "scored_at": "2026-11-27T10:27:19+00:00",
    "path": "young"
   },
   {
@@ -338,7 +338,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:18:01+00:00",
+   "scored_at": "2026-11-27T10:27:17+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:18:00+00:00",
+   "scored_at": "2026-11-27T10:27:09+00:00",
    "path": "young"
   },
   {
@@ -405,14 +405,14 @@
   {
    "mint": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
    "ticker": "MPLX",
-   "risk": 73,
+   "risk": 74,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:04:35+00:00",
+   "scored_at": "2026-11-27T10:27:19+00:00",
    "path": "survivor"
   },
   {
@@ -472,7 +472,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:18:01+00:00",
+   "scored_at": "2026-11-27T10:27:18+00:00",
    "path": "young"
   },
   {
@@ -583,7 +583,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:17:59+00:00",
+   "scored_at": "2026-11-27T10:27:19+00:00",
    "path": "young"
   }
  ]
