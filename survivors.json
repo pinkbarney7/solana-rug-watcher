@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:12:37",
+ "updated": "2026-11-27T01:26:43",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -37,18 +37,6 @@
    ],
    "scored_at": "2026-11-25T14:25:37+00:00",
    "path": "survivor"
-  },
-  {
-   "mint": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi",
-   "ticker": "MCAT",
-   "risk": 38,
-   "verdict": "CAUTION",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T13:20:55+00:00",
-   "path": "young"
   },
   {
    "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
