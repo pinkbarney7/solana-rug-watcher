@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 14:41 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 15:00 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
-| SKIP | 1h | 32 | -0.3% | 13 |
-| SKIP | 6h | 18 | -63.7% | 9 |
-| SKIP | 24h | 1 | -96.1% | 0 |
+| SKIP | 1h | 31 | -1.9% | 12 |
+| SKIP | 6h | 18 | -76.3% | 9 |
+| SKIP | 24h | 3 | -76.3% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | - | - |
 | MOSTO | `3UPbAqDetbPp8dVbBm8qXtV27zvVnedZryterN8rGtAo` | SKIP | 53 | -74.7% / liq $0 | - | - |
 | ALCH | `HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump` | SKIP | 51 | 2.0% / liq $2,180,517 | - | - |
-| future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | -76.5% / liq $0 | - | - |
+| future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | Kibo | `Me3c36ueyXkeTSdDDHLMydKfB7H7bDbo4Qdz2FoVi2z` | SKIP | 53 | 4.5% / liq $0 | 4.5% / liq $0 | - |
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | 15.0% / liq $237,329 | -76.3% / liq $0 | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | -61.7% / liq $0 | - |
@@ -45,7 +45,6 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | 6.0% / liq $92,904 | 8.4% / liq $94,498 | - |
 | SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | -78.3% / liq $0 | -78.3% / liq $0 | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | 21.6% / liq $73,975 | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -1.9% / liq $1,973,012 | 2.3% / liq $2,054,544 | - |
-| DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | 15.4% / liq $228,404 | -76.3% / liq $0 | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -1.9% / liq $1,973,012 | 2.3% / liq $2,054,544 | 2.8% / liq $1,880,315 |
+| DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | 15.4% / liq $228,404 | -76.3% / liq $0 | -76.3% / liq $0 |
 | HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | -95.0% / liq $18,919 | -96.1% / liq $16,980 |
-| NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | 132.5% / liq $0 | -63.7% / liq $0 | - |
