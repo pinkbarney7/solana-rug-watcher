@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 06:14 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 06:27 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,9 +7,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 5 | 0.5% | 0 |
 | CAUTION | 6h | 2 | 51.7% | 0 |
 | CAUTION | 24h | 1 | 11.5% | 0 |
-| SKIP | 1h | 31 | -22.4% | 14 |
-| SKIP | 6h | 22 | -76.0% | 13 |
-| SKIP | 24h | 3 | -99.7% | 1 |
+| SKIP | 1h | 30 | -22.4% | 14 |
+| SKIP | 6h | 21 | -76.2% | 13 |
+| SKIP | 24h | 4 | -79.8% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -44,9 +44,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | -2.9% / liq $1,874,183 | - |
 | Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | -78.4% / liq $0 | - |
-| miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | -79.8% / liq $0 | - |
-| UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | 64.9% / liq $94,183 | - |
+| miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | -79.8% / liq $0 | -79.8% / liq $0 |
+| UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | 64.9% / liq $94,183 | -99.9% / liq $1,616 |
 | DOG | `FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6` | SKIP | 53 | -78.7% / liq $0 | -78.7% / liq $0 | -78.7% / liq $0 |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | -12.7% / liq $290,752 | 11.5% / liq $325,921 |
 | Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | -60.9% / liq $48,843 | -99.9% / liq $1,763 |
-| NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | -9.8% / liq $53,918 | -99.7% / liq $1,959 |
