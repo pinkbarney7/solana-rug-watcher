@@ -1,12 +1,11 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 03:46 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 03:56 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 3 | -2.1% | 0 |
-| CAUTION | 6h | 3 | -12.7% | 0 |
-| CAUTION | 24h | 1 | -51.4% | 0 |
+| CAUTION | 1h | 2 | 3.7% | 0 |
+| CAUTION | 6h | 2 | 51.7% | 0 |
 | SKIP | 1h | 22 | -16.0% | 11 |
 | SKIP | 6h | 22 | -76.0% | 13 |
 
@@ -42,4 +41,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.1% / liq $308,284 | -12.7% / liq $290,752 | - |
 | Grodia | `6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump` | SKIP | 59 | -16.0% / liq $71,581 | -60.9% / liq $48,843 | - |
 | NORFEATH | `3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump` | SKIP | 57 | 1.2% / liq $56,421 | -9.8% / liq $53,918 | - |
-| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | CAUTION | 38 | -54.7% / liq $415,566 | -49.6% / liq $437,603 | -51.4% / liq $432,059 |
