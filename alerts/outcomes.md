@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 08:13 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 08:27 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,14 +6,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 3.7% | 0 |
 | CAUTION | 6h | 1 | 51.7% | 0 |
-| SKIP | 1h | 30 | -7.8% | 14 |
-| SKIP | 6h | 19 | -76.2% | 12 |
-| SKIP | 24h | 6 | -79.8% | 4 |
+| SKIP | 1h | 29 | -22.4% | 14 |
+| SKIP | 6h | 17 | -76.2% | 11 |
+| SKIP | 24h | 4 | -78.4% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | - | - | - |
-| 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | - | - | - |
+| 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | - | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | - | - |
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | - | - |
@@ -46,5 +46,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | -2.9% / liq $1,874,183 | -3.5% / liq $1,897,133 |
 | Jensenmas | `8PvmJuzqhxDBLD4JAHwXQE2zaah8tieLupq8GvriLNHy` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
 | Santa Clau | `BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva` | SKIP | 53 | -78.4% / liq $0 | -78.4% / liq $0 | -78.4% / liq $0 |
-| miuu | `JAeqCAY8zGY6xz6YaWiH2QU8w4CiZoA8GGqLpVo5uMew` | SKIP | 56 | -79.8% / liq $0 | -79.8% / liq $0 | -79.8% / liq $0 |
-| UHI | `Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump` | SKIP | 58 | 22.6% / liq $80,797 | 64.9% / liq $94,183 | -99.9% / liq $1,616 |
