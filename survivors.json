@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:04:37",
+ "updated": "2026-11-27T07:12:33",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -16,14 +16,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 72,
+   "risk": 70,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:04:35+00:00",
+   "scored_at": "2026-11-27T07:12:32+00:00",
    "path": "survivor"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:04:36+00:00",
+   "scored_at": "2026-11-27T07:12:23+00:00",
    "path": "young"
   },
   {
@@ -332,13 +332,13 @@
   {
    "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg",
    "ticker": "Rizzmas",
-   "risk": 39,
+   "risk": 38,
    "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:04:36+00:00",
+   "scored_at": "2026-11-27T07:12:32+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:04:26+00:00",
+   "scored_at": "2026-11-27T07:12:31+00:00",
    "path": "young"
   },
   {
@@ -386,7 +386,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:32:33+00:00",
+   "scored_at": "2026-11-27T07:12:32+00:00",
    "path": "survivor"
   },
   {
@@ -472,7 +472,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T07:04:34+00:00",
+   "scored_at": "2026-11-27T07:12:32+00:00",
    "path": "young"
   }
  ]
