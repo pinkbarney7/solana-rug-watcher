@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:48:27",
+ "updated": "2026-11-27T18:59:42",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -111,18 +111,6 @@
    "path": "young"
   },
   {
-   "mint": "FS7VE3wTpvbkB5j3t6vGYL8k3DnqnHrSdY4vJnkKFvG6",
-   "ticker": "DOG",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T06:53:39+00:00",
-   "path": "young"
-  },
-  {
    "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump",
    "ticker": "UHI",
    "risk": 59,
@@ -132,18 +120,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T14:44:50+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "BooKBEXvcj1A71JQJzYWebDHBSXvKZ3FjhALSdFyVUva",
-   "ticker": "Santa Clau",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T06:53:50+00:00",
    "path": "young"
   },
   {
