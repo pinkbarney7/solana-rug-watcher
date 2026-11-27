@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 10:32 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 10:43 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,9 +7,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | 3.7% | 0 |
 | CAUTION | 6h | 3 | 8.4% | 0 |
 | CAUTION | 24h | 1 | -27.8% | 0 |
-| SKIP | 1h | 30 | -1.9% | 14 |
-| SKIP | 6h | 19 | -76.0% | 10 |
-| SKIP | 24h | 5 | -74.6% | 3 |
+| SKIP | 1h | 29 | -7.8% | 14 |
+| SKIP | 6h | 18 | -76.0% | 10 |
+| SKIP | 24h | 5 | -76.0% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -43,10 +43,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | 132.5% / liq $0 | -63.7% / liq $0 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.0% / liq $3,354,647 | 6.7% / liq $3,440,216 | - |
 | FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | -78.5% / liq $0 | -78.5% / liq $0 | - |
-| Anthropic | `8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA` | SKIP | 53 | -76.8% / liq $0 | -76.8% / liq $0 | - |
+| Anthropic | `8Di9FbUApRwpaEoTBh8xdDtqeq5nhn6mbyXetbLiDanA` | SKIP | 53 | -76.8% / liq $0 | -76.8% / liq $0 | -76.8% / liq $0 |
 | DOG | `3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe` | SKIP | 53 | 17.6% / liq $228,094 | -76.2% / liq $0 | -76.2% / liq $0 |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 52 | -74.6% / liq $0 | -74.6% / liq $0 | -74.6% / liq $0 |
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | 88.6% / liq $231,289 | 109.8% / liq $250,429 |
 | Sol | `8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr` | SKIP | 53 | -76.0% / liq $0 | -76.0% / liq $0 | -76.0% / liq $0 |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 41 | 3.7% / liq $82,045 | 51.7% / liq $99,713 | -27.8% / liq $71,238 |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | -0.7% / liq $1,461,649 | -4.3% / liq $1,456,276 |

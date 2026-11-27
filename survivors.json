@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:32:27",
+ "updated": "2026-11-27T10:43:53",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -10,7 +10,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-26T14:45:00+00:00",
+   "scored_at": "2026-11-27T10:43:51+00:00",
    "path": "survivor"
   },
   {
@@ -47,7 +47,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:32:27+00:00",
+   "scored_at": "2026-11-27T10:43:50+00:00",
    "path": "survivor"
   },
   {
@@ -233,13 +233,14 @@
   {
    "mint": "6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3",
    "ticker": "FSD V15",
-   "risk": 52,
+   "risk": 63,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
-    "rug-funder link"
+    "rug-funder link",
+    "exit test"
    ],
-   "scored_at": "2026-11-26T10:37:03+00:00",
+   "scored_at": "2026-11-27T10:43:51+00:00",
    "path": "young"
   },
   {
@@ -251,7 +252,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:32:27+00:00",
+   "scored_at": "2026-11-27T10:43:41+00:00",
    "path": "young"
   },
   {
@@ -338,7 +339,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:32:26+00:00",
+   "scored_at": "2026-11-27T10:43:51+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +375,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:32:26+00:00",
+   "scored_at": "2026-11-27T10:43:49+00:00",
    "path": "young"
   },
   {
@@ -466,13 +467,13 @@
   {
    "mint": "G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump",
    "ticker": "KAI",
-   "risk": 60,
+   "risk": 66,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:32:18+00:00",
+   "scored_at": "2026-11-27T10:43:50+00:00",
    "path": "young"
   },
   {
