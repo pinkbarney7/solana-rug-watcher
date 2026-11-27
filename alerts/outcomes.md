@@ -1,21 +1,22 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 10:53 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 11:12 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 3.7% | 0 |
-| CAUTION | 6h | 3 | 8.4% | 0 |
+| CAUTION | 6h | 4 | 8.4% | 0 |
 | CAUTION | 24h | 1 | -27.8% | 0 |
-| SKIP | 1h | 29 | -7.8% | 14 |
-| SKIP | 6h | 19 | -76.2% | 10 |
+| SKIP | 1h | 31 | -7.8% | 15 |
+| SKIP | 6h | 20 | -76.0% | 10 |
 | SKIP | 24h | 5 | -76.0% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | - | - | - |
 | SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | - | - | - |
-| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | - | - | - |
-| Snowball | `BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe` | SKIP | 53 | - | - | - |
+| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $440,938 | - | - |
+| Snowball | `BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe` | SKIP | 53 | 18.9% / liq $0 | - | - |
 | PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | - | - |
 | MOSTO | `3UPbAqDetbPp8dVbBm8qXtV27zvVnedZryterN8rGtAo` | SKIP | 53 | -74.7% / liq $0 | - | - |
 | ALCH | `HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump` | SKIP | 51 | 2.0% / liq $2,180,517 | - | - |
@@ -25,8 +26,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | - | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | - | - |
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | - | - |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | - | - |
-| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | - | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | - |
+| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | - |
 | CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | - |
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | - |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | - |
