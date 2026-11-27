@@ -1,9 +1,9 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795753953.165734,
-"liq": 11382638.290000001,
+"ts": 1795756676.2023237,
+"liq": 1728562.8699999999,
 "holders": null,
-"risk": 64,
+"risk": 51,
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
@@ -21,8 +21,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1795756151.9056084,
-"liq": 4587886.3,
+"ts": 1795756676.2023208,
+"liq": 4597306.88,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -54,13 +54,6 @@
 "holders": null,
 "risk": 38,
 "verdict": "CAUTION"
-},
-"DRAXGSc7yv1QPAwze4qbF1HVhdwQ9sxt8cSA13ANjnZv": {
-"ts": 1795583775.1748536,
-"liq": 187163512.7,
-"holders": null,
-"risk": 56,
-"verdict": "SKIP"
 },
 "6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS": {
 "ts": 1795593465.7066667,
@@ -140,8 +133,8 @@
 "verdict": "SKIP"
 },
 "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f": {
-"ts": 1795756151.9056005,
-"liq": 119065.89,
+"ts": 1795756676.2023299,
+"liq": 119745.18,
 "holders": null,
 "risk": 38,
 "verdict": "CAUTION"
@@ -238,8 +231,8 @@
 "verdict": "SKIP"
 },
 "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": {
-"ts": 1795756151.905614,
-"liq": 253419.87,
+"ts": 1795756676.2023275,
+"liq": 264107.55000000005,
 "holders": null,
 "risk": 65,
 "verdict": "SKIP"
@@ -294,8 +287,8 @@
 "verdict": "SKIP"
 },
 "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump": {
-"ts": 1795756151.9056125,
-"liq": 98972.41,
+"ts": 1795756676.2023256,
+"liq": 97405.11,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
@@ -315,17 +308,17 @@
 "verdict": "SKIP"
 },
 "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg": {
-"ts": 1795755169.0307524,
-"liq": 229631.32,
+"ts": 1795756676.202329,
+"liq": 231057.82,
 "holders": null,
 "risk": 39,
 "verdict": "CAUTION"
 },
 "4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp": {
-"ts": 1795756151.9056106,
-"liq": 233818.47,
+"ts": 1795756676.202316,
+"liq": 140198.52,
 "holders": null,
-"risk": 56,
+"risk": 67,
 "verdict": "SKIP"
 },
 "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m": {
