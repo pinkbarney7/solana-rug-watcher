@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 08:27 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 08:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,10 +8,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 1 | 51.7% | 0 |
 | SKIP | 1h | 29 | -22.4% | 14 |
 | SKIP | 6h | 17 | -76.2% | 11 |
-| SKIP | 24h | 4 | -78.4% | 3 |
+| SKIP | 24h | 5 | -78.4% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Kibo | `Me3c36ueyXkeTSdDDHLMydKfB7H7bDbo4Qdz2FoVi2z` | SKIP | 53 | - | - | - |
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | - | - | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | - | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | - | - |
@@ -40,7 +41,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | 88.6% / liq $231,289 | - |
 | Sol | `8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr` | SKIP | 53 | -76.0% / liq $0 | -76.0% / liq $0 | - |
 | JIMMY | `38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump` | CAUTION | 41 | 3.7% / liq $82,045 | 51.7% / liq $99,713 | - |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | -0.7% / liq $1,461,649 | - |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 48 | -0.6% / liq $1,459,328 | -0.7% / liq $1,461,649 | -4.3% / liq $1,456,276 |
 | philanthro | `8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | - |
 | Elonmas | `25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | -96.7% / liq $0 |
 | MOODENG | `ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY` | SKIP | 59 | -5.2% / liq $1,851,881 | -2.9% / liq $1,874,183 | -3.5% / liq $1,897,133 |
