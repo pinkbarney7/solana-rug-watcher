@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 10:43 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 10:53 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,7 +8,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 3 | 8.4% | 0 |
 | CAUTION | 24h | 1 | -27.8% | 0 |
 | SKIP | 1h | 29 | -7.8% | 14 |
-| SKIP | 6h | 18 | -76.0% | 10 |
+| SKIP | 6h | 19 | -76.2% | 10 |
 | SKIP | 24h | 5 | -76.0% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -27,7 +27,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | - | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | - | - |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | - | - |
-| CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | - | - |
+| CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | - |
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | - |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,379,163 | -100.0% / liq $1,349,986 | - |
