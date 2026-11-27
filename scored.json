@@ -1,7 +1,7 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795769250.9542756,
-"liq": 1693703.36,
+"ts": 1795769859.792962,
+"liq": 1692034.1500000001,
 "holders": null,
 "risk": 51,
 "verdict": "SKIP"
@@ -21,8 +21,8 @@
 "verdict": "SKIP"
 },
 "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
-"ts": 1795769250.954266,
-"liq": 4587050.13,
+"ts": 1795769859.79297,
+"liq": 4587314.41,
 "holders": null,
 "risk": 72,
 "verdict": "SKIP"
@@ -210,8 +210,8 @@
 "verdict": "SKIP"
 },
 "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": {
-"ts": 1795769250.954264,
-"liq": 243474.91999999998,
+"ts": 1795769859.7929654,
+"liq": 242921.82,
 "holders": null,
 "risk": 57,
 "verdict": "SKIP"
@@ -287,8 +287,8 @@
 "verdict": "SKIP"
 },
 "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg": {
-"ts": 1795769250.954272,
-"liq": 220794.87999999998,
+"ts": 1795769859.7929728,
+"liq": 221185.38999999998,
 "holders": null,
 "risk": 39,
 "verdict": "CAUTION"
@@ -336,8 +336,8 @@
 "verdict": "SKIP"
 },
 "G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump": {
-"ts": 1795769250.9542685,
-"liq": 133492.69,
+"ts": 1795769859.7929566,
+"liq": 123672.13,
 "holders": null,
 "risk": 66,
 "verdict": "SKIP"
@@ -350,8 +350,8 @@
 "verdict": "SKIP"
 },
 "8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7": {
-"ts": 1795769250.9542737,
-"liq": 236451.15,
+"ts": 1795769859.792968,
+"liq": 239181.08,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
@@ -364,8 +364,8 @@
 "verdict": "SKIP"
 },
 "6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym": {
-"ts": 1795769250.9542544,
-"liq": 182377.33,
+"ts": 1795769859.7929718,
+"liq": 194979.39,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
