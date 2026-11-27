@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:44:04",
+ "updated": "2026-11-27T00:50:08",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -156,18 +156,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T13:11:54+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "FbgbMVS9vMxmcuDxwYPYi7KNHWm1GVLTtJr1N6ia1xeA",
-   "ticker": "BossJensen",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-25T12:45:26+00:00",
    "path": "young"
   },
   {
