@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 12:44 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 12:55 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,7 +6,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
-| SKIP | 1h | 29 | -1.9% | 13 |
+| SKIP | 1h | 30 | -1.9% | 14 |
 | SKIP | 6h | 16 | -63.7% | 7 |
 | SKIP | 24h | 1 | 4.7% | 0 |
 
@@ -17,7 +17,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | - | - | - |
 | UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | - | - | - |
 | UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | - | - | - |
-| GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | - | - | - |
+| GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | - | - |
 | baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | -6.2% / liq $324,179 | - | - |
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | -100.0% / liq $0 | - | - |
 | TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | 0.1% / liq $172,161 | - | - |
