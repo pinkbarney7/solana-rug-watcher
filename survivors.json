@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:37:08",
+ "updated": "2026-11-27T21:49:03",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -120,18 +120,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-26T14:44:50+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr",
-   "ticker": "Sol",
-   "risk": 53,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T09:37:58+00:00",
    "path": "young"
   },
   {
