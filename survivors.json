@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:00:11",
+ "updated": "2026-11-27T10:03:22",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:00:09+00:00",
+   "scored_at": "2026-11-27T10:03:21+00:00",
    "path": "survivor"
   },
   {
@@ -41,13 +41,13 @@
   {
    "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
    "ticker": "CLAUDIA",
-   "risk": 59,
+   "risk": 67,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:00:08+00:00",
+   "scored_at": "2026-11-27T10:03:20+00:00",
    "path": "survivor"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:00:10+00:00",
+   "scored_at": "2026-11-27T10:03:21+00:00",
    "path": "young"
   },
   {
@@ -338,7 +338,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:00:10+00:00",
+   "scored_at": "2026-11-27T10:03:21+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T09:59:59+00:00",
+   "scored_at": "2026-11-27T10:03:20+00:00",
    "path": "young"
   },
   {
@@ -472,7 +472,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T10:00:08+00:00",
+   "scored_at": "2026-11-27T10:03:11+00:00",
    "path": "young"
   },
   {
@@ -560,6 +560,18 @@
     "exit test"
    ],
    "scored_at": "2026-11-27T10:00:08+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe",
+   "ticker": "Snowball",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-27T10:03:19+00:00",
    "path": "young"
   }
  ]
