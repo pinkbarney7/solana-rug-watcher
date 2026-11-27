@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 03:22 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 03:36 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -12,6 +12,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |
+| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | - | - | - |
+| TOGI | `6aHvrZ99fXBDRiVNYsuVERXzCeeMdzF9fjvefx1UjR83` | SKIP | 53 | - | - | - |
+| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | - | - | - |
+| SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | - | - | - |
+| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | - | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -1.9% / liq $1,973,012 | 2.3% / liq $2,054,544 | - |
 | DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | 15.4% / liq $228,404 | -76.3% / liq $0 | - |
 | HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | -95.0% / liq $18,919 | - |
