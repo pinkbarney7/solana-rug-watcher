@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 22:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 22:38 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,12 +7,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | 0.5% | 0 |
 | CAUTION | 6h | 4 | -0.6% | 0 |
 | SKIP | 1h | 31 | -0.3% | 13 |
-| SKIP | 6h | 29 | -61.7% | 15 |
+| SKIP | 6h | 31 | -3.4% | 15 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | - | - |
-| GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | - | - |
+| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | - |
+| GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | - |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 63 | delisted | delisted | - |
 | PAXG | `CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22` | SKIP | 56 | 0.0% / liq $45,249,929 | 0.0% / liq $45,249,931 | - |
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | 29.7% / liq $301,107 | - |
