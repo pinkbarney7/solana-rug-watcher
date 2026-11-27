@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 11:34 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 11:50 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,12 +6,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 3 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
-| SKIP | 1h | 32 | -1.9% | 15 |
-| SKIP | 6h | 21 | -76.0% | 11 |
-| SKIP | 24h | 5 | -76.0% | 4 |
+| SKIP | 1h | 31 | -1.9% | 14 |
+| SKIP | 6h | 20 | -74.6% | 10 |
+| SKIP | 24h | 4 | -74.6% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | - | - | - |
 | baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | - | - | - |
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | - | - | - |
 | TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | - | - | - |
@@ -49,4 +50,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | DOG | `3nsEzgrXoGWWBgQLZ11cY22mtoXLM9Pfi36oB1ReBiKe` | SKIP | 53 | 17.6% / liq $228,094 | -76.2% / liq $0 | -76.2% / liq $0 |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 52 | -74.6% / liq $0 | -74.6% / liq $0 | -74.6% / liq $0 |
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 69 | 55.5% / liq $205,896 | 88.6% / liq $231,289 | 109.8% / liq $250,429 |
-| Sol | `8KsuTdpbgLZq3S2DMSaab9x18waZY2e6yaHrWDtf8AUr` | SKIP | 53 | -76.0% / liq $0 | -76.0% / liq $0 | -76.0% / liq $0 |
