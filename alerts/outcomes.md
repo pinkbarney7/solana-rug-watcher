@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-27 13:11 UTC
+# Outcomes (DEX Screener, free) - 2026-11-27 13:20 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,17 +6,17 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 4 | 0.5% | 0 |
 | CAUTION | 6h | 3 | -0.6% | 0 |
-| SKIP | 1h | 30 | -1.9% | 14 |
+| SKIP | 1h | 34 | -0.3% | 14 |
 | SKIP | 6h | 17 | -76.3% | 7 |
-| SKIP | 24h | 1 | 4.7% | 0 |
+| SKIP | 24h | 2 | 4.7% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 63 | - | - | - |
-| PAXG | `CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22` | SKIP | 56 | - | - | - |
-| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | - | - | - |
-| UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | - | - | - |
-| UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | - | - | - |
+| PAXG | `CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22` | SKIP | 56 | 0.0% / liq $45,249,929 | - | - |
+| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | - | - |
+| UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | - | - |
+| UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | - | - |
 | GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | - | - |
 | baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | -6.2% / liq $324,179 | - | - |
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | -100.0% / liq $0 | - | - |
@@ -47,7 +47,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | 21.6% / liq $73,975 | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -1.9% / liq $1,973,012 | 2.3% / liq $2,054,544 | - |
 | DOG | `Evjt31qD83BBWGA2UuywYmXHMrAPCueym9bkC5XJz9XY` | SKIP | 53 | 15.4% / liq $228,404 | -76.3% / liq $0 | - |
-| HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | -95.0% / liq $18,919 | - |
+| HYPER | `DYJgMJWR4wEfdcifuYrdJFfW1V44BvS7N7DgQh9qukxi` | SKIP | 80 | -94.4% / liq $19,925 | -95.0% / liq $18,919 | -96.1% / liq $16,980 |
 | NUBU | `9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M` | SKIP | 67 | 132.5% / liq $0 | -63.7% / liq $0 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | 2.0% / liq $3,354,647 | 6.7% / liq $3,440,216 | 4.7% / liq $3,449,361 |
 | FSD V15 | `BUqoTwfSgrrF8MSn9XV86XyDtkhYa8q9KAsbMxE3yXSm` | SKIP | 53 | -78.5% / liq $0 | -78.5% / liq $0 | - |
