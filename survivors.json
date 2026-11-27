@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:47:26",
+ "updated": "2026-11-27T04:52:49",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T04:47:14+00:00",
+   "scored_at": "2026-11-27T04:52:45+00:00",
    "path": "survivor"
   },
   {
@@ -83,7 +83,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T04:47:23+00:00",
+   "scored_at": "2026-11-27T04:52:45+00:00",
    "path": "young"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T04:47:24+00:00",
+   "scored_at": "2026-11-27T04:52:37+00:00",
    "path": "young"
   },
   {
@@ -338,7 +338,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T04:47:23+00:00",
+   "scored_at": "2026-11-27T04:52:46+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T04:47:22+00:00",
+   "scored_at": "2026-11-27T04:52:46+00:00",
    "path": "young"
   },
   {
@@ -411,8 +411,20 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T04:47:22+00:00",
+   "scored_at": "2026-11-27T04:52:46+00:00",
    "path": "survivor"
+  },
+  {
+   "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump",
+   "ticker": "CINU",
+   "risk": 55,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-27T04:52:47+00:00",
+   "path": "young"
   }
  ]
 }
