@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:17:56",
+ "updated": "2026-11-27T05:29:30",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:17:52+00:00",
+   "scored_at": "2026-11-27T05:29:27+00:00",
    "path": "survivor"
   },
   {
@@ -83,7 +83,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:17:53+00:00",
+   "scored_at": "2026-11-27T05:29:29+00:00",
    "path": "young"
   },
   {
@@ -251,7 +251,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:17:54+00:00",
+   "scored_at": "2026-11-27T05:29:29+00:00",
    "path": "young"
   },
   {
@@ -314,7 +314,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T03:36:49+00:00",
+   "scored_at": "2026-11-27T05:29:27+00:00",
    "path": "survivor"
   },
   {
@@ -374,7 +374,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:17:54+00:00",
+   "scored_at": "2026-11-27T05:29:29+00:00",
    "path": "young"
   },
   {
@@ -386,7 +386,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:17:54+00:00",
+   "scored_at": "2026-11-27T05:29:28+00:00",
    "path": "survivor"
   },
   {
@@ -424,7 +424,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T05:09:08+00:00",
+   "scored_at": "2026-11-27T05:29:27+00:00",
    "path": "young"
   },
   {
@@ -450,6 +450,18 @@
    ],
    "scored_at": "2026-11-27T05:09:10+00:00",
    "path": "survivor"
+  },
+  {
+   "mint": "DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh",
+   "ticker": "SuperFIONA",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-27T05:29:18+00:00",
+   "path": "young"
   }
  ]
 }
