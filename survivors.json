@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:41:14",
+ "updated": "2026-11-28T06:50:56",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -16,14 +16,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 72,
+   "risk": 66,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:13+00:00",
+   "scored_at": "2026-11-28T06:50:47+00:00",
    "path": "survivor"
   },
   {
@@ -72,20 +72,20 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:03+00:00",
+   "scored_at": "2026-11-28T06:50:48+00:00",
    "path": "young"
   },
   {
    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
    "ticker": "ZEC",
-   "risk": 73,
+   "risk": 68,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:12+00:00",
+   "scored_at": "2026-11-28T06:50:56+00:00",
    "path": "survivor"
   },
   {
@@ -97,7 +97,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:13+00:00",
+   "scored_at": "2026-11-28T06:50:47+00:00",
    "path": "survivor"
   },
   {
@@ -133,7 +133,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:25:37+00:00",
+   "scored_at": "2026-11-28T06:50:38+00:00",
    "path": "young"
   },
   {
@@ -430,7 +430,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:11+00:00",
+   "scored_at": "2026-11-28T06:50:47+00:00",
    "path": "young"
   },
   {
@@ -502,7 +502,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:11+00:00",
+   "scored_at": "2026-11-28T06:50:47+00:00",
    "path": "young"
   },
   {
@@ -574,7 +574,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:41:12+00:00",
+   "scored_at": "2026-11-28T06:50:48+00:00",
    "path": "young"
   }
  ]
