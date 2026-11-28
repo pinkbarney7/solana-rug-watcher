@@ -1,18 +1,17 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 14:15 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 14:29 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 9 | -0.2% | 3 |
+| CAUTION | 1h | 10 | 2.4% | 3 |
 | CAUTION | 6h | 5 | -2.4% | 0 |
-| SKIP | 1h | 34 | -1.0% | 13 |
-| SKIP | 6h | 19 | -0.5% | 2 |
-| SKIP | 24h | 4 | 48.0% | 0 |
+| SKIP | 1h | 29 | -1.3% | 12 |
+| SKIP | 6h | 14 | -2.7% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
-| BITCOINU | `54TPNZr3giK5DFkBgUGjn9WR88a9G876mW6XMpB6gfty` | CAUTION | 47 | - | - | - |
+| BITCOINU | `54TPNZr3giK5DFkBgUGjn9WR88a9G876mW6XMpB6gfty` | CAUTION | 47 | 8.2% / liq $219,096 | - | - |
 | BASKET | `RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4` | CAUTION | 47 | 7.8% / liq $0 | - | - |
 | NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | 23.9% / liq $220,159 | - | - |
 | GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | 7.9% / liq $0 | - | - |
@@ -51,8 +50,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MEMECARD | `8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump` | SKIP | 60 | -94.7% / liq $22,845 | -99.9% / liq $2,091 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | - |
 | GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | - |
-| FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 63 | delisted | delisted | - |
-| PAXG | `CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22` | SKIP | 56 | 0.0% / liq $45,249,929 | 0.0% / liq $45,249,931 | 0.0% / liq $45,249,939 |
-| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | 29.7% / liq $301,107 | 48.0% / liq $321,688 |
-| UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | 13.3% / liq $837,468 | 56.3% / liq $977,818 |
-| UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | 0.0% / liq $11,700,994 | 0.0% / liq $11,701,003 |
