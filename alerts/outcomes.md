@@ -1,11 +1,11 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 12:19 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 12:36 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 6 | -0.9% | 0 |
-| CAUTION | 6h | 4 | 0.0% | 0 |
+| CAUTION | 1h | 7 | -2.2% | 1 |
+| CAUTION | 6h | 5 | -1.8% | 0 |
 | CAUTION | 24h | 1 | -7.9% | 0 |
 | SKIP | 1h | 37 | -1.0% | 15 |
 | SKIP | 6h | 20 | -0.5% | 4 |
@@ -15,7 +15,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|---|---|
 | NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | - | - | - |
 | GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | - | - | - |
-| Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | - | - | - |
+| Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | -76.6% / liq $0 | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | -12.8% / liq $72,253 | - | - |
 | USD2 | `7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en` | SKIP | 53 | -76.6% / liq $0 | - | - |
 | Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | -75.1% / liq $0 | - | - |
@@ -34,7 +34,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | 2.4% / liq $308,741 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,301,638 | - | - |
 | Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | -1.9% / liq $69,255 | - | - |
-| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | -16.4% / liq $47,909 | - | - |
+| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | -16.4% / liq $47,909 | -32.7% / liq $43,136 | - |
 | Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -0.2% / liq $218,883 | 5.2% / liq $224,019 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.0% / liq $2,597,092 | -0.1% / liq $2,641,200 | - |
 | Pnut  | `2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump` | SKIP | 56 | -1.3% / liq $2,019,974 | -2.1% / liq $2,004,211 | - |
