@@ -1,10 +1,10 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 08:46 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 09:01 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | -2.2% | 0 |
+| CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 2 | 0.0% | 0 |
 | SKIP | 1h | 33 | 0.0% | 10 |
 | SKIP | 6h | 25 | -24.8% | 11 |
@@ -12,9 +12,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| STEADY | `Fywat1sPFqt1EZr1Ki8aUsvJggMPUknGaTyBxPZE8LS` | SKIP | 53 | - | - | - |
+| USFF | `2X879XRBj6J4KvnR2qLhSGnVf2rXj9UGmrexj2wR36d6` | SKIP | 53 | - | - | - |
+| WLFI | `9Shv9yqweJVTBvAPA9Cgk2wvmaSqvSadMHb4SmB98uAK` | SKIP | 53 | - | - | - |
 | paired | `Bx5Ax1HrQfiJoB1e6CKyMZ6dAbFeGo4qN7rVY1emJBsL` | SKIP | 53 | - | - | - |
 | NIAN | `43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap` | SKIP | 53 | - | - | - |
-| mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | - | - | - |
+| mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | 2.4% / liq $308,741 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,301,638 | - | - |
 | Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | -1.9% / liq $69,255 | - | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | -16.4% / liq $47,909 | - | - |
