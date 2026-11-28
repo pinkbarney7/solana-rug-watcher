@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 11:27 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 11:42 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,15 +8,15 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 3 | -1.8% | 0 |
 | CAUTION | 24h | 1 | -7.9% | 0 |
 | SKIP | 1h | 38 | -0.9% | 15 |
-| SKIP | 6h | 23 | -2.1% | 7 |
-| SKIP | 24h | 6 | -75.4% | 4 |
+| SKIP | 6h | 22 | -2.1% | 6 |
+| SKIP | 24h | 5 | -75.4% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | - | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | - | - | - |
 | USD2 | `7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en` | SKIP | 53 | - | - | - |
-| Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | - | - | - |
+| Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | -75.1% / liq $0 | - | - |
 | BASKET | `Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH` | SKIP | 53 | 0.6% / liq $0 | - | - |
 | DOG | `9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg` | SKIP | 53 | 25.8% / liq $182,737 | - | - |
 | COMM | `3SPuqaCE2tTfTSr5Kn9sNh9J1VQJRtW6yNiEj32Mjh3X` | SKIP | 53 | -75.8% / liq $0 | - | - |
@@ -60,4 +60,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | 16.6% / liq $234,709 | -75.4% / liq $0 | -75.4% / liq $0 |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $440,938 | -100.0% / liq $417,169 | -100.0% / liq $392,749 |
 | Snowball | `BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe` | SKIP | 53 | 18.9% / liq $0 | 18.9% / liq $0 | 18.9% / liq $0 |
-| PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
