@@ -1,12 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-27 20:22 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-27 20:35 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 53 | Open: 1 | Not opened (failed sell gate): 0
-Win rate 25% | avg return -20.5% | expectancy $-5.13 per $25 trade | total $-271.75
+Closed: 54 | Open: 0 | Not opened (failed sell gate): 0
+Win rate 24% | avg return -21.2% | expectancy $-5.30 per $25 trade | total $-286.15
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| Snowball | [`9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump`](https://pump.fun/coin/9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump) | scored_fast_scan | CAUTION | 2026-11-27 13:06 EST | open | -49.8% |
+| Snowball | [`9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump`](https://pump.fun/coin/9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump) | scored_fast_scan | CAUTION | 2026-11-27 13:06 EST | closed (stop -50%) | -57.6% |
 | BASKET | [`3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f`](https://dexscreener.com/solana/3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f) | scored_fast_scan | CAUTION | 2026-11-26 08:12 EST | closed (24h time exit) | -43.5% |
 | cateball | [`4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump`](https://pump.fun/coin/4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump) | scored_fast_scan | CAUTION | 2026-11-24 13:01 EST | closed (stop -50%) | -52.2% |
 | JIMMY | [`38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump`](https://pump.fun/coin/38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump) | scored_fast_scan | CAUTION | 2026-11-24 13:01 EST | closed (take profit +100%) | +122.5% |
