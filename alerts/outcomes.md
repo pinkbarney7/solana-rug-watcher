@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 10:20 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 10:28 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,16 +6,17 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 2 | 0.0% | 0 |
-| SKIP | 1h | 37 | -0.7% | 15 |
+| SKIP | 1h | 38 | -0.9% | 16 |
 | SKIP | 6h | 22 | -3.1% | 9 |
 | SKIP | 24h | 8 | -74.7% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| BASKET | `Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH` | SKIP | 53 | - | - | - |
 | DOG | `9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg` | SKIP | 53 | - | - | - |
 | COMM | `3SPuqaCE2tTfTSr5Kn9sNh9J1VQJRtW6yNiEj32Mjh3X` | SKIP | 53 | - | - | - |
 | VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 47 | - | - | - |
-| GTAVI | `AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a` | SKIP | 53 | - | - | - |
+| GTAVI | `AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a` | SKIP | 53 | -78.3% / liq $0 | - | - |
 | Optimus | `9H9yEtVcGt3cG2NWA94W3C28KXM3mZpsz4D7wR7Bzin7` | SKIP | 53 | -78.7% / liq $0 | - | - |
 | STEADY | `RRkWU2bsiAYbJeCL6VnWYtHL3u7YWBW553hLUJZMYXU` | SKIP | 53 | 0.7% / liq $0 | - | - |
 | STEADY | `Fywat1sPFqt1EZr1Ki8aUsvJggMPUknGaTyBxPZE8LS` | SKIP | 53 | -100.0% / liq $0 | - | - |
