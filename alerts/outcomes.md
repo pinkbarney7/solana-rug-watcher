@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 11:42 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 11:49 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,15 +7,15 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 3 | -1.8% | 0 |
 | CAUTION | 24h | 1 | -7.9% | 0 |
-| SKIP | 1h | 38 | -0.9% | 15 |
+| SKIP | 1h | 39 | -0.9% | 16 |
 | SKIP | 6h | 22 | -2.1% | 6 |
-| SKIP | 24h | 5 | -75.4% | 3 |
+| SKIP | 24h | 6 | -75.4% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | - | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | - | - | - |
-| USD2 | `7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en` | SKIP | 53 | - | - | - |
+| USD2 | `7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en` | SKIP | 53 | -76.6% / liq $0 | - | - |
 | Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | -75.1% / liq $0 | - | - |
 | BASKET | `Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH` | SKIP | 53 | 0.6% / liq $0 | - | - |
 | DOG | `9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg` | SKIP | 53 | 25.8% / liq $182,737 | - | - |
@@ -53,7 +53,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | 29.7% / liq $301,107 | - |
 | UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | 13.3% / liq $837,468 | - |
 | UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | 0.0% / liq $11,700,994 | - |
-| GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | -77.2% / liq $0 | - |
+| GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | -77.2% / liq $0 | -77.2% / liq $0 |
 | baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | -6.2% / liq $324,179 | -1.8% / liq $326,147 | -7.9% / liq $313,163 |
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
 | TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | 0.1% / liq $172,161 | 1.2% / liq $169,850 | 2.5% / liq $167,905 |
