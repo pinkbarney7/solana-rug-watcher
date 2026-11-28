@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 04:18 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 04:28 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -13,6 +13,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | - | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | - | - |
 | Fireball | `B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump` | SKIP | 52 | 2.4% / liq $52,526 | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -0.7% / liq $1,966,219 | - | - |
