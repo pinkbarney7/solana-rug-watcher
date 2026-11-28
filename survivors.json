@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:48:48",
+ "updated": "2026-11-28T10:56:20",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:43+00:00",
+   "scored_at": "2026-11-28T10:55:07+00:00",
    "path": "young"
   },
   {
@@ -97,7 +97,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:45+00:00",
+   "scored_at": "2026-11-28T10:54:57+00:00",
    "path": "survivor"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:44+00:00",
+   "scored_at": "2026-11-28T10:55:06+00:00",
    "path": "survivor"
   },
   {
@@ -380,7 +380,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:48:46+00:00",
+   "scored_at": "2026-11-28T10:56:18+00:00",
    "path": "survivor"
   },
   {
@@ -502,7 +502,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:35+00:00",
+   "scored_at": "2026-11-28T10:55:06+00:00",
    "path": "young"
   },
   {
@@ -604,13 +604,13 @@
   {
    "mint": "43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap",
    "ticker": "NIAN",
-   "risk": 53,
-   "verdict": "SKIP",
+   "risk": 47,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:44+00:00",
+   "scored_at": "2026-11-28T10:55:23+00:00",
    "path": "young"
   },
   {
@@ -700,13 +700,13 @@
   {
    "mint": "9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg",
    "ticker": "DOG",
-   "risk": 53,
-   "verdict": "SKIP",
+   "risk": 47,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:45+00:00",
+   "scored_at": "2026-11-28T10:55:31+00:00",
    "path": "young"
   },
   {
@@ -736,13 +736,13 @@
   {
    "mint": "3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6",
    "ticker": "Optimus",
-   "risk": 53,
-   "verdict": "SKIP",
+   "risk": 47,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:43+00:00",
+   "scored_at": "2026-11-28T10:55:07+00:00",
    "path": "young"
   },
   {
@@ -755,6 +755,18 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-28T10:47:45+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump",
+   "ticker": "BITCOINU",
+   "risk": 59,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T10:55:07+00:00",
    "path": "young"
   }
  ]
