@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:45:01",
+ "updated": "2026-11-28T02:02:05",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T16:36:21+00:00",
+   "scored_at": "2026-11-28T02:00:59+00:00",
    "path": "survivor"
   },
   {
@@ -96,7 +96,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T16:36:20+00:00",
+   "scored_at": "2026-11-28T02:00:51+00:00",
    "path": "young"
   },
   {
@@ -109,7 +109,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T16:36:22+00:00",
+   "scored_at": "2026-11-28T02:01:01+00:00",
    "path": "survivor"
   },
   {
@@ -460,25 +460,73 @@
   {
    "mint": "FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump",
    "ticker": "UGOS",
-   "risk": 75,
+   "risk": 67,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T16:36:12+00:00",
+   "scored_at": "2026-11-28T02:01:00+00:00",
    "path": "young"
   },
   {
    "mint": "2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT",
    "ticker": "GAIB",
-   "risk": 53,
+   "risk": 51,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T02:01:39+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+   "ticker": "FLOAT",
+   "risk": 38,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T02:02:04+00:00",
+   "path": "survivor"
+  },
+  {
+   "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump",
+   "ticker": "Fireball",
+   "risk": 52,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-27T16:36:21+00:00",
+   "scored_at": "2026-11-28T02:01:02+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump",
+   "ticker": "MEMECARD",
+   "risk": 60,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T02:01:00+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump",
+   "ticker": "NBA",
+   "risk": 57,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T02:01:01+00:00",
    "path": "young"
   }
  ]

@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 01:45 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 02:02 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -11,6 +11,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | - | - | - |
+| Fireball | `B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump` | SKIP | 52 | - | - | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | - | - | - |
+| NBA | `AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump` | SKIP | 57 | - | - | - |
+| MEMECARD | `8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump` | SKIP | 60 | - | - | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | - |
 | GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | - |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 63 | delisted | delisted | - |
