@@ -1,14 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 07:03 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 07:20 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | -0.9% | 0 |
-| CAUTION | 6h | 2 | -0.6% | 0 |
-| CAUTION | 24h | 1 | -7.1% | 0 |
-| SKIP | 1h | 33 | -0.0% | 11 |
-| SKIP | 6h | 23 | -2.7% | 12 |
+| CAUTION | 1h | 4 | -0.9% | 0 |
+| CAUTION | 6h | 1 | -1.8% | 0 |
+| SKIP | 1h | 32 | 0.0% | 11 |
+| SKIP | 6h | 22 | -3.1% | 12 |
 | SKIP | 24h | 2 | 58.8% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -50,7 +49,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Kibo | `Me3c36ueyXkeTSdDDHLMydKfB7H7bDbo4Qdz2FoVi2z` | SKIP | 53 | 4.5% / liq $0 | 4.5% / liq $0 | - |
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | 15.0% / liq $237,329 | -76.3% / liq $0 | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | -61.7% / liq $0 | - |
-| KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | -99.8% / liq $3,931 | - |
+| KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | -99.8% / liq $3,931 | -99.8% / liq $3,826 |
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | 58.8% / liq $0 |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | 1.4% / liq $1,890,983 |
-| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | -7.1% / liq $282,739 |
