@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 12:36 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 12:52 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,11 +8,12 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 5 | -1.8% | 0 |
 | CAUTION | 24h | 1 | -7.9% | 0 |
 | SKIP | 1h | 37 | -1.0% | 15 |
-| SKIP | 6h | 20 | -0.5% | 4 |
+| SKIP | 6h | 21 | -0.5% | 4 |
 | SKIP | 24h | 7 | 0.0% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| BASKET | `RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4` | CAUTION | 47 | - | - | - |
 | NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | - | - | - |
 | GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | - | - | - |
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | -76.6% / liq $0 | - | - |
@@ -33,7 +34,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | NIAN | `43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap` | SKIP | 53 | 20.4% / liq $215,341 | - | - |
 | mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | 2.4% / liq $308,741 | - | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,301,638 | - | - |
-| Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | -1.9% / liq $69,255 | - | - |
+| Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | -1.9% / liq $69,255 | -18.0% / liq $63,378 | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | -16.4% / liq $47,909 | -32.7% / liq $43,136 | - |
 | Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -0.2% / liq $218,883 | 5.2% / liq $224,019 | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.0% / liq $2,597,092 | -0.1% / liq $2,641,200 | - |
