@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 10:28 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 10:41 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,16 +6,17 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 2 | 0.0% | 0 |
-| SKIP | 1h | 38 | -0.9% | 16 |
-| SKIP | 6h | 22 | -3.1% | 9 |
-| SKIP | 24h | 8 | -74.7% | 6 |
+| SKIP | 1h | 38 | -1.0% | 15 |
+| SKIP | 6h | 23 | -2.8% | 9 |
+| SKIP | 24h | 7 | -75.4% | 5 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | - | - | - |
 | BASKET | `Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH` | SKIP | 53 | - | - | - |
 | DOG | `9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg` | SKIP | 53 | - | - | - |
 | COMM | `3SPuqaCE2tTfTSr5Kn9sNh9J1VQJRtW6yNiEj32Mjh3X` | SKIP | 53 | - | - | - |
-| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 47 | - | - | - |
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 47 | -1.0% / liq $1,466,546 | - | - |
 | GTAVI | `AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a` | SKIP | 53 | -78.3% / liq $0 | - | - |
 | Optimus | `9H9yEtVcGt3cG2NWA94W3C28KXM3mZpsz4D7wR7Bzin7` | SKIP | 53 | -78.7% / liq $0 | - | - |
 | STEADY | `RRkWU2bsiAYbJeCL6VnWYtHL3u7YWBW553hLUJZMYXU` | SKIP | 53 | 0.7% / liq $0 | - | - |
@@ -34,8 +35,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | -0.7% / liq $1,175,519 | - | - |
 | USOI | `HQs4Zd8w1jGR72o43iP58U43QtDdTTUE3Dq9Dv4dpump` | SKIP | 67 | 0.5% / liq $776,842 | - | - |
 | neet | `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump` | CAUTION | 43 | -0.9% / liq $1,196,761 | - | - |
-| MoonBoy | `APzXPGGfnXQgabrt9tCyXdBFLCgwKRdkminNjFfXmQV` | SKIP | 53 | 13.6% / liq $0 | - | - |
-| MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | 2.9% / liq $73,397 | - | - |
+| MoonBoy | `APzXPGGfnXQgabrt9tCyXdBFLCgwKRdkminNjFfXmQV` | SKIP | 53 | 13.6% / liq $0 | 13.6% / liq $0 | - |
+| MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | 2.9% / liq $73,397 | 9.7% / liq $76,181 | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | 0.0% / liq $287,466 | - |
 | Fireball | `B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump` | SKIP | 52 | 2.4% / liq $52,526 | -24.8% / liq $45,209 | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -0.7% / liq $1,966,219 | -2.8% / liq $1,948,774 | - |
@@ -59,4 +60,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MOSTO | `3UPbAqDetbPp8dVbBm8qXtV27zvVnedZryterN8rGtAo` | SKIP | 53 | -74.7% / liq $0 | -74.7% / liq $0 | -74.7% / liq $0 |
 | ALCH | `HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump` | SKIP | 51 | 2.0% / liq $2,180,517 | -3.1% / liq $2,083,294 | -3.8% / liq $2,082,723 |
 | future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | -76.5% / liq $0 |
-| Kibo | `Me3c36ueyXkeTSdDDHLMydKfB7H7bDbo4Qdz2FoVi2z` | SKIP | 53 | 4.5% / liq $0 | 4.5% / liq $0 | 4.5% / liq $0 |
