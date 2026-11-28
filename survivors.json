@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:39:17",
+ "updated": "2026-11-28T09:50:30",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:38:13+00:00",
+   "scored_at": "2026-11-28T09:49:29+00:00",
    "path": "young"
   },
   {
@@ -97,7 +97,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:38:15+00:00",
+   "scored_at": "2026-11-28T09:49:28+00:00",
    "path": "survivor"
   },
   {
@@ -139,13 +139,13 @@
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
    "ticker": "CATE",
-   "risk": 64,
+   "risk": 71,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:39:17+00:00",
+   "scored_at": "2026-11-28T09:50:30+00:00",
    "path": "survivor"
   },
   {
@@ -430,7 +430,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:38:16+00:00",
+   "scored_at": "2026-11-28T09:49:28+00:00",
    "path": "young"
   },
   {
@@ -502,7 +502,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:38:15+00:00",
+   "scored_at": "2026-11-28T09:49:18+00:00",
    "path": "young"
   },
   {
@@ -610,7 +610,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:38:05+00:00",
+   "scored_at": "2026-11-28T09:49:27+00:00",
    "path": "young"
   },
   {
@@ -694,8 +694,32 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T09:38:14+00:00",
+   "scored_at": "2026-11-28T09:49:29+00:00",
    "path": "survivor"
+  },
+  {
+   "mint": "9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg",
+   "ticker": "DOG",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T09:49:27+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3SPuqaCE2tTfTSr5Kn9sNh9J1VQJRtW6yNiEj32Mjh3X",
+   "ticker": "COMM",
+   "risk": 53,
+   "verdict": "SKIP",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T09:49:26+00:00",
+   "path": "young"
   }
  ]
 }
