@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 16:35 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 16:45 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 10 | 2.4% | 3 |
 | CAUTION | 6h | 5 | -2.4% | 0 |
 | SKIP | 1h | 29 | -1.3% | 12 |
-| SKIP | 6h | 26 | -24.8% | 12 |
+| SKIP | 6h | 27 | -73.9% | 13 |
+| SKIP | 24h | 2 | -6.1% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -18,7 +19,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | -76.6% / liq $0 | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | -12.8% / liq $72,253 | - | - |
 | USD2 | `7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en` | SKIP | 53 | -76.6% / liq $0 | - | - |
-| Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | -75.1% / liq $0 | - | - |
+| Optimus | `3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6` | SKIP | 53 | -75.1% / liq $0 | -75.1% / liq $0 | - |
 | BASKET | `Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH` | SKIP | 53 | 0.6% / liq $0 | 0.6% / liq $0 | - |
 | DOG | `9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg` | SKIP | 53 | 25.8% / liq $182,737 | -76.8% / liq $0 | - |
 | COMM | `3SPuqaCE2tTfTSr5Kn9sNh9J1VQJRtW6yNiEj32Mjh3X` | SKIP | 53 | -75.8% / liq $0 | -75.8% / liq $0 | - |
@@ -48,5 +49,5 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -0.7% / liq $1,966,219 | -2.8% / liq $1,948,774 | - |
 | NBA | `AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump` | SKIP | 57 | -99.7% / liq $1,655 | -99.7% / liq $1,645 | - |
 | MEMECARD | `8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump` | SKIP | 60 | -94.7% / liq $22,845 | -99.9% / liq $2,091 | - |
-| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | - |
-| GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | - |
+| pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | -6.1% / liq $3,205,247 |
+| GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | -100.0% / liq $0 |
