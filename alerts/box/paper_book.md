@@ -1,12 +1,12 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-28 08:25 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-28 08:35 EST. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 55 | Open: 1 | Not opened (failed sell gate): 0
-Win rate 24% | avg return -22.6% | expectancy $-5.66 per $25 trade | total $-311.15
+Closed: 56 | Open: 0 | Not opened (failed sell gate): 0
+Win rate 23% | avg return -24.0% | expectancy $-6.00 per $25 trade | total $-336.15
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
-| NINE | [`GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB`](https://dexscreener.com/solana/GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB) | scored_fast_scan | CAUTION | 2026-11-28 08:05 EST | open | +4.2% |
+| NINE | [`GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB`](https://dexscreener.com/solana/GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB) | scored_fast_scan | CAUTION | 2026-11-28 08:05 EST | closed (pool dead/delisted (-100%)) | -100.0% |
 | BASKET | [`RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4`](https://dexscreener.com/solana/RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4) | scored_fast_scan | CAUTION | 2026-11-28 08:05 EST | closed (pool dead/delisted (-100%)) | -100.0% |
 | Snowball | [`9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump`](https://pump.fun/coin/9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump) | scored_fast_scan | CAUTION | 2026-11-27 13:06 EST | closed (stop -50%) | -57.6% |
 | BASKET | [`3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f`](https://dexscreener.com/solana/3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f) | scored_fast_scan | CAUTION | 2026-11-26 08:12 EST | closed (24h time exit) | -43.5% |
