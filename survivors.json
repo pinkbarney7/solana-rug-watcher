@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:44:09",
+ "updated": "2026-11-28T00:53:50",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -121,19 +121,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T16:36:20+00:00",
-   "path": "young"
-  },
-  {
-   "mint": "9iQgjvqpGUVyVREuCnGPU2qcunPmixkE6uV6LMC3dp8M",
-   "ticker": "NUBU",
-   "risk": 67,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link",
-    "exit test"
-   ],
-   "scored_at": "2026-11-26T12:49:37+00:00",
    "path": "young"
   },
   {
