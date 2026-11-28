@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 06:25 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 06:41 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,12 +7,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 4 | -0.9% | 0 |
 | CAUTION | 6h | 2 | -0.6% | 0 |
 | CAUTION | 24h | 1 | -7.1% | 0 |
-| SKIP | 1h | 36 | 0.0% | 12 |
-| SKIP | 6h | 27 | -3.4% | 13 |
-| SKIP | 24h | 6 | -8.5% | 2 |
+| SKIP | 1h | 33 | 0.0% | 11 |
+| SKIP | 6h | 24 | -3.1% | 12 |
+| SKIP | 24h | 3 | 1.4% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | - | - | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | - | - | - |
 | Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | - | - | - |
 | SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |
@@ -53,6 +54,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | 1.4% / liq $1,890,983 |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | -7.1% / liq $282,739 |
 | CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | -61.7% / liq $31,609 |
-| MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | -8.5% / liq $824,287 |
-| Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | -82.4% / liq $0 |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,379,163 | -100.0% / liq $1,349,986 | -100.0% / liq $1,315,769 |
