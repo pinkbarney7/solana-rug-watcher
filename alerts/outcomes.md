@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 12:07 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 12:19 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,12 +7,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 4 | 0.0% | 0 |
 | CAUTION | 24h | 1 | -7.9% | 0 |
-| SKIP | 1h | 38 | -1.0% | 15 |
-| SKIP | 6h | 21 | -0.5% | 5 |
-| SKIP | 24h | 4 | -75.4% | 3 |
+| SKIP | 1h | 37 | -1.0% | 15 |
+| SKIP | 6h | 20 | -0.5% | 4 |
+| SKIP | 24h | 7 | 0.0% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | - | - | - |
 | GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | - | - | - |
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | - | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | -12.8% / liq $72,253 | - | - |
@@ -50,12 +51,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | - |
 | GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | - |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 63 | delisted | delisted | - |
-| PAXG | `CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22` | SKIP | 56 | 0.0% / liq $45,249,929 | 0.0% / liq $45,249,931 | - |
-| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | 29.7% / liq $301,107 | - |
-| UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | 13.3% / liq $837,468 | - |
-| UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | 0.0% / liq $11,700,994 | - |
+| PAXG | `CvuLMpiNq6VdaT7k7P7arU65sW5cu8q1z6hPT4wCzL22` | SKIP | 56 | 0.0% / liq $45,249,929 | 0.0% / liq $45,249,931 | 0.0% / liq $45,249,939 |
+| PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | 29.7% / liq $301,107 | 48.0% / liq $321,688 |
+| UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | 13.3% / liq $837,468 | 56.3% / liq $977,818 |
+| UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | 0.0% / liq $11,700,994 | 0.0% / liq $11,701,003 |
 | GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | -77.2% / liq $0 | -77.2% / liq $0 |
 | baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | -6.2% / liq $324,179 | -1.8% / liq $326,147 | -7.9% / liq $313,163 |
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
 | TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | 0.1% / liq $172,161 | 1.2% / liq $169,850 | 2.5% / liq $167,905 |
-| SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | 16.6% / liq $234,709 | -75.4% / liq $0 | -75.4% / liq $0 |
