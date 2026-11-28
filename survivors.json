@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:05:43",
+ "updated": "2026-11-28T11:22:59",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T07:36:58+00:00",
+   "scored_at": "2026-11-28T11:21:48+00:00",
    "path": "survivor"
   },
   {
@@ -66,13 +66,13 @@
   {
    "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump",
    "ticker": "PUMPCHAN",
-   "risk": 59,
+   "risk": 55,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T11:03:29+00:00",
+   "scored_at": "2026-11-28T11:21:39+00:00",
    "path": "young"
   },
   {
@@ -97,7 +97,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T11:03:29+00:00",
+   "scored_at": "2026-11-28T11:21:48+00:00",
    "path": "survivor"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T11:05:05+00:00",
+   "scored_at": "2026-11-28T11:22:59+00:00",
    "path": "survivor"
   },
   {
@@ -496,13 +496,13 @@
   {
    "mint": "GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump",
    "ticker": "MoonBoy",
-   "risk": 54,
+   "risk": 55,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T11:05:05+00:00",
+   "scored_at": "2026-11-28T11:21:48+00:00",
    "path": "young"
   },
   {
@@ -742,19 +742,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T11:04:57+00:00",
+   "scored_at": "2026-11-28T11:22:05+00:00",
    "path": "young"
   },
   {
    "mint": "7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en",
    "ticker": "USD2",
-   "risk": 53,
-   "verdict": "SKIP",
+   "risk": 47,
+   "verdict": "CAUTION",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T10:47:45+00:00",
+   "scored_at": "2026-11-28T11:22:13+00:00",
    "path": "young"
   },
   {
@@ -766,7 +766,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T11:03:46+00:00",
+   "scored_at": "2026-11-28T11:21:56+00:00",
+   "path": "young"
+  },
+  {
+   "mint": "3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW",
+   "ticker": "Mojave",
+   "risk": 47,
+   "verdict": "CAUTION",
+   "structural_ok": false,
+   "gates_failed": [
+    "rug-funder link"
+   ],
+   "scored_at": "2026-11-28T11:22:14+00:00",
    "path": "young"
   }
  ]
