@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 07:25 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 07:37 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,9 +6,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | -2.2% | 0 |
 | CAUTION | 6h | 1 | -1.8% | 0 |
-| SKIP | 1h | 32 | 0.0% | 11 |
-| SKIP | 6h | 22 | -3.1% | 12 |
-| SKIP | 24h | 3 | -61.7% | 2 |
+| SKIP | 1h | 31 | 0.0% | 10 |
+| SKIP | 6h | 21 | -3.1% | 11 |
+| SKIP | 24h | 2 | -61.7% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -50,4 +50,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | 15.0% / liq $237,329 | -76.3% / liq $0 | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | -61.7% / liq $0 | -61.7% / liq $0 |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | -99.8% / liq $3,931 | -99.8% / liq $3,826 |
-| SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | 58.8% / liq $0 |
