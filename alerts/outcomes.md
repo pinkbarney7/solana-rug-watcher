@@ -1,13 +1,13 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 08:00 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 08:11 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | -2.2% | 0 |
-| CAUTION | 6h | 1 | -1.8% | 0 |
+| CAUTION | 6h | 2 | 0.0% | 0 |
 | SKIP | 1h | 33 | 0.0% | 10 |
-| SKIP | 6h | 21 | -3.1% | 11 |
+| SKIP | 6h | 25 | -24.8% | 11 |
 | SKIP | 24h | 3 | -76.3% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
@@ -24,11 +24,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | neet | `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump` | CAUTION | 43 | -0.9% / liq $1,196,761 | - | - |
 | MoonBoy | `APzXPGGfnXQgabrt9tCyXdBFLCgwKRdkminNjFfXmQV` | SKIP | 53 | 13.6% / liq $0 | - | - |
 | MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | 2.9% / liq $73,397 | - | - |
-| FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | - | - |
-| Fireball | `B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump` | SKIP | 52 | 2.4% / liq $52,526 | - | - |
-| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -0.7% / liq $1,966,219 | - | - |
-| NBA | `AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump` | SKIP | 57 | -99.7% / liq $1,655 | - | - |
-| MEMECARD | `8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump` | SKIP | 60 | -94.7% / liq $22,845 | - | - |
+| FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | 0.0% / liq $287,466 | - |
+| Fireball | `B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump` | SKIP | 52 | 2.4% / liq $52,526 | -24.8% / liq $45,209 | - |
+| ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -0.7% / liq $1,966,219 | -2.8% / liq $1,948,774 | - |
+| NBA | `AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump` | SKIP | 57 | -99.7% / liq $1,655 | -99.7% / liq $1,645 | - |
+| MEMECARD | `8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump` | SKIP | 60 | -94.7% / liq $22,845 | -99.9% / liq $2,091 | - |
 | pippin | `Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump` | SKIP | 52 | -0.9% / liq $3,320,613 | -2.7% / liq $3,287,061 | - |
 | GAIB | `2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT` | SKIP | 53 | 19.2% / liq $198,665 | 91.9% / liq $166,196 | - |
 | FSD V15 | `6fnowXxtdKwGqBz1tKUWdZXNehmFDFBthuA7SnMzDaS3` | SKIP | 63 | delisted | delisted | - |
