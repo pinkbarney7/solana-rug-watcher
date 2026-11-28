@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 04:44 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 04:53 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -9,10 +9,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 24h | 2 | -8.0% | 0 |
 | SKIP | 1h | 35 | -0.7% | 13 |
 | SKIP | 6h | 31 | -3.4% | 15 |
-| SKIP | 24h | 7 | -78.3% | 3 |
+| SKIP | 24h | 8 | -61.7% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| neet | `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump` | CAUTION | 43 | - | - | - |
 | MoonBoy | `APzXPGGfnXQgabrt9tCyXdBFLCgwKRdkminNjFfXmQV` | SKIP | 53 | - | - | - |
 | MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | - | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | - | - |
@@ -45,7 +46,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | - |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | - |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | - |
-| CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | - |
+| CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | -61.7% / liq $31,609 |
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | -8.5% / liq $824,287 |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | -82.4% / liq $0 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,379,163 | -100.0% / liq $1,349,986 | -100.0% / liq $1,315,769 |
