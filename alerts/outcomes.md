@@ -1,19 +1,19 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 13:47 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 13:53 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 8 | -0.2% | 2 |
-| CAUTION | 6h | 4 | 0.0% | 0 |
-| SKIP | 1h | 35 | -1.0% | 14 |
-| SKIP | 6h | 20 | -2.1% | 3 |
-| SKIP | 24h | 5 | 0.0% | 1 |
+| CAUTION | 1h | 9 | -0.2% | 3 |
+| CAUTION | 6h | 5 | -2.4% | 0 |
+| SKIP | 1h | 34 | -1.0% | 13 |
+| SKIP | 6h | 19 | -0.5% | 2 |
+| SKIP | 24h | 4 | 48.0% | 0 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | BITCOINU | `54TPNZr3giK5DFkBgUGjn9WR88a9G876mW6XMpB6gfty` | CAUTION | 47 | - | - | - |
-| BASKET | `RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4` | CAUTION | 47 | - | - | - |
+| BASKET | `RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4` | CAUTION | 47 | 7.8% / liq $0 | - | - |
 | NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | 23.9% / liq $220,159 | - | - |
 | GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | 7.9% / liq $0 | - | - |
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | -76.6% / liq $0 | - | - |
@@ -32,7 +32,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | WLFI | `9Shv9yqweJVTBvAPA9Cgk2wvmaSqvSadMHb4SmB98uAK` | SKIP | 53 | -75.5% / liq $0 | - | - |
 | paired | `Bx5Ax1HrQfiJoB1e6CKyMZ6dAbFeGo4qN7rVY1emJBsL` | SKIP | 53 | -100.0% / liq $0 | - | - |
 | NIAN | `43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap` | SKIP | 53 | 20.4% / liq $215,341 | - | - |
-| mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | 2.4% / liq $308,741 | - | - |
+| mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | 2.4% / liq $308,741 | -7.2% / liq $292,152 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,301,638 | -100.0% / liq $1,292,790 | - |
 | Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | -1.9% / liq $69,255 | -18.0% / liq $63,378 | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | -16.4% / liq $47,909 | -32.7% / liq $43,136 | - |
@@ -56,4 +56,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | PUMPCHAN | `Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump` | SKIP | 55 | -2.9% / liq $261,843 | 29.7% / liq $301,107 | 48.0% / liq $321,688 |
 | UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | 13.3% / liq $837,468 | 56.3% / liq $977,818 |
 | UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | 0.0% / liq $11,700,994 | 0.0% / liq $11,701,003 |
-| GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | -77.2% / liq $0 | -77.2% / liq $0 |
