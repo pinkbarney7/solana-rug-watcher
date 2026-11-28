@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 09:25 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 09:39 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -8,10 +8,11 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 6h | 2 | 0.0% | 0 |
 | SKIP | 1h | 31 | 0.0% | 9 |
 | SKIP | 6h | 23 | -3.1% | 10 |
-| SKIP | 24h | 5 | -74.7% | 4 |
+| SKIP | 24h | 6 | -74.7% | 5 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| VINE | `6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump` | SKIP | 47 | - | - | - |
 | GTAVI | `AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a` | SKIP | 53 | - | - | - |
 | Optimus | `9H9yEtVcGt3cG2NWA94W3C28KXM3mZpsz4D7wR7Bzin7` | SKIP | 53 | - | - | - |
 | STEADY | `RRkWU2bsiAYbJeCL6VnWYtHL3u7YWBW553hLUJZMYXU` | SKIP | 53 | - | - | - |
@@ -51,7 +52,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | 16.6% / liq $234,709 | -75.4% / liq $0 | - |
 | CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $440,938 | -100.0% / liq $417,169 | - |
 | Snowball | `BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe` | SKIP | 53 | 18.9% / liq $0 | 18.9% / liq $0 | - |
-| PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
+| PETER | `9p3H9N4sbSTaBe95stavYTH3b4B5gcQUjsJF1BTNCBze` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
 | MOSTO | `3UPbAqDetbPp8dVbBm8qXtV27zvVnedZryterN8rGtAo` | SKIP | 53 | -74.7% / liq $0 | -74.7% / liq $0 | -74.7% / liq $0 |
 | ALCH | `HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump` | SKIP | 51 | 2.0% / liq $2,180,517 | -3.1% / liq $2,083,294 | -3.8% / liq $2,082,723 |
 | future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | -76.5% / liq $0 |
