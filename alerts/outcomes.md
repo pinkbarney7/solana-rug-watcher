@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 07:51 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 08:00 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,14 +6,14 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | -2.2% | 0 |
 | CAUTION | 6h | 1 | -1.8% | 0 |
-| SKIP | 1h | 32 | 0.0% | 10 |
+| SKIP | 1h | 33 | 0.0% | 10 |
 | SKIP | 6h | 21 | -3.1% | 11 |
 | SKIP | 24h | 3 | -76.3% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | - | - | - |
-| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | - | - | - |
+| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,301,638 | - | - |
 | Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | -1.9% / liq $69,255 | - | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | -16.4% / liq $47,909 | - | - |
 | Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -0.2% / liq $218,883 | - | - |
