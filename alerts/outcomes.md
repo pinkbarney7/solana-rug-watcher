@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 14:59 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 15:09 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,7 +7,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 10 | 2.4% | 3 |
 | CAUTION | 6h | 5 | -2.4% | 0 |
 | SKIP | 1h | 29 | -1.3% | 12 |
-| SKIP | 6h | 16 | -2.8% | 3 |
+| SKIP | 6h | 19 | -24.8% | 6 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -26,9 +26,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | GTAVI | `AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a` | SKIP | 53 | -78.3% / liq $0 | - | - |
 | Optimus | `9H9yEtVcGt3cG2NWA94W3C28KXM3mZpsz4D7wR7Bzin7` | SKIP | 53 | -78.7% / liq $0 | - | - |
 | STEADY | `RRkWU2bsiAYbJeCL6VnWYtHL3u7YWBW553hLUJZMYXU` | SKIP | 53 | 0.7% / liq $0 | - | - |
-| STEADY | `Fywat1sPFqt1EZr1Ki8aUsvJggMPUknGaTyBxPZE8LS` | SKIP | 53 | -100.0% / liq $0 | - | - |
-| USFF | `2X879XRBj6J4KvnR2qLhSGnVf2rXj9UGmrexj2wR36d6` | SKIP | 53 | -75.9% / liq $0 | - | - |
-| WLFI | `9Shv9yqweJVTBvAPA9Cgk2wvmaSqvSadMHb4SmB98uAK` | SKIP | 53 | -75.5% / liq $0 | - | - |
+| STEADY | `Fywat1sPFqt1EZr1Ki8aUsvJggMPUknGaTyBxPZE8LS` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
+| USFF | `2X879XRBj6J4KvnR2qLhSGnVf2rXj9UGmrexj2wR36d6` | SKIP | 53 | -75.9% / liq $0 | -75.9% / liq $0 | - |
+| WLFI | `9Shv9yqweJVTBvAPA9Cgk2wvmaSqvSadMHb4SmB98uAK` | SKIP | 53 | -75.5% / liq $0 | -75.5% / liq $0 | - |
 | paired | `Bx5Ax1HrQfiJoB1e6CKyMZ6dAbFeGo4qN7rVY1emJBsL` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | - |
 | NIAN | `43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap` | SKIP | 53 | 20.4% / liq $215,341 | -73.9% / liq $0 | - |
 | mihao | `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump` | CAUTION | 38 | 2.4% / liq $308,741 | -7.2% / liq $292,152 | - |
