@@ -1,10 +1,10 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 05:51 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 05:56 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 3 | -2.2% | 0 |
+| CAUTION | 1h | 4 | -0.9% | 0 |
 | CAUTION | 6h | 2 | -0.6% | 0 |
 | CAUTION | 24h | 1 | -7.1% | 0 |
 | SKIP | 1h | 33 | 0.0% | 12 |
@@ -18,7 +18,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Pnut  | `2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump` | SKIP | 56 | - | - | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | - | - | - |
 | USOI | `HQs4Zd8w1jGR72o43iP58U43QtDdTTUE3Dq9Dv4dpump` | SKIP | 67 | - | - | - |
-| neet | `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump` | CAUTION | 43 | - | - | - |
+| neet | `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump` | CAUTION | 43 | -0.9% / liq $1,196,761 | - | - |
 | MoonBoy | `APzXPGGfnXQgabrt9tCyXdBFLCgwKRdkminNjFfXmQV` | SKIP | 53 | 13.6% / liq $0 | - | - |
 | MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | 2.9% / liq $73,397 | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | - | - |
