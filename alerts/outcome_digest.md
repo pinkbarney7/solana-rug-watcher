@@ -1,5 +1,5 @@
 # Outcome digest (info/risk only, not advice)
-Updated 2026-11-28 10:41 UTC. Coins tracked: 48.
+Updated 2026-11-28 10:48 UTC. Coins tracked: 48.
 
 | verdict | horizon | n | dead (<$5k liq) | up vs first score |
 |---|---|---|---|---|
