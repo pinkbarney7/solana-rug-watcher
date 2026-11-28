@@ -1,14 +1,14 @@
 {
 "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump": {
-"ts": 1795860385.071034,
-"liq": 11202325.530000001,
+"ts": 1795861202.9431074,
+"liq": 11201898.48,
 "holders": null,
 "risk": 71,
 "verdict": "SKIP"
 },
 "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump": {
-"ts": 1795859859.9067724,
-"liq": 1494832.63,
+"ts": 1795861202.9430919,
+"liq": 1499580.6099999999,
 "holders": null,
 "risk": 47,
 "verdict": "SKIP"
@@ -91,8 +91,8 @@
 "verdict": "SKIP"
 },
 "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": {
-"ts": 1795860385.0710382,
-"liq": 322716.16,
+"ts": 1795861202.9431002,
+"liq": 318275.62,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -168,8 +168,8 @@
 "verdict": "SKIP"
 },
 "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg": {
-"ts": 1795860385.0710294,
-"liq": 223049.16,
+"ts": 1795861202.9431052,
+"liq": 222816.75999999998,
 "holders": null,
 "risk": 39,
 "verdict": "CAUTION"
@@ -322,8 +322,8 @@
 "verdict": "SKIP"
 },
 "FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump": {
-"ts": 1795860385.0710318,
-"liq": 963239.33,
+"ts": 1795861202.9431021,
+"liq": 964556.39,
 "holders": null,
 "risk": 67,
 "verdict": "SKIP"
@@ -357,15 +357,15 @@
 "verdict": "SKIP"
 },
 "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump": {
-"ts": 1795859859.9067616,
-"liq": 50627.27,
+"ts": 1795861202.943087,
+"liq": 52292.67,
 "holders": null,
 "risk": 52,
 "verdict": "SKIP"
 },
 "GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump": {
-"ts": 1795860385.0710275,
-"liq": 101788.95,
+"ts": 1795861202.9431038,
+"liq": 105511.23,
 "holders": null,
 "risk": 55,
 "verdict": "SKIP"
@@ -420,8 +420,8 @@
 "verdict": "CAUTION"
 },
 "43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap": {
-"ts": 1795860385.0710187,
-"liq": 220792.11,
+"ts": 1795861202.9430978,
+"liq": 225555.57,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
@@ -483,8 +483,8 @@
 "verdict": "SKIP"
 },
 "9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg": {
-"ts": 1795859430.5333648,
-"liq": 150496.41,
+"ts": 1795861202.9430952,
+"liq": 164746.52,
 "holders": null,
 "risk": 53,
 "verdict": "SKIP"
