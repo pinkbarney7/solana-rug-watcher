@@ -1,21 +1,20 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 13:17 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 13:26 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 8 | -0.9% | 2 |
-| CAUTION | 6h | 5 | -1.8% | 0 |
-| CAUTION | 24h | 1 | -7.9% | 0 |
-| SKIP | 1h | 36 | -1.3% | 15 |
-| SKIP | 6h | 21 | -2.1% | 4 |
-| SKIP | 24h | 6 | 0.0% | 2 |
+| CAUTION | 1h | 8 | -0.2% | 2 |
+| CAUTION | 6h | 4 | 0.0% | 0 |
+| SKIP | 1h | 35 | -1.0% | 14 |
+| SKIP | 6h | 20 | -2.1% | 3 |
+| SKIP | 24h | 5 | 0.0% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
 | BITCOINU | `54TPNZr3giK5DFkBgUGjn9WR88a9G876mW6XMpB6gfty` | CAUTION | 47 | - | - | - |
 | BASKET | `RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4` | CAUTION | 47 | - | - | - |
-| NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | - | - | - |
+| NINE | `GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB` | CAUTION | 47 | 23.9% / liq $220,159 | - | - |
 | GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | 7.9% / liq $0 | - | - |
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | -76.6% / liq $0 | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | -12.8% / liq $72,253 | - | - |
@@ -58,5 +57,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | UGOS | `FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump` | SKIP | 75 | 2.6% / liq $803,438 | 13.3% / liq $837,468 | 56.3% / liq $977,818 |
 | UATF | `A2pRKGwsyLi47pLZEaJah17cN2CHezPrEYfwDpP1tL5R` | SKIP | 56 | 0.0% / liq $11,700,992 | 0.0% / liq $11,700,994 | 0.0% / liq $11,701,003 |
 | GAIB | `BSDB4NSJg93X47N3pAVvf9CdUtvUJ4Ei7Ca3T5H6p6cy` | SKIP | 52 | -77.2% / liq $0 | -77.2% / liq $0 | -77.2% / liq $0 |
-| baton | `Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump` | CAUTION | 38 | -6.2% / liq $324,179 | -1.8% / liq $326,147 | -7.9% / liq $313,163 |
-| Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
