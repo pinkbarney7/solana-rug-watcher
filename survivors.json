@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:52:00",
+ "updated": "2026-11-28T13:02:40",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -23,7 +23,7 @@
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:50:53+00:00",
+   "scored_at": "2026-11-28T13:01:55+00:00",
    "path": "survivor"
   },
   {
@@ -66,13 +66,13 @@
   {
    "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump",
    "ticker": "PUMPCHAN",
-   "risk": 59,
+   "risk": 55,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:51:00+00:00",
+   "scored_at": "2026-11-28T13:01:47+00:00",
    "path": "young"
   },
   {
@@ -97,7 +97,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:51:59+00:00",
+   "scored_at": "2026-11-28T13:01:47+00:00",
    "path": "survivor"
   },
   {
@@ -145,7 +145,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:36:41+00:00",
+   "scored_at": "2026-11-28T13:02:40+00:00",
    "path": "survivor"
   },
   {
@@ -466,7 +466,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:35:37+00:00",
+   "scored_at": "2026-11-28T13:01:46+00:00",
    "path": "young"
   },
   {
@@ -502,7 +502,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:50:43+00:00",
+   "scored_at": "2026-11-28T13:01:37+00:00",
    "path": "young"
   },
   {
@@ -766,7 +766,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:50:52+00:00",
+   "scored_at": "2026-11-28T13:01:46+00:00",
    "path": "young"
   },
   {
@@ -796,25 +796,25 @@
   {
    "mint": "GKHx5vA1PKRWuXvPdD5UVqPdhGgaQHzYNaiHg7WPrcsB",
    "ticker": "NINE",
-   "risk": 47,
-   "verdict": "CAUTION",
+   "risk": 53,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:50:51+00:00",
+   "scored_at": "2026-11-28T13:01:47+00:00",
    "path": "young"
   },
   {
    "mint": "RTmAZjczYvBBjaysjSn4bdQvQAqZxxNCEvyZKQZuZh4",
    "ticker": "BASKET",
-   "risk": 47,
-   "verdict": "CAUTION",
+   "risk": 53,
+   "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T12:50:52+00:00",
+   "scored_at": "2026-11-28T13:01:19+00:00",
    "path": "young"
   }
  ]
