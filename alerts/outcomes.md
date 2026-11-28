@@ -1,15 +1,15 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 05:23 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 05:37 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 5 | -2.2% | 0 |
-| CAUTION | 6h | 4 | -0.6% | 0 |
-| CAUTION | 24h | 3 | -8.0% | 0 |
-| SKIP | 1h | 35 | -0.7% | 13 |
-| SKIP | 6h | 31 | -3.4% | 15 |
-| SKIP | 24h | 9 | -61.7% | 3 |
+| CAUTION | 1h | 3 | -2.2% | 0 |
+| CAUTION | 6h | 2 | -0.6% | 0 |
+| CAUTION | 24h | 1 | -7.1% | 0 |
+| SKIP | 1h | 32 | 0.0% | 11 |
+| SKIP | 6h | 27 | -3.4% | 13 |
+| SKIP | 24h | 6 | -8.5% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | USOI | `HQs4Zd8w1jGR72o43iP58U43QtDdTTUE3Dq9Dv4dpump` | SKIP | 67 | - | - | - |
 | neet | `Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump` | CAUTION | 43 | - | - | - |
 | MoonBoy | `APzXPGGfnXQgabrt9tCyXdBFLCgwKRdkminNjFfXmQV` | SKIP | 53 | - | - | - |
-| MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | - | - | - |
+| MoonBoy | `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump` | SKIP | 55 | 2.9% / liq $73,397 | - | - |
 | FLOAT | `Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr` | CAUTION | 38 | -2.2% / liq $285,181 | - | - |
 | Fireball | `B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump` | SKIP | 52 | 2.4% / liq $52,526 | - | - |
 | ZEC | `A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS` | SKIP | 73 | -0.7% / liq $1,966,219 | - | - |
@@ -46,16 +46,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | 15.0% / liq $237,329 | -76.3% / liq $0 | - |
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | -61.7% / liq $0 | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | -99.8% / liq $3,931 | - |
-| SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | - |
+| SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | 58.8% / liq $0 |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | 1.4% / liq $1,890,983 |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | -7.1% / liq $282,739 |
 | CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | -61.7% / liq $31,609 |
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | -8.5% / liq $824,287 |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | -82.4% / liq $0 |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,379,163 | -100.0% / liq $1,349,986 | -100.0% / liq $1,315,769 |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.3% / liq $2,369,504 | 0.0% / liq $2,381,286 | -1.0% / liq $2,629,390 |
-| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -3.3% / liq $229,113 | -9.8% / liq $222,479 | -8.0% / liq $221,913 |
-| TOGI | `6aHvrZ99fXBDRiVNYsuVERXzCeeMdzF9fjvefx1UjR83` | SKIP | 53 | -78.6% / liq $0 | -78.6% / liq $0 | -78.6% / liq $0 |
-| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | 6.0% / liq $92,904 | 8.4% / liq $94,498 | -25.8% / liq $77,138 |
-| SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | -78.3% / liq $0 | -78.3% / liq $0 | -78.3% / liq $0 |
-| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | 21.6% / liq $73,975 | -51.0% / liq $47,170 |
