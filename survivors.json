@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:24:49",
+ "updated": "2026-11-28T00:33:01",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -48,18 +48,6 @@
     "rug-funder link"
    ],
    "scored_at": "2026-11-27T12:07:56+00:00",
-   "path": "survivor"
-  },
-  {
-   "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
-   "ticker": "MOODENG",
-   "risk": 56,
-   "verdict": "SKIP",
-   "structural_ok": false,
-   "gates_failed": [
-    "rug-funder link"
-   ],
-   "scored_at": "2026-11-26T12:25:05+00:00",
    "path": "survivor"
   },
   {
