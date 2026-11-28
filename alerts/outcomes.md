@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 03:35 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 03:43 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,8 +6,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | -2.2% | 0 |
 | CAUTION | 6h | 4 | -0.6% | 0 |
+| CAUTION | 24h | 2 | -8.0% | 0 |
 | SKIP | 1h | 35 | -0.7% | 13 |
 | SKIP | 6h | 31 | -3.4% | 15 |
+| SKIP | 24h | 4 | -51.0% | 2 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -45,9 +47,9 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | - |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | - |
 | CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | -100.0% / liq $1,379,163 | -100.0% / liq $1,349,986 | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.3% / liq $2,369,504 | 0.0% / liq $2,381,286 | - |
-| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -3.3% / liq $229,113 | -9.8% / liq $222,479 | - |
-| TOGI | `6aHvrZ99fXBDRiVNYsuVERXzCeeMdzF9fjvefx1UjR83` | SKIP | 53 | -78.6% / liq $0 | -78.6% / liq $0 | - |
-| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | 6.0% / liq $92,904 | 8.4% / liq $94,498 | - |
-| SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | -78.3% / liq $0 | -78.3% / liq $0 | - |
-| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | 21.6% / liq $73,975 | - |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.3% / liq $2,369,504 | 0.0% / liq $2,381,286 | -1.0% / liq $2,629,390 |
+| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -3.3% / liq $229,113 | -9.8% / liq $222,479 | -8.0% / liq $221,913 |
+| TOGI | `6aHvrZ99fXBDRiVNYsuVERXzCeeMdzF9fjvefx1UjR83` | SKIP | 53 | -78.6% / liq $0 | -78.6% / liq $0 | -78.6% / liq $0 |
+| BASKET | `3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f` | CAUTION | 38 | 6.0% / liq $92,904 | 8.4% / liq $94,498 | -25.8% / liq $77,138 |
+| SuperFIONA | `UgVBFEstTHmbxKcFMDKZnsuh5oTmuQ1AgRSvKD4RoPC` | SKIP | 53 | -78.3% / liq $0 | -78.3% / liq $0 | -78.3% / liq $0 |
+| Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | SKIP | 52 | -7.8% / liq $63,265 | 21.6% / liq $73,975 | -51.0% / liq $47,170 |
