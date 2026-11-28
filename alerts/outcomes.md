@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 05:09 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 05:11 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,10 +6,10 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 5 | -2.2% | 0 |
 | CAUTION | 6h | 4 | -0.6% | 0 |
-| CAUTION | 24h | 2 | -8.0% | 0 |
+| CAUTION | 24h | 3 | -8.0% | 0 |
 | SKIP | 1h | 35 | -0.7% | 13 |
 | SKIP | 6h | 31 | -3.4% | 15 |
-| SKIP | 24h | 8 | -61.7% | 3 |
+| SKIP | 24h | 9 | -61.7% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
@@ -47,8 +47,8 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | -61.7% / liq $0 | - |
 | KAI | `G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump` | SKIP | 66 | 5.0% / liq $128,093 | -99.8% / liq $3,931 | - |
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | - |
-| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | - |
-| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | - |
+| TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | 1.4% / liq $1,890,983 |
+| CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | -7.1% / liq $282,739 |
 | CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | -61.7% / liq $31,609 |
 | MPLX | `METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m` | SKIP | 71 | 1.1% / liq $2,154,513 | -3.4% / liq $2,143,160 | -8.5% / liq $824,287 |
 | Thanksgivi | `4szpC6VF7muZ5rjgxxAjV6r3hQb4BgHPAcJbykjsUGfp` | SKIP | 56 | -82.4% / liq $0 | -82.4% / liq $0 | -82.4% / liq $0 |
