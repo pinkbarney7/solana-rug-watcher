@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 11:56 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 12:07 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -7,12 +7,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 4 | 0.0% | 0 |
 | CAUTION | 24h | 1 | -7.9% | 0 |
-| SKIP | 1h | 40 | -1.0% | 16 |
-| SKIP | 6h | 23 | -0.5% | 6 |
-| SKIP | 24h | 6 | -75.4% | 4 |
+| SKIP | 1h | 38 | -1.0% | 15 |
+| SKIP | 6h | 21 | -0.5% | 5 |
+| SKIP | 24h | 4 | -75.4% | 3 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| GOAT | `Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6` | CAUTION | 47 | - | - | - |
 | Mojave | `3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW` | CAUTION | 47 | - | - | - |
 | BITCOINU | `ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump` | SKIP | 59 | -12.8% / liq $72,253 | - | - |
 | USD2 | `7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en` | SKIP | 53 | -76.6% / liq $0 | - | - |
@@ -58,5 +59,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | Suki | `A2mkRc2RBbXgF63av2kNjiA3JtqybM5UnzQyRsNRaRVg` | SKIP | 53 | -100.0% / liq $0 | -100.0% / liq $0 | -100.0% / liq $0 |
 | TTWO | `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo` | SKIP | 72 | 0.1% / liq $172,161 | 1.2% / liq $169,850 | 2.5% / liq $167,905 |
 | SuperFIONA | `4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG` | SKIP | 53 | 16.6% / liq $234,709 | -75.4% / liq $0 | -75.4% / liq $0 |
-| CLAUDIA | `2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM` | SKIP | 67 | -100.0% / liq $440,938 | -100.0% / liq $417,169 | -100.0% / liq $392,749 |
-| Snowball | `BPpM8BtKZa5s4iN4M7hWZxrnYqB77jnUvB8vY7UdLxe` | SKIP | 53 | 18.9% / liq $0 | 18.9% / liq $0 | 18.9% / liq $0 |

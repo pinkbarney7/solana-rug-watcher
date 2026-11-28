@@ -1,18 +1,19 @@
 # Paper book - SIMULATION ONLY, not advice, no real trades
-Updated 2026-11-28 11:56 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
+Updated 2026-11-28 12:07 UTC. Rules: $25 simulated entry at the DEX Screener price when a non-SKIP alert passes the Jupiter $25 sell-back gate; exit at +100%, -50%, or 24h, checked every run (~10 min), so real fills would differ (slippage, fees, gaps past the stop). Dead pool = -100%.
 
-Closed: 64 | Open: 2 | Not opened (failed sell gate): 0
+Closed: 64 | Open: 3 | Not opened (failed sell gate): 0
 Win rate 20% | avg return -26.3% | expectancy $-6.58 per $25 trade | total $-420.81
 
 | ticker | CA | type | verdict | opened | status | return |
 |---|---|---|---|---|---|---|
+| GOAT | [`Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6`](https://dexscreener.com/solana/Ja83qGTqk9eDcrW3X86r217J6eF3X5DYQ9eoPGDqDS6) | scored_fast_scan | CAUTION | 2026-11-28 12:07 UTC | open | +0.0% |
 | USD2 | [`7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en`](https://dexscreener.com/solana/7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en) | scored_fast_scan | CAUTION | 2026-11-28 11:23 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
 | Mojave | [`3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW`](https://dexscreener.com/solana/3kzBSsT32SyWx8QyGihmbena8v1w2mW7cCWtwHnwx2WW) | scored_fast_scan | CAUTION | 2026-11-28 11:23 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
 | Optimus | [`3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6`](https://dexscreener.com/solana/3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6) | scored_fast_scan | CAUTION | 2026-11-28 10:56 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
 | NIAN | [`43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap`](https://dexscreener.com/solana/43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap) | scored_fast_scan | CAUTION | 2026-11-28 10:56 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
 | DOG | [`9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg`](https://dexscreener.com/solana/9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg) | scored_fast_scan | CAUTION | 2026-11-28 10:56 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
-| mihao | [`4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump`](https://pump.fun/coin/4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump) | scored_fast_scan | CAUTION | 2026-11-28 07:51 UTC | open | -1.6% |
-| neet | [`Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump`](https://pump.fun/coin/Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump) | scored_fast_scan | CAUTION | 2026-11-28 04:54 UTC | open | -1.0% |
+| mihao | [`4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump`](https://pump.fun/coin/4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump) | scored_fast_scan | CAUTION | 2026-11-28 07:51 UTC | open | -2.2% |
+| neet | [`Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump`](https://pump.fun/coin/Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump) | scored_fast_scan | CAUTION | 2026-11-28 04:54 UTC | open | -0.9% |
 | GAIB | [`2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT`](https://dexscreener.com/solana/2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT) | scored_fast_scan | CAUTION | 2026-11-28 02:02 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
 | SuperFIONA | [`4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG`](https://dexscreener.com/solana/4AnNhsdRfTEkXN2NDpxwayhqu68pj7hFRuhCAotppXgG) | scored_fast_scan | CAUTION | 2026-11-27 11:24 UTC | closed (pool dead/delisted (-100%)) | -100.0% |
 | baton | [`Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump`](https://pump.fun/coin/Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump) | scored_fast_scan | CAUTION | 2026-11-27 11:24 UTC | closed (24h time exit) | -7.9% |
@@ -55,4 +56,3 @@ Win rate 20% | avg return -26.3% | expectancy $-6.58 per $25 trade | total $-420
 | UODF | [`AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc`](https://dexscreener.com/solana/AKdZCwgBAVnwJFwLz9u8mGPdsYAf3rxZDvTVirTjKTWc) | scored_fast_scan | CAUTION | 2026-11-16 04:29 UTC | closed (24h time exit) | +0.0% |
 | BUTTHOLE | [`4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump`](https://pump.fun/coin/4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump) | scored_fast_scan | CAUTION | 2026-11-15 19:02 UTC | closed (24h time exit) | +56.8% |
 | GETAJOB | [`ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump`](https://pump.fun/coin/ZGW9B644VgfmmKtBTv1xjWGarkjEhFrcUrQEaqepump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | closed (stop -50%) | -52.7% |
-| fone | [`CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump`](https://pump.fun/coin/CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump) | scored_fast_scan | CAUTION | 2026-11-15 12:26 UTC | closed (24h time exit) | -22.4% |
