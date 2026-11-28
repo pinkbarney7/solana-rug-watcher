@@ -1,4 +1,4 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 09:18 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 09:25 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
@@ -6,12 +6,13 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 |---|---|---|---|---|
 | CAUTION | 1h | 6 | -0.9% | 0 |
 | CAUTION | 6h | 2 | 0.0% | 0 |
-| SKIP | 1h | 32 | -0.7% | 10 |
-| SKIP | 6h | 24 | -24.8% | 11 |
-| SKIP | 24h | 6 | -61.7% | 5 |
+| SKIP | 1h | 31 | 0.0% | 9 |
+| SKIP | 6h | 23 | -3.1% | 10 |
+| SKIP | 24h | 5 | -74.7% | 4 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| GTAVI | `AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a` | SKIP | 53 | - | - | - |
 | Optimus | `9H9yEtVcGt3cG2NWA94W3C28KXM3mZpsz4D7wR7Bzin7` | SKIP | 53 | - | - | - |
 | STEADY | `RRkWU2bsiAYbJeCL6VnWYtHL3u7YWBW553hLUJZMYXU` | SKIP | 53 | - | - | - |
 | STEADY | `Fywat1sPFqt1EZr1Ki8aUsvJggMPUknGaTyBxPZE8LS` | SKIP | 53 | - | - | - |
@@ -56,4 +57,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | future | `6DARe6XUHsxgmF49Fxb3hE4NnnTqfHYHc8ryHUyE5Aym` | SKIP | 53 | -76.5% / liq $0 | -76.5% / liq $0 | -76.5% / liq $0 |
 | Kibo | `Me3c36ueyXkeTSdDDHLMydKfB7H7bDbo4Qdz2FoVi2z` | SKIP | 53 | 4.5% / liq $0 | 4.5% / liq $0 | 4.5% / liq $0 |
 | SuperFIONA | `8kXyaKo95LDMq2ZyNqdKzwnoRXVYWYoioNrZuBgNuwX7` | SKIP | 53 | 15.0% / liq $237,329 | -76.3% / liq $0 | -76.3% / liq $0 |
-| 哈基米 | `3HvxhYfVSKMTNPP5LkoZsj9JwPAnjrNxbpzuuoTqbz41` | SKIP | 53 | -99.1% / liq $0 | -61.7% / liq $0 | -61.7% / liq $0 |
