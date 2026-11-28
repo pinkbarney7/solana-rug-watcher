@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:50:56",
+ "updated": "2026-11-28T06:59:15",
  "coins": [
   {
    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
@@ -16,14 +16,14 @@
   {
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "ticker": "SPCX",
-   "risk": 66,
+   "risk": 72,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "authorities",
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:47+00:00",
+   "scored_at": "2026-11-28T06:59:12+00:00",
    "path": "survivor"
   },
   {
@@ -72,7 +72,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:48+00:00",
+   "scored_at": "2026-11-28T06:59:11+00:00",
    "path": "young"
   },
   {
@@ -97,7 +97,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:47+00:00",
+   "scored_at": "2026-11-28T06:59:12+00:00",
    "path": "survivor"
   },
   {
@@ -133,19 +133,19 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:38+00:00",
+   "scored_at": "2026-11-28T06:59:13+00:00",
    "path": "young"
   },
   {
    "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
    "ticker": "CATE",
-   "risk": 71,
+   "risk": 64,
    "verdict": "SKIP",
    "structural_ok": false,
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:20:29+00:00",
+   "scored_at": "2026-11-28T06:59:12+00:00",
    "path": "survivor"
   },
   {
@@ -430,7 +430,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:47+00:00",
+   "scored_at": "2026-11-28T06:59:10+00:00",
    "path": "young"
   },
   {
@@ -502,7 +502,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:47+00:00",
+   "scored_at": "2026-11-28T06:59:11+00:00",
    "path": "young"
   },
   {
@@ -574,7 +574,7 @@
    "gates_failed": [
     "rug-funder link"
    ],
-   "scored_at": "2026-11-28T06:50:48+00:00",
+   "scored_at": "2026-11-28T06:59:02+00:00",
    "path": "young"
   }
  ]

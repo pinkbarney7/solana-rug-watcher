@@ -1,22 +1,23 @@
-# Outcomes (DEX Screener, free) - 2026-11-28 06:50 UTC
+# Outcomes (DEX Screener, free) - 2026-11-28 06:59 UTC
 
 Price/liquidity change after first score. Info only; a low risk score means fewer red flags, not safe.
 
 | verdict | horizon | n | median price chg | dead (liq<$1k or delisted) |
 |---|---|---|---|---|
-| CAUTION | 1h | 4 | -0.9% | 0 |
+| CAUTION | 1h | 5 | -0.9% | 0 |
 | CAUTION | 6h | 2 | -0.6% | 0 |
 | CAUTION | 24h | 1 | -7.1% | 0 |
-| SKIP | 1h | 33 | 0.0% | 11 |
-| SKIP | 6h | 24 | -3.1% | 12 |
-| SKIP | 24h | 3 | 1.4% | 1 |
+| SKIP | 1h | 33 | -0.0% | 11 |
+| SKIP | 6h | 23 | -2.7% | 12 |
+| SKIP | 24h | 2 | 58.8% | 1 |
 
 | ticker | CA | verdict | risk | 1h | 6h | 24h |
 |---|---|---|---|---|---|---|
+| CATE | `Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump` | SKIP | 64 | - | - | - |
 | Memeball | `9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump` | SKIP | 58 | - | - | - |
 | Snowball | `9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump` | CAUTION | 41 | - | - | - |
-| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | - | - | - |
-| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | - | - | - |
+| Rizzmas | `85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg` | CAUTION | 39 | -0.2% / liq $218,883 | - | - |
+| SPCX | `SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb` | SKIP | 72 | -0.0% / liq $2,597,092 | - | - |
 | Pnut  | `2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump` | SKIP | 56 | -1.3% / liq $2,019,974 | - | - |
 | ACT | `GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump` | SKIP | 52 | -0.7% / liq $1,175,519 | - | - |
 | USOI | `HQs4Zd8w1jGR72o43iP58U43QtDdTTUE3Dq9Dv4dpump` | SKIP | 67 | 0.5% / liq $776,842 | - | - |
@@ -53,4 +54,3 @@ Price/liquidity change after first score. Info only; a low risk score means fewe
 | SuperFIONA | `DksT6u5GDTtZJ1Pq2mDQMmTkqNNPYdLAWKnWd3Dy4Jqh` | SKIP | 53 | 1341581.6% / liq $0 | 58.8% / liq $0 | 58.8% / liq $0 |
 | TROLL | `5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2` | SKIP | 54 | 0.4% / liq $1,901,296 | -1.6% / liq $1,884,603 | 1.4% / liq $1,890,983 |
 | CYBERLEEK | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` | CAUTION | 39 | 0.5% / liq $297,584 | -0.6% / liq $296,598 | -7.1% / liq $282,739 |
-| CINU | `CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump` | SKIP | 55 | -22.4% / liq $46,839 | -78.7% / liq $23,049 | -61.7% / liq $31,609 |
